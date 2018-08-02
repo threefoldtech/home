@@ -22,9 +22,9 @@
 JumpScale is a cloud automation platform
 
 ## Main Repositories:
-  - [core9](https://github.com/threefoldtech/jumpscale_core)
-  - [lib9](https://github.com/threefoldtech/jumpscale_lib)
-  - [prefab9](https://github.com/threefoldtech/jumpscale_prefab)
+  - [core](https://github.com/threefoldtech/jumpscale_core)
+  - [lib](https://github.com/threefoldtech/jumpscale_lib)
+  - [prefab](https://github.com/threefoldtech/jumpscale_prefab)
 
 
 # About Zero-os
