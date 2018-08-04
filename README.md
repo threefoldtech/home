@@ -6,7 +6,7 @@
 
 - 9.5.0 first week aug = first usable release of jumpscale redone for ThreeFold grid
 - 9.5.1 maintenance releases
-- - [previous releases](/jumpscale/release-notes)
+- [previous releases](/jumpscale/release-notes)
 
 ## Zero-OS and other repo's
 
@@ -22,9 +22,9 @@
 JumpScale is a cloud automation platform
 
 ## Main Repositories:
-  - [core9](https://github.com/threefoldtech/jumpscale_core)
-  - [lib9](https://github.com/threefoldtech/jumpscale_lib)
-  - [prefab9](https://github.com/threefoldtech/jumpscale_prefab)
+  - [core](https://github.com/threefoldtech/jumpscale_core)
+  - [lib](https://github.com/threefoldtech/jumpscale_lib)
+  - [prefab](https://github.com/threefoldtech/jumpscale_prefab)
 
 
 # About Zero-os
