@@ -4,7 +4,7 @@
 
 
 - [active kanban for jumpscale](https://waffle.io/threefoldtech/home?milestone=none,9.5.0)
-- [active kanban for 0-\*](https://waffle.io/threefoldtech/0-core?milestone=1.5.0)
+- [active kanban for 0-\*](https://waffle.io/threefoldtech/0-core?milestone=1.4.2)
 - [issues with no milestone, need to be sorted](https://waffle.io/threefoldtech/home?milestone=none)
 
 
