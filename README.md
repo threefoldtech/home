@@ -1,18 +1,20 @@
-# Github Home For ThreeFold Tech Repositories
+# Github Home For ThreeFold Tech
+
+## Kanbans
+
+
+- [active kanban for jumpscale](https://waffle.io/threefoldtech/home?milestone=none,9.5.0)
+- [active kanban for 0-\*](https://waffle.io/threefoldtech/0-core?milestone=1.5.0)
+- [issues with no milestone, need to be sorted](https://waffle.io/threefoldtech/home?milestone=none)
 
 
 ## Jumpscale Releases
-
-- [active kanban for jumpscale](https://waffle.io/threefoldtech/home?milestone=none,9.5.0)
-- [issues with no milestone, need to be sorted](https://waffle.io/threefoldtech/home?milestone=none)
-
-----
 
 - 9.5.0 first week aug = first usable release of jumpscale redone for ThreeFold grid
 - 9.5.1 maintenance releases
 
 
-## Zero-OS and other repo's
+## Zero-OS and other repo's Releases
 
 - 1.4.2 first week aug
 - 1.4.3 2nd week aug
