@@ -23,9 +23,9 @@ The second step will actually result in the creation the flist.
 
 Creating the tar archive can be achieved by manually assembling the needed files and folders or via preparing the application locally into a Docker container, and sequentially exporting that Docker container into a tar archive via the [``` docker export```](https://docs.docker.com/engine/reference/commandline/export/) command. In what follows we show how to do it manually.
 
-In order to assemble the required files, we first need to compile the Go code, which can achieved easily using JumpScale. We recommend using a JS9 Docker container for this, for the installation instructions see: https://github.com/Jumpscale/developer.
+In order to assemble the required files, we first need to compile the Go code, which can achieved easily using Jumpscale. We recommend using a JS9 Docker container for this, for the installation instructions see: https://github.com/Jumpscale/developer.
 
-From within your JS9 Docker container start the interactive JumpScale shell:
+From within your JS9 Docker container start the interactive Jumpscale shell:
 ```bash
 js9
 ```
@@ -35,7 +35,7 @@ Install Go:
 j.tools.prefab.local.development.golang.install()
 ```
 
-Then build the Echo Server, again using the JumpScale:
+Then build the Echo Server, again using the Jumpscale:
 ```python
 j.tools.prefab.local.development.golang.get('github.com/luisbebop/echo-server')
 ```
@@ -79,7 +79,7 @@ Below we discuss the second option.
 
 Next will use the Zero-OS Orchestrator RESTfull API to bring up a container using our brand new flist.
 
-In order to use this RESTful API you need to add a Zero-OS Orchestrator to your JumpScale Docker container and have all your Zero-OS nodes booted, as documented in [Setup](https://github.com/zero-os/0-orchestrator/blob/master/docs/setup/setup.md).
+In order to use this RESTful API you need to add a Zero-OS Orchestrator to your Jumpscale Docker container and have all your Zero-OS nodes booted, as documented in [Setup](https://github.com/zero-os/0-orchestrator/blob/master/docs/setup/setup.md).
 
 Let's take a look at the Orchestrator Restful API to learn how we can start a container on a Zero-OS node:
 https://rawgit.com/zero-os/0-orchestrator/1.1.0-alpha/raml/api.html#nodes__nodeid__containers_post

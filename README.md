@@ -24,8 +24,8 @@
 
 
 
-# About JumpScale
-JumpScale is a cloud automation platform
+# About Jumpscale
+Jumpscale is a cloud automation platform
 
 ## Main Repositories:
   - [core](https://github.com/threefoldtech/jumpscale_core)

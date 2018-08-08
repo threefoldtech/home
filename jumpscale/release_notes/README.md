@@ -18,7 +18,7 @@
 
  * June 6, 2017: **[9.0.0](release_notes/9.0.0.md)** (released)
    - Release includes:
-     - Restructuring JumpScale in a more modular architecture.
+     - Restructuring Jumpscale in a more modular architecture.
      - Introduces no new features.
   
  * June 22, 2017: **[9.0.3](release_notes/9.0.3.md)** (released)
