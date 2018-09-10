@@ -10,19 +10,17 @@
 
 ## Jumpscale Releases
 
-- 9.5.0 first week aug = first usable release of jumpscale redone for ThreeFold grid
-- 9.5.1 maintenance releases
-
+- 9.5.0 sept -> needs to become master asap
+- 9.5.1 later sept -> for grid launch TF, will remain development
+- 9.5.2 maintenance releases (oct prob)
+- 9.6.0 
 
 ## Zero-OS and other repo's Releases
 
-- 1.4.2 first week aug
-- 1.4.3 2nd week aug
-- 1.4.4 3e week aug
-- 1.5.0 first production release of Zero-OS and related repo's
+- 1.5.0 first production release of Zero-OS and related repo's = CH project, Sept
+- 1.5.1 maintenance release end sept or oct
+- 1.6.0 Q4 2018
 - [previous releases](zero-os/release-notes)
-
-
 
 # About Jumpscale
 Jumpscale is a cloud automation platform
