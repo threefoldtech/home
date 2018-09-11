@@ -10,15 +10,16 @@
 
 ## Jumpscale Releases
 
-- 9.5.0 sept -> needs to become master asap
-- 9.5.1 later sept -> for grid launch TF, will remain development
+- 9.5.0 sept development & master branch
+- 9.5.1 later sept: development_simple branch only (lots of refactoring happened)
 - 9.5.2 maintenance releases (oct prob)
 - 9.6.0 
 
 ## Zero-OS and other repo's Releases
 
-- 1.5.0 first production release of Zero-OS and related repo's = CH project, Sept (master branch)
-- 1.5.1 maintenance release end sept or oct -> will be on development branch soon
+- 1.5.0 first production release of Zero-OS and related repo's = CH project & TF Grid: development & master branch
+    -  development & master branch
+- 1.5.1 maintenance release oct 
 - 1.6.0 Q4 2018
 - [previous releases](zero-os/release-notes)
 
