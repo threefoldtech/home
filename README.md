@@ -17,8 +17,8 @@
 
 ## Zero-OS and other repo's Releases
 
-- 1.5.0 first production release of Zero-OS and related repo's = CH project, Sept
-- 1.5.1 maintenance release end sept or oct
+- 1.5.0 first production release of Zero-OS and related repo's = CH project, Sept (master branch)
+- 1.5.1 maintenance release end sept or oct -> will be on development branch soon
 - 1.6.0 Q4 2018
 - [previous releases](zero-os/release-notes)
 
