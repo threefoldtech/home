@@ -7,13 +7,13 @@ In the next diagram you can see an overview of the grid and how the different ne
 
 ![](images/networks_1.svg)
 
-### Farmer network
+### Farmer network (c7c8172af1f387a6)
 All the farmers that are providing capacity to the threefold grid configure their node to boot into this network. The result is that all the node robots of every node in the grid are accessible on this network.
 
 So any user of the grid, would it be human or virtual (3Bot) need to join this network in order to be able to deploy workload on the grid.
 
 
-### Public threefold network
+### Public threefold network (9bee8941b5717835)
 This is the global public network of threefold grid. By default, any workload deployed on the grid will be reachable in this network. This also means any workload in this network is able to communicate to any other workload deployed anywhere else on the grid, you can see it as the internet of the grid. As long as you don't have to expose your services to the outside of the grid, this network is all you need to use.
 
 ### Support network
