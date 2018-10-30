@@ -10,9 +10,9 @@
 
 ## Jumpscale Releases
 
-- 9.5.0 sept development & master branch
+- 9.5.0 sept development & master branch (for production in field today)
 - 9.5.1 development_simple branch  (will be removed very soon)
-- 9.6.0 development_960
+- [9.6.0 development_960: USE THIS TO LEARN & PLAY](https://github.com/threefoldtech/jumpscale_core/blob/development_960/README.md)
 - 9.6.1 maintenance releases (Q1 2019)
 
 if you want to play with jumpscale follow instructions on
