@@ -11,9 +11,13 @@
 ## Jumpscale Releases
 
 - 9.5.0 sept development & master branch
-- 9.5.1 later sept: development_simple branch only (lots of refactoring happened)
-- 9.5.2 maintenance releases (oct prob)
-- 9.6.0 
+- 9.5.1 development_simple branch  (will be removed very soon)
+- 9.6.0 development_960
+- 9.6.1 maintenance releases (Q1 2019)
+
+if you want to play with jumpscale follow instructions on
+
+- https://github.com/threefoldtech/jumpscale_core/blob/development_960/README.md
 
 ## Zero-OS and other repo's Releases
 
