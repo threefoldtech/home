@@ -67,7 +67,7 @@ For more details see the [Introduction to Zero-OS](/docs/README.md) in the [`/do
   - File system for Zero-OS and Zero-OS containers
 - [0-Hub](https://github.com/threefoldtech/0-hub):
   - Repository for flists
-  - Publicly hosted on https://hub.gig.tech
+  - Publicly hosted on https://hub.grid.tf
 - [0-stor](https://github.com/threefoldtech/0-stor):
   - Storage library used mainly to read and write data onto archive storage in an efficient manner
   
