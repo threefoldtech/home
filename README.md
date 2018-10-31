@@ -3,8 +3,8 @@
 ## Kanbans
 
 
-- [active kanban for jumpscale 9.5.0 = in field](https://waffle.io/threefoldtech/home?milestone=none,9.5.0)
-- [active kanban for jumpscale 9.6.0 = LEARN](https://waffle.io/threefoldtech/home?milestone=none,9.6.0)
+- [active kanban for jumpscale 9.5.0 = in field](https://waffle.io/threefoldtech/home?milestone=9.5.0)
+- [active kanban for jumpscale 9.6.0 = LEARN](https://waffle.io/threefoldtech/home?milestone=9.6.0)
 - [active kanban for 0-\*](https://waffle.io/threefoldtech/0-core?milestone=1.4.2)
 - [issues with no milestone, need to be sorted](https://waffle.io/threefoldtech/home?milestone=none)
 
