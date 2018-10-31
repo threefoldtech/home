@@ -9,7 +9,11 @@
 - [issues with no milestone, need to be sorted](https://waffle.io/threefoldtech/home?milestone=none)
 
 
-## Jumpscale Releases
+# Jumpscale 
+
+Jumpscale is a cloud automation platform
+
+## Releases
 
 - 9.5.0 sept development & master branch (for production in field today)
 - 9.5.1 development_simple branch  (will be removed very soon)
@@ -20,7 +24,16 @@ if you want to play with jumpscale follow instructions on
 
 - https://github.com/threefoldtech/jumpscale_core/blob/development_960/README.md
 
-## Zero-OS and other repo's Releases
+## Main Repositories:
+
+- [core](https://github.com/threefoldtech/jumpscale_core)
+- [lib](https://github.com/threefoldtech/jumpscale_lib)
+- [prefab](https://github.com/threefoldtech/jumpscale_prefab)
+
+
+# Zero-OS
+
+## Releases
 
 - 1.5.0 first production release of Zero-OS and related repo's = CH project & TF Grid: development & master branch
     -  development & master branch
@@ -28,16 +41,7 @@ if you want to play with jumpscale follow instructions on
 - 1.6.0 Q4 2018
 - [previous releases](zero-os/release-notes)
 
-# About Jumpscale
-Jumpscale is a cloud automation platform
-
-## Main Repositories:
-  - [core](https://github.com/threefoldtech/jumpscale_core)
-  - [lib](https://github.com/threefoldtech/jumpscale_lib)
-  - [prefab](https://github.com/threefoldtech/jumpscale_prefab)
-
-
-# About Zero-os
+## About Zero-os
 
 ![Zero-OS console](g8os.png)
 
@@ -66,3 +70,11 @@ For more details see the [Introduction to Zero-OS](/docs/README.md) in the [`/do
   - Publicly hosted on https://hub.gig.tech
 - [0-stor](https://github.com/threefoldtech/0-stor):
   - Storage library used mainly to read and write data onto archive storage in an efficient manner
+  
+  
+  # Current Activity
+  
+  - release everything as required for large scale archiving project (9.5.0 & 1.5.x)
+  - release everything required for the ThreeFold Grid (9.6.0 & 1.6.0)
+  - 
+  
