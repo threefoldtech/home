@@ -37,8 +37,8 @@ if you want to play with jumpscale follow instructions on
 
 - 1.5.0 first production release of Zero-OS and related repo's = CH project & TF Grid: development & master branch
     -  development & master branch
-- 1.5.1 maintenance release oct 
-- 1.6.0 Q4 2018
+- 1.5.1 maintenance release 
+- 1.6.0 rework with new networking layer
 - [previous releases](zero-os/release-notes)
 
 ## About Zero-os
@@ -75,6 +75,6 @@ For more details see the [Introduction to Zero-OS](/docs/README.md) in the [`/do
   # Current Activity
   
   - release everything as required for large scale archiving project (9.5.0 & 1.5.x)
-  - release everything required for the ThreeFold Grid (9.6.0 & 1.6.0)
-  - 
+  - release everything required for the ThreeFold Grid (9.6.0 & 1.5.0)
+
   
