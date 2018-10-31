@@ -45,9 +45,6 @@ Zero-OS is a stateless and lightweight Linux operating system designed for clust
 
 For more details see the [Introduction to Zero-OS](/docs/README.md) in the [`/docs`](/docs) documentation directory, which includes a comprehensive [table of contents](/docs/SUMMARY.md).
 
-## Telegram
-Public chat, if you want to reach us: https://telegram.me/joinchat/BrOCOUGHeT035il_qrwQ2A
-
 ## Product owners:
 - main: [zaibon](https://github.com/zaibon)
 - backup: [muhamadazmy](https://github.com/muhamadazmy)
