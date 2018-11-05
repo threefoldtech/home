@@ -77,4 +77,43 @@ For more details see the [Introduction to Zero-OS](/docs/README.md) in the [`/do
   - release everything as required for large scale archiving project (9.5.0 & 1.5.x)
   - release everything required for the ThreeFold Grid (9.6.0 & 1.5.0)
 
+
+# Rivine
+Blockchain technology for creating custom chains.
+
+## Releases
+
+- 1.1.5 kanban
+    - Full Electrum protocol 
+    - Zero-Db support for the storage
+    - Change  explorer storage
+
+- 1.1.4
+    - Human Energy token
+    - better container support:
+        - unencrypted wallets
+        - delegated staking
+    - Review release process
+
+- 1.1.3
+    -tfchain Farmer registration 
+    - Ethereum erc20 tokens and bridge
   
+-1.1.2
+    - digitalme support
+    - Electrum module with support for address notifications
+  
+  
+## Product owners:
+  - [Rob Van Mieghem](http://github.com/robvanmieghem)
+  - [Glen De Cauwsemaecker](http://github.com/glendc)
+
+## Main Repositories:
+- [rivine](https://github.com/threefoldtech/rivine)
+    Core rivine software
+- [rivine-explorer](https://github.com/threefoldtech/rivine-explorer)
+    Rivine block explorer
+- [atomicswap](https://github.com/threefoldtech/atomicswap)
+    Ethereum and bitcoin light client atomic swap support
+- [rivine-UI](https://github.com/threefoldtech/rivine-UI)
+        Desktop UI for a rivine full node and wallet
