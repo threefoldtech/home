@@ -96,10 +96,10 @@ Blockchain technology for creating custom chains.
     - Review release process
 
 - 1.1.3
-    -tfchain Farmer registration 
+    - tfchain Farmer registration 
     - Ethereum erc20 tokens and bridge
   
--1.1.2
+- 1.1.2
     - digitalme support
     - Electrum module with support for address notifications
   
