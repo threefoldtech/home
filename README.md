@@ -93,11 +93,12 @@ Blockchain technology for creating custom chains.
     - better container support:
         - unencrypted wallets
         - delegated staking
-    - Review release process
+    - Automated Tfchain shop with bitcoin and ethereum
 
 - 1.1.3
     - tfchain Farmer registration 
     - Ethereum erc20 tokens and bridge
+    - Rework deployment templates
   
 - 1.1.2
     - digitalme support
