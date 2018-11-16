@@ -99,6 +99,7 @@ Blockchain technology for creating custom chains.
     - tfchain Farmer registration 
     - Ethereum erc20 tokens and bridge
     - Rework deployment templates
+    - More commercial rivine documentation and slides
   
 - 1.1.2
     - digitalme support
