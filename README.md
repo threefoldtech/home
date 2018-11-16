@@ -89,7 +89,7 @@ Blockchain technology for creating custom chains.
     - Change  explorer storage
 
 - 1.1.4
-    - Human Energy token
+    - Freeflow token
     - better container support:
         - unencrypted wallets
         - delegated staking
