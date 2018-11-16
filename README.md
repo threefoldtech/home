@@ -93,18 +93,18 @@ Blockchain technology for creating custom chains.
     - better container support:
         - unencrypted wallets
         - delegated staking
-    - Automated Tfchain shop with bitcoin and ethereum
 
 - 1.1.3
-    - tfchain Farmer registration 
+    - ~tfchain Farmer registration~
     - Ethereum erc20 tokens and bridge
+    - Automated Tfchain shop with bitcoin and ethereum
     - Rework deployment templates
+    - Electrum module with support for address notifications
     - More commercial rivine documentation and slides
   
-- 1.1.2
-    - digitalme support
-    - Electrum module with support for address notifications
-  
+- 1.1.2 (<https://github.com/orgs/threefoldtech/projects/1>):
+    - digitalme (3Bot) support (<https://github.com/threefoldtech/home/issues/42>);
+    - testnet faucet (<https://github.com/threefoldtech/home/issues/36>);
   
 ## Product owners:
   - [Rob Van Mieghem](http://github.com/robvanmieghem)
