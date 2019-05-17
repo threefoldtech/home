@@ -3,8 +3,11 @@
 
 Threefold grid
 
-- owner: christophe/benjamin
+- owner: christophe(@zaibon)/benjamin(@zgorizzo69)
 - link: https://github.com/orgs/threefoldtech/projects/23
+
+## Documentation
+- [Capacity reservation](https://github.com/threefoldfoundation/info_grid/tree/development/docs/capacity_reservation)
 
 ## services
 
