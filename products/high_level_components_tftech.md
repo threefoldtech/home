@@ -12,3 +12,4 @@ Minimalistic 100% stateless operating system.
 
 see [Zero-OS]()
 
+- TODO:*1 complete

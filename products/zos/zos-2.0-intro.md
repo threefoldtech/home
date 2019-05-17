@@ -1,7 +1,8 @@
 
-# Zero-OS
+# Zero-OS 2.0
 
 Minimalistic 100% stateless operating system.
+Working on our next iteration of this operating system.
 
 ## Why
 
@@ -42,13 +43,19 @@ We managed to build a minimalistic operating system where following layers are n
 
 ### Core-X
 
-Is the workhorse of the system, we have a virtual machine and a container implementation.
+Is a process manager run inside each container.
+Is a small daemon which allows 3bot-s or JSX client to interact with the container.
+It has an RPC interface.
 
 ### Z-DB
 
 Is our storage backend layer.
 
+### Z-FS
 
-## Our components
+is the Zero Filesystem with following benefits
 
-- Core
+- dedupe content
+- each file identified with a hash (unique key)
+- metadata in an efficient queryable format
+
