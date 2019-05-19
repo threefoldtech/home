@@ -1,5 +1,7 @@
 # Github Home For ThreeFold Tech
 
+see our [projects overview of ongoing projects](https://github.com/threefoldtech/home/projects/3)
+
 # Jumpscale 
 
 Jumpscale is a cloud automation platform
