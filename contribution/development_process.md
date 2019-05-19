@@ -73,3 +73,16 @@ This is why commenting each day is critical to our process.
 If an issue/story has `priority_critical` it means that the stakeholders need continuous updates of the progress, so a minimum of twice/day update is required
 
 ETA should always be part of the comment. It's an estimation so it can vary with new findings but it's a good way to project completeness
+
+
+### Home Repo
+
+Home repo is a specific one, its the starting point of all development.
+
+Its home of the description of the projects (by means of issues with label ```type_project```)
+
+It links to all products & components
+
+DO NOT PUT
+- bugs / fr here
+  
