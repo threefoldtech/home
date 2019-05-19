@@ -1,35 +1,8 @@
 # Github Home For ThreeFold Tech
 
-## Kanbans
-
-
-- [active kanban for jumpscale 9.5.0 = in field](https://waffle.io/threefoldtech/home?milestone=9.5.0)
-- [active kanban for jumpscale 9.6.0 = LEARN](https://waffle.io/threefoldtech/home?milestone=9.6.0)
-- [active kanban for 0-\*](https://waffle.io/threefoldtech/0-core?milestone=1.4.2)
-- [issues with no milestone, need to be sorted](https://waffle.io/threefoldtech/home?milestone=none)
-
-
 # Jumpscale 
 
 Jumpscale is a cloud automation platform
-
-## Releases
-
-- 9.5.0 sept development & master branch (for production in field today)
-- 9.5.1 development_simple branch  (will be removed very soon)
-- [9.6.0 development_960: USE THIS TO LEARN & PLAY](https://github.com/threefoldtech/jumpscale_core/blob/development_960/README.md)
-- 9.6.1 maintenance releases (Q1 2019)
-
-if you want to play with jumpscale follow instructions on
-
-- https://github.com/threefoldtech/jumpscale_core/blob/development_960/README.md
-
-## Main Repositories:
-
-- [core](https://github.com/threefoldtech/jumpscale_core)
-- [lib](https://github.com/threefoldtech/jumpscale_lib)
-- [prefab](https://github.com/threefoldtech/jumpscale_prefab)
-
 
 # Zero-OS
 
@@ -38,7 +11,6 @@ if you want to play with jumpscale follow instructions on
 - 1.5.0 first production release of Zero-OS and related repo's = CH project & TF Grid: development & master branch
     -  development & master branch
 - 1.5.1 maintenance release 
-- 1.6.0 rework with new networking layer
 - [previous releases](zero-os/release-notes)
 
 ## About Zero-os
@@ -72,16 +44,17 @@ For more details see the [Introduction to Zero-OS](/docs/README.md) in the [`/do
   - Storage library used mainly to read and write data onto archive storage in an efficient manner
   
   
-  # Current Activity
-  
-  - release everything as required for large scale archiving project (9.5.0 & 1.5.x)
-  - release everything required for the ThreeFold Grid (9.6.0 & 1.5.0)
+# Current Activity
+
+- release everything as required for large scale archiving project (9.5.0 & 1.5.x)
+- release everything required for the ThreeFold Grid (9.6.0 & 1.5.0)
 
 
 # Rivine
+
 Blockchain technology for creating custom chains.
 
-## Releases
+## Releases 
 
 - 1.1.5 kanban
     - Full Electrum protocol 
@@ -93,7 +66,6 @@ Blockchain technology for creating custom chains.
     - better container support:
         - unencrypted wallets
         - delegated staking
-
 - 1.1.3
     - ~tfchain Farmer registration~
     - Ethereum erc20 tokens and bridge
