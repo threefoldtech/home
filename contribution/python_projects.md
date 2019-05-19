@@ -6,9 +6,9 @@ Formatting is done using https://black.readthedocs.io/en/stable/
 
 ```
 cd /sandbox/code/github/threefoldtech/jumpscaleX/Jumpscale
-black . -l 120 -t py37
+black . -l 120 -t py37 --exclude 'templates'
 ```
-**ALWAYS USE THE OPTIONS AS PROVIDED HERE**
+**ALWAYS USE THE OPTIONS AS PROVIDED HERE** 
 
 to intall
 
