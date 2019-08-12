@@ -22,6 +22,8 @@ make sure to follow instructions on https://black.readthedocs.io/en/stable/edito
 
 do not forget to add the options '-l 120 -t py37' in your editor
 
+if you are using __visual studio code__ and __format on save__ is not working although running the black command line is working. You might want to increase the formatOnSaveTimeout  ```"editor.formatOnSaveTimeout": 1750``` as formatting large python file can take a long time.
+
 ## Linting
 - Max-line length = 120
 - as much as possible pep8 compliant as done by black
