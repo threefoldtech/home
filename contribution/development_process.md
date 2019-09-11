@@ -85,4 +85,6 @@ It links to all products & components
 
 DO NOT PUT
 - bugs / fr here
+- PUT STORIES HERE
+
   
