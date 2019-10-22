@@ -15,15 +15,16 @@ the recommended swimlanes:
 - ```Verification```        : work is being verified
 - ```Done```
 
-## funnel of issues / fr /...
+## funnel of issues, bugs, story cards and feature requests
 
-Each component (product,service) has one or more repositories in this threefold tech account.
+Each component (product, service) has one or more repositories in this threefold tech account.
 For each repository there is a list of issues which is dealt with like a funnel.
 We don't use the milestones, because projects are a more flexible way how to deal with the issues. Milestones complicate it.
 
 see [issue_labels](issue_labels.md)
 
-each issue has the name of branch in the title as [development_something], the name 'development' can be skipped its the default os previous could also be written as [something] but don't forget branch is development_...
+Each issue has the name of branch in the title as [development_something], the name 'development' can be skipped its the default os previous could also be written as [something] but don't forget branch is development_...
+If not specified, it is to be fixed/developed on development.
 
 ### milestones
 
