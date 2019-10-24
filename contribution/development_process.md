@@ -7,7 +7,7 @@ The development process of our projects is agile, collaborative and above all, r
 Typically a project is a product_version or component_version, sometimes it can be a life service e.g. a tfgrid_1.0.0.
 Each project has a clear owner and purpose.  
 
-the recommended swimlanes:
+the used swimlanes:
 
 - ```To do```
 - ```In progress```
@@ -15,7 +15,7 @@ the recommended swimlanes:
 - ```Verification```        : work is being verified
 - ```Done```
 
-## funnel of issues, bugs, story cards and feature requests
+## funnel of issues, bugs and feature requests
 
 Each component (product, service) has one or more repositories in this threefold tech account.
 For each repository there is a list of issues which is dealt with like a funnel.
