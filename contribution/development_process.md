@@ -80,12 +80,10 @@ ETA should always be part of the comment. It's an estimation so it can vary with
 
 Home repo is a specific one, its the starting point of all development.
 
-Its home of the description of the projects (by means of issues with label ```type_project```)
-
 It links to all products & components
+Link back to used circles on projects.threefold.me
 
-DO NOT PUT
-- bugs / fr here
-- PUT STORIES HERE
+- DO NOT PUT bugs / fr / questions here
+- PUT STORIES HERE 
 
-  
+
