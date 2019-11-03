@@ -57,6 +57,8 @@ example:
 
 ## pre-commit
 
+[pre-commit](pre-commit.com/) helps applying certain checks and constraints (hooks) on changes before committing them to git tree (e.g black formatting) 
+
 All of python projects should contain `.pre-commit-config.yaml` file in the repo root 
 
 
@@ -89,5 +91,3 @@ repos:
 ### Installing pre-commit hooks in your current project
 
 `pre-commit install`
-
-Now you won't be able to commit any non-black formatted code.
