@@ -55,4 +55,39 @@ example:
 """
 ```
 
+## pre-commit
 
+All of python projects should contain `.pre-commit-config.yaml` file in the repo root 
+
+
+e.g
+```yaml
+cat .pre-commit-config.yaml 
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v2.3.0
+    hooks:
+      - id: check-yaml
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+  - repo: https://github.com/psf/black
+    rev: 19.3b0
+    hooks:
+      - id: black
+        args: [--line-length=120, --target-version=py37]
+```
+
+
+
+### install pre-commit
+
+`python3 -m pip install pre-commit`
+
+### Installing pre-commit hooks in your current project
+
+`pre-commit install`
+
+Now you won't be able to commit any non-black formatted code.
