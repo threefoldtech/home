@@ -35,8 +35,7 @@ the used swimlanes:
 - priorities:
     - "priority_cricital" means team needs to do in the same day (every other work needs to be suspended until done)
         - if it cannot be done in time, escalation needs to happen asap (not next day)
-    - "priority_major" means the task should be done in the same day, exceptional can spill over to next day
-        - if longer than the 1-2 days, escalate to stakeholders
+    - "priority_major" means the task should be done in within 48 hours
 
 the used swimlanes:
 
