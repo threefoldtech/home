@@ -9,7 +9,7 @@ The development process of our projects is agile, collaborative and above all, r
 Typically a project is a product_version or component_version, sometimes it can be a life service e.g. a tfgrid_1.0.0.
 Each project has a clear owner and purpose.  
 
-the used swimlanes:
+The used swimlanes:
 
 - ```New``` 
     - stakeholder or project owner suggests a feature/story/bug to be resolved in this release
@@ -37,7 +37,7 @@ the used swimlanes:
         - if it cannot be done in time, escalation needs to happen asap (not next day)
     - "priority_major" means the task should be done in within 48 hours
 
-the used swimlanes:
+The used swimlanes:
 
 - ```New``` 
     - a stakeholder or team lead suggests a feature/story/bug to be executed in the team
@@ -75,7 +75,7 @@ If not specified, it is to be fixed/developed on development.
 
 ### milestones
 
-we dont use milestones for version nr's, this should be part of project, a project allows us to see when a release will be delivered.
+We dont use milestones for version numbers, this should be part of project, a project allows us to see when a release will be delivered.
 
 There are 3 milestones we suggest to use though
 
@@ -128,7 +128,7 @@ ETA should always be part of the comment. It's an estimation so it can vary with
 
 ### Home Repo
 
-Home repo is a specific one, its the starting point of all development.
+Home repo is a specific one, it's the starting point of all development.
 
 It links to all products & components
 Link back to used circles on projects.threefold.me
