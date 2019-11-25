@@ -16,15 +16,11 @@ Please do not use any other labels
 
 ## state
 
-- `state_inprogress`: means it's currently being worked on. If for any reason an issue or story is not being worked on actively, this label is removed
- - `state_blocked`: means that this issue/story is currently blocked by another issue.
- - `state_question`: means this issue/story needs further discussion or input and is sent to the stackholders.
-- state_verification: means someone is checking if it is done ok
+- we no longer need the states because they are now part of the swimlanes on the team or release projects
 
 ## type
 
-- type_bug
-- type_feature
-- type_question
+- `type_bug`
+- `type_feature`
+- `type_question`
 - `type_story`: used to distinguish storycards; usually an overview of a usecase we want to achieve
-  
