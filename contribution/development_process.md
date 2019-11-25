@@ -4,16 +4,64 @@ The development process of our projects is agile, collaborative and above all, r
 
 ## github project based
 
+### the std projects are product/component releases
+
 Typically a project is a product_version or component_version, sometimes it can be a life service e.g. a tfgrid_1.0.0.
 Each project has a clear owner and purpose.  
 
 the used swimlanes:
 
-- ```To do```
+- ```New``` 
+    - stakeholder or project owner suggests a feature/story/bug to be resolved in this release
+- ```To start"
+    - the project owner accepts the item to issue will be worked on and commits to do in release
+    - once accepted = then escalation is needed if it can not be done in time
 - ```In progress```
-- ```Blocked```             : we are using kanban way of thinking something in this simlane needs to be resolved asap
+    - the issue is being worked on
+- ```Blocked```       
+    - We are using kanban way of thinking something in this swimlane needs to be resolved asap, can be e.g. a question
+    - means issue cannot be completed, attention from e.g. stakeholders is needed
 - ```Verification```        : work is being verified
+    - the team delivered the feature/bug/storry
+    - stakeholders need to agree that the issue has been resolved appropriately
+    - project owner can never go from Verification to done without approval from stakeholders
 - ```Done```
+    - everyone agreed (project owner and stakeholders) agreed that the issue was done ok
+
+### team projects = team kanban
+
+- to allow a team to see which bugs,fr,stories are relevant in their current scrum
+- each day they should check what issues need to be worked on and which ones should have been done already
+- priorities:
+    - "priority_cricital" means team needs to do in the same day (every other work needs to be suspended until done)
+        - if it cannot be done in time, escalation needs to happen asap (not next day)
+    - "priority_major" means the task should be done in the same day, exceptional can spill over to next day
+        - if longer than the 1-2 days, escalate to stakeholders
+
+the used swimlanes:
+
+- ```New``` 
+    - a stakeholder or team lead suggests a feature/story/bug to be executed in the team
+- ```To start"
+    - the team lead accepts the item to be worked in in relation to the priority 
+    - once accepted = then escalation is needed if it can not be done in time (means < 1 week) or faster depending priority state
+    - everything which gets in the team kanban on To Start needs to be resolved < 1 week from day it was attached to team kanban
+- ```In progress```
+    - the issue is being worked on
+- ```Blocked```       
+    - We are using kanban way of thinking something in this swimlane needs to be resolved asap, can be e.g. a question
+    - means issue cannot be completed, attention from e.g. stakeholders is needed
+- ```Verification```        : work is being verified
+    - the team delivered the feature/bug/storry
+    - stakeholders need to agree that the issue has been resolved appropriately
+    - project owner can never go from Verification to done without approval from stakeholders
+- ```Done```
+    - everyone agreed (project owner and stakeholders) agreed that the issue was done ok
+    - check that the item is also in a prioject release and on right state (if relevant, not everything is on product release project)
+
+
+
+
 
 ## funnel of issues, bugs and feature requests
 
@@ -28,7 +76,7 @@ If not specified, it is to be fixed/developed on development.
 
 ### milestones
 
-we suggest not to use milestones for version nr's, this should be part of project.
+we dont use milestones for version nr's, this should be part of project, a project allows us to see when a release will be delivered.
 
 There are 3 milestones we suggest to use though
 
@@ -51,7 +99,10 @@ Our branching strategy is:
 
 We have branches for new features/disruptive changes. These have a prefix of `development_<relevantname>`
 
-Each project should define which branches to use & the branching strategy
+Each project and story should define which branches to use & the branching strategy.
+
+There should never be any branch on the system which can not be found back by looking at the stories in the "home" repo.
+Is title of the story in between [] 
 
 
 ### Pull requests
@@ -84,6 +135,6 @@ It links to all products & components
 Link back to used circles on projects.threefold.me
 
 - DO NOT PUT bugs / fr / questions here
-- PUT STORIES HERE 
+- PUT ALL STORIES HERE 
 
 
