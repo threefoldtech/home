@@ -13,7 +13,7 @@ the used swimlanes:
 
 - ```New``` 
     - stakeholder or project owner suggests a feature/story/bug to be resolved in this release
-- ```To start"
+- ```To start```
     - the project owner accepts the item to issue will be worked on and commits to do in release
     - once accepted = then escalation is needed if it can not be done in time
 - ```In progress```
@@ -41,7 +41,7 @@ the used swimlanes:
 
 - ```New``` 
     - a stakeholder or team lead suggests a feature/story/bug to be executed in the team
-- ```To start"
+- ```To start```
     - the team lead accepts the item to be worked in in relation to the priority 
     - once accepted = then escalation is needed if it can not be done in time (means < 1 week) or faster depending priority state
     - everything which gets in the team kanban on To Start needs to be resolved < 1 week from day it was attached to team kanban
