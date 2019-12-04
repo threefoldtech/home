@@ -27,7 +27,7 @@ The used swimlanes:
     - project owner can never go from Verification to done without approval from stakeholders
     - verification on a story is done in 2 steps : 
        - Story moved to verification once code complete
-       - If verification in that branch is ok it is moved to development branch and subject to a second verification step (to avoid regression)
+       - If verification in that branch is ok the code is moved to development branch, devops task running to do regression testing
 - ```Done```
     - everyone agreed (project owner and stakeholders) agreed that the issue was done ok
 
@@ -59,7 +59,7 @@ The used swimlanes:
     - project owner can never go from Verification to done without approval from stakeholders
     - verification on a story is done in 2 steps : 
        - Story moved to verification once code complete
-       - If verification in that branch is ok it is moved to development branch and subject to a second verification step (to avoid regression)
+       - If verification in that branch is ok the code is moved to development branch, devops task running to do regression testing
 - ```Done```
     - everyone agreed (project owner and stakeholders) agreed that the issue was done ok
     - check that the item is also in a prioject release and on right state (if relevant, not everything is on product release project)
