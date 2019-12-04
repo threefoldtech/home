@@ -51,9 +51,12 @@ The used swimlanes:
     - We are using kanban way of thinking something in this swimlane needs to be resolved asap, can be e.g. a question
     - means issue cannot be completed, attention from e.g. stakeholders is needed
 - ```Verification```        : work is being verified
-    - the team delivered the feature/bug/storry
+    - the team delivered the feature/bug/story
     - stakeholders need to agree that the issue has been resolved appropriately
     - project owner can never go from Verification to done without approval from stakeholders
+    - verification on a story is done in 2 steps : 
+       - Story moved to verification once code complete
+       - If verification in that branch is ok it is moved to development and subject to a second verification step (to avoid regression)
 - ```Done```
     - everyone agreed (project owner and stakeholders) agreed that the issue was done ok
     - check that the item is also in a prioject release and on right state (if relevant, not everything is on product release project)
