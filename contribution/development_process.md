@@ -25,6 +25,9 @@ The used swimlanes:
     - the team delivered the feature/bug/storry
     - stakeholders need to agree that the issue has been resolved appropriately
     - project owner can never go from Verification to done without approval from stakeholders
+    - verification on a story is done in 2 steps : 
+       - Story moved to verification once code complete
+       - If verification in that branch is ok it is moved to development and subject to a second verification step (to avoid regression)
 - ```Done```
     - everyone agreed (project owner and stakeholders) agreed that the issue was done ok
 
