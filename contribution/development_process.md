@@ -24,7 +24,7 @@ The used swimlanes:
 - ```Verification```        : work is being verified
     - the team delivered the feature/bug/storry
     - stakeholders need to agree that the issue has been resolved appropriately
-    - project owner can never go from Verification to done without approval from stakeholders
+    - project owner can never go from Verification to done without approval from stakeholders (often represented by qa team)
     - verification on a story is done in 2 steps : 
        - Story moved to verification once code complete
        - If verification in that branch is ok the code is moved to development branch, devops task running to do regression testing
