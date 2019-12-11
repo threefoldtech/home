@@ -12,7 +12,9 @@ Jumpscale is the core for our automation layer
 
 ## projects worth looking at
 
-- [team thabet stories](https://github.com/orgs/threefoldtech/projects/59?card_filter_query=label%3Atype_story) 
+- [team thabet stories](https://github.com/orgs/threefoldtech/projects/59?card_filter_query=label%3Atype_story) `
+- [team reem stories](https://github.com/orgs/threefoldtech/projects/58?card_filter_query=label%3Atype_story) `
+ `
 
 
 # Zero-OS
