@@ -24,14 +24,10 @@ Jumpscale is the core for our automation layer
 
 ## Main repositories
 
+- [0-OS](https://github.com/threefoldtech/zos):
+  - Autonomous operating system
 - [0-initramfs](https://github.com/threefoldtech/0-initramfs):
-  - Assembly of shell scripts for building the Zero-OS Linux kernel and create an initramfs to start 0-Core.
-- [0-core](https://github.com/threefoldtech/0-core):
-  - Init process (0-Core) and container manager (CoreX) of Zero-OS
-  - Also contains Python client for 0-Core, for managing containers, disks and networking of a Zero-OS node
-- [0-robot](https://github.com/threefoldtech/0-robot): 
-  - Distributed live cycle management system 
-  - The robot managed different part of the grid created by the 0-OS nodes
+  - Assembly of shell scripts for building the Zero-OS Linux kernel and create an initramfs
 - [0-fs](https://github.com/threefoldtech/0-fs):
   - File system for Zero-OS and Zero-OS containers
 - [0-Hub](https://github.com/threefoldtech/0-hub):
