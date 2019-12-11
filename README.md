@@ -14,8 +14,6 @@ Jumpscale is the core for our automation layer
 
 - [team thabet stories](https://github.com/orgs/threefoldtech/projects/59?card_filter_query=label%3Atype_story) `
 - [team reem stories](https://github.com/orgs/threefoldtech/projects/58?card_filter_query=label%3Atype_story) `
- `
-
 
 # Zero-OS
 
@@ -40,6 +38,10 @@ Jumpscale is the core for our automation layer
   - Publicly hosted on https://hub.grid.tf
 - [0-stor](https://github.com/threefoldtech/0-stor):
   - Storage library used mainly to read and write data onto archive storage in an efficient manner
+
+## projects worth looking at
+
+- [team christophe stories](https://github.com/orgs/threefoldtech/projects/61?card_filter_query=label%3Atype_story) `
 
 # Rivine
 
