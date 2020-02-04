@@ -101,7 +101,7 @@ We encourage collaborative branching, meaning any group of people working within
 Our branching strategy is: 
 
 - `master` is the last stable release
-- `development` is where all stories branch of and the one that has hotfixes if needed.
+- `development` is where all stories branch from, and the one that has hotfixes if needed.
 - `unstable` where we integrate the milestone stories and test before merging back to development
 
 We have branches for new features/disruptive changes. These have a prefix of `development_<relevantname>`
