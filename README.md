@@ -3,7 +3,7 @@
 
 # Jumpscale 
 
-Jumpscale is the core for our automation layer
+[Jumpscale](./products/jumpscale/README.md) is the core for our automation layer
 
 ## Repositories
 
@@ -18,6 +18,7 @@ Jumpscale is the core for our automation layer
 
 # Zero-OS
 
+[zos](./products/zos/README.md) is our stateless operating system
 ## Product owners:
 - main: [zaibon](https://github.com/zaibon)
 - backup: [muhamadazmy](https://github.com/muhamadazmy)
