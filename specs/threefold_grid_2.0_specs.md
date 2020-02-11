@@ -60,10 +60,13 @@ Its actually more a overview of the focus points and what will be delivered
 
 ## development environments (March)
 
-- chatbot driven on 3bot from developers 
-- integrated with 3bot-connect for auth
+Full blown P2P development environment including
 
-### co-development
+- git hosting
+- co-development env (IDE)
+- automatic integrated testing
+
+### Feature 1: co-development
 
 - from code to development environment in 1 step
 - allow multiple people to collaborate on code
@@ -76,13 +79,20 @@ Its actually more a overview of the focus points and what will be delivered
     - notepad env for scientific data specialists
     - anything gitpod already supports
 
-### auto testing environment (March)
+### Feature 2: integration testing environment (March)
 
 - ... tbd
 
-### private git repo's (March)
+### Feature 3: private git repo's (March)
 
 - ... tbd (gitea)
+
+## remarks for the 3 functionalities
+
+- chatbot driven on 3bot from developers 
+- integrated with 3bot-connect for auth
+
+
 
 ## ultra efficient edge cloud container solution: Zero-OS containers
 
