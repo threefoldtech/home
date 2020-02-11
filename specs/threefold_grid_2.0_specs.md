@@ -1,7 +1,7 @@
 
 # some draft specifications for the Threeold 2.0 grid services
 
-Its actually more a overview of the focus points and what will be delivered
+This doc provices an overview of the services as delivered as a service on top of our grid 2.0.
 
 ## scalable ultra reliable S3 archive system
 
@@ -38,10 +38,10 @@ Its actually more a overview of the focus points and what will be delivered
 - deployment for advanced features only for experts
     - deployment script based (jupyter or jsx script)
 
-## market compatible container management & deployment platform (kubernetes)
+## container management & deployment platform (kubernetes)
 
 - 1 click deployment of full decentralized kubernetes environment at the edge
-- 100% compatible with kubernetes & docker
+- 100% compatible with kubernetes & docker (market std)
 - integration with zero-os overlay networking layer (efficient, ultra secure (encrypted) network between the containers)
 - can be easily deployed at the edge
 - integrated with scalable & capable monitoring system(prometeus based), deployed by default
@@ -49,7 +49,7 @@ Its actually more a overview of the focus points and what will be delivered
 
 ### v1.1: march
 
-- integrated with our web based bot solution: interactive workflows for deployment/upgrade/troubleshooting
+- integrated with our web based bot solution: interactive workflows for deployment/upgrade/troubleshooting (chatbots in jumpscale)
 - redundancy for kubernetes controllers
 
 ### v1.2: tbd (April-May)
@@ -58,7 +58,7 @@ Its actually more a overview of the focus points and what will be delivered
 - edge cloud efficient virtual filesystem: deduped virtual filesystem leads to huge space & bandwidth savings
 - hacker proof launch of files: each file started get's compared against a secure hash making sure only the pre-defined files can be launched in a container
 
-## development environments (March)
+## P2P development environments (March)
 
 Full blown P2P development environment including
 
