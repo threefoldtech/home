@@ -1,5 +1,5 @@
 
-# some draft specifications for the Threeold 2.0 grid
+# some draft specifications for the Threeold 2.0 grid services
 
 Its actually more a overview of the focus points and what will be delivered
 
