@@ -81,11 +81,13 @@ Full blown P2P development environment including
 
 ### Feature 2: integration testing environment (March)
 
-- ... tbd
+- based on zeroCI 
+- provide CI/CD
 
 ### Feature 3: private git repo's (March)
 
-- ... tbd (gitea)
+- docker image
+- zero effort deployment for user (or minimal chatflow)
 
 ## remarks for the 3 functionalities
 
