@@ -86,7 +86,6 @@ Full blown P2P development environment including
 
 ### Feature 3: private git repo's (March)
 
-- docker image
 - zero effort deployment for user (or minimal chatflow)
 
 ## remarks for the 3 functionalities
