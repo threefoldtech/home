@@ -101,8 +101,19 @@ We encourage collaborative branching, meaning any group of people working within
 Our branching strategy is: 
 
 - `master` is the last stable release
+- `master_$hotfix` is only for solving BLOCKING issues which are in the field on the last release
+    - short living
 - `development` is where all stories branch from, and the one that has hotfixes if needed.
-- `unstable` where we integrate the milestone stories and test before merging back to development
+- `development_$storyname`
+    - branch for a story
+    - always updated from development(_hotfixes)
+- `development_$storyname_$reviewname`
+    - short living branch for when reviews are needed for a story
+- `development_hotfixes` short living hotfix(es) to allow people to review and then put on development
+    - now everyone should update from or development or development_hotfixes
+    - development_hotfixes is always newer than development
+- `testing` is a branch used to integrate development branches
+    - never develop on it, its for verifying & doing tests
 
 We have branches for new features/disruptive changes. These have a prefix of `development_<relevantname>`
 
