@@ -112,7 +112,7 @@ Our branching strategy is:
 - `development_hotfixes` short living hotfix(es) to allow people to review and then put on development
     - now everyone should update from or development or development_hotfixes
     - development_hotfixes is always newer than development
-- `testing` is a branch used to integrate development branches
+- `integration` is a branch used to integrate development branches
     - never develop on it, its for verifying & doing tests
 
 We have branches for new features/disruptive changes. These have a prefix of `development_<relevantname>`
