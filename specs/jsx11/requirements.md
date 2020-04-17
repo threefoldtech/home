@@ -6,6 +6,8 @@
 - https://docs.python.org/3/library/typing.html
     - and allow simplifications (create our own types)
 - lets make sure people know how to configure their editor to do good type checking and show errors
+- https://mypy.readthedocs.io/ or pytype?
+- is a good combination with our own properties
 
 ### pathlib use
 
