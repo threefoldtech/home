@@ -1,6 +1,12 @@
 
 ## core
 
+### typed methods
+
+- https://docs.python.org/3/library/typing.html
+    - and allow simplifications (create our own types)
+- lets make sure people know how to configure their editor to do good type checking and show errors
+
 ### pathlib use
 
 - use https://docs.python.org/3/library/pathlib.html functionality as much as possible remove outdated j.sal.fs....
