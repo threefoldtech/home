@@ -9,11 +9,11 @@
 
 - [ ] TFT & Free TFT enabled
     - [ ] predefined pricing model (TBD & validated by andreas/kristof)
-    - [ ] payments done from wallet in JSX (needs to be preloaded ofcourse)
-- [ ] webgateway as primitive workloads on TFGrid registry (workload stor)
+    - [ ] payments done from wallet in 3SDK (needs to be preloaded ofcourse)
+- [ ] webgateway as primitive workloads on TFGrid registry
     - [ ] SAL on JSX
     - [ ] definition of specs of the workload's
-    - [ ] jumpscale created worker to deploy the wireguard & webgateway workloads
+    - [ ] deployment worker to deploy the wireguard & webgateway workloads
 - [ ] 10 webgateway servers alive, 100 servers alive
 - [ ] hardened install for SDK on linux/osx/windows10
 - [ ] better docu  
