@@ -21,7 +21,7 @@
 
 ### remarks
 
-#### webgateway 2.0.4
+#### webgateway 2.0.6
 
 - wireguard for ipv4to6
     - user retrieves wireguard config (keys generated), super easy then for client to insert in wireguard client
