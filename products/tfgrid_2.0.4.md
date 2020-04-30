@@ -7,20 +7,20 @@
 
 ### deliverables
 
-- [ ] TFT & Free TFT enabled
-    - [ ] predefined pricing model (TBD & validated by andreas/kristof)
-    - [ ] payments done from wallet in 3SDK (needs to be preloaded ofcourse)
-- [ ] webgateway as primitive workloads on TFGrid registry
-    - [ ] SAL on JSX
-    - [ ] definition of specs of the workload's
-    - [ ] deployment worker to deploy the wireguard & webgateway workloads
-- [ ] 10 webgateway servers alive, 100 servers alive
+- [X] TFT & Free TFT enabled
+    - [X] predefined pricing model (1 month)
+    - [X] payments done from wallet in 3SDK (needs to be preloaded ofcourse)
+- [X] webgateway as primitive workloads on TFGrid registry
+    - [X] SAL on JSX
+    - [X] definition of specs of the workload's
+    - [X] deployment worker to deploy the wireguard & webgateway workloads
+- [X] 6 webgateway servers alive, 100 servers alive
 - [ ] hardened install for SDK on linux/osx/windows10
-- [ ] better docu  
-- [ ] good scripts in python notebook (documented in manual)
-- [ ] good enough set of wizards, with result of operation in the solution overview
-    - [ ] add support for choosing which node/farmer
-    - [ ] add confirmation of price in
+- [X] better docu  
+- [X] good scripts in python notebook (documented in manual)
+- [X] good enough set of wizards, with result of operation in the solution overview
+    - [X] add support for choosing which node/farmer
+    - [X] add confirmation of price in
 - [ ] deploy the jimber freeflow connect or on ipv6 if TF webgateway VPN works or a fall back plan
 
 ### remarks
