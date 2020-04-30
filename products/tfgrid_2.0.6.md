@@ -18,6 +18,8 @@
 - [ ] deploy the jimber freeflow connect or on ipv6 if TF webgateway VPN works or a fall back plan
 - [ ] users can still recover their secret info in relation to a solution even if they loose there 3SDK 
     - ps: they can never loose their private key
+- [ ] wizard deployment of 3SDK
+- [ ] wizard deployment of simulator
 
 ### remarks
 
