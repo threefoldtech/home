@@ -131,6 +131,22 @@ As soon as work is started on a different branch where a developer or a group of
 - well tested
 - well documented
 
+### Releasing process
+- Before tagging a release, open a branch named with the intended version e.g 10.5.x with the quality level 
+  - alpha: doesn't have all the features, but you can use the features in there
+  - beta: no major, or blocking bugs. all features working for the customer as promised, no blocking bugs
+  - production: no major, no blocking, no minor bugs and the documentation is ready.
+  
+  
+#### blocking
+- customer can't get to the functionality described in the manaul
+- stability when it crashes is blocking
+- security issues are blocking 
+- stability issues 
+- performance is blocking if you can't continue
+- performance is major if you can continue
+
+
 
 ### Reporting
 
