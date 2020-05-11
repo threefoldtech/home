@@ -3,7 +3,7 @@
 
 ## TFGrid 2.0.6
 
-- TFGrid 2.0.6 & JSX 10.6: 7 May
+- TFGrid 2.0.6 & JSX 10.6: 22 May
 
 ### deliverables
 
