@@ -1,6 +1,8 @@
 
 # purpose
 
+allow multiple users to stor/retrieve large files to TF Grid cloud
+
 ## deployment
 
 - js-ng deployment
@@ -84,10 +86,21 @@
 - redundancy
     - zdb has slave 
     - distributed storage for all data provides redundancy
+    - each ZDB container which is not the last one get's also uploaded, metadata stored in directory local to the machine, this directory get's rsynced to slave(s): is backup of the metadata to backend ZDB's
 - metadata (storage process)
     - when new data, put request to process in queue for zerostor (redis)
     - at end the metadata required is put in zdb (combination of blake & zdb id is the resulting HASH)
     - the slave gets a copy, has same HASH, the replication is feature of ZDB
     
-    
+
+### remarks
+
+- min filesize = 160KB (means 10 KB per zdb if 16+4)
+
+## frontends
+
+- see if we can get IPFS, HyperDrive, Restic to work in M1 and use above server
+- e.g. can use directory approach in phase 1 where we use the homefolder upload approach, this would required a hook into the restic, IPFS, ... code that if a required dir is not there we download the dir first, wait and then process when returned.
+
+
     
