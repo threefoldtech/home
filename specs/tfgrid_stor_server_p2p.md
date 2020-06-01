@@ -96,6 +96,8 @@ allow multiple users to stor/retrieve large files to TF Grid cloud
 ### remarks
 
 - min filesize = 160KB (means 10 KB per zdb if 16+4)
+- slave is usable for read operations even if master is not there, only needs info from local ZDB which is slave
+    - this means stor server is redundant active/active for read purposes (availability)
 
 ## frontends
 
