@@ -13,6 +13,7 @@
 ## projects worth looking at
 
 - [team thabet stories](https://github.com/orgs/threefoldtech/projects/59?card_filter_query=label%3Atype_story)
+  - [publishing tools](https://github.com/threebotserver/publishingtools/projects)
   - [web presence](https://github.com/orgs/threefoldfoundation/projects/16)
   - [NG project](https://github.com/orgs/js-next/projects)
 - [team reem stories](https://github.com/orgs/threefoldtech/projects/58?card_filter_query=label%3Atype_story)
