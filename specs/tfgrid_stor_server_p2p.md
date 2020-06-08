@@ -36,7 +36,7 @@ allow multiple users to stor/retrieve large files to TF Grid cloud
     - ```file_upload```, returns jobid = is a unique hash (just random)
       - make sure is streaming (max 100MB)
       - put on temp location
-      - put in queue to be processed by zerostor (redis queue interface)
+      - put in queue to be processed by zerostor (zerostor cli)
       - after processing (in return queue we can find the the jobid): the hash of the uploaded file will be available
     - ```status``` : args: jobid,wait=False 
       - long polling supported if wait used
