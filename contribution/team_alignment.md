@@ -11,3 +11,6 @@ The purpose of this meeting is to:
 - go over the priorities and deliverables of that week
 - indicate or escalate blocking issues
 - align dependencies between the teams
+
+Each meeting is registered as an issue of type `type_meeting` and put in the project [Team alignment meetings](https://github.com/threefoldtech/home/projects/4).
+Meetings can be prepared in the issue for the next meeting and meeting notes can traced in those issues as well.  
