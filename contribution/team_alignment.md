@@ -4,7 +4,7 @@
 
 Every monday at 11 CET, the development teams organize a development team alignment meeting.
 
-Stakeholders  outside of the development teams are welcome to listen in but it's not the intention that they interfere or interrupt the meetingtoo much.
+Stakeholders  outside of the development teams are welcome to listen in but it's not the intention that they interfere or interrupt the meeting too much.
 
 The purpose of this meeting is to:
 
