@@ -1,4 +1,4 @@
-# Development team Alignment
+# Development teams Alignment
 
 ## Weekly meeting
 
