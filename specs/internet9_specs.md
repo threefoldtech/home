@@ -28,7 +28,7 @@ Multiple Blockchain & P2P solutions from our partners…
 
 List of Blockchain projects that have some nodes deployed on the gird already, with the respective documentation on how to so: [https://circles.threefold.me/project/despiegk-tf_team_grid/us/32](https://circles.threefold.me/project/despiegk-tf_team_grid/us/32)
 
-### Internet9 p2p Early Adopter (end-user)
+### Internet9 p2p Early Adopter (end-user): 1.1+
 
 In first instance targetted for the P2P tech early adopter.
 
@@ -36,7 +36,7 @@ In first instance targetted for the P2P tech early adopter.
 
 * The jimber browser 
 
-#### I9-Meet (1.0)
+#### I9-Meet (1.1)
 
 * A zoom alternative with chat hosted where you want and accessible by people you want 
 
@@ -51,17 +51,17 @@ In first instance targetted for the P2P tech early adopter.
 * Integration with HyperDrive (optional)
 * Eventually: backup for OSX
 
-#### I9-Office (1.0 and 1.2)
+#### I9-Office (1.1 and 1.2)
 
 * Your own office (onlyoffice on SSD in container) (1.0)
 * Your own office (onlyoffice using I9-Browser & on top off I9-FileServer) (1.2)
 
-#### I9-Circles (1.0)
+#### I9-Circles (1.1)
 
 * Your own circle collaboration tool based on community.threefold.me
 * wiki/circles/chat/meet/portal/gitrepo
 
-#### I9-Forum (1.0)
+#### I9-Forum (1.1)
 
 * the forum software we use at TF today but hosted on our grid
 
