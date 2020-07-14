@@ -1,3 +1,5 @@
+## personal 3bot as sysadmin on grid
+
 3bot definition = your personal system administrator & sdk 
 	
 - based on js-ng
