@@ -1,5 +1,5 @@
 
-# some draft specifications for the Threeold 2.0 grid services
+# some draft specifications for the Threeofld 2.X grid services
 
 This doc provices an overview of the services as delivered as a service on top of our grid 2.0.
 
