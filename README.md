@@ -18,7 +18,10 @@
   - [NG project](https://github.com/orgs/js-next/projects)
 - [team reem stories](https://github.com/orgs/threefoldtech/projects/58?card_filter_query=label%3Atype_story)
 - [team jonas stories](https://github.com/orgs/threefoldtech/projects/60?card_filter_query=label%3Atype_story) (front-ends)
-
+- team ramez
+  - [QA-Devops project](https://github.com/orgs/threefoldtech/projects/66)
+  - [Support](https://circles.threefold.me/project/sabrinasadik-tf-support/kanban)
+  
 # Zero-OS
 
 [zos](./products/zos/README.md) is our stateless operating system
