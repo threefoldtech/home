@@ -19,8 +19,10 @@
 - [team reem stories](https://github.com/orgs/threefoldtech/projects/58?card_filter_query=label%3Atype_story)
 - [team jonas stories](https://github.com/orgs/threefoldtech/projects/60?card_filter_query=label%3Atype_story) (front-ends)
 - team ramez
-  - [QA-Devops project](https://github.com/orgs/threefoldtech/projects/66)
+  - [QA-Devops project for tftech](https://github.com/orgs/threefoldtech/projects/66)
   - [Support](https://circles.threefold.me/project/sabrinasadik-tf-support/kanban)
+  - [web presence for deployments requests](https://github.com/orgs/threefoldfoundation/projects/16)
+
   
 # Zero-OS
 
