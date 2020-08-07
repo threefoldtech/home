@@ -39,7 +39,7 @@ if you are using __visual studio code__ and __format on save__ is not working al
 ## naming conventions
 - function names:
   - snake_cased
-  - object_verb (example: file_get)
+  - verb_object (example: get_file)
 
 - variable names:
   - snake_case 
