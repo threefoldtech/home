@@ -61,6 +61,7 @@ example:
 :rtype: [type]
 """
 ```
+but it also dependns on project conventions e.g [js-ng/sdk](https://github.com/threefoldtech/js-ng/blob/development/docs/wiki/codingstyle.md)
 
 ## pre-commit
 
