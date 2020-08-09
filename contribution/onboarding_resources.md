@@ -25,3 +25,4 @@
 - [tmux](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
 - [git tutorials](https://www.atlassian.com/git/tutorials)
 - [git book](https://git-scm.com/)
+- [nginx](https://www.nginx.com/)
