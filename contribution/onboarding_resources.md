@@ -18,11 +18,11 @@
 
 
 ## other 
-- [ubuntu server guide](https://help.ubuntu.com/lts/serverguide/)
-- [debian handbook](https://debian-handbook.info)
 - [docker](https://docs.docker.com/get-started/)
+- [ubuntu server guide](https://help.ubuntu.com/lts/serverguide/)
+- [nginx](https://www.nginx.com/)
+- [debian handbook](https://debian-handbook.info)
 - [travis](travis-ci.org/)
 - [tmux](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
 - [git tutorials](https://www.atlassian.com/git/tutorials)
 - [git book](https://git-scm.com/)
-- [nginx](https://www.nginx.com/)
