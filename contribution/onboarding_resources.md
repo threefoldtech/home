@@ -5,6 +5,7 @@
 - [pymotw](https://pymotw.com/3/)
 - [bottle](https://bottlepy.org/docs/dev/)
 - [redis in action](https://redislabs.com/redis-in-action/)
+- [pynacl](https://pynacl.readthedocs.io/en/latest/)
 - [jinja](https://jinja.palletsprojects.com/en/2.10.x/)
 - [exploreflask](https://exploreflask.com/en/latest/)
 - [flask megatuorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
