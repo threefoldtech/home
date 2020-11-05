@@ -1,6 +1,6 @@
 # code layout
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.welcometothejungle.com%2Ffr%2Fcollections%2Fbehind-the-code&psig=AOvVaw1xuf_QVyuc-x3CBtEmMcI_&ust=1604696692034000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDphZWn7OwCFQAAAAAdAAAAABAD)
+![](https://cdn-images.welcometothejungle.com/5DDbrp9_kdlw05Z0hzc7kYEpaaruHhUUWJqs-nW1o8k/rs:auto:980::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9jYXRlZ29yeS9jb3Zlci8yNjYwLzE1NDg4My9jb2xsZWN0aW9uX2NhdGVnb3J5X2JlaGluZF90aGVfY29kZS5qcGc)
 
 - All our code for the capacity & automation layer is available on [GitHub TFTech](https://github.com/threefoldtech)
 - All our code for the new crystal twin (the experience on top of the capacity) is on [GitHub Crystal Universe](https://github.com/crystaluniverse)
