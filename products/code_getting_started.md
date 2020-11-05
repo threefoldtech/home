@@ -28,8 +28,11 @@ Each repository has a license file please consult the license before using the s
 
 ## overview of some components
 
+We do realize it is still very difficult today based on the repos alone to get started. The documentation is by no means complete and it still requires a lot of knowledge to get started without help.
+
 ### Zero-OS
 
+( [Zero-OS](https://github.com/threefoldtech/zos): our low level operating system
 * [0-core](https://github.com/threefoldtech/0-core): The core of Zero-OS which is the Zero-OS replacement for systemd
 * [0-fs](https://github.com/threefoldtech/0-fs): The storage layer of our container technology
 * [0-initramfs](https://github.com/threefoldtech/0-initramfs): All that is needed to build the Zero-OS-kernel and initramfs to start root filesystem
@@ -39,19 +42,46 @@ Each repository has a license file please consult the license before using the s
 * [0-db](https://github.com/threefoldtech/0-db): A super fast and efficient key-value store redis-protocol with fast indexing
 * [0-flist](https://github.com/threefoldtech/0-flist): Tool to create and manage flists. The flist file format creates a small file with enough information to make a complete filesystem available without the data payload itself
 * [flist-builder](https://github.com/threefoldtech/flist-builder-config): autobuilder config template
+* [bus for interprocess communication](https://github.com/threefoldtech/zbus)
+* [distributed storage layer - 0-stor](https://github.com/threefoldtech/0-stor)
 
 ## Our Automation layer
 
 * JumpscaleX: Cloud automation framework. 
     * [JS-NG](https://github.com/threefoldtech/js-ng)
-* python version of our 3bot
+* Zero-CI - [continuous integration layer](https://github.com/threefoldtech/zeroCI)
+* [Some docker images which can be converted to flists](https://github.com/threefoldtech/tf-images)
+
+## Some tools for TFGrid
+
+- https://github.com/threefoldtech/tfexplorer ; explorer overview
+- https://github.com/threefoldtech/nodes-explorer; explorer overview which unifies the 3 nets (testnet, production net & development net)
+- https://github.com/threefoldtech/3bot_wallet: a stellar wallet (there are many more stellar wallets out there)
+- tools for our planetary wan: https://github.com/threefoldtech/yggdrasil-desktop-client
+- [S3 compatible layer based on minio, adjusted to use our storage backend](https://github.com/threefoldtech/minio)
+- [webgateway = network gateway](https://github.com/threefoldtech/tfgateway)
+- [network wall component, called tcprouter originally, now being changed to become more](https://github.com/threefoldtech/tcprouter)
+
+## Some of the repo's for 3bot
+
+- https://github.com/threefoldtech/bcdb: the blockchain database lives on top of ZDB & Zero-Stor
+- python version of our 3bot
     * [JS-SDK: Threefold Grid SDK](https://github.com/threefoldtech/js-sdk)
+- many of the work don here is in the Crystal Universe account (See next)
 
-## Some Crystal Tools
 
+## Crystal Universe (home for the crystal twin)
+
+* https://github.com/crystaluniverse/crystaltwin : first crystal lang based version of the crystal twin (WIP)
+* https://github.com/crystaluniverse/crystaltools : supporting tools 
 * [PublishingTools](https://github.com/crystaluniverse/publishingtools): Web content publishing system
+* https://github.com/crystaluniverse/bcdb-client : client for BCDB
+* https://github.com/crystaluniverse/crystalserver : server v1 for the crystal twin, working on new version
+* https://github.com/crystaluniverse/crystalstore : the file stor backend
+* https://github.com/crystaluniverse/crystaldrive : the file stor
+* https://github.com/crystaluniverse/Simulator : simulator for the TFGrod
+* https://github.com/crystaluniverse/crystaldrive-ui : Web UI for the crystal drive
 
-We do realize it is still very difficult today based on the repos alone to get started. The documentation is by no means complete and it still requires a lot of knowledge to get started without help.
 
 ## Open Source
 
