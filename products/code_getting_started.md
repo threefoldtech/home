@@ -15,7 +15,6 @@ Each repository has a license file please consult the license before using the s
 - [product & technology information](secure.threefold.tech/pad/#/2/pad/view/NID3eKn0Ui6FWiXXy6zn-fv8fUsWY8Hr83f3JEHJIAg/embed/)
 - whitepapers: https://wiki.threefold.io/#/whitepapers
 - [cloud offering using components as described below](https://info.threefold.tech/#/hercules_components)
-- [competitive overview](https://info.threefold.tech/#/competitive)
 
 ## web info threefold
 
