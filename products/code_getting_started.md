@@ -32,7 +32,7 @@ We do realize it is still very difficult today based on the repos alone to get s
 
 ### Zero-OS
 
-( [Zero-OS](https://github.com/threefoldtech/zos): our low level operating system
+* [Zero-OS](https://github.com/threefoldtech/zos): our low level operating system
 * [0-core](https://github.com/threefoldtech/0-core): The core of Zero-OS which is the Zero-OS replacement for systemd
 * [0-fs](https://github.com/threefoldtech/0-fs): The storage layer of our container technology
 * [0-initramfs](https://github.com/threefoldtech/0-initramfs): All that is needed to build the Zero-OS-kernel and initramfs to start root filesystem
