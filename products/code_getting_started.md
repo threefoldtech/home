@@ -4,9 +4,9 @@
 
 ![](https://cdn-images.welcometothejungle.com/5DDbrp9_kdlw05Z0hzc7kYEpaaruHhUUWJqs-nW1o8k/rs:auto:980::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9jYXRlZ29yeS9jb3Zlci8yNjYwLzE1NDg4My9jb2xsZWN0aW9uX2NhdGVnb3J5X2JlaGluZF90aGVfY29kZS5qcGc)
 
-- All our code for the capacity & automation layer is available on [GitHub TFTech](https://github.com/threefoldtech)
-- All our code for the new crystal twin (the experience on top of the capacity) is on [GitHub Crystal Universe](https://github.com/crystaluniverse)
-- All our websites/wiki/... and ThreeFold Foundation specific code is on [GitHub ThreeFold Foundation](https://github.com/threefoldtech)
+- All our ThreeFold Tech code is available on [GitHub TFTech](https://github.com/threefoldtech)
+- TF Foundation websites/wiki/... and ThreeFold Foundation specific code is on [GitHub ThreeFold Foundation](https://github.com/threefoldtech)
+- The new crystal twin is on (set of digital twin experiences on top of the ThreeFold Grid) is on [GitHub Crystal Universe](https://github.com/crystaluniverse)
 
 Each repository has a license file please consult the license before using the source code.
 
