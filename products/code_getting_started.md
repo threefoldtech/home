@@ -16,7 +16,7 @@ Each repository has a license file please consult the license before using the s
 - whitepapers: https://wiki.threefold.io/#/whitepapers
 - [cloud offering using components as described below](https://info.threefold.tech/#/hercules_components)
 
-## web info threefold
+## info threefold
 
 - website: http://www.threefold.io/
 - knowledgebase TFGrid: http://info.threefold.io/
