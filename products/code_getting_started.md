@@ -47,12 +47,19 @@ We do realize it is still very difficult today based on the repos alone to get s
 
 ## Our Automation layer
 
-* JumpscaleX: Cloud automation framework. 
+* Jumpscale 11 = next gent: Cloud automation framework (is our 11th generation of this framework and a big rework). 
     * [JS-NG](https://github.com/threefoldtech/js-ng)
 * Zero-CI - [continuous integration layer](https://github.com/threefoldtech/zeroCI)
 * [Some docker images which can be converted to flists](https://github.com/threefoldtech/tf-images)
+* v10 of jumpscale which still has lots of knowledge inside (big codebase)
+   - https://github.com/threefoldtech/jumpscaleX_core
+   - https://github.com/threefoldtech/jumpscaleX_threebot. (the alpha version of our 3bot server)
+   - https://github.com/threefoldtech/jumpscaleX_libs
+   - https://github.com/threefoldtech/jumpscaleX_libs_extra
+   - https://github.com/threefoldtech/jumpscaleX_weblibs 
+   - https://github.com/threefoldtech/jumpscaleX_builders (builders for all kinds of software using jumpscale)
 
-## Some tools for TFGrid
+## TFGrid Tools
 
 - https://github.com/threefoldtech/tfexplorer ; explorer overview
 - https://github.com/threefoldtech/nodes-explorer; explorer overview which unifies the 3 nets (testnet, production net & development net)
@@ -61,26 +68,31 @@ We do realize it is still very difficult today based on the repos alone to get s
 - [S3 compatible layer based on minio, adjusted to use our storage backend](https://github.com/threefoldtech/minio)
 - [webgateway = network gateway](https://github.com/threefoldtech/tfgateway)
 - [network wall component, called tcprouter originally, now being changed to become more](https://github.com/threefoldtech/tcprouter)
+* https://github.com/crystaluniverse/Simulator : simulator for the TFGrid
 
-## Some of the repo's for 3bot
+## 3Bot 
 
-- https://github.com/threefoldtech/bcdb: the blockchain database lives on top of ZDB & Zero-Stor
-- python version of our 3bot
-    * [JS-SDK: Threefold Grid SDK](https://github.com/threefoldtech/js-sdk)
-- many of the work don here is in the Crystal Universe account (See next)
+The 3Bot is your digital avatar which as first use case acts as your virtual system administrator.
+3Bot v1 is build using Jumpscale NG
 
+- [BCDB Server](https://github.com/threefoldtech/bcdb): the blockchain database lives on top of ZDB & Zero-Stor, the heart of our data stor
+- [BCDB Client](https://github.com/threefoldtech/bcdb-client) : client for BCDB
+- python version of our 3bot server
+    * [3Bot Server v1 and Threefold Grid SDK](https://github.com/threefoldtech/js-sdk)
 
 ## Crystal Universe (home for the crystal twin)
+
+Is a layer on top of the ThreeFold Grid, mainly developed out of [Incubaid](https://www.incubaid.com/) and contributed from TFTech NV.
 
 * https://github.com/crystaluniverse/crystaltwin : first crystal lang based version of the crystal twin (WIP)
 * https://github.com/crystaluniverse/crystaltools : supporting tools 
 * [PublishingTools](https://github.com/crystaluniverse/publishingtools): Web content publishing system
-* https://github.com/crystaluniverse/bcdb-client : client for BCDB
 * https://github.com/crystaluniverse/crystalserver : server v1 for the crystal twin, working on new version
 * https://github.com/crystaluniverse/crystalstore : the file stor backend
 * https://github.com/crystaluniverse/crystaldrive : the file stor
-* https://github.com/crystaluniverse/Simulator : simulator for the TFGrod
 * https://github.com/crystaluniverse/crystaldrive-ui : Web UI for the crystal drive
+
+Many more repo's in https://github.com/crystaluniverse
 
 
 ## Open Source
