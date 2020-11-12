@@ -74,10 +74,12 @@ We do realize it is still very difficult today based on the repos alone to get s
 The 3Bot is your digital avatar which as first use case acts as your virtual system administrator.
 3Bot v1 is build using Jumpscale NG
 
+- python version of our 3bot admin
+    * [3Bot Admin built Threefold Grid SDK](https://github.com/threefoldtech/js-sdk)
+- python version of our 3bot server
+    * [3Bot Server built with Threefold Grid SDK](https://github.com/threefoldtech/js-sdk)
 - [BCDB Server](https://github.com/threefoldtech/bcdb): the blockchain database lives on top of ZDB & Zero-Stor, the heart of our data stor
 - [BCDB Client](https://github.com/threefoldtech/bcdb-client) : client for BCDB
-- python version of our 3bot server
-    * [3Bot Server v1 and Threefold Grid SDK](https://github.com/threefoldtech/js-sdk)
 
 ## Crystal Universe (home for the crystal twin)
 
