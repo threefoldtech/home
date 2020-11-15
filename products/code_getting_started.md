@@ -20,10 +20,10 @@ Each repository has a license file please consult the license before using the s
 
 - website: http://www.threefold.io/
 - knowledgebase TFGrid: http://info.threefold.io/
-- get started with the capacity layer on TFGrid: https://manual.threefold.io/
-- access to your virtual system administrator: https://deploy3bot.grid.tf/
-- explorer: overview of existing grid capacity: https://explorer.threefold.io/ 
-- threefold now = marketplace on top of TFGrid ([commercial info](https://now.threefold.io/), [marketplace](https://marketplace.threefold.io/)): 
+- get started with the capacity layer on TFGrid: https://manual.threefold.io
+- access to your virtual system administrator: https://deploy3bot.grid.tf
+- explorer: overview of existing grid capacity: https://explorer.threefold.io
+- threefold now = marketplace on top of TFGrid ([commercial info](https://now.threefold.io), [marketplace](https://marketplace.threefold.io)): 
 
 
 ## overview of some components
