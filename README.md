@@ -25,7 +25,7 @@
 
 Not really used for production more as side projects or tools
 
-- Publishing Tools
+- Publishing Tools (https://github.com/threebotserver/publishingtools)
 
 ## 3e party Products
 
@@ -38,11 +38,13 @@ which will be or are integrated with 3bot, digital twin or tfgrid.
 
 ## Teams & Open projects
 
-- [team thabet stories](https://github.com/orgs/threefoldtech/projects/59?card_filter_query=label%3Atype_story)
+- [team cairo](https://github.com/orgs/threefoldtech/projects/125)
+  - [Virtual Datacenter](https://github.com/orgs/threefoldtech/projects/121)
+  - [Marketplace 2.4](https://github.com/orgs/threefoldtech/projects/126)
   - [publishing tools](https://github.com/threebotserver/publishingtools/projects)
   - [web presence](https://github.com/orgs/threefoldfoundation/projects/16)
-  - [NG project](https://github.com/orgs/js-next/projects)
-- [team reem stories](https://github.com/orgs/threefoldtech/projects/58?card_filter_query=label%3Atype_story)
+  - [JS-NG](https://github.com/orgs/threefoldtech/js-ng/projects/1)
+  - [JS-SDK](https://github.com/orgs/threefoldtech/js-sdk/projects/1)
 - [team jimber stories](https://github.com/orgs/threefoldtech/projects/60?card_filter_query=label%3Atype_story) (front-ends)
 - [team web]() Kristine
 - team ramez
