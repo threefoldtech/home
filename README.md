@@ -11,9 +11,9 @@
   - **IT solutions catalog** (used in 3bot for experts)
   - **[community solutions catalog](https://github.com/threefoldtech/vdc-solutions-charts)** (used in VDC version of 3bot for the normal users)
   - components: 
-    - js-ng v11.1
-    - js-sdk v11.1
-    - threefold-connect (IOS, Desktop, Android)
+    - [js-ng](https://github.com/threefoldtech/js-ng) [v11.1](https://github.com/threefoldtech/js-ng/projects/1)
+    - [js-sdk](https://github.com/threefoldtech/js-sdk) [v11.1](https://github.com/threefoldtech/js-sdk/projects/1)
+    - [threefold-connect](https://github.com/threefoldtech/3Bot_connect)
     -  ... 
 - tfgrid: next version 2.4 Dec on Testnet
   - is our P2P cloud
