@@ -4,10 +4,15 @@ The development process of our projects is agile, collaborative and above all, r
 
 ## github project based
 
+All our products are developed starting from Github.
+
 ### the std projects are product/component releases
 
-Typically a project is a product_version or component_version, sometimes it can be a life service e.g. a tfgrid_1.0.0.
+Typically a project is a product_version or component_version, sometimes it can be a to be delivered service e.g. a tfgrid_1.0.0.
 Each project has a clear owner and purpose.  
+
+Try to define the projects on the repo itself e.g. jsng repo has the releases there, each release is a nr.
+Only in exceptional cases where a release of product needs to be over more than 1 repo then make it on account level in github.
 
 The used swimlanes:
 
@@ -25,10 +30,6 @@ The used swimlanes:
     - the team delivered the feature/bug/storry
     - stakeholders need to agree that the issue has been resolved appropriately
     - project owner can never go from Verification to done without approval from stakeholders (often represented by qa team)
-    - verification on a story is done in 2 steps : 
-       - Story moved to verification once code complete
-       - Verification is done on story branch in case it hadn't been merged to the development branch and code moved to development when verification OK, regression testing is running automated with the ZeroCi and report should be green before release
-
 - ```Done```
     - everyone agreed (project owner and stakeholders) agreed that the issue was done ok
 
@@ -39,7 +40,8 @@ The used swimlanes:
 - priorities:
     - "priority_cricital" means team needs to do in the same day (every other work needs to be suspended until done)
         - if it cannot be done in time, escalation needs to happen asap (not next day)
-    - "priority_major" means the task should be done in within 48 hours
+    - "priority_major" means the task should be done in within 48 hours (exceptional 3 days, if its simply a too big issue)
+        - this means, any priority task gets priority on everything else
 
 The used swimlanes:
 
@@ -58,16 +60,9 @@ The used swimlanes:
     - the team delivered the feature/bug/story
     - stakeholders need to agree that the issue has been resolved appropriately
     - project owner can never go from Verification to done without approval from stakeholders (often represented by qa team)
-    - verification on a story is done in 2 steps : 
-       - Story moved to verification once code complete
-       - Verification is done on story branch in case it hadn't been merged to the development branch and code moved to development when verification OK, regression testing is running automated with the ZeroCi and report should be green before release
 - ```Done```
     - everyone agreed (project owner and stakeholders) agreed that the issue was done ok
     - check that the item is also in a prioject release and on right state (if relevant, not everything is on product release project)
-
-
-
-
 
 ## funnel of issues, bugs and feature requests
 
@@ -132,6 +127,7 @@ As soon as work is started on a different branch where a developer or a group of
 - well documented
 
 ### Releasing process
+
 - Before tagging a release, open a branch named with the intended version e.g 10.5.x with the quality level 
   - alpha: doesn't have all the features, but you can use the features in there
   - beta: no major, or blocking bugs. all features working for the customer as promised, no blocking bugs
@@ -139,6 +135,7 @@ As soon as work is started on a different branch where a developer or a group of
   
   
 #### blocking
+
 - customer can't get to the functionality described in the manaul
 - stability when it crashes is blocking
 - security issues are blocking 
@@ -171,4 +168,16 @@ Link back to used circles on projects.threefold.me
 - DO NOT PUT bugs / fr / questions here
 - PUT ALL STORIES HERE 
 
+## link to product management
+
+- see https://circles.threefold.me/project/team_product/backlog
+- all stories here are the link between engineering and customers
+- Kristof is owning product management, Sasha is helping to streamline the process
+- DONT PUT DETAILED SPECS OR ENGINEERING ACTIONS IN THE CIRCLES TOOL
+
+## what about testing
+
+- verification on a story is done in 2 steps : 
+   - Story moved to verification once code complete
+   - When relevant: Verification is done on story branch in case it hadn't been merged to the development branch and code moved to development when verification OK, regression testing is running automated with the ZeroCi and report should be green before release
 
