@@ -50,5 +50,5 @@ which will be or are integrated with 3bot, digital twin or tfgrid.
 - team ramez
   - [Support](https://circles.threefold.me/project/sabrinasadik-tf-support/kanban)
   - [web presence for deployments requests](https://github.com/orgs/threefoldfoundation/projects/16)
-
+- [team belgium](https://github.com/orgs/threefoldtech/projects/61)
 
