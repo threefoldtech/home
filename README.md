@@ -15,7 +15,7 @@
   - **[Community Solutions Catalog](https://github.com/threefoldtech/vdc-solutions-charts)** (used in VDC version of 3bot for the normal users)
   - **Components:**
     - [JS-NG](https://github.com/threefoldtech/js-ng) 
-        - [JS-NG v11.1 Project](https://github.com/threefoldtech/js-ng/projects/1),
+        - [JS-NG v11.1 Project](https://github.com/threefoldtech/js-ng/projects/1)
         - JS-NG latest pre-release [v11.0-b9](https://github.com/threefoldtech/js-ng/releases/tag/v11.0-b9)
     - [JS-SDK](https://github.com/threefoldtech/js-sdk)
         - [JS-SDK v11.1 Project](https://github.com/threefoldtech/js-sdk/projects/1)
@@ -50,7 +50,7 @@
       - [0-Stor v1.2.2 Project](https://github.com/threefoldtech/0-stor/projects/3)
       - 0-Stor latest release [v.1.2.1](https://github.com/threefoldtech/0-stor/releases/tag/v1.2.1)
     - [BCDB](https://github.com/threefoldtech/bcdb) 
-      - [BCDB v0.2.1 Projext](https://github.com/threefoldtech/bcdb/projects/1)
+      - [BCDB v0.2.1 Project](https://github.com/threefoldtech/bcdb/projects/1)
       - BCDB latest release [v0.2.0](https://github.com/threefoldtech/bcdb/releases/tag/v0.2)
     - [Core-X](https://github.com/threefoldtech/corex) 
       - [Core-X v2.1.4 Project](https://github.com/threefoldtech/corex/projects/1)
@@ -69,12 +69,12 @@
       - 0-Hub latest official release [1.1.0-alpha-7](https://github.com/threefoldtech/0-hub/releases/tag/v1.1.0-alpha-7)
 
 - **ThreeFold Private Virtual Datacenter (TF VDC)**: Next version 0.1.0 Dec on Testnet.
+    - [TF VDC 0.1.0 Project](https://github.com/orgs/threefoldtech/projects/121)
+    - [ThreeFold VDC repository](https://github.com/threefoldtech/vdc)
     - Deploy containerized Linux IT workload on the grid.
     - Setup and manage Kubernetes cluster and containers on the grid, and many more.
-    - [ThreeFold VDC repository](https://github.com/threefoldtech/vdc)
-    - [TF VDC 0.1.0 Project](https://github.com/orgs/threefoldtech/projects/121)
 
-- **Integrated Products**
+- **Integrated Third-party Products**
     - Products that are / will be integrated with 3Bot, Digital Twin or TF VDC or TF Grid.
     - [ThreeFold Network Connector](https://github.com/threefoldtech/yggdrasil-desktop-client)
       - [TF Network Connector v0.1.0 Project](https://github.com/threefoldtech/yggdrasil-desktop-client/projects/1)
@@ -90,7 +90,7 @@
 - **ThreeFold Digital Twin**: v1.0 Q1 2021 in Beta
   - More info soon.
 
-## Side Products
+- **Side Products**
   - Side projects or publishing tools
     - [Publishing Tools](https://github.com/threebotserver/publishingtools)
     - [ThreeFold Forum: discourse](https://github.com/threefoldtech/threefold-forums)
@@ -99,20 +99,19 @@
     - [TF Gridsome Website Template](https://github.com/threefoldfoundation/www_examplesite)
 
 
+## Teams & Projects
 
-## Teams & Open projects
+### Team-based projects
+- [Belgium Team](https://github.com/orgs/threefoldtech/projects/61)
+- [Egypt-1 Team](https://github.com/orgs/threefoldtech/projects/127)
+- [Egypt-2 Team](https://github.com/orgs/threefoldtech/projects/128)
+- [Jimber Team](https://github.com/orgs/threefoldtech/projects/60)
+- [Dubai Team](https://github.com/orgs/threefoldtech/projects/130)
+- [Support Team](https://circles.threefold.me/project/sabrinasadik-tf-support/kanban)
+- [DevOps Team](https://circles.threefold.me/project/team_operations/backlog?no-milestone=1)
 
-- [team cairo](https://github.com/orgs/threefoldtech/projects/125)
-  - [Virtual Datacenter](https://github.com/orgs/threefoldtech/projects/121)
-  - [Marketplace 2.4](https://github.com/orgs/threefoldtech/projects/126)
-  - [publishing tools](https://github.com/threebotserver/publishingtools/projects)
-  - [web presence](https://github.com/orgs/threefoldfoundation/projects/16)
-  - [JS-NG](https://github.com/orgs/threefoldtech/js-ng/projects/1)
-  - [JS-SDK](https://github.com/orgs/threefoldtech/js-sdk/projects/1)
-- [team jimber stories](https://github.com/orgs/threefoldtech/projects/60?card_filter_query=label%3Atype_story) (front-ends)
-- [team web]() Kristine
-- team ramez
-  - [Support](https://circles.threefold.me/project/sabrinasadik-tf-support/kanban)
-  - [web presence for deployments requests](https://github.com/orgs/threefoldfoundation/projects/16)
-- [team belgium](https://github.com/orgs/threefoldtech/projects/61)
+### Product-based projects
+  - [TF VDC 0.1.0 Project](https://github.com/orgs/threefoldtech/projects/121)
+  - [3Bot 2.4.0 Project](https://github.com/orgs/threefoldtech/projects/129)
+  - [ThreeFold Grid 2.4 Project](https://github.com/orgs/threefoldtech/projects/118)
 
