@@ -73,13 +73,11 @@
     - [ThreeFold VDC repository](https://github.com/threefoldtech/vdc)
     - [TF VDC 0.1.0 Project](https://github.com/orgs/threefoldtech/projects/121)
 
-
-
-- **Integrated Products
-- Products that are / will be integrated with 3Bot, Digital Twin or TF VDC or TF Grid.
-- [ThreeFold Network Connector](https://github.com/threefoldtech/yggdrasil-desktop-client)
-  - [TF Network Connector v0.1.0 Project](https://github.com/threefoldtech/yggdrasil-desktop-client/projects/1)
-  - First pre-release of TF Network Connector [v0.1.0](https://github.com/threefoldtech/yggdrasil-desktop-client/releases/tag/v0.1.0)
+- **Integrated Products**
+    - Products that are / will be integrated with 3Bot, Digital Twin or TF VDC or TF Grid.
+    - [ThreeFold Network Connector](https://github.com/threefoldtech/yggdrasil-desktop-client)
+      - [TF Network Connector v0.1.0 Project](https://github.com/threefoldtech/yggdrasil-desktop-client/projects/1)
+      - First pre-release of TF Network Connector [v0.1.0](https://github.com/threefoldtech/yggdrasil-desktop-client/releases/tag/v0.1.0)
 
 - Office
 - Zoom alternative
