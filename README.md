@@ -90,10 +90,12 @@
   - More info soon.
 
 ## Side Products
-
-Not really used for production more as side projects or tools
-
-- Publishing Tools (https://github.com/threebotserver/publishingtools)
+  - Side projects or publishing tools
+    - [Publishing Tools](https://github.com/threebotserver/publishingtools)
+    - [ThreeFold Forum: discourse](https://github.com/threefoldtech/threefold-forums)
+    - [TF Blog Template](https://github.com/threefoldfoundation/blog_example)
+    - [TF Wiki / Knowledgebase Template](https://github.com/threefoldfoundation/wiki_example)
+    - [TF Gridsome Website Template](https://github.com/threefoldfoundation/www_examplesite)
 
 
 
