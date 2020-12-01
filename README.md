@@ -85,6 +85,7 @@
       - Crystal Meet latest release (back-end) [v1.2.0-rc3](https://github.com/crystaluniverse/crystalmeet_backend/releases/tag/v1.2.0-rc3)
   - [TF Gitea: self-hosted Git service](https://github.com/threefoldtech/tf-gitea)
   - Taiga: Project Management Tool [front-end](https://github.com/threefoldtech/taiga-front)/[back-end](https://github.com/threefoldtech/taiga-back)
+  - [TF Filebrowser](https://github.com/crystaluniverse/crystal_filebrowser)
 
 - **ThreeFold Digital Twin**: v1.0 Q1 2021 in Beta
   - More info soon.
