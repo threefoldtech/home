@@ -26,6 +26,7 @@
     - [3Bot Deployer](https://github.com/threefoldtech/js-sdk)
          - [3Bot Deployer 2.3.0 Project](https://github.com/orgs/threefoldtech/projects/113)
     - [ThreeFold NOW Marketplace DEMO](https://marketplace.threefold.io/marketplace/#/)
+        - [TF NOW Marketplace 2.4.0 Project](https://github.com/orgs/threefoldtech/projects/126)
   
 - **ThreeFold Grid**: Next version 2.4 Dec on Testnet.
   - [ThreeFold Grid 2.4 Project](https://github.com/orgs/threefoldtech/projects/118)
