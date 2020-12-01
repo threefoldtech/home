@@ -108,7 +108,7 @@
 - [Jimber Team](https://github.com/orgs/threefoldtech/projects/60)
 - [Dubai Team](https://github.com/orgs/threefoldtech/projects/130)
 - [Support Team](https://circles.threefold.me/project/sabrinasadik-tf-support/kanban)
-- [DevOps Team](https://circles.threefold.me/project/team_operations/backlog?no-milestone=1)
+- [DevOps Team](https://github.com/orgs/threefoldtech/projects/66)
 
 ### Product-based projects
   - [TF VDC 0.1.0 Project](https://github.com/orgs/threefoldtech/projects/121)
