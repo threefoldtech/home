@@ -64,13 +64,26 @@
       - [0-DB v1.1.0 Project](https://github.com/threefoldtech/0-db/projects/1)
       - 0-DB First official pre-release [v1.1.0-rc1](https://github.com/threefoldtech/0-db/releases/tag/v1.0.0-rc1)
     - [0-Hub](https://github.com/threefoldtech/0-hub)
+      - [0-Hub v1.1.0 Project](https://github.com/threefoldtech/0-hub/projects/1)
       - 0-Hub latest official release [1.1.0-alpha-7](https://github.com/threefoldtech/0-hub/releases/tag/v1.1.0-alpha-7)
 
 - **ThreeFold Private Virtual Datacenter (TF VDC)**: Next version 0.1.0 Dec on Testnet.
-    - [ThreeFold VDC repository](https://github.com/threefoldtech/vdc)
-    - [TF VDC 0.1.0 Project](https://github.com/orgs/threefoldtech/projects/121)
     - Deploy containerized Linux IT workload on the grid.
     - Setup and manage Kubernetes cluster and containers on the grid, and many more.
+    - [ThreeFold VDC repository](https://github.com/threefoldtech/vdc)
+    - [TF VDC 0.1.0 Project](https://github.com/orgs/threefoldtech/projects/121)
+
+
+
+- **Integrated Products
+- Products that are / will be integrated with 3Bot, Digital Twin or TF VDC or TF Grid.
+- [ThreeFold Network Connector](https://github.com/threefoldtech/yggdrasil-desktop-client)
+  - [TF Network Connector v0.1.0 Project](https://github.com/threefoldtech/yggdrasil-desktop-client/projects/1)
+  - First pre-release of TF Network Connector [v0.1.0](https://github.com/threefoldtech/yggdrasil-desktop-client/releases/tag/v0.1.0)
+
+- Office
+- Zoom alternative
+- ...
 
 - **ThreeFold Digital Twin**: v1.0 Q1 2021 in Beta
   - More info soon.
@@ -81,13 +94,6 @@ Not really used for production more as side projects or tools
 
 - Publishing Tools (https://github.com/threebotserver/publishingtools)
 
-## 3e party Products
-
-which will be or are integrated with 3bot, digital twin or tfgrid.
-
-- Office
-- Zoom alternative
-- ...
 
 
 ## Teams & Open projects
