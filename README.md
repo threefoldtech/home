@@ -79,12 +79,12 @@
     - [ThreeFold Network Connector](https://github.com/threefoldtech/yggdrasil-desktop-client)
       - [TF Network Connector v0.1.0 Project](https://github.com/threefoldtech/yggdrasil-desktop-client/projects/1)
       - First pre-release of TF Network Connector [v0.1.0](https://github.com/threefoldtech/yggdrasil-desktop-client/releases/tag/v0.1.0)
-    - Freeflow Connect / Crystal Meet Video-calling App [Front-end](https://github.com/crystaluniverse/crystalmeet_frontend)/[back-end](https://github.com/crystaluniverse/crystalmeet_backend)
+    - Freeflow Connect / Crystal Meet: Video-calling App [Front-end](https://github.com/crystaluniverse/crystalmeet_frontend)/[back-end](https://github.com/crystaluniverse/crystalmeet_backend)
       - [Freeflow Connect v2.0 Project](https://github.com/orgs/threefoldtech/projects/82)
       - Crystal Meet latest release (front-end) [v3.8.0](https://github.com/crystaluniverse/crystalmeet_frontend/releases/tag/v3.8.0)
       - Crystal Meet latest release (back-end) [v1.2.0-rc3](https://github.com/crystaluniverse/crystalmeet_backend/releases/tag/v1.2.0-rc3)
-
-- Office
+  - [TF Gitea: self-hosted Git service](https://github.com/threefoldtech/tf-gitea)
+  - Taiga: Project Management Tool [front-end](https://github.com/threefoldtech/taiga-front)/[back-end](https://github.com/threefoldtech/taiga-back)
 
 - **ThreeFold Digital Twin**: v1.0 Q1 2021 in Beta
   - More info soon.
