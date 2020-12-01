@@ -7,7 +7,7 @@
 
 - __3Bot__: Next version 2.4 Dec on Testnet. 
   - [3Bot 2.4.0 Project](https://github.com/orgs/threefoldtech/projects/129)
-  - 3Bot Latest release [v2.3.0](https:/https://github.com/orgs/threefoldtech/projects/129)/manual.threefold.io/#/release_notes_2.3.0?id=_3bot) (November 2020)
+  - 3Bot Latest release [v2.3.0](https://manual.threefold.io/#/release_notes_2.3.0?id=_3bot) (November 2020)
   - The virtual system administrator for TF Grid
   - Used for ThreeFold VDC: Threefold Private Virtual Datacenter
   - **IT solutions Catalog** (used in 3Bot for experts)
@@ -27,7 +27,7 @@
          - [3Bot Deployer 2.3.0 Project](https://github.com/orgs/threefoldtech/projects/113)
     - [ThreeFold NOW Marketplace DEMO](https://marketplace.threefold.io/marketplace/#/)
   
-- **ThreeFold Grid**: next version 2.4 Dec on Testnet.
+- **ThreeFold Grid**: Next version 2.4 Dec on Testnet.
   - [ThreeFold Grid 2.4 Project](https://github.com/orgs/threefoldtech/projects/118)
   - Latest release [v2.3.0](https://manual.threefold.io/#/release_notes_2.3.0?id=tf-grid-230-release-notes) (November 2020)
   - TF Grid is TF P2P cloud
@@ -55,7 +55,7 @@
       - [Core-X v2.1.4 Project](https://github.com/threefoldtech/corex/projects/1)
       - Core-X latest release [v2.1.3](https://github.com/threefoldtech/corex/releases/tag/2.1.3)
     - [TCP Router (Web Gateway)](https://github.com/threefoldtech/tcprouter) 
-      - (TCP Router v0.1.1 Project](https://github.com/threefoldtech/tcprouter/projects/1)
+      - [TCP Router v0.1.1 Project](https://github.com/threefoldtech/tcprouter/projects/1)
       - TCP Router latest release [v0.1.0](https://github.com/threefoldtech/tcprouter/releases/tag/v0.1.0)
     - [TF Explorer](https://github.com/threefoldtech/nodes-explorer) 
       - [TF Explorer v.1.0.2 Project](https://github.com/threefoldtech/nodes-explorer/projects/1)
@@ -66,8 +66,14 @@
     - [0-Hub](https://github.com/threefoldtech/0-hub)
       - 0-Hub latest official release [1.1.0-alpha-7](https://github.com/threefoldtech/0-hub/releases/tag/v1.1.0-alpha-7)
 
-- digital twin: 1.0 Q1 2021 in Beta
-  - ... TBD Kristof
+- **ThreeFold Private Virtual Datacenter (TF VDC)**: Next version 0.1.0 Dec on Testnet.
+    - [ThreeFold VDC repository](https://github.com/threefoldtech/vdc)
+    - [TF VDC 0.1.0 Project](https://github.com/orgs/threefoldtech/projects/121)
+    - Deploy containerized Linux IT workload on the grid.
+    - Setup and manage Kubernetes cluster and containers on the grid, and many more.
+
+- **ThreeFold Digital Twin**: v1.0 Q1 2021 in Beta
+  - More info soon.
 
 ## Side Products
 
