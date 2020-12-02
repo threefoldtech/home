@@ -35,7 +35,7 @@
   - +18,000 CPU cores, +90,000,000 GB of online storage, +21 countries
   - **Components:**
     - [ZOS](https://github.com/threefoldtech/zos) 
-      - [ZOS v0.4.7 Project](https://github.com/threefoldtech/zos/projects/2)
+      - [ZOS v0.4.7 Project](https://github.com/orgs/threefoldtech/projects/112)
       - ZOS latest release [v.0.4.6](https://github.com/threefoldtech/zos/releases/tag/v0.4.6)
     - [0-initramfs](https://github.com/threefoldtech/0-initramfs) 
       - [0-initramfs v2.1.0 Project](https://github.com/threefoldtech/0-initramfs/projects/1)
@@ -69,6 +69,7 @@
       - 0-Hub latest official release [1.1.0-alpha-7](https://github.com/threefoldtech/0-hub/releases/tag/v1.1.0-alpha-7)
 
 - **ThreeFold Private Virtual Datacenter (TF VDC)**: Next version 0.1.0 Dec on Testnet.
+    - VDC Knowledgebase [vdc.threefold.io](vdc.threefold.io)
     - [TF VDC 0.1.0 Project](https://github.com/orgs/threefoldtech/projects/121)
     - [ThreeFold VDC repository](https://github.com/threefoldtech/vdc)
     - Deploy containerized Linux IT workload on the grid.
