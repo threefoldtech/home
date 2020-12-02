@@ -21,7 +21,7 @@
         - [JS-SDK v11.1 Project](https://github.com/threefoldtech/js-sdk/projects/1)
         - JS-SDK latest pre-release [v11.0-b3](https://github.com/threefoldtech/js-sdk/releases/tag/v11.0-b13)
     - [ThreeFold Connect](https://github.com/threefoldtech/3Bot_connect)
-        - [TF Connect 2.2.0 Project](https://github.com/threefoldtech/3Bot_connect/projects/2)
+        - [TF Connect 2.2.0 Project](https://github.com/orgs/threefoldtech/projects/123)
         - TF Connect latest release [v2.0.0](https://github.com/threefoldtech/3Bot_connect/releases/tag/v2.0.0)
     - [3Bot Deployer](https://github.com/threefoldtech/js-sdk)
          - [3Bot Deployer 2.3.0 Project](https://github.com/orgs/threefoldtech/projects/113)
@@ -33,6 +33,7 @@
   - Latest release [v2.3.0](https://manual.threefold.io/#/release_notes_2.3.0?id=tf-grid-230-release-notes) (November 2020)
   - TF Grid is TF P2P cloud
   - +18,000 CPU cores, +90,000,000 GB of online storage, +21 countries
+
   - **Components:**
     - [ZOS](https://github.com/threefoldtech/zos) 
       - ZOS latest release [v.0.4.6](https://github.com/threefoldtech/zos/releases/tag/v0.4.6)
