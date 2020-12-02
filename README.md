@@ -85,6 +85,7 @@
   - Side projects or publishing tools
     - [Publishing Tools](https://github.com/threebotserver/publishingtools)
     - [ThreeFold Forum: discourse](https://github.com/threefoldtech/threefold-forums)
+    - [TF Circle Tool](https://github.com/threefoldtech/circles_reporting_tool)
     - [TF Blog Template](https://github.com/threefoldfoundation/blog_example)
     - [TF Wiki / Knowledgebase Template](https://github.com/threefoldfoundation/wiki_example)
     - [TF Gridsome Website Template](https://github.com/threefoldfoundation/www_examplesite)
@@ -106,3 +107,5 @@
   - [3Bot 2.4.0 Project](https://github.com/orgs/threefoldtech/projects/129)
   - [ThreeFold Grid 2.4 Project](https://github.com/orgs/threefoldtech/projects/118)
 
+### Component-based projects
+   - [TF Circle Tool v.2.0](https://github.com/orgs/threefoldtech/projects/120)
