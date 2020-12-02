@@ -59,7 +59,7 @@
       - 0-Hub latest official release [1.1.0-alpha-7](https://github.com/threefoldtech/0-hub/releases/tag/v1.1.0-alpha-7)
 
 - **ThreeFold Private Virtual Datacenter (TF VDC)**: Next version 0.1.0 Dec on Testnet.
-    - VDC Knowledgebase [vdc.threefold.io](vdc.threefold.io)
+    - VDC Knowledgebase (in progress) [vdc.threefold.io](vdc.threefold.io) 
     - [TF VDC 0.1.0 Project](https://github.com/orgs/threefoldtech/projects/121)
     - [ThreeFold VDC repository](https://github.com/threefoldtech/vdc)
     - Deploy containerized Linux IT workload on the grid.
