@@ -7,7 +7,7 @@ Used for ThreeFold VDC: Threefold Private Virtual Datacenter
 
 > Next version 2.4 Dec on Testnet. 
 
-- [3Bot 2.4.0 Project](https://github.com/orgs/threefoldtech/projects/129)
+[3Bot 2.4.0 Project](https://github.com/orgs/threefoldtech/projects/129)
 
 ## Components
 
@@ -15,6 +15,5 @@ Used for ThreeFold VDC: Threefold Private Virtual Datacenter
     - [JS-NG v11.1 Project](https://github.com/threefoldtech/js-ng/projects/1)
 - [JS-SDK](https://github.com/threefoldtech/js-sdk)
     - [JS-SDK v11.1 Project](https://github.com/threefoldtech/js-sdk/projects/1)
-
 - [Community Solutions Catalog 2.3](https://github.com/threefoldtech/vdc-solutions-charts)
     - ... #TODO: link
