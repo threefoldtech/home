@@ -4,7 +4,7 @@ The development process of our projects is agile, collaborative and above all, r
 
 **github project based**
 
-## Product or Service
+## Product or Service Project (account level)
 
 Each product or service has a clear name and a version.
 
@@ -19,7 +19,7 @@ Each product or service has a clear name and a version.
 - A product can link to another product too which then links to the component !
 - A product can link to a 3e party product, also there specify the used version nrs.
 
-## Component
+## Component Project (on repo level)
 
 Normally only **1** github repo, there can be **exceptional** cases where 1 component spans repo's but this is the exception, normally it means its just more than 1 component.
 
@@ -44,6 +44,8 @@ The used swimlanes:
     
 > exception only: when component is more than 1 repo, make the project on account level, in any other case its in the repo.
 
+Example:
+
 ```markdown
 **eVDC 2.3**
 
@@ -63,12 +65,12 @@ The used swimlanes:
 
 ```
 
+You see how different products can be made up outof other products, its up to the product manager to link the right components to it.
 
 
+## team projects = team kanban (on account level)
 
-
-### team projects = team kanban
-
+- name ```team_$wellchosenname```
 - to allow a team to see which bugs,fr,stories are relevant in their current scrum
 - each day they should check what issues need to be worked on and which ones should have been done already
 - priorities:
@@ -100,24 +102,28 @@ The used swimlanes:
 
 ## funnel of issues, bugs and feature requests
 
-Each component (product, service) has one or more repositories in this threefold tech account.
-For each repository there is a list of issues which is dealt with like a funnel.
-We don't use the milestones, because projects are a more flexible way how to deal with the issues. Milestones complicate it.
+For each repository (component) there is a list of issues which is dealt with like a funnel.
+
+#### labels
 
 see [issue_labels](issue_labels.md)
+
+#### branche names in title
 
 Each issue has the name of branch in the title as [development_something], the name 'development' can be skipped its the default os previous could also be written as [something] but don't forget branch is development_...
 If not specified, it is to be fixed/developed on development.
 
-### milestones
+#### milestones for issues
 
 We dont use milestones for version numbers, this should be part of project, a project allows us to see when a release will be delivered.
 
-There are 3 milestones we suggest to use though
+> We use the milestones as a mechanism to manage the funnel
 
-- now, which means the issue has been planned for an active project and is linked to it
-- next, which means planned for next release (which will be a project to be defined) whatever that one is
-- later, which means we don't look at it now, its for future releases
+- no milestone means need to be sorted
+- milestone now means: bug/fr is in a component version for the release we are working on
+- milestone next means: bug/fr is planned for next component version
+- milestone later means: bug/fr not to be dealt with now, somewhere in future we will look back at it
+
 
 so issues with no milestones can only be in 1 condition: new and not sorted out yet where it belongs
 
