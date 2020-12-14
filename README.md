@@ -104,7 +104,6 @@
 
 ### Product-based projects
   - [TF VDC 0.1.0 Project](https://github.com/orgs/threefoldtech/projects/121)
-  - [3Bot 2.4.0 Project](https://github.com/orgs/threefoldtech/projects/129)
   - [ThreeFold Grid 2.4 Project](https://github.com/orgs/threefoldtech/projects/118)
 
 ### Component-based projects
