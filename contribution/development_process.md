@@ -2,17 +2,26 @@
 
 The development process of our projects is agile, collaborative and above all, respectful. we believe in the ingenuity of the people and that everyone has invaluable input to our codebase.
 
-## github project based
+**github project based**
 
-All our products are developed starting from Github.
+## Product or Service
 
-### the std projects are product/component releases
+Each product or service has a clear name and a version.
 
-Typically a project is a product_version or component_version, sometimes it can be a to be delivered service e.g. a tfgrid_1.0.0.
-Each project has a clear owner and purpose.  
+- The name is ```product_$name_$versionnr``` and is hosted on account level
 
-Try to define the projects on the repo itself e.g. jsng repo has the releases there, each release is a nr.
-Only in exceptional cases where a release of product needs to be over more than 1 repo then make it on account level in github.
+- Each product (service) is something as delivered to customers.
+- Each product (service) is define on a product page in the "home" repo.
+- the home page in the home repo links to the product pages
+- Each product is linked to components as relevant fo the next release.
+- Each component is clearly defined by a version nr, that component corresponds with 1 (exceptional more) github repo's, where repo projects show the next release. The comonent release linked to the product release is marked on product page in clear ways.
+- Each product links to release notes which show history and per release (note) there are links to the components as used at that point.
+- A product can link to another product too which then links to the component !
+- A product can link to a 3e party product, also there specify the used version nrs.
+
+## Component
+
+Normally only **1** github repo, there can be **exceptional** cases where 1 component spans repo's but this is the exception, normally it means its just more than 1 component.
 
 The used swimlanes:
 
@@ -32,6 +41,31 @@ The used swimlanes:
     - project owner can never go from Verification to done without approval from stakeholders (often represented by qa team)
 - ```Done```
     - everyone agreed (project owner and stakeholders) agreed that the issue was done ok
+    
+> exception only: when component is more than 1 repo, make the project on account level, in any other case its in the repo.
+
+```markdown
+**eVDC 2.3**
+
+- Requires: TFGrid 2.3 and 3bot 2.3
+- Linked components: None
+
+**TFGrid 2.3**
+
+- Requires: Nothing
+- Linked components: ZOSv0.5, HUBv..., ZDBv..., ...
+
+**3Bot 2.3**
+
+- Requires: Nothing
+- compatible with: TFGrid 2.3
+- Linked components: jsng..., jssdk...
+
+```
+
+
+
+
 
 ### team projects = team kanban
 
