@@ -9,6 +9,11 @@ Used for ThreeFold VDC: Threefold Private Virtual Datacenter
 
 [3Bot 2.4.0 Project](https://github.com/orgs/threefoldtech/projects/129)
 
+## New Features
+
+- eVDC interface (deployer / UI)
+    - billing for the eVDC usecase
+    - add/remove nodes to eVDC
 ## Components
 
 - [JS-NG](https://github.com/threefoldtech/js-ng) 
@@ -17,3 +22,12 @@ Used for ThreeFold VDC: Threefold Private Virtual Datacenter
     - [JS-SDK v11.1 Project](https://github.com/threefoldtech/js-sdk/projects/1)
 - [Community Solutions Catalog 2.3](https://github.com/threefoldtech/vdc-solutions-charts)
     - ... #TODO: link
+
+## Questions
+
+- where sits the VDC deployer?
+- where are the wizards for the marketplace?
+
+## History
+
+- [3bot2.3](3bot2.3.md)

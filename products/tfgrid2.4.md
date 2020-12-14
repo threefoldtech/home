@@ -1,6 +1,8 @@
-# ThreeFold Grid
+# ThreeFold Grid 2.4
 
-- Next version 2.4 Dec on Testnet.
+- Planning: 
+  - Dec 2020 on Testnet.
+  - Jan 2020 on Prod net (?)
 
 - [ThreeFold Grid 2.4 Product Project](https://github.com/orgs/threefoldtech/projects/118)
 
