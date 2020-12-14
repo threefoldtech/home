@@ -16,9 +16,9 @@ Only in exceptional cases where a release of product needs to be over more than 
 
 The used swimlanes:
 
-- ```New``` 
+- ```Backlog``` 
     - stakeholder or project owner suggests a feature/story/bug to be resolved in this release
-- ```To start```
+- ```Accepted```
     - the project owner accepts the item to issue will be worked on and commits to do in release
     - once accepted = then escalation is needed if it can not be done in time
 - ```In progress```
@@ -45,12 +45,12 @@ The used swimlanes:
 
 The used swimlanes:
 
-- ```New``` 
+- ```Backlog``` 
     - a stakeholder or team lead suggests a feature/story/bug to be executed in the team
-- ```To start```
+- ```Accepted```
     - the team lead accepts the item to be worked in in relation to the priority 
     - once accepted = then escalation is needed if it can not be done in time (means < 1 week) or faster depending priority state
-    - everything which gets in the team kanban on To Start needs to be resolved < 1 week from day it was attached to team kanban
+    - everything which gets in the team kanban on Accepted needs to be resolved < 1 week from day it was attached to team kanban
 - ```In progress```
     - the issue is being worked on
 - ```Blocked```       
