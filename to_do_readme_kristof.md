@@ -6,8 +6,8 @@
 
 - [3bot 2.4](products/3bot2.4.md) = your virtual system administrator
 - [tfgrid 2.4](products/tfgrid2.4.md) = IT capacity layer (ZOS, ...)
-- 
-  
+
+> TODO: kristof will add
 
 
 - **ThreeFold Private Virtual Datacenter (TF VDC)**: Next version 0.1.0 Dec on Testnet.
