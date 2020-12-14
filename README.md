@@ -21,7 +21,7 @@
         - [JS-SDK v11.1 Project](https://github.com/threefoldtech/js-sdk/projects/1)
         - JS-SDK latest pre-release [v11.0-b3](https://github.com/threefoldtech/js-sdk/releases/tag/v11.0-b13)
     - [ThreeFold Connect](https://github.com/threefoldtech/3Bot_connect)
-        - [TF Connect 2.2.0 Project](https://github.com/orgs/threefoldtech/projects/123)
+        - [TF Connect 2.2.0 Project](https://github.com/orgs/threefoldtech/projects/122)
         - TF Connect latest release [v2.0.0](https://github.com/threefoldtech/3Bot_connect/releases/tag/v2.0.0)
     - [3Bot Deployer](https://github.com/threefoldtech/js-sdk)
          - [3Bot Deployer 2.3.0 Project](https://github.com/orgs/threefoldtech/projects/113)
