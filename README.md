@@ -1,6 +1,7 @@
 # Github Home For ThreeFold Tech
 
 - Components & Links see [code_getting_started](code_getting_started.md)
+
 ## Products
 
 - [3Bot v2.4.0](products/3bot2.4.md) = your virtual system administrator
@@ -8,7 +9,7 @@
 - [eVDC v2.4.0](products/evdc2.4.md) = easiest way how to get started with TFGrid = Edge Virtual Datacenter
 - [ThreeFold Connect v2.4.0](threefoldconnect2.4.md) = the mobile app (wallet/authentication)
 
-### Team-based projects
+## Team-based projects
 
 - [Belgium Team](https://github.com/orgs/threefoldtech/projects/61)
 - [Egypt-1 Team](https://github.com/orgs/threefoldtech/projects/127)
@@ -17,6 +18,7 @@
 - [Dubai Team](https://github.com/orgs/threefoldtech/projects/130)
 - [Support Team](https://circles.threefold.me/project/sabrinasadik-tf-support/kanban)
 - [DevOps Team](https://github.com/orgs/threefoldtech/projects/66)
+
 ## Other components
   
 - [Publishing Tools](https://github.com/threebotserver/publishingtools)
