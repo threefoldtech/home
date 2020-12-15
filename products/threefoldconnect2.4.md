@@ -15,7 +15,7 @@
 ## Components
 
 - [Threefold News](https://github.com/threefoldtech/threefold_connect_news)
-  - Initial Release [TF News v1.0.0](https://github.com/threefoldtech/threefold_connect_news/releases/tag/1.0)
+  - Initial Release version: [TF News v1.0.0](https://github.com/threefoldtech/threefold_connect_news/releases/tag/1.0)
 - [ThreeFold Wallet](https://github.com/threefoldtech/3bot_wallet)
   - Next release version: v2.3.0
   - Project: [TF Wallet v2.3.0](https://github.com/threefoldtech/3bot_wallet/projects/1)
