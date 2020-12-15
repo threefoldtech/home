@@ -49,3 +49,7 @@
 - [0-Hub](https://github.com/threefoldtech/0-hub)
   - Next release version: v.1.1.0
   - Project: [0-Hub v.1.1.0](https://github.com/threefoldtech/0-hub/projects/1)
+
+## History
+
+- [TF Grid 2.3.0](https://github.com/threefoldtech/home/blob/master/products/tfgrid2.3.md)
