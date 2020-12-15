@@ -3,12 +3,11 @@
 - Components & Links see [code_getting_started](code_getting_started.md)
 ## Products
 
-- [3bot 2.4](products/3bot2.4.md) = your virtual system administrator
-- [tfgrid 2.4](products/tfgrid2.4.md) = IT capacity layer (ZOS, ...)
-- [eVDC2.4](products/evdc2.4.md) = easiest way how to get started with TFGrid = Edge Virtual Datacenter
-- [threefoldconnect2.4](threefoldconnect2.4.md) = the mobile app (wallet/authentication)
+- [3Bot v2.4.0](products/3bot2.4.md) = your virtual system administrator
+- [TF Grid v2.4.0](products/tfgrid2.4.md) = IT capacity layer (ZOS, ...)
+- [eVDC v2.4.0](products/evdc2.4.md) = easiest way how to get started with TFGrid = Edge Virtual Datacenter
+- [ThreeFold Connect v2.4.0](threefoldconnect2.4.md) = the mobile app (wallet/authentication)
 
-> TODO: kristof will add
 ### Team-based projects
 
 - [Belgium Team](https://github.com/orgs/threefoldtech/projects/61)
