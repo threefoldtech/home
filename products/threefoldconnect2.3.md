@@ -9,7 +9,7 @@
 - Mobile app that serves as your main gateway to the ThreeFold Grid, ThreeFold products and services.
 - Secure 2FA authenticator.
 - ThreeFold Planetary Network - a VPN for ultra secure connection, coming soon.
-- Completed with a XLM wallet to store your ThreeFold Tokens.
+- Completed with a wallet to store your ThreeFold Tokens.
 - Stay updated with ThreeFold News within the app.
 
 ## Components
