@@ -1,4 +1,4 @@
-# 3Bot 2.4
+# 3Bot 2.4,.0
 
 The virtual system administrator for TF Grid.
 Used for ThreeFold VDC: Threefold Private Virtual Datacenter
@@ -9,25 +9,18 @@ Used for ThreeFold VDC: Threefold Private Virtual Datacenter
 
 [3Bot 2.4.0 Project](https://github.com/orgs/threefoldtech/projects/129)
 
-## New Features
-
-- eVDC interface (deployer / UI)
-    - billing for the eVDC usecase
-    - add/remove nodes to eVDC
 ## Components
 
-- [JS-NG](https://github.com/threefoldtech/js-ng) 
-    - [JS-NG v11.1 Project](https://github.com/threefoldtech/js-ng/projects/1)
+- [JS-NG](https://github.com/threefoldtech/js-ng)
+    - Next release version: v11.1.0
+    - Project: [JS-NG v11.1.0](https://github.com/threefoldtech/js-ng/projects/1)
 - [JS-SDK](https://github.com/threefoldtech/js-sdk)
-    - [JS-SDK v11.1 Project](https://github.com/threefoldtech/js-sdk/projects/1)
-- [Community Solutions Catalog 2.3](https://github.com/threefoldtech/vdc-solutions-charts)
-    - ... #TODO: link
-
-## Questions
-
-- where sits the VDC deployer?
-- where are the wizards for the marketplace?
+    -   Consists of elements:
+        - [3bot Deployer](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/threebot_deployer)
+        - [Solution Marketplace](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/marketplace)
+    Next release version: v11.1.0
+    - Project: [JS-SDK v11.1.0](https://github.com/threefoldtech/js-sdk/projects/1)
 
 ## History
 
-- [3bot2.3](3bot2.3.md)
+- [3Bot v2.3.0](3bot2.3.md)
