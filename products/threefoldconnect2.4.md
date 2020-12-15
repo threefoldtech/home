@@ -2,7 +2,7 @@
 
 - [ThreeFold Connect](https://github.com/threefoldtech/3Bot_connect)
 - Next release version: v.2.4.0
-- Project: (TF Connect v2.4.0)[https://github.com/threefoldtech/3Bot_connect/projects/3]
+- Project: [TF Connect v2.4.0](https://github.com/threefoldtech/3Bot_connect/projects/3)
 
 ## Features
 
