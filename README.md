@@ -7,7 +7,7 @@
 - [3Bot v2.4.0](products/3bot2.4.md) = your virtual system administrator
 - [TF Grid v2.4.0](products/tfgrid2.4.md) = IT capacity layer (ZOS, ...)
 - [eVDC v0.1.0](products/evdc0.1.md) = easiest way how to get started with TFGrid = Edge Virtual Datacenter
-- [ThreeFold Connect v2.3.0](threefoldconnect2.3.md) = the mobile app (wallet/authentication)
+- [ThreeFold Connect v2.3.0](products/threefoldconnect2.3.md) = the mobile app (wallet/authentication)
 
 ## Team-based Projects
 
