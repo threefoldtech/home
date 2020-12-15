@@ -9,7 +9,7 @@
 - [eVDC v0.1.0](products/evdc0.1.md) = easiest way how to get started with TFGrid = Edge Virtual Datacenter
 - [ThreeFold Connect v2.4.0](threefoldconnect2.4.md) = the mobile app (wallet/authentication)
 
-## Team-based projects
+## Team-based Projects
 
 - [Belgium Team](https://github.com/orgs/threefoldtech/projects/61)
 - [Egypt-1 Team](https://github.com/orgs/threefoldtech/projects/127)
@@ -19,7 +19,7 @@
 - [Support Team](https://circles.threefold.me/project/sabrinasadik-tf-support/kanban)
 - [DevOps Team](https://github.com/orgs/threefoldtech/projects/66)
 
-## Other components
+## Other Components
   
 - [Publishing Tools](https://github.com/threebotserver/publishingtools)
 - [ThreeFold Forum: discourse](https://github.com/threefoldtech/threefold-forums)
