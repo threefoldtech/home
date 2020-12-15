@@ -1,4 +1,4 @@
-# 3Bot 2.4,.0
+# 3Bot 2.4.0
 
 The virtual system administrator for TF Grid.
 Used for ThreeFold VDC: Threefold Private Virtual Datacenter
