@@ -4,14 +4,13 @@ The development process of our projects is agile, collaborative and above all, r
 
 **github project based**
 
-## Product or Service Project (account level)
+## Technical Product (account level)
 
-Each product or service has a clear name and a version.
+Each product has a clear name and a version.
 
 - The name is ```product_$name_$versionnr``` and is hosted on account level
 
-- Each product (service) is something as delivered to customers.
-- Each product (service) is define on a product page in the "home" repo.
+- Each product is define on a product page in the "home" repo.
 - the home page in the home repo links to the product pages
 - Each product is linked to components as relevant fo the next release.
 - Each component is clearly defined by a version nr, that component corresponds with 1 (exceptional more) github repo's, where repo projects show the next release. The comonent release linked to the product release is marked on product page in clear ways.
