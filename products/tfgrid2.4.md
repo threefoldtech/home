@@ -41,8 +41,8 @@
   - Next release version: v.1.0.2
   - Project: [TF Explorer v.1.0.2](https://github.com/threefoldtech/nodes-explorer/projects/1)
 - [0-DB](https://github.com/threefoldtech/0-db)
-  - Next release version: v2.0.0
-  - Project: [0-DB v2.0.0](https://github.com/threefoldtech/0-db/projects/1)
+  - Next release version: v1.0.0
+  - Project: [0-DB v1.0.0](https://github.com/threefoldtech/0-db/projects/1)
 - [0-DB-FS](https://github.com/threefoldtech/0-DB-FS)
   - Next release version: v0.1.0
   - Project: [0-DB-FS v0.1.0](https://github.com/threefoldtech/0-db-fs/projects/1)
