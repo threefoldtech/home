@@ -24,7 +24,7 @@
   - Project: [0-FS v2.0.7 (closed)](https://github.com/threefoldtech/0-fs/projects/3)
 - [0-CI](https://github.com/threefoldtech/zeroCI) 
   - Version: v1.0.0, see [release note](https://github.com/threefoldtech/zeroCI/releases/tag/v1.0.0)
-  - Project: [0-CI v1.0.0](hhttps://github.com/threefoldtech/zeroCI/projects/1)
+  - Project: [0-CI v1.0.0](https://github.com/threefoldtech/zeroCI/projects/1)
 - [0-Stor v2](https://github.com/threefoldtech/0-stor_v2) 
   - Version: v0.1.0, see [release note](https://github.com/threefoldtech/0-stor_v2/releases/tag/v0.1.0)
   - Project: [0-Stor V2 v.0.1.0](https://github.com/threefoldtech/0-stor_v2/projects/1)
