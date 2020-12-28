@@ -24,7 +24,7 @@ The following products deliver all features required the eVDC 0.1.0
       - Project: [TF Meet v3.9.0](https://github.com/orgs/crystaluniverse/projects/1)- Peer-to-peer Video calling application.
     - [ThreeFold Filebrowser](https://github.com/crystaluniverse/crystal_filebrowser)
       - Next release version: v1.1.0
-      - Project: [TF Meet v1.1.0](https://github.com/crystaluniverse/crystal_filebrowser/projects/1)- File storage drive and office tools, all in 1 application.
+      - Project: [TF Filebrowser v1.1.0](https://github.com/crystaluniverse/crystal_filebrowser/projects/1)- File storage drive and office tools, all in 1 application.
       
 - See the complete list of marketplace solutions on [VDC Charts repository](https://github.com/threefoldtech/vdc-solutions-charts)
 
