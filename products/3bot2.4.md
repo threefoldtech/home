@@ -12,13 +12,13 @@ Used for ThreeFold VDC: Threefold Private Virtual Datacenter
 ## Components
 
 - [JS-NG](https://github.com/threefoldtech/js-ng)
-    - Next release version: v11.1.0
+    - Version: v11.1.0
     - Project: [JS-NG v11.1.0](https://github.com/threefoldtech/js-ng/projects/1)
 - [JS-SDK](https://github.com/threefoldtech/js-sdk)
     -   Consists of elements:
         - [3Bot Deployer](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/threebot_deployer)
         - [Solution Marketplace](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/marketplace)
-    - Next release version: v11.1.0
+    - Version: v11.1.0
     - Project: [JS-SDK v11.1.0](https://github.com/threefoldtech/js-sdk/projects/1)
 
 ## History
