@@ -1,15 +1,13 @@
-# eVDC 0.1.0
+# eVDC 2.4
 
-- Initial release version 0.1.0 on Testnet.
+is a solution (not a product)
+
 - Easy one click solution deployment via Marketplace
 - Deploy your own containerized solutions usinf compute nodes within your VDC
 - Manage workloads via Storage Nodes feature within your VDC
 - Easy solution management and monitoring on eVDC Admin Panel
 
-- Initial Release Version: eVDC v0.1.0
-- Project: [eVDC v.0.1.0](https://github.com/orgs/threefoldtech/projects/121)
-
-## Requirements
+## The products which make up eVDC 2.4
 
 The following products deliver all features required the eVDC 0.1.0
 
@@ -29,3 +27,7 @@ The following products deliver all features required the eVDC 0.1.0
       - Project: [TF Meet v1.1.0](https://github.com/crystaluniverse/crystal_filebrowser/projects/1)- File storage drive and office tools, all in 1 application.
       
 - See the complete list of marketplace solutions on [VDC Charts repository](https://github.com/threefoldtech/vdc-solutions-charts)
+
+> BUGS / FR NEED TO BE PUT ON REPO:  jssdk because that is where the code lives.
+
+
