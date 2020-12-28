@@ -37,7 +37,7 @@
 - [TCP Router (Web Gateway)](https://github.com/threefoldtech/tcprouter) 
   - Version: v0.1.0
   - Project: [TCP Router v0.1.0](https://github.com/threefoldtech/tcprouter/projects/1)
-- [TF Explorer]https://github.com/threefoldtech/tfexplorer) 
+- [TF Explorer](https://github.com/threefoldtech/tfexplorer) 
   - Version: v0.4.8, see [release note](https://github.com/threefoldtech/tfexplorer/releases/tag/v0.4.8)
   - Project: [TF Explorer v.0.4.8](https://github.com/threefoldtech/tfexplorer/projects/2)
 - [0-DB](https://github.com/threefoldtech/0-db)
