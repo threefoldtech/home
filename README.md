@@ -17,7 +17,7 @@ What sales guys can sell (-:
 
 - [eVDC v2.4](solutions/evdc2.4.md) = easiest way how to get started with TFGrid = Edge Virtual Datacenter
     - is based on products [3Bot v2.4.0](products/3bot2.4.md) and [TF Grid v2.4.0](products/tfgrid2.4.md)
-- quantum safe archive: is storage solution which will be part of evdc 2.5 (next version, planned Jan 2021)
+- Quantum Safe Archive: is a storage solution which will be part of evdc 2.5 (next version, planned Jan 2021)
 
 ## Team-based Projects
 
