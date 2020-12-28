@@ -49,6 +49,9 @@
 - [0-Hub](https://github.com/threefoldtech/0-hub)
   - Version: v1.0.0, see [release note](https://github.com/threefoldtech/0-hub/projects/1)
   - Project: [0-Hub v.1.0.0](https://github.com/threefoldtech/0-hub/projects/1)
+- [TF Gateway](https://github.com/threefoldtech/tfgateway)
+  - Version: v3.0.7, see [release note](https://github.com/threefoldtech/tfgateway/releases/tag/v0.3.7)
+  - Project: 
 
 ## History
 
