@@ -34,9 +34,11 @@
 - [Core-X](https://github.com/threefoldtech/corex) 
   - Version: v2.1.3, see [release note](https://github.com/threefoldtech/corex/releases/tag/2.1.3)
   - Project: [Core-X v2.1.3 (closed)](https://github.com/threefoldtech/corex/projects/2)
-- [TCP Router (Web Gateway)](https://github.com/threefoldtech/tcprouter) 
+- [TCP Router](https://github.com/threefoldtech/tcprouter) 
   - Version: v0.1.0, see [release note](https://github.com/threefoldtech/tcprouter/releases/tag/v0.1.0)
   - Project: [TCP Router v0.1.0](https://github.com/threefoldtech/tcprouter/projects/1)
+- [Web gateway](https://github.com/threefoldtech/tfgateway/)
+  - Project: [webgateway 0.3.8](https://github.com/threefoldtech/tfgateway/projects/1)
 - [TF Explorer](https://github.com/threefoldtech/tfexplorer) 
   - Version: v0.4.8, see [release note](https://github.com/threefoldtech/tfexplorer/releases/tag/v0.4.8)
   - Project: [TF Explorer v.0.4.8](https://github.com/threefoldtech/tfexplorer/projects/2)
@@ -49,9 +51,6 @@
 - [0-Hub](https://github.com/threefoldtech/0-hub)
   - Version: v1.0.0, see [release note](https://github.com/threefoldtech/0-hub/projects/1)
   - Project: [0-Hub v.1.0.0](https://github.com/threefoldtech/0-hub/projects/1)
-- [TF Gateway](https://github.com/threefoldtech/tfgateway)
-  - Version: v3.0.7, see [release note](https://github.com/threefoldtech/tfgateway/releases/tag/v0.3.7)
-  - Project: 
 
 ## History
 
