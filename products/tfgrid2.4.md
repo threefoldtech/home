@@ -15,10 +15,9 @@
 
 - [ZOS](https://github.com/threefoldtech/zos) 
   - Version: v0.4.7, see [release note](https://github.com/threefoldtech/zos/releases/tag/v0.4.7)
-  - Project: [ZOS 0.4.7](https://github.com/threefoldtech/zos/projects/2)
+  - Project: [ZOS 0.4.7 (closed)](https://github.com/threefoldtech/zos/projects/2)
 - [0-initramfs](https://github.com/threefoldtech/0-initramfs) 
-  - Version: v2.0.0
-  - Project: [0-initramfs v2.0.0 (closed)](https://github.com/threefoldtech/0-initramfs/projects/2)
+  - Version: v2.0.0, see [release note](https://github.com/threefoldtech/0-initramfs/releases/tag/v2.0.0)
 - [0-FS](https://github.com/threefoldtech/0-fs) 
   - Version: v2.0.7, see [release note](https://github.com/threefoldtech/0-fs/releases/tag/v2.0.7)
   - Project: [0-FS v2.0.7 (closed)](https://github.com/threefoldtech/0-fs/projects/3)
