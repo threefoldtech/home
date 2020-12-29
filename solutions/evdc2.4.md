@@ -11,9 +11,9 @@ is a solution (not a product)
 
 The following products deliver all features required the eVDC 0.1.0
 
-- [3Bot v2.4.0](homre/products/3bot2.4.md) = your virtual system administrator
-- [TF Grid v2.4.0](home/products/tfgrid2.4.md) = IT capacity layer (ZOS, ...)
-- [ThreeFold Connect v2.3.0](threefoldconnect2.3.md) = the mobile app (wallet/authentication)
+- [3Bot v2.4.0](https://github.com/threefoldtech/home/blob/master/products/3bot2.4.md) = your virtual system administrator
+- [TF Grid v2.4.0](https://github.com/threefoldtech/home/blob/master/products/tfgrid2.4.md) = IT capacity layer (ZOS, ...)
+- [ThreeFold Connect v2.3.0](https://github.com/threefoldtech/home/blob/master/products/threefoldconnect2.3.md) = the mobile app (wallet/authentication)
 
 ## Marketplace Solutions
 
