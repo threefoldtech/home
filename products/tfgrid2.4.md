@@ -39,8 +39,7 @@
 - [Web gateway](https://github.com/threefoldtech/tfgateway/)
   - Project: [webgateway 0.3.8](https://github.com/threefoldtech/tfgateway/projects/1)
 - [TF Explorer](https://github.com/threefoldtech/tfexplorer) 
-  - Future Version: v0.4.9, see [release note](https://github.com/threefoldtech/tfexplorer/releases/tag/v0.4.9)
-  - Project: [TF Explorer v.0.4.9](https://github.com/threefoldtech/tfexplorer/projects/2)
+  - Version: v0.4.8, see [release note](https://github.com/threefoldtech/tfexplorer/releases/tag/v0.4.8)
 - [0-DB](https://github.com/threefoldtech/0-db)
   - Version: v1.0.0
   - Project: [0-DB v1.0.0](https://github.com/threefoldtech/0-db/projects/1)
