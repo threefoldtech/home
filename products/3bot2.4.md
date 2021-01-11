@@ -20,7 +20,7 @@ Used for ThreeFold VDC: Threefold Private Virtual Datacenter
         - [Solution Marketplace](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/marketplace)
     - Version: v11.1.0
     - Project: [JS-SDK v11.1.0](https://github.com/threefoldtech/js-sdk/projects/1)
-- [vdc-solutions-charts ](https://github.com/threefoldtech/vdc-solutions-charts)
+- [TF NOW Marketplace (vdc-solutions-charts)](https://github.com/threefoldtech/vdc-solutions-charts)
     - Project: [Marketplace 2.4](https://github.com/threefoldtech/vdc-solutions-charts/projects/1)
 - [VDC monitoring](https://github.com/threefoldtech/vdc-logger)
 
