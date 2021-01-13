@@ -1,3 +1,4 @@
+
 # ThreeFold Grid 2.4
 
 - Planning: 
@@ -50,6 +51,10 @@
 - [0-Hub](https://github.com/threefoldtech/0-hub)
   - Version: v1.0.0, see [release note](https://github.com/threefoldtech/0-hub/projects/1)
   - Project: [0-Hub v.1.0.0](https://github.com/threefoldtech/0-hub/projects/1)
+- [TF GRID DB](https://github.com/threefoldtech/tfgrid-substrate)
+  - Version: v0.1.0
+  - Project: [0-Hub v.0.1.0](https://github.com/threefoldtech/tfgrid-substrate/projects/1)
+
 
 ## History
 
