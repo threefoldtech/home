@@ -21,7 +21,7 @@
 
 * The deployment time may be 30 minutes or more provided the documentation is updated and there are no issues. This can extend upto hours if the user gets stuck into an issue.
 
-## How are we improving this under TFGrid 2.4 (current release) ?
+## How are we improving this under TFGrid 2.4 ?
 
 * The user simply clicks the widget and starts the chat flow with specifying the node name only. Everything is baked into the configuration already.
 
