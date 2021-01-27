@@ -25,6 +25,6 @@
 
 * The user simply clicks the widget and starts the chat flow with specifying the node name only. Everything is baked into the configuration already.
 
-* The users still have terminal access to their nodes for anything they want to change
+* The users still have terminal access to their nodes for anything they want to change via kubectl since they have access to the cluster. 
 
 * The deployment time is less than 5 minutes
