@@ -14,12 +14,12 @@ Please do not use any other labels
     - or in swimlane to start, means we don't work on it this week
     - or in swimlane in progress, which means its finished this week
     - or in swimlane blocked, means to be resolved in 1-2 days
-- priority_minor: put at back of sprint cycle
+- `priority_minor`: put at back of sprint cycle
 
 ## process
 
-- process_duplicate
-- process_wontfix
+- `process_duplicate`
+- `process_wontfix`
 
 ## state
 
