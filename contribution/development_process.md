@@ -209,10 +209,8 @@ Link back to used circles on projects.threefold.me
 
 ## link to product management
 
-- see https://circles.threefold.me/project/team_product/backlog
-- all stories here are the link between engineering and customers
 - Kristof is owning product management, Sasha is helping to streamline the process
-- DONT PUT DETAILED SPECS OR ENGINEERING ACTIONS IN THE CIRCLES TOOL
+- still need to define how we deal with specs
 
 ## what about testing
 
