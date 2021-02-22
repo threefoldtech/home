@@ -1,24 +1,23 @@
 # Development Process
 
-The development process of our projects is agile, collaborative and above all, respectful. we believe in the ingenuity of the people and that everyone has invaluable input to our codebase.
+The development process of our projects is agile, collaborative and above all - respectful. We believe in the ingenuity of the people and that everyone has invaluable input to our codebase.
 
-**github project based**
+**Github project based**
 
 ## Technical Product (account level)
 
-Each product has a clear name and a version.
+Each product has a clear name and a version
 
-- The name is ```product_$name_$versionnr``` and is hosted on account level
-
-- Each product is define on a product page in the "home" repo.
-- the home page in the home repo links to the product pages
+- The name is ```product_$name_$versionnr``` and is hosted on account level.
+- Each product is defined on a product page in the "home" repo.
+- The home page in the home repo links to the product pages.
 - Each product is linked to components as relevant fo the next release.
 - Each component is clearly defined by a version nr, that component corresponds with 1 (exceptional more) github repo's, where repo projects show the next release. The comonent release linked to the product release is marked on product page in clear ways.
 - Each product links to release notes which show history and per release (note) there are links to the components as used at that point.
-- A product can link to another product too which then links to the component !
-- A product can link to a 3e party product, also there specify the used version nrs.
+- A product can link to another product too which then links to the component.
+- A product can link to a 3rd party product, also there the version nr's are specified.
 
-## Component Project (on repo level)
+## Component Project (repo level)
 
 Normally only **1** github repo, there can be **exceptional** cases where 1 component spans repo's but this is the exception, normally it means its just more than 1 component.
 
@@ -34,7 +33,7 @@ The used swimlanes:
 - ```Blocked```       
     - We are using kanban way of thinking something in this swimlane needs to be resolved asap, can be e.g. a question
     - means issue cannot be completed, attention from e.g. stakeholders is needed
-- ```Verification```        : work is being verified
+- ```Verification``` : work is being verified
     - the team delivered the feature/bug/storry
     - stakeholders need to agree that the issue has been resolved appropriately
     - project owner can never go from Verification to done without approval from stakeholders (often represented by qa team)
@@ -67,7 +66,7 @@ Example:
 You see how different products can be made up outof other products, its up to the product manager to link the right components to it.
 
 
-## team projects = team kanban (on account level)
+## Team projects = Team kanban (account level)
 
 - name ```team_$wellchosenname```
 - to allow a team to see which bugs,fr,stories are relevant in their current scrum
@@ -99,20 +98,20 @@ The used swimlanes:
     - everyone agreed (project owner and stakeholders) agreed that the issue was done ok
     - check that the item is also in a prioject release and on right state (if relevant, not everything is on product release project)
 
-## funnel of issues, bugs and feature requests
+## Funnel of issues, bugs and feature requests
 
 For each repository (component) there is a list of issues which is dealt with like a funnel.
 
-#### labels
+#### Labels
 
 see [issue_labels](issue_labels.md)
 
-#### branche names in title
+#### Branch names in title
 
 Each issue has the name of branch in the title as [development_something], the name 'development' can be skipped its the default os previous could also be written as [something] but don't forget branch is development_...
 If not specified, it is to be fixed/developed on development.
 
-#### milestones for issues
+#### Milestones for issues
 
 We dont use milestones for version numbers, this should be part of project, a project allows us to see when a release will be delivered.
 
@@ -124,9 +123,9 @@ We dont use milestones for version numbers, this should be part of project, a pr
 - milestone later means: bug/fr not to be dealt with now, somewhere in future we will look back at it
 
 
-so issues with no milestones can only be in 1 condition: new and not sorted out yet where it belongs
+so issues with no milestones can only be in 1 condition: new and not sorted out yet where it belongs.
 
-why do we use these 3 generic milestones? It makes it very easy to see what is new and what to sort out. It becomes a generic way of dealing with the funnel, basically: now, next, later
+Why do we use these 3 generic milestones? It makes it very easy to see what is new and what to sort out. It becomes a generic way of dealing with the funnel, basically: now, next, later
 
 ## Branching
 
@@ -137,7 +136,7 @@ Our branching strategy is:
 - `master` is the last stable release
 - `master_$hotfix` is only for solving BLOCKING issues which are in the field on the last release
     - short living
-- `development` is where all stories branch from, and the one that has hotfixes if needed.
+- `development` is where all stories branch from, and the one that has hotfixes if needed
 - `development_$storyname`
     - branch for a story
     - always updated from development(_hotfixes)
@@ -159,7 +158,7 @@ Is title of the story in between []
 
 ### Pull requests
 
-As soon as work is started on a different branch where a developer or a group of developers want their peers' opinions, they can immediately open a `draft pull request` for ease of communication. when they deem the work is done, they open a pull request signifying the work is 
+As soon as work is started on a different branch where a developer or a group of developers want their peers' opinions, they can immediately open a `draft pull request` for ease of communication. When they deem the work is done, they open a pull request signifying the work is 
 
 - complete as defined in the project
 - well tested
@@ -169,11 +168,11 @@ As soon as work is started on a different branch where a developer or a group of
 
 - Before tagging a release, open a branch named with the intended version e.g 10.5.x with the quality level 
   - alpha: doesn't have all the features, but you can use the features in there
-  - beta: no major, or blocking bugs. all features working for the customer as promised, no blocking bugs
-  - production: no major, no blocking, no minor bugs and the documentation is ready.
+  - beta: no major, or blocking bugs, all features working for the customer as promised, no blocking bugs
+  - production: no major, no blocking, no minor bugs and the documentation is ready
   
   
-#### blocking
+#### Blocking
 
 - customer can't get to the functionality described in the manaul
 - stability when it crashes is blocking
@@ -194,7 +193,7 @@ This is why commenting each day is critical to our process.
 
 If an issue/story has `priority_critical` it means that the stakeholders need continuous updates of the progress, so a minimum of twice/day update is required
 
-ETA should always be part of the comment. It's an estimation so it can vary with new findings but it's a good way to project completeness
+ETA should always be part of the comment. It's an estimation so it can vary with new findings but it's a good way to project completeness.
 
 
 ### Home Repo
@@ -207,14 +206,14 @@ Link back to used circles on projects.threefold.me
 - DO NOT PUT bugs / fr / questions here
 - PUT ALL STORIES HERE 
 
-## link to product management
+## Link to Product Management
 
 - Kristof is owning product management, Sasha is helping to streamline the process
 - still need to define how we deal with specs
 
-## what about testing
+## What about testing
 
 - verification on a story is done in 2 steps : 
    - Story moved to verification once code complete
-   - When relevant: Verification is done on story branch in case it hadn't been merged to the development branch and code moved to development when verification OK, regression testing is running automated with the ZeroCi and report should be green before release
+   - When relevant: Verification is done on story branch in case it hadn't been merged to the development branch and code moved to development when verification OK, regression testing is running automated with the ZeroCi and report should be green before release.
 
