@@ -17,7 +17,7 @@ On this release we focused op community feedback and making the app more robust.
 - [Threefold News](https://github.com/threefoldtech/threefold_connect_news)
   - Version: TF News v1.0.0, see [release note](https://github.com/threefoldtech/threefold_connect_news/releases/tag/1.0)
 - [ThreeFold Wallet](https://github.com/threefoldtech/3bot_wallet)
-  - Version: v2.3.0
+  - Version: v2.3.3-rc04
   - Project: [TF Wallet v2.3.0](https://github.com/threefoldtech/3bot_wallet/projects/1)
 - [ThreeFold Network Connector](https://github.com/threefoldtech/yggdrasil-desktop-client)
   - Version: v0.1.0-b (pre-release), see [release note](https://github.com/threefoldtech/yggdrasil-desktop-client/releases/tag/v0.1.0)
