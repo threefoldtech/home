@@ -28,6 +28,6 @@ The following products deliver all features required the eVDC 0.1.0
       
 - See the complete list of marketplace solutions on [VDC Charts repository](https://github.com/threefoldtech/vdc-solutions-charts)
 
-> BUGS / FR NEED TO BE PUT ON REPO:  jssdk because that is where the code lives.
+
 
 
