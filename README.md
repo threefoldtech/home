@@ -9,7 +9,7 @@ There is never overlap between components & products, or in other words 2 produc
 
 - [3Bot v2.5.0](products/3bot2.5.md) = your virtual system administrator
 - [TF Grid v2.5.0](products/tfgrid2.5.md) = IT capacity layer (ZOS, ...)
-- [ThreeFold Connect v2.4.0](products/threefoldconnect2.4.md) = the mobile app (wallet/authentication)
+- [ThreeFold Connect v2.5.0](products/threefoldconnect2.5.md) = the mobile app (wallet/authentication)
 
 ## Solutions
 
