@@ -9,7 +9,7 @@ is a solution (not a product)
 
 ## The products which make up eVDC 2.4
 
-The following products deliver all features required the eVDC 0.1.0
+The following products deliver all features required the eVDC 2.4.0
 
 - [3Bot v2.4.0](https://github.com/threefoldtech/home/blob/master/products/3bot2.4.md) = your virtual system administrator
 - [TF Grid v2.4.0](https://github.com/threefoldtech/home/blob/master/products/tfgrid2.4.md) = IT capacity layer (ZOS, ...)
