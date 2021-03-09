@@ -103,11 +103,6 @@ JS-SDK allows developing solutions for and on the Threefold Grid.
 - [GitHub repo](https://github.com/threefoldtech/js-sdk)
 - [JS-SDK wiki](https://threefoldtech.github.io/js-sdk/wiki/)
 
-### DigitalTwin
-This will give you the tools to take back the ownership of your digital self.
-#### Important Links
-- [GitHub repo](https://github.com/threefoldtech/digitaltwin)
-
 ### ZOS
 0-OS is an autonomous operating system design to expose raw compute, storage and network capacity.
 #### Important Links
