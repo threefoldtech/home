@@ -7,16 +7,16 @@
 These are technical products, only useful for super technical people.
 There is never overlap between components & products, or in other words 2 products can never have the same component.
 
-- [3Bot v2.5.0](products/3bot2.5.md) = your virtual system administrator
-- [TF Grid v2.5.0](products/tfgrid2.5.md) = IT capacity layer (ZOS, ...)
-- [ThreeFold Connect v2.5.0](products/threefoldconnect2.5.md) = the mobile app (wallet/authentication)
+- [3Bot v2.6.0](products/3bot2.6.md) = your virtual system administrator
+- [TF Grid v2.6.0](products/tfgrid2.6.md) = IT capacity layer (ZOS, ...)
+- [ThreeFold Connect v2.6.0](products/threefoldconnect2.5.md) = the mobile app (wallet/authentication)
 
 ## Solutions
 
 What sales guys can sell (-:
 
-- [eVDC v2.5](solutions/evdc2.5.md) = easiest way how to get started with TFGrid = Edge Virtual Datacenter
-    - is based on products [3Bot v2.5.0](products/3bot2.5.md) and [TF Grid v2.5.0](products/tfgrid2.5.md)
+- [eVDC v2.6](solutions/evdc2.5.md) = easiest way how to get started with TFGrid = Edge Virtual Datacenter
+    - is based on products [3Bot v2.6.0](products/3bot2.5.md) and [TF Grid v2.6.0](products/tfgrid2.5.md)
 - Quantum Safe Archive: is a storage solution which will be part of evdc 2.5 (next version, planned Jan 2021)
 
 ## Team-based Projects
