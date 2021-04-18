@@ -15,7 +15,7 @@ There is never overlap between components & products, or in other words 2 produc
 
 What sales guys can sell (-:
 
-- [eVDC v2.7](solutions/evdc2.7.md) = easiest way how to get started with TFGrid = Edge Virtual Datacenter
+- eVDC v2.7 = easiest way how to get started with TFGrid = Edge Virtual Datacenter
     - is based on products [3Bot v2.7.0](products/3bot2.7.md) and [TF Grid v2.6.0](products/tfgrid2.6.md)
 - Quantum Safe Archive: is a storage solution which will be part of evdc 2.5 (next version, planned Jan 2021)
 
