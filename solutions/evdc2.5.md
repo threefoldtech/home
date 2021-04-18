@@ -10,9 +10,9 @@
 - Back up/restore feature on the VDC in progress
 - Updates Notification for new updates
 - QR Scan Top up PR ready
-- ZDBs expose over public IPv4
-- Kubernetes autoscaling
-- External etcd datasource for kubernetes (config manager support, solution / cluster support)
+- ZDBs expose over public IPv4
+- Kubernetes autoscaling
+- External etcd datasource for kubernetes (config manager support, solution / cluster support)
 
 
 ## The products which make up eVDC 2.5
