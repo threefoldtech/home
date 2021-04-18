@@ -2,17 +2,17 @@
 
 ## Features and Updates
 
-Marketplace is now the default view for the VDC dashboard 
-'Update Dashboard' button 
-Blockchain solution: Digibyte and Presearch 
-'Transaction History': 'List Transaction' button  
-TF Connect sign-in for most solutions on the Marketplace
-Back up/restore feature on the VDC in progress
-Updates Notification for new updates
-QR Scan Top up PR ready
-ZDBs expose over public IPv4
-Kubernetes autoscaling
-External etcd datasource for kubernetes (config manager support, solution / cluster support)
+- Marketplace is now the default view for the VDC dashboard 
+- 'Update Dashboard' button 
+- Blockchain solution: Digibyte and Presearch 
+- 'Transaction History': 'List Transaction' button  
+- TF Connect sign-in for most solutions on the Marketplace
+- Back up/restore feature on the VDC in progress
+- Updates Notification for new updates
+- QR Scan Top up PR ready
+- ZDBs expose over public IPv4
+- Kubernetes autoscaling
+- External etcd datasource for kubernetes (config manager support, solution / cluster support)
 
 
 ## The products which make up eVDC 2.5
