@@ -7,7 +7,7 @@
 These are technical products, only useful for super technical people.
 There is never overlap between components & products, or in other words 2 products can never have the same component.
 
-- [3Bot v2.7.0](products/3bot2.6.md) = your virtual system administrator
+- [3Bot v2.7.0](products/3bot2.7.md) = your virtual system administrator
 - [TF Grid v2.6.0](products/tfgrid2.6.md) = IT capacity layer (ZOS, ...)
 - [ThreeFold Connect v2.6.0](products/threefoldconnect2.6.md) = the mobile app (wallet/authentication)
 
