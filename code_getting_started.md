@@ -12,7 +12,7 @@ Each repository has a license file please consult the license before using the s
 
 ## some product info
 
-- [product & technology information](secure.threefold.tech/pad/#/2/pad/view/NID3eKn0Ui6FWiXXy6zn-fv8fUsWY8Hr83f3JEHJIAg/embed/)
+- [product & technology information](https://secure.threefold.tech/pad/#/2/pad/view/NID3eKn0Ui6FWiXXy6zn-fv8fUsWY8Hr83f3JEHJIAg/embed/)
 - whitepapers: https://wiki.threefold.io/#/whitepapers
 ## info threefold
 
