@@ -41,11 +41,6 @@ Live on testnet - May 14, 2021.
 - Added BTC - TFT Exchange feature
 - Added auto notifications for new terms and conditions
 
-### TFT v1.0
-- Added TFT - Binance Smart Chain Bridge integration
-- Added Vesting Wallet feature
-- Improved Tokenstats on wiki.threefold.io
-
 ## ZOS 0.4.11
 - Updated 'zdb' to it's latest version and use 'release' mode by default.
 
