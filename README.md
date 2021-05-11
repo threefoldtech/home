@@ -7,7 +7,7 @@
 These are technical products, only useful for super technical people.
 There is never overlap between components & products, or in other words 2 products can never have the same component.
 
-- [ThreeFold Cloud v2.7.0](products/tfcloud_2_7_1.md) = your virtual system administrator
+- [ThreeFold Cloud v2.7.1](products/tfcloud_2_7_1.md) = your virtual system administrator
 - [ThreeFold Connect v2.7.0](products/threefoldconnect2.7.md) = the mobile app (wallet/authentication)
 - [ThreeFold Token v1.0](products/tft_1.md) = Projects related to ThreeFold Token and Blockchain integrations
 
