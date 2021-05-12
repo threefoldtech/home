@@ -1,5 +1,5 @@
 
 ### TFT v1.0
-- Added TFT - Binance Smart Chain Bridge integration
-- Added Vesting Wallet feature
-- Improved Tokenstats on wiki.threefold.io
+- Added BTC deposit and withdrawal feature
+- Added BTC - TFT Exchange feature
+- Added auto notifications for new terms and conditions
