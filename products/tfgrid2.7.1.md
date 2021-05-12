@@ -10,11 +10,31 @@
 - TF Grid is TF P2P cloud
 - +18,000 CPU cores, +90,000,000 GB of online storage, +21 countries
 
+
 ## Components
 
-- [ZOS](https://github.com/threefoldtech/zos) Version: v0.4.11
+- [ZOS](https://github.com/threefoldtech/zos) 
+- [0-initramfs](https://github.com/threefoldtech/0-initramfs) 
+- [0-FS](https://github.com/threefoldtech/0-fs) 
+- [0-CI](https://github.com/threefoldtech/zeroCI) 
+- [0-Stor v2](https://github.com/threefoldtech/0-stor_v2) 
+- [BCDB](https://github.com/threefoldtech/bcdb)
+- [Core-X](https://github.com/threefoldtech/corex) 
+- [TCP Router](https://github.com/threefoldtech/tcprouter) 
+- [Web Gateway](https://github.com/threefoldtech/tfgateway/)
+- [TF Explorer](https://github.com/threefoldtech/tfexplorer) 
+- [0-DB](https://github.com/threefoldtech/0-db)
+- [0-DB-FS](https://github.com/threefoldtech/0-DB-FS)
+- [0-Hub](https://github.com/threefoldtech/0-hub)
+- [QSFS](https://github.com/threefoldtech/quantum-storage)
+  
+  
+## Features and Improvements
+
+### ZOS v0.4.11
   - Updated 'zdb' to it's latest version and use 'release' mode by default.
-- [0-DB-FS](https://github.com/threefoldtech/0-DB-FS) Version: v0.1.4
+
+### 0-DB-FS v0.1.4
   - Fixed bugs related to incorrectly parsed fuse argument
   - Enables fully static binary build
   - Enables backtrace when zdbfs crash
