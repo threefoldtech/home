@@ -35,8 +35,8 @@ Live on testnet - May 17, 2021.
 - Allows exporting 3Bot logs/alerts from the system
 
 ## History
-[3Bot 2.7](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.7.md)
-[3Bot 2.6](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.6.md)
-[3Bot 2.5](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.5.md)
+- [3Bot 2.7](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.7.md)
+- [3Bot 2.6](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.6.md)
+- [3Bot 2.5](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.5.md)
 
 
