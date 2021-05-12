@@ -7,9 +7,10 @@
 These are technical products, only useful for super technical people.
 There is never overlap between components & products, or in other words 2 products can never have the same component.
 
-- [ThreeFold Cloud v2.7.1](products/tfcloud_2_7_1.md) = your virtual system administrator
-- [ThreeFold Connect v2.7.0](products/threefoldconnect2.7.md) = the mobile app (wallet/authentication)
-- [ThreeFold Token v1.0](products/tft_1.md) = Projects related to ThreeFold Token and Blockchain integrations
+- [3Bot v2.7.1](products/3bot2.7.1.md) = your virtual system administrator
+- [ThreeFold Grid 2.7.1](products/tfgrid2.7.1.md): Lower level components delivering TF Grid's capacity layer improvements
+- [ThreeFold Connect v2.7.1](products/threefoldconnect2.7.1.md) = the mobile app (wallet/authentication)
+- [ThreeFold Token v2.7.1](products/tft2.7.1.md) = Projects related to ThreeFold Token and Blockchain integrations
 
 ## Solutions
 
@@ -52,4 +53,8 @@ What sales guys can sell (-:
 - [TF Grid v2.4.0](products/tfgrid2.4.md)
 - [TF Grid v2.3.0](products/tfgrid2.3.md)
 
+
+## TF Connect
+- [TF Connect v2.5.0](products/threefoldconnect2.5.md) 
+- [TF Connect v2.3.0](products/threefoldconnect2.3.md) 
 
