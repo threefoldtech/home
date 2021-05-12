@@ -1,5 +1,5 @@
 
- # 3Bot 2.7.1
+ # 3Bot v2.7.1
  
 Live on testnet - May 14, 2021.
 
