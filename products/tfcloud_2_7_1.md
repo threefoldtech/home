@@ -10,7 +10,7 @@ Live on testnet - May 14, 2021.
 - [Solution Marketplace](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/marketplace)
 - [Virtual Datacenter VDC](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/vdc)
 
-#### VDC v2.7.1
+### VDC v2.7.1
 - Simplified backup and restore mechanism by clicking 'restore' on just one backup item
 - Added 'VDC Alerts' on the VDC Dashboard for notifications
 - Added services in vdc deployer to check the health of VDC:  containers health, IPs availability, and IPV4 units
@@ -30,19 +30,8 @@ Live on testnet - May 14, 2021.
 - Improved error messages on deployment failures.
 
 
-#### 3Bot SDK v2.7.1
+### 3Bot SDK v2.7.1
 - Allows exporting the 3Bot configurations 
 - Allows exporting 3Bot logs/alerts from the system
-
-
-### ThreeFold Connect App 2.7.1
-- Added TFT Vesting feature
-- Added BTC deposit and withdrawal feature
-- Added BTC - TFT Exchange feature
-- Added auto notifications for new terms and conditions
-
-## ZOS 0.4.11
-- Updated 'zdb' to it's latest version and use 'release' mode by default.
-
 
 
