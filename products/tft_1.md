@@ -1,6 +1,5 @@
  # TFT v1.0
-- Added TFT Vesting feature
-- Added TFT - Binance Smart Chain Bridge integration
-- Added Vesting Wallet feature
-- Improved Tokenstats on wiki.threefold.io
-
+- TFT implemented as a cross-chain asset (BToken) on the [Binance Smart Chain (BSC)](https://www.binance.org/en/smartChain).
+- Implemented support TFT buying with BTC
+- Improvements to the token statistics service
+- Implemented TFT vesting service
