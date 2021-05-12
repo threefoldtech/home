@@ -14,7 +14,7 @@
 
 - [ZOS](https://github.com/threefoldtech/zos) Version: v0.4.11
   - Updated 'zdb' to it's latest version and use 'release' mode by default.
-- [0-DB-FS](https://github.com/threefoldtech/0-DB-FS)Version: v0.1.4
+- [0-DB-FS](https://github.com/threefoldtech/0-DB-FS) Version: v0.1.4
   - Fixed bugs related to incorrectly parsed fuse argument
   - Enables fully static binary build
   - Enables backtrace when zdbfs crash
