@@ -19,4 +19,4 @@
 ## History
 
 - [ThreeFold Connect v2.5.0](https://github.com/threefoldtech/home/edit/tfcloud2.7.1/products/threefoldconnect2.5.md)
-- [ThreeFold Connect v2.5.0](https://github.com/threefoldtech/home/edit/tfcloud2.7.1/products/threefoldconnect2.3.md)
+- [ThreeFold Connect v2.3.0](https://github.com/threefoldtech/home/edit/tfcloud2.7.1/products/threefoldconnect2.3.md)
