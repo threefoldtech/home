@@ -6,9 +6,10 @@ Live on testnet - May 17, 2021.
 ## JS-SDK v11.4
 
 ### Component Upgrades
-- [3Bot Deployer](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/threebot_deployer)
-- [Solution Marketplace](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/marketplace)
-- [Virtual Datacenter VDC](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/vdc)
+- [3Bot Deployer](https://github.com/threefoldtech/js-sdk/tree/master/jumpscale/packages/threebot_deployer)
+- [Solution Marketplace](https://github.com/threefoldtech/js-sdk/tree/master/jumpscale/packages/marketplace)
+- [Virtual Datacenter VDC](https://github.com/threefoldtech/js-sdk/tree/master/jumpscale/packages/vdc)
+- [3Bot SDK](https://github.com/threefoldtech/js-sdk/tree/development/master/packages/tfgrid_solutions)
 
 ### VDC v2.7.1
 - Simplified backup and restore mechanism by clicking 'restore' on just one backup item
