@@ -1,9 +1,9 @@
 
  # 3Bot v2.7.1
  
-Live on testnet - May 14, 2021.
+Live on testnet - May 17, 2021.
 
-## JS-SDK v11.2.1
+## JS-SDK v11.4
 
 ### Component Upgrades
 - [3Bot Deployer](https://github.com/threefoldtech/js-sdk/tree/development/jumpscale/packages/threebot_deployer)
