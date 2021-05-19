@@ -18,30 +18,6 @@ Each product has a clear name and a version.
 - A product can link to another product too which then links to the component!
 - A product can link to a 3rd party product; also there specify the used version nrs
 
-## Component Project (on repo level)
-
-Generally only **1** github repo, there can be **exceptional** cases where 1 component spans multiple repos but this is the exception. Normally it means its just more than 1 component.
-
-The used swimlanes:
-
-- ```Backlog``` 
-    - Stakeholder or project owner suggests a feature/story/bug to be resolved in this release
-- ```Accepted```
-    - The project owner accepts the item, the issue will be worked on and he commits to solve within the release
-    - Once accepted = then escalation is needed if it can not be done in time
-- ```In progress```
-    - The issue is being worked on
-- ```Blocked```       
-    - We are using the Kanban way of thinking - something in this swimlane needs to be resolved asap, can be e.g. a question
-    - Means issue cannot be completed, attention from e.g. stakeholders is needed
-- ```Verification```        : work is being verified
-    - The team delivered the feature/bug/story
-    - Stakeholders need to agree that the issue has been resolved appropriately
-    - Project owner can never go from 'Verification' to 'Done' without approval from stakeholders (often represented by QA team)
-- ```Done```
-    - Everyone agreed (project owner and stakeholders) agreed that the issue was done ok
-    
-> exception only: when component is more than 1 repo, make the project on account level, in any other case its in the repo.
 
 Example:
 
@@ -66,6 +42,31 @@ Example:
 
 You see how different products can be made up out of other products. Its up to the product manager to link the right components to it.
 
+
+## Component Project (on repo level)
+
+Generally only **1** github repo, there can be **exceptional** cases where 1 component spans multiple repos but this is the exception. Normally it means its just more than 1 component.
+
+The used swimlanes:
+
+- ```Backlog``` 
+    - Stakeholder or project owner suggests a feature/story/bug to be resolved in this release
+- ```Accepted```
+    - The project owner accepts the item, the issue will be worked on and he commits to solve within the release
+    - Once accepted = then escalation is needed if it can not be done in time
+- ```In progress```
+    - The issue is being worked on
+- ```Blocked```       
+    - We are using the Kanban way of thinking - something in this swimlane needs to be resolved asap, can be e.g. a question
+    - Means issue cannot be completed, attention from e.g. stakeholders is needed
+- ```Verification```        : work is being verified
+    - The team delivered the feature/bug/story
+    - Stakeholders need to agree that the issue has been resolved appropriately
+    - Project owner can never go from 'Verification' to 'Done' without approval from stakeholders (often represented by QA team)
+- ```Done```
+    - Everyone agreed (project owner and stakeholders) agreed that the issue was done ok
+    
+> exception only: when component is more than 1 repo, make the project on account level, in any other case its in the repo.
 
 ## Team Projects = Team Kanban (on account level)
 

@@ -1,4 +1,4 @@
-# Onboarding Resources
+# Onboarding for a developer.
 
 Welcome to Threefold Tech. We are happy that you join us to change the world internet.
 

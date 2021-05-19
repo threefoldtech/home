@@ -16,18 +16,13 @@ Please do not use any other labels
     - or in swimlane blocked, means to be resolved in 1-2 days
 - `priority_minor`: put at back of sprint cycle
 
-## process
-
-- `process_duplicate`
-- `process_wontfix`
-
-## state
-
-- we no longer need the states because they are now part of the swimlanes on the team or release projects
-
 ## type
 
 - `type_bug`
 - `type_feature`
 - `type_question`
 - `type_story`: used to distinguish storycards; usually an overview of a usecase we want to achieve
+
+## NEW
+
+- we no longer use duplicate & other process state
