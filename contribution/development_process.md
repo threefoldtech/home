@@ -4,7 +4,7 @@ The development process of our projects is agile, collaborative and above all, r
 
 **Github project based**
 
-## Technical Product (account level)
+## Service / Product (account level)
 
 Each product has a clear name and a version.
 
