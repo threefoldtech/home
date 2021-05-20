@@ -31,7 +31,7 @@
   
 ## Features and Improvements
 
-### ZOS v0.6.0
+### ZOS v0.5.0
 - Fixed bugs related to CPU limit for containers
 - Replaced Firecracker to Cloud-hypervisor
 - Cleaned up stale VMs
