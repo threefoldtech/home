@@ -1,5 +1,5 @@
 
- # 3Bot v2.7.1
+ # ThreeFold Cloud v2.7.1
  
 Live on testnet - May 17, 2021.
 
