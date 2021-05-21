@@ -7,17 +7,18 @@
 These are technical products, only useful for super technical people.
 There is never overlap between components & products, or in other words 2 products can never have the same component.
 
-- [3Bot v2.7.0](products/3bot2.7.md) = your virtual system administrator
-- [TF Grid v2.6.0](products/tfgrid2.6.md) = IT capacity layer (ZOS, ...)
-- [ThreeFold Connect v2.6.0](products/threefoldconnect2.6.md) = the mobile app (wallet/authentication)
+- [3Bot v2.7.1](products/3bot2.7.1.md) = your virtual system administrator
+- [ThreeFold Grid 2.7.1](products/tfgrid2.7.1.md): Lower level components delivering TF Grid's capacity layer improvements
+- [ThreeFold Connect v2.7.1](products/threefoldconnect2.7.1.md) = the mobile app (wallet/authentication)
+- [ThreeFold Token v2.7.1](products/tft2.7.1.md) = Projects related to ThreeFold Token and Blockchain integrations
 
 ## Solutions
 
 What sales guys can sell (-:
 
 - eVDC v2.7 = easiest way how to get started with TFGrid = Edge Virtual Datacenter
-    - is based on products [3Bot v2.7.0](products/3bot2.7.md) and [TF Grid v2.6.0](products/tfgrid2.6.md)
-- Quantum Safe Archive: is a storage solution which will be part of evdc 2.5 (next version, planned Jan 2021)
+    - is based on products [ThreeFold Cloud v2.7.1](products/tfcloud_2_7_1.md)
+- Quantum Safe Archive: is a storage solution which will be part of evdc 2.8 (next version, planned May 2021)
 
 ## Team-based Projects
 
@@ -41,13 +42,19 @@ What sales guys can sell (-:
 ## Previous Versions
 
 ### 3Bot
+- [3Bot v2.7.0](products/3bot2.7.md) 
 - [3Bot v2.6.0](products/3bot2.6.md) 
 - [3Bot v2.5.0](products/3bot2.5.md)
 - [3Bot v2.4.0](products/3bot2.4.md)
 
 ### TFGrid
-- [TF Grid v2.5.0](products/tfgrid2.4.md) 
-- [TF Grid v2.4.0](products/tfgrid2.3.md)
-- [TF Grid v2.3.0](products/tfgrid2.2.md)
+- [TF Grid v2.6.0](products/tfgrid2.6.md) 
+- [TF Grid v2.5.0](products/tfgrid2.5.md) 
+- [TF Grid v2.4.0](products/tfgrid2.4.md)
+- [TF Grid v2.3.0](products/tfgrid2.3.md)
 
+
+## TF Connect
+- [TF Connect v2.5.0](products/threefoldconnect2.5.md) 
+- [TF Connect v2.3.0](products/threefoldconnect2.3.md) 
 
