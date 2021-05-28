@@ -8,7 +8,7 @@ Technical Release Note: [QSFS V0.4.0](https://github.com/threefoldtech/quantum-s
 The full chain about quantum storage is made of 3 parts:
 - [0-db](https://github.com/threefoldtech/0-db): Storage engine
 - [0-db-fs](https://github.com/threefoldtech/0-db-fs): FUSE layer which use the storage engine in an optimized way
-- [0-stor-v2](https://github.com/threefoldtech/0-stor_v2): Erasure encode storage data and send chunks to safe location
+- [0-stor-v2](https://github.com/threefoldtech/0-stor_v2): Encode data and chunks, makes them persistent to safe location
 
 ## QSFS Version 0.4.0 Improvements
 
