@@ -10,14 +10,15 @@ These are technical products and projects of ThreeFold
 - [ThreeFold Grid 2.7.1](products/tfgrid2.7.1.md): Lower level components delivering TF Grid's capacity layer improvements
 - [ThreeFold Connect v2.7.1](products/threefoldconnect2.7.1.md) = the mobile app (wallet/authentication)
 - [ThreeFold Token v2.7.1](products/tft2.7.1.md) = Projects related to ThreeFold Token and Blockchain integrations
+- [Quantum Safe File Storage (QSFS) v0.4](products/qsfs0.4.md) = A redundant File System with unlimited scalability on the ThreeFold Grid
 
 ## Solutions
 
 What sales guys can sell (-:
 
-- eVDC v2.7 = easiest way how to get started with TFGrid = Edge Virtual Datacenter
+- eVDC v2.7.1 = easiest way how to get started with TFGrid = Edge Virtual Datacenter
     - is based on products [ThreeFold Cloud v2.7.1](products/tfcloud_2_7_1.md)
-- Quantum Safe Archive: is a storage solution which will be part of evdc 2.8 (next version, planned May 2021)
+- Quantum Safe File System v0.4.0: based on product QSFS 0.4, is a redundant storage solution, currently releasing on beta iteratively, ready for production on v1.0.
 
 ## Team-based Projects
 
