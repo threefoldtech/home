@@ -2,10 +2,9 @@
 
 - Components & Links see [code_getting_started](code_getting_started.md)
 
-## Products
+## Products and Projects
 
-These are technical products, only useful for super technical people.
-There is never overlap between components & products, or in other words 2 products can never have the same component.
+These are technical products and projects of ThreeFold
 
 - [ThreeFold Cloud v2.7.1](products/3bot2.7.1.md) = your virtual system administrator
 - [ThreeFold Grid 2.7.1](products/tfgrid2.7.1.md): Lower level components delivering TF Grid's capacity layer improvements
