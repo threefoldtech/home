@@ -7,7 +7,7 @@
 These are technical products and projects of ThreeFold
 
 - [ThreeFold Cloud v2.8](products/tfcloud2.8.md) = your virtual system administrator
-- [ThreeFold Grid 2.8](products/tfgrid2.8.md): Lower level components delivering TF Grid's capacity layer improvements
+- [ThreeFold Grid v2.8](products/tfgrid2.8.md): Lower level components delivering TF Grid's capacity layer improvements
 - [ThreeFold Connect v2.8](products/threefoldconnect2.8.md) = the mobile app (wallet/authentication)
 - [ThreeFold Chain v2.7.1](products/tft2.8.md) = Projects related to ThreeFold Token and Blockchain integrations
 - [Quantum Safe File Storage (QSFS) v0.4](products/qsfs0.4.md) = A redundant File System with unlimited scalability on the ThreeFold Grid
