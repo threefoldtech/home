@@ -55,4 +55,4 @@ These are technical products and projects of ThreeFold
 - [TF Connect v2.3.0](products/threefoldconnect2.3.md) 
 
 ## TF Chain (Previously called TFT Project)
-= [TFT V2.7.0](products/tft2.7.md)
+= [TFT V2.7.1](products/tft2.7.1.md)
