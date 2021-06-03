@@ -42,7 +42,7 @@ These are technical products and projects of ThreeFold
 - [3Bot v2.4.0](products/3bot2.4.md)
 
 ### TF Grid
-- [TF Grid v2.7.0](products/tfgrid2.7.md) 
+- [TF Grid v2.7.1](products/tfgrid2.7.1.md) 
 - [TF Grid v2.6.0](products/tfgrid2.6.md) 
 - [TF Grid v2.5.0](products/tfgrid2.5.md) 
 - [TF Grid v2.4.0](products/tfgrid2.4.md)
