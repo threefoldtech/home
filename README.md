@@ -50,7 +50,7 @@ These are technical products and projects of ThreeFold
 
 
 ## TF Connect
-- [TF Connect v2.7.0](products/threefoldconnect2.7.md) 
+- [TF Connect v2.7.1](products/threefoldconnect2.7.1.md) 
 - [TF Connect v2.5.0](products/threefoldconnect2.5.md) 
 - [TF Connect v2.3.0](products/threefoldconnect2.3.md) 
 
