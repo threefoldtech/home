@@ -35,7 +35,7 @@ These are technical products and projects of ThreeFold
 ## Previous Versions
 
 ### TF Cloud (Previously called 3Bot Project)
-- [ThreeFold Cloud v2.7.1](products/tfcloud2.7.1.md) 
+- [3Bot v2.7.1](products/3bot2.7.1.md) 
 - [3Bot v2.7.0](products/3bot2.7.md) 
 - [3Bot v2.6.0](products/3bot2.6.md) 
 - [3Bot v2.5.0](products/3bot2.5.md)
