@@ -42,3 +42,6 @@ On the previous TFT Stellar 1.4.2, vesting services has been successfully create
 - Created a feature on TF wallet to automatically unlock vested TFT
 - Created a service on TFT Stellar to accept the unlocking transaction request created by the vested TF wallet accounts
 - Notification system on user's TF Wallet when TFTs is unlocked
+
+## History
+- [ThreeFold Chain v2.7.1](tft2.7.1.md)
