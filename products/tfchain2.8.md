@@ -33,22 +33,12 @@ On the previous TFT Stellar 1.4.2, vesting services has been successfully create
 
 ## Specification
 
-- Release locked TFTs from vested accounts monthly, when TFT average price is higher or equal than $0.1 on the particular month.
+- Created service to release locked TFTs from vested accounts monthly, when TFT average price is higher or equal than $0.1 at the end of the particular month.
 
-## User Story
-Unvest locked TFTs from vested accounts
+## Changelogs
 
-### Tickets
-
-- [x]  Write a script to calculate the average monthly tft price #338 
-
-- [ ] return a list of free and vested amount of TFTs from the vesting service #389 
-https://github.com/threefoldfoundation/tft-stellar/issues/389
-
-- [ ] Create a feature on TF wallet to automatically unlock vested TFT [tfwallet-#246](https://github.com/threefoldtech/threefold_wallet/issues/246)
-
-- [ ] Create a service on TFT stellar to accept the unvest the token based on the transaction request created by the  vested tf wallet accounts #390 
-
-- [ ] Create a background app for the co-signers  to verify and sign the unvest transactions #391 
-
-- [ ] optional (do a notification on TF wallet when token unvested) [tfwallet-#247](https://github.com/threefoldtech/threefold_wallet/issues/247)
+- Wrote a script to calculate the average monthly TFT price
+- returned a list of free and vested amount of TFTs from the vesting service 
+- Created a feature on TF wallet to automatically unlock vested TFT
+- Created a service on TFT Stellar to accept the unlocking transaction request created by the vested TF wallet accounts
+- Notification system on user's TF Wallet when TFTs is unlocked
