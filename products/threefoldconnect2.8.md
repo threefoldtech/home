@@ -22,4 +22,9 @@ On the last release of ThreeFold Waallet 2.7.1, we enable users to activate and 
 - UX script modification on wallet instructions and dialogues
 - Minor UI changes based on user feedback
 - Add BTC Asset Guide Wiki to the BTC Asset Wallet
-- 
+
+## History
+
+- [ThreeFold Connect v2.7.1](https://github.com/threefoldtech/home/edit/tfcloud2.7.1/products/threefoldconnect2.7.1.md)
+- [ThreeFold Connect v2.5.0](https://github.com/threefoldtech/home/edit/tfcloud2.7.1/products/threefoldconnect2.5.md)
+- [ThreeFold Connect v2.3.0](https://github.com/threefoldtech/home/edit/tfcloud2.7.1/products/threefoldconnect2.3.md)
