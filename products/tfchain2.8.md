@@ -31,11 +31,11 @@ On the previous BSC V.10-Beta, we have released the single-sig bridge service. O
 
 On the previous TFT Stellar 1.4.2, vesting services has been successfully created and running. On this release we created services to unlock the locked TFT when the requirement is met by the vesting terms and conditions (end of june- $0.1 TFT average price)
 
-## Specification
+#### Specification
 
 - Created service to release locked TFTs from vested accounts monthly, when TFT average price is higher or equal than $0.1 at the end of the particular month.
 
-## Changelogs
+#### Changelogs
 
 - Wrote a script to calculate the average monthly TFT price
 - returned a list of free and vested amount of TFTs from the vesting service 
