@@ -2,7 +2,7 @@
 
 # ThreeFold Cloud v2.8.0
 
-New Features, improvements and component releases related to The ThreeFold Cloud; ThreeFold's Virtual Data Center (VDC), 3Bot SDK Admin, as well as Marketplace Solutions.
+New Features, improvements and component releases related to The ThreeFold Cloud; ThreeFold's Virtual Data Center (VDC), as well as Marketplace Solutions.
 
 ## Components
 
