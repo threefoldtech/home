@@ -7,8 +7,6 @@
 
 > remark: these are the lower level components which deliver the capacity (not the automation layer).
 
-- TF Grid is TF P2P cloud
-- +18,000 CPU cores, +90,000,000 GB of online storage, +21 countries
 
 
 ## Components
