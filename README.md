@@ -6,11 +6,11 @@
 
 These are technical products and projects of ThreeFold
 
-- [ThreeFold Cloud v2.7.1](products/3bot2.7.1.md) = your virtual system administrator
-- [ThreeFold Grid 2.7.1](products/tfgrid2.7.1.md): Lower level components delivering TF Grid's capacity layer improvements
-- [ThreeFold Connect v2.7.1](products/threefoldconnect2.7.1.md) = the mobile app (wallet/authentication)
-- [ThreeFold Token v2.7.1](products/tft2.7.1.md) = Projects related to ThreeFold Token and Blockchain integrations
-- [Quantum Safe File Storage (QSFS) v0.4](products/qsfs0.4.md) = A redundant File System with unlimited scalability on the ThreeFold Grid
+- [ThreeFold Cloud v2.8.0](products/tfcloud2.8.md) = your virtual system administrator
+- [ThreeFold Grid v2.8.0](products/tfgrid2.8.md): Lower level components delivering TF Grid's capacity layer improvements
+- [ThreeFold Connect v2.8.0](products/threefoldconnect2.8.md) = the mobile app (wallet/authentication)
+- [ThreeFold Chain v2.8.0](products/tfchain2.8.md) = Projects related to ThreeFold Token and Blockchain integrations
+- [Quantum Safe File Storage (QSFS) v0.4.0](products/qsfs0.4.md) = A redundant File System with unlimited scalability on the ThreeFold Grid
 
 
 ## Team-based Projects
@@ -34,13 +34,15 @@ These are technical products and projects of ThreeFold
 
 ## Previous Versions
 
-### 3Bot
+### TF Cloud (Previously called 3Bot Project)
+- [3Bot v2.7.1](products/3bot2.7.1.md) 
 - [3Bot v2.7.0](products/3bot2.7.md) 
 - [3Bot v2.6.0](products/3bot2.6.md) 
 - [3Bot v2.5.0](products/3bot2.5.md)
 - [3Bot v2.4.0](products/3bot2.4.md)
 
-### TFGrid
+### TF Grid
+- [TF Grid v2.7.1](products/tfgrid2.7.1.md) 
 - [TF Grid v2.6.0](products/tfgrid2.6.md) 
 - [TF Grid v2.5.0](products/tfgrid2.5.md) 
 - [TF Grid v2.4.0](products/tfgrid2.4.md)
@@ -48,6 +50,9 @@ These are technical products and projects of ThreeFold
 
 
 ## TF Connect
+- [TF Connect v2.7.1](products/threefoldconnect2.7.1.md) 
 - [TF Connect v2.5.0](products/threefoldconnect2.5.md) 
 - [TF Connect v2.3.0](products/threefoldconnect2.3.md) 
 
+## TF Chain (Previously called TFT Project)
+= [TFT V2.7.1](products/tft2.7.1.md)
