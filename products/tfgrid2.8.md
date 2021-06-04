@@ -6,7 +6,7 @@
 
 ## Components
 
- [ZOS](https://github.com/threefoldtech/zos) 
+- [ZOS](https://github.com/threefoldtech/zos) 
 - [Web Gateway](https://github.com/threefoldtech/tfgateway/)
 - [TF Explorer](https://github.com/threefoldtech/tfexplorer) 
 - [JS-SDK](https://github.com/threefoldtech/js-sdk) 
