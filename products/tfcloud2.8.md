@@ -33,22 +33,30 @@ A VDC Deployment consists of numeourous creation processess of different entaili
 
 ### Dash Full Node Deployment
 
-On this release we are allowing users to deploy Dash Blockchain Full Node on top of ThreeFold Grid via VDC Admin Panel.
+On this release we are allowing users to deploy Dash Blockchain Full Node on top of ThreeFold Grid via VDC Admin Panel. 
 
 #### Specification
-- x
+
+- Deploy A Dash full node that allows users build applications and services with Node.js. 
 
 #### Changelogs
 
-- x
+- Added solution images to the VDC
+- Added Dash helm charts to the VDC
+- Created deployment chatflows for Dash Full Node
+- Created Dash Full Node status page for users as node monitoring platform
 
-### Generic Improvements
+### Generic VDC Improvements
 
-x
-
-#### Specification
-- x
+Several minor improvements on VDC's performance, recovery, processes, and user experience.
 
 #### Changelogs
 
-- x
+- Allowed setting key to control VDC from the rest API 
+- Fetch VDC workloads from TF Explorer for VDC listing 
+- Added Support button on VDC deployer and on the VDC controller
+- Enable ETCD cluster installation on 3Nodes
+- Added service to redeploy the VDC controller if node goes down
+- Create Service to redeploy 3Bot server incase node goes down
+- Drain kubernetes node before deletion
+- Allow new VDC master redeployment if the VDC master dies
