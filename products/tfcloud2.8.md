@@ -60,3 +60,10 @@ Several minor improvements on VDC's performance, recovery, processes, and user e
 - Create Service to redeploy 3Bot server incase node goes down
 - Drain kubernetes node before deletion
 - Allow new VDC master redeployment if the VDC master dies
+
+## History (Previously named 3Bot)
+
+- [ThreeFold Cloud 2.7.1](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.7.md)
+- [ThreeFold Cloud 2.7](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.7.md)
+- [ThreeFold Cloud 2.6](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.6.md)
+- [ThreeFold Cloud 2.5](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.5.md)
