@@ -69,7 +69,7 @@ Several minor improvements on VDC's performance, recovery, processes, and user e
 
 ## History (Previously named 3Bot)
 
-- [ThreeFold Cloud 2.7.1](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.7.1.md)
-- [ThreeFold Cloud 2.7](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.7.md)
-- [ThreeFold Cloud 2.6](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.6.md)
-- [ThreeFold Cloud 2.5](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.5.md)
+- [ThreeFold Cloud 2.7.1](https://github.com/threefoldtech/home/blob/products/3bot2.7.1.md)
+- [ThreeFold Cloud 2.7](https://github.com/threefoldtech/home/blob/products/3bot2.7.md)
+- [ThreeFold Cloud 2.6](https://github.com/threefoldtech/home/blob/products/3bot2.6.md)
+- [ThreeFold Cloud 2.5](https://github.com/threefoldtech/home/blob/products/3bot2.5.md)
