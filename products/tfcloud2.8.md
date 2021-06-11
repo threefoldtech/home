@@ -32,22 +32,24 @@ A VDC Deployment consists of numeourous creation processess of different entaili
 - Show interactive UI during VDC initialization process
 - Allowed deployment of the main workloads(compute nodes and the controller) first, then deploying the storage containers on the latter.
 
-### VDC Deployment Speed Improvement
- On this release, we discovered ways to create services on different entailing components to improve VDC recovery processes if unexpected incidents happen, in order to avoid data and capacity loss, automate recovery, and many more. 
+### VDC Recovery Improvement
+
+Based on reported feedback regarding VDC’s stability and self-healing quality on the previous release, on this released we worked on improving its recovery and monitoring mechanism. We created services on different entailing components to improve recovery processes if unexpected incidents happen, in order to avoid data and capacity loss, automate recovery, and many more.
 
 #### Changelogs
-- Added service to redeploy the VDC controller if node goes down
-- Create Service to redeploy 3Bot server incase node goes down
-- Drain kubernetes node before deletion
-- Allow new VDC master redeployment if the VDC master dies
+- Allow VDC master redeployment option 
+- Improved of VDC Controller dashboard speed by 50%
+- Generic Virtual Machines (VMs) support 
+- Allow API keys to interact with the VDC 
+- Improved billing service reliability
 
 ### Dash Full Node Deployment
 
 On this release we are allowing users to deploy Dash Blockchain Full Node on top of ThreeFold Grid via VDC Admin Panel. 
 
-#### Specification
+#### Highlight
 
-- Deploy A Dash full node that allows users build applications and services with Node.js. 
+- Allow Dash Full Node deployment that on VDC. Dash Full Node allows users build applications and services with Node.js. 
 
 #### Changelogs
 
