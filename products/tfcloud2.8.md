@@ -45,7 +45,7 @@ Based on reported feedback regarding VDC’s stability and self-healing quality 
 
 On this release we are allowing users to deploy Dash Blockchain Full Node on top of ThreeFold Grid via VDC Admin Panel. 
 
-#### Highlight
+#### Highlights
 
 - Allow Dash Full Node deployment that on VDC. Dash Full Node allows users build applications and services with Node.js. 
 
