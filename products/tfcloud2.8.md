@@ -30,7 +30,6 @@ A VDC Deployment consists of numeourous creation processess of different entaili
 - 3Bot server creation speed improvement
 - Use a new flist for 3Bot deployment that includes all the required binaries
 - Show interactive UI during VDC initialization process
-- Allowed deployment of the main workloads(compute nodes and the controller) first, then deploying the storage containers on the latter.
 
 ### VDC Recovery Improvement
 
@@ -39,7 +38,6 @@ Based on reported feedback regarding VDC’s stability and self-healing quality 
 #### Changelogs
 - Allow VDC master redeployment option 
 - Improved of VDC Controller dashboard speed by 50%
-- Generic Virtual Machines (VMs) support 
 - Allow API keys to interact with the VDC 
 - Improved billing service reliability
 
