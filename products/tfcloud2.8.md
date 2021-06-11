@@ -31,6 +31,11 @@ A VDC Deployment consists of numeourous creation processess of different entaili
 - Use a new flist for 3Bot deployment that includes all the required binaries
 - Show interactive UI during VDC initialization process
 - Allowed deployment of the main workloads(compute nodes and the controller) first, then deploying the storage containers on the latter.
+
+### VDC Deployment Speed Improvement
+ On this release, we discovered ways to create services on different entailing components to improve VDC recovery processes if unexpected incidents happen, in order to avoid data and capacity loss, automate recovery, and many more. 
+
+#### Changelogs
 - Added service to redeploy the VDC controller if node goes down
 - Create Service to redeploy 3Bot server incase node goes down
 - Drain kubernetes node before deletion
