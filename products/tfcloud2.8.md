@@ -18,10 +18,11 @@ New Features, improvements and component releases related to The ThreeFold Cloud
 
 A VDC Deployment consists of numeourous creation processess of different entailing components- such as the creation of VDC Wallets, capacity pools, VDC controller, compute nodes, storage containers, and many more. On this release, we investigated different entailing components and classified how some processes could be improved to fasten the speed VDC deployment process as a whole. 
 
-#### Specification
+#### Highlights
 - Speed up component creation processes
 - Reorder component deployment flow
 - Adf interactive UI for different stages of the deployment processes (creation, initialization...)
+- VDC recovery improvement
 
 #### Changelogs
 - Wallet creation speed improvement
@@ -29,15 +30,24 @@ A VDC Deployment consists of numeourous creation processess of different entaili
 - 3Bot server creation speed improvement
 - Use a new flist for 3Bot deployment that includes all the required binaries
 - Show interactive UI during VDC initialization process
-- Allowed deployment of the main workloads(compute nodes and the controller) first, then deploying the storage containers on the latter.
+
+### VDC Recovery Improvement
+
+Based on reported feedback regarding VDC’s stability and self-healing quality on the previous release, on this released we worked on improving its recovery and monitoring mechanism. We created services on different entailing components to improve recovery processes if unexpected incidents happen, in order to avoid data and capacity loss, automate recovery, and many more.
+
+#### Changelogs
+- Allow VDC master redeployment option 
+- Improved of VDC Controller dashboard speed by 50%
+- Allow API keys to interact with the VDC 
+- Improved billing service reliability
 
 ### Dash Full Node Deployment
 
 On this release we are allowing users to deploy Dash Blockchain Full Node on top of ThreeFold Grid via VDC Admin Panel. 
 
-#### Specification
+#### Highlights
 
-- Deploy A Dash full node that allows users build applications and services with Node.js. 
+- Allow Dash Full Node deployment that on VDC. Dash Full Node allows users build applications and services with Node.js. 
 
 #### Changelogs
 
@@ -56,14 +66,10 @@ Several minor improvements on VDC's performance, recovery, processes, and user e
 - Fetch VDC workloads from TF Explorer for VDC listing 
 - Added Support button on VDC deployer and on the VDC controller
 - Enable ETCD cluster installation on 3Nodes
-- Added service to redeploy the VDC controller if node goes down
-- Create Service to redeploy 3Bot server incase node goes down
-- Drain kubernetes node before deletion
-- Allow new VDC master redeployment if the VDC master dies
 
 ## History (Previously named 3Bot)
 
-- [ThreeFold Cloud 2.7.1](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.7.md)
-- [ThreeFold Cloud 2.7](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.7.md)
-- [ThreeFold Cloud 2.6](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.6.md)
-- [ThreeFold Cloud 2.5](https://github.com/threefoldtech/home/blob/tfcloud2.7.1/products/3bot2.5.md)
+- [ThreeFold Cloud 2.7.1](https://github.com/threefoldtech/home/blob/products/3bot2.7.1.md)
+- [ThreeFold Cloud 2.7](https://github.com/threefoldtech/home/blob/products/3bot2.7.md)
+- [ThreeFold Cloud 2.6](https://github.com/threefoldtech/home/blob/products/3bot2.6.md)
+- [ThreeFold Cloud 2.5](https://github.com/threefoldtech/home/blob/products/3bot2.5.md)

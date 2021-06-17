@@ -16,7 +16,7 @@
 
 On the previous BSC V.10-Beta, we have released the single-sig bridge service. On this release we transformed it into a multi-sig bridge service and a fee wallet. When the bridge wallet is distributed with multisig, it needs to be co-signed in order to complete the transaction. Multisig creates more secure transactions, making it hard to be stolen, be tampered or compromised.
 
-#### Specification
+#### Highlights
 - Created services to support multisig verification and transaction signing for TFT-stellar to TFT-BSC transaction
 - Created services to support multisig TFT-BSC to TFT-stellar transaction
 
@@ -31,7 +31,7 @@ On the previous BSC V.10-Beta, we have released the single-sig bridge service. O
 
 On the previous TFT Stellar 1.4.2, vesting services has been successfully created and running. On this release we created services to unlock the locked TFT when the requirement is met by the vesting terms and conditions (end of june- $0.1 TFT average price)
 
-#### Specification
+#### Highlights
 
 - Created service to release locked TFTs from vested accounts monthly, when TFT average price is higher or equal than $0.1 at the end of the particular month.
 

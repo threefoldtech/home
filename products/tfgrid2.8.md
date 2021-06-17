@@ -1,6 +1,6 @@
 
 
-# ThreeFold Grid v2.8.0 (Testnet)
+# ThreeFold Grid v2.8.0
 
  New Features, improvements and component releases related to The ThreeFold's peer2peer internet Grid
 
@@ -22,7 +22,7 @@
 
 Generic Virtual Machines (VM) becomes one of the new primitive requirement on the grid. The new privimtive type VM allows users to start a VM with a predefined Operating System (e.g. Ubuntu, Arch, etc). At the moment we are supporting the Ubuntu OS. Therefore on this release, some improvements have been made to make this support possible by adding them to different grid primitives and components.
 
-#### Specification
+#### Highlights
 - Generic VM Support on ZOS
 - Generic VM Support on JS-SDK
 - Generic VM Support on TF-Explorer
@@ -37,7 +37,7 @@ Generic Virtual Machines (VM) becomes one of the new primitive requirement on th
 ### ThreeFold Explorer v0.5.1
 Improvements on this release would revolve user's public IP management on TF Explorer, as well as User Interface improvements regarding workload management and node information display. 
 
-#### Specification
+#### Highlights
 - Allowing users to keep the same public IP address when they decide to migrate their VM into another node
 - Allowing users to filter workloads by 'workload type'
 - Display Grid v3.0 nodes and farms 
@@ -62,6 +62,7 @@ Since the launch of Farming v3.0: [Farming Reward Logic](https://wiki.threefold.
 - Enable farmers to sign ownership and agreement on T&C for their 3Nodes
 - Activated minting on all networks (devnet, testnet, and mainnet)
 - Upgraded JS-SDK Farm Management to 3.0 Logics
+
 
 ## History
 
