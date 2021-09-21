@@ -29,9 +29,9 @@
 ### Documentation
 
 #### Per location
-- public IP 
+- Public IP 
 - SSHD runs on port 34022 
-- description: for what service/product is this node set up
+- Description: for what service/product is this node set up
 
 ## New service setup
 
