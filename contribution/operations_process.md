@@ -72,17 +72,20 @@
 
 
 ## Process rules
-- Only OPS team pushes to production (no one else gets access to servers) 
-- Nothing gets released after Wednesday 
-- No disturbing devs directly - anything urgent goes to circle owner 
-- If not logged as issue or story, it does NOT happen
-- Update/close your story's / issues
-- Escalate if needed 
-- OPS team is available 7/7 during DAYTIME HOURS 
-- No external communication / promotion / promises are done before it is agreed upon by stakeholders and verified by architects & circle owners if it can and will be done within the given timeframe 
-- Final products get pushed to mainnet 
-- All server setups are done and managed by OPS team
+- Only OPS team pushes to production (no one else gets access to servers).
+- Nothing gets released after Wednesday.
+- No disturbing devs directly - anything urgent goes to circle owner.
+- If not logged as issue or story, it does NOT happen.
+- Update/close your story's / issues.
+- Escalate if needed.
+- OPS team is available 7/7 during DAYTIME HOURS.
+- No external communication / promotion / promises are done before it is agreed upon by stakeholders and verified by architects & circle owners if it can and will be done within the given timeframe.
+- Final products get pushed to mainnet.
+- All server setups are done and managed by OPS team.
 - Development priorities will be finished before new priorities or stories get decided on. 
-- Priorities get decided on stakeholders call, no new projects or prio's in between these calls (unless urgencies related to the existing story)
+- Priorities get decided on stakeholders call, no new projects or prio's in between these calls (unless urgencies related to the existing story).
 - Setting up environments happens by OPS team. 
+- Critical lable = our stuff is broken / needs to be fixed right away
+- Major lable = should be resolved in max 2 days
+- Minor lable = should be done within sprint
 
