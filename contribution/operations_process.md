@@ -77,7 +77,7 @@
 - If not logged as issue or story, it does NOT happen.
 - Update/close your story's / issues.
 - Escalate if needed.
-- OPS team is available 7/7 during DAYTIME HOURS.
+- OPS team is available from Sunday until Thursday, and on call for critical matters on Friday - Saturday during daytime hours. 
 - No external communication / promotion / promises are done before it is agreed upon by stakeholders and verified by architects & circle owners if it can and will be done within the given timeframe.
 - Final products get pushed to mainnet.
 - All server setups are done and managed by OPS team.
