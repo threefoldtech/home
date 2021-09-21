@@ -17,8 +17,8 @@
 ### Circles
 
 - Planning
-- Issues (external) - decision not supported by ops & dev team
-- Highlevel story's as agreed by stakeholders
+- Stories (as agreed by stakeholders)
+- High level issues (related to planning / milestones / stories / customer feedback ..)
 
 
 ## Process products 
@@ -74,16 +74,16 @@
 - Only OPS team pushes to production (no one else gets access to servers).
 - Nothing gets released after Wednesday.
 - No disturbing devs directly - anything urgent goes to circle owner.
-- If not logged as issue or story, it does NOT happen.
-- Update/close your story's / issues.
+- If not logged as an issue or story, it does NOT happen.
+- Update/close your stories / issues.
 - Escalate if needed.
 - OPS team is available from Sunday until Thursday, and on call for critical matters on Friday - Saturday during daytime hours. 
-- No external communication / promotion / promises are done before it is agreed upon by stakeholders and verified by architects & circle owners if it can and will be done within the given timeframe.
+- No external communication / promotion / promises are done before it is agreed upon by stakeholders and verified by architects & circle owners that it can and will be done within the given timeframe.
 - Final products get pushed to mainnet.
 - All server setups are done and managed by OPS team.
-- Development priorities will be finished before new priorities or stories get decided on. 
-- Priorities get decided on stakeholders call, no new projects or prio's in between these calls (unless urgencies related to the existing story).
-- Setting up environments happens by OPS team. 
+- Development priorities will be finished before new priorities and stories get decided on. 
+- Priorities get decided on and approved on stakeholders call, no new projects or prios in between these calls (except urgencies related to the existing story).
+- Environments are set up by OPS team. 
 - Critical lable = our stuff is broken / needs to be fixed right away
 - Major lable = should be resolved in max 2 days
 - Minor lable = should be done within sprint
