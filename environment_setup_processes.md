@@ -3,6 +3,7 @@
 ## New server setup 
 
 ### Standard process
+- As much as possible, nodes should be used which have ipv6 connectivity. 
 - OS: Latest Ubuntu LTS release.
 - Filesystem btrfs
 - Start by running apt-get update.
@@ -17,6 +18,7 @@
 ### Firewall rules
 - Nftables (`nft`) will be used for firewalling.
 - On public interfaces default rules should be drop. On top of this, the first rule should be `ct state {established, related} accept` + `ct state invalid drop`.
+- ICMP allowed 
 - Port 34022 (SSHD) is allowed on public interfaces.
 - Other ports are opened as required on public interfaces. 
 - On the wireguard interface for monitoring, drop by default and accept the ports on which metrics are served (port 9100 by default for Prometheus-node-exporter).
@@ -30,7 +32,7 @@
 ### Documentation
 
 #### Per location
-- Public IP 
+- Public IP (both ipv4 and ipv6)
 - SSHD runs on port 34022 
 - Description: for what service/product is this node set up
 
@@ -42,6 +44,7 @@ Add to Gitea under threefold/itenv_threefold_main
 
 - Make sure developer has documented the requirements / setup documentation. Everything which is needed to get the service live should be in there.
 - Open ports on public IP as required by the service.
+- If DNS record is configured, both an A and AAAA record should be configured. 
 - Dependancy services should also get an entry. 
 - Create documentation which includes:
   - Ports used 
@@ -55,4 +58,3 @@ If development documentation includes monitoring, this must also be set up by Op
 - Open the port where the metrics are served on the wireguard interface in the firewall. 
 - Set up Grafana dashboard if provided. 
 - Configure alerts as mentioned in the dev documentation. 
-
