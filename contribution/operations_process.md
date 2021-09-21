@@ -70,7 +70,7 @@
 11. QA verifies on mainnet
 
 
-## Rules
+## Process Rules
 - Only OPS team pushes to production (no one else gets access to servers).
 - Nothing gets released after Wednesday.
 - No disturbing devs directly - anything urgent goes to circle owner.
