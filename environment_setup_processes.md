@@ -4,6 +4,7 @@
 
 ### Standard process
 - OS: Latest Ubuntu LTS release.
+- Filesystem btrfs
 - Start by running apt-get update.
 - Operations user will be created and will hold the SSH keys of OPS team.
 - Every user who logs in, uses the operations user to create his own user account (please use the same username everywhere), add it to the sudo group and add your own SSH key to the authorized keys of this new user account. This is the ONLY thing the operations account will be used for. After creating your own user account, you log out of the operations account and login to your own account.
@@ -32,6 +33,8 @@
 - Public IP 
 - SSHD runs on port 34022 
 - Description: for what service/product is this node set up
+
+Add to Gitea under threefold/itenv_threefold_main
 
 ## New service setup
 
