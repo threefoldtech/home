@@ -1,4 +1,4 @@
-# Operataion Processes 
+# Operations Processes 
 
 ## Platforms
 
@@ -71,7 +71,7 @@
 12. Projectteam start their promotion
 
 
-## Rules
+## Process rules
 - Only OPS team pushes to production (no one else gets access to servers) 
 - Nothing gets released after Wednesday 
 - No disturbing devs directly - anything urgent goes to circle owner 
