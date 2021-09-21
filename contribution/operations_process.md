@@ -22,7 +22,7 @@
 
 
 ## Process products 
-1. Bizdev agree on products
+1. BizDev / Stakeholders agree on products
 2. Stakeholders decide on priorities 
 3. Roadmap created by architects
 4. Dev leads create story's in Github and link to roadmap story's in circles.
@@ -34,7 +34,7 @@
 
 
 ## Process services
-1. Bizdev agree on services 
+1. BizDev / Stakeholders agree on services 
 2. Stakeholders decide on priorities 
 3. Roadmap by architects
 4. Dev leads create story's in Github and link to roadmap story's in circles.
@@ -47,31 +47,30 @@
 
 
 ## Process web publishing releases
-1. Promotion / stakeholders agree on web presence needs 
+1. Promotion / Stakeholders agree on web presence needs 
 2. Stakeholders agree on priorities 
-3. Promotion circle owner create story's in circlestool 
-4. Web team finish issues (in Github if code related)
-5. Gets finalised on development branch
-6. Pushed on staging for stakeholders review 
-7. After stakeholders approval, OPS team pushed to production by Wednesday (no pushing to production from Thursday until Sunday)
+3. Promotion circle create story's / issues in circlestool 
+4. Web team address / create issues (in Github if code related)
+5. Web team finalise on development branch
+6. OPS push on staging for stakeholders review 
+7. After stakeholders approval, OPS team push to production by Wednesday (no pushing to production from Thursday until Sunday)
 8. OPS team adds monitoring 
 
 ## Process projects
-1. Bizdev agree on services 
-2. Stakeholders decide on projectteam (external + internal), owner & priorities 
+1. BizDev / Stakeholders agree on projects
+2. Stakeholders approve project owner, team (external + internal) & priorities 
 3. Project owner creates roadmap 
-4. Team creates story's on circlestool
-5. Projectteam adds code related issues on Github 
-6. Building happens on devnet 
+4. Project team create storys on circlestool
+5. Project team adds code related issues on Github 
+6. Development happens on devnet
 7. OPS team releases on testnet
 8. QA tests on testnet
-9. Projectteam invite external users to test 
+9. Project team invite testing community to test 
 10. OPS team releases on mainnet 
-11. QA verifies on mainnet 
-12. Projectteam start their promotion
+11. QA verifies on mainnet
 
 
-## Process rules
+## Rules
 - Only OPS team pushes to production (no one else gets access to servers).
 - Nothing gets released after Wednesday.
 - No disturbing devs directly - anything urgent goes to circle owner.
