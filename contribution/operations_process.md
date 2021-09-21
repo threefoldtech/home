@@ -16,7 +16,7 @@
 
 - Planning
 - Issues (external) - decision not supported by ops & dev team
-- Bizdev 
+- Highlevel story's as agreed by stakeholders
 
 
 ## Process products 
@@ -50,6 +50,17 @@
 4. Web team finish issues (in Github if code related)
 5. Gets finalised on development branch
 6. Pushed on staging for stakeholders review 
-7. After stakeholders approval, OPS team pushed to production
+7. After stakeholders approval, OPS team pushed to production by Wednesday (no pushing to production from Thursday until Sunday)
+8. OPS team adds monitoring 
+
+
+## Process rules
+- Only OPS team pushes to production (no one else gets access to servers) 
+- Nothing gets released after Wednesday 
+- No disturbing devs directly - anything urgent goes to circle owner 
+- If not logged as issue or story, it does NOT happen
+- Update/close story's / issues
+- Escalate if needed 
+- OPS team is available 7/7 during DAYTIME HOURS 
 
 
