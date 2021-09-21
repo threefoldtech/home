@@ -24,7 +24,7 @@
 ## Process products 
 1. BizDev / Stakeholders agree on products
 2. Stakeholders decide on priorities and product owner
-3. Product owner creates a circle (using given template) and with architects create roadmap
+3. Product owner creates a circle (using given template) and with architects create roadmap in circlestool
 4. Dev leads create story's in Github and link to roadmap story's in circles.
 5. Developers implement story's on devnet + write full documentation
 6. Developers puts product on testnet & hands over to QA team 
