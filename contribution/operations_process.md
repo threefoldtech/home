@@ -36,44 +36,53 @@
 ## Process services
 1. BizDev / Stakeholders agree on services 
 2. Stakeholders decide on priorities 
-3. Roadmap by architects
+3. Roadmap by architects (circles)
 4. Dev leads create story's in Github and link to roadmap story's in circles.
-5. Developers implement story's on devnet + write full documentation
-6. Developers handover to OPS team
-7. OPS put in testnet + adds monitoring 
-8. QA team finishes testing on testnet
-9. OPS team releases on mainnet
-10. QA team verifies services on mainnet
+5. Developers implement story's on devnet + write full documentation (Github)
+6. Developers handover to OPS team (Github)
+7. OPS put in testnet + adds monitoring (Github)
+8. QA team finishes testing on testnet (Github)
+9. OPS team releases on mainnet (Github)
+10. QA team verifies services on mainnet (Github)
 
 
 ## Process web publishing releases
-1. Promotion / Stakeholders agree on web presence needs 
-2. Stakeholders agree on priorities 
+1. Promotion / Stakeholders agree on web presence needs (circles/cryptpad)
+2. Stakeholders agree on priorities (circles)
 3. Promotion circle create story's / issues in circlestool 
-4. Web team address / create issues (in Github if code related)
-5. Web team finalise on development branch
-6. OPS push on staging for stakeholders review 
-7. After stakeholders approval, OPS team push to production by Wednesday (no pushing to production from Thursday until Sunday)
-8. OPS team adds monitoring 
+4. Promotion team handsover to web team (circles)
+5. Web team address / create issues (in Github)
+6. Web team finalise on development branch (Github)
+7. Web team hands over to OPS team (Github)
+8. OPS team checks if all circles stories are implemented in Github
+9. OPS push on staging for stakeholders review (Github)
+10. After majority stakeholders approval, OPS team push to production by Wednesday (no pushing to production from Thursday until Sunday) (Github)
+11. OPS team adds monitoring (Github)
 
 ## Process projects
-1. BizDev / Stakeholders agree on projects
-2. Stakeholders approve project owner, team (external + internal) & priorities 
+1. BizDev / Stakeholders agree on projects (circles)
+2. Stakeholders approve project owner, team (external + internal) & priorities (circles)
 3. Project owner creates a circle (using given template) and roadmap in circlestool
 4. Project team create storys on circlestool
-5. Project team adds code related issues on Github 
-6. Development happens on devnet
-7. OPS team releases on testnet
-8. QA tests on testnet
-9. Project team invite testing community to test 
-10. OPS team releases on mainnet 
-11. QA verifies on mainnet
+5. Project team adds issues on Github 
+6. Project team handsover to development team (circles)
+7. Development happens on devnet (Github)
+8. Development team handsover to OPS team (Github)
+9. OPS team releases on testnet (Github)
+10. OPS team handsover to QA team (Github)
+11. QA tests on testnet (Github)
+12. Qa handsover to project team (circles)
+13. Project team invite testing community to test (Telegram/email)
+14. Project team handsover to OPS team (circles)
+15. OPS team releases on mainnet (Github)
+16. OPS team handsover to QA team (circles)
+17. QA verifies on mainnet (Github)
 
 
 ## Process Rules
 - Only OPS team pushes to production (no one else gets access to servers).
 - Nothing gets released after Wednesday.
-- No disturbing devs directly - anything urgent goes to circle owner.
+- No disturbing devs directly - anything urgent goes to circle owner through issues on Github/circles.
 - If not logged as an issue or story, it does NOT happen.
 - Update/close your stories / issues.
 - Escalate if needed.
