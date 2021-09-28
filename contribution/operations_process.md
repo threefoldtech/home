@@ -17,8 +17,7 @@
 ### Circles
 
 - Planning
-- Stories (as agreed by stakeholders)
-- High level issues (related to planning / milestones / stories / customer feedback ..)
+- Project as agreed by stakeholders
 
 
 ## Process products 
