@@ -45,7 +45,7 @@
 10. QA team verifies services on mainnet (Github)
 
 
-## Process web publishing releases
+## Process web presence
 1. Promotion / Stakeholders agree on web presence needs (circles/cryptpad)
 2. Stories / issues (by Promotion team and/or Stakeholders) are added to web circles (circles)
 3. Promotion / Stakeholders agree and move priority stories to Start (circles)
