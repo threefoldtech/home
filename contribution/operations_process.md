@@ -47,16 +47,17 @@
 
 ## Process web publishing releases
 1. Promotion / Stakeholders agree on web presence needs (circles/cryptpad)
-2. Promotion circle create story's / issues in circlestool 
-3. Stakeholders agree on priorities (circles)
-4. Promotion team handsover to web team (circles)
-5. Web team address / create issues (in Github)
-6. Web team finalise on development branch (Github)
-7. Web team hands over to OPS team (Github)
-8. OPS team checks if all circles stories are implemented in Github
-9. OPS push on staging for stakeholders review (Github)
-10. After majority stakeholders approval, OPS team push to production by Wednesday (no pushing to production from Thursday until Sunday) (Github)
-11. OPS team adds monitoring and documents everything (Gitea)
+2. Stories / issues (by Promotion team and/or Stakeholders) are added to web circles (circles)
+3. Promotion / Stakeholders agree and move priority stories to Start (circles)
+4. Web team addresses everything that is put to Start (circles)
+5. Web team creates code related issues (if needed) (Github)
+6. Web team is working in repos on development branch (Github)
+7. Web team reflects progress and communicates process (if needed) with Promotion / Stakeholders (circles)
+8. Web team hands over to OPS team when done (Github)
+9. Any other staging/production requests (from Promotion and/or Stakeholders) goes directly to OPS (Github)
+10. OPS double check with devs if all good and push on staging for Promotion / Stakeholders review (Github)
+11. After approval, OPS team push to production by Wednesday (no pushing to production from Thursday until Sunday) (Github)
+12. OPS team adds monitoring and documents everything (Gitea)
 
 ## Process projects
 1. BizDev / Stakeholders agree on projects (circles)
