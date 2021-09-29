@@ -54,7 +54,7 @@
 6. Web team is working in repos on development branch (Github)
 7. Web team reflects progress and communicates process (if needed) with Promotion / Stakeholders (circles)
 8. Web team hands over to OPS team when done (Github)
-9. Any other staging/production requests (from Promotion and/or Stakeholders) goes directly to OPS (Github)
+9. Any other staging/production requests (from Promotion and/or Stakeholders) goes directly to OPS (no pushing to production from Thursday until Sunday) (Github)
 10. OPS double check with devs if all good and push on staging for Promotion / Stakeholders review (Github)
 11. After approval, OPS team push to production by Wednesday (no pushing to production from Thursday until Sunday) (Github)
 12. OPS team adds monitoring and documents everything (Gitea)
