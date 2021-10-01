@@ -84,7 +84,7 @@
 19. OPS team handsover to QA team (Github with QA label)
 20. QA verifies on mainnet (Github) and puts in 'done'
 
-that'
+
 ## Process Rules
 - Only OPS team pushes to production (no one else gets access to servers).
 - Nothing gets released after Wednesday.
