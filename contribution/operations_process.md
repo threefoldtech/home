@@ -95,7 +95,7 @@
 - OPS team is available from Sunday until Thursday during businesshours, and on call for critical matters on Friday - Saturday during daytime hours. 
 - No external communication / promotion / promises are done before it is agreed upon by stakeholders and verified by architects & circle owners that it can and will be done within the given timeframe.
 - Final products get pushed to mainnet.
-- All server setups are done and managed by OPS team (see [Environment Setup Process] (https://github.com/threefoldtech/home/blob/master/contribution/operations_process.md)).
+- All server setups are done and managed by OPS team - see [Environment Setup Process] (https://github.com/threefoldtech/home/blob/master/contribution/operations_process.md).
 - Development priorities will be finished before new priorities and stories get decided on. 
 - Priorities get decided on and approved on stakeholders call, no new projects or prios in between these calls (except urgencies related to the existing story).
 - Environments are set up by OPS team. 
