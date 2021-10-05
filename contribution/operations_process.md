@@ -99,6 +99,7 @@
 - Development priorities will be finished before new priorities and stories get decided on. 
 - Priorities get decided on and approved on stakeholders call, no new projects or prios in between these calls (except urgencies related to the existing story).
 - Environments are set up by OPS team. 
+- All incidents must be researched and reported [here](https://github.com/threefoldtech/tf_operations/tree/master/research/incident_reports). 
 - Critical label = our stuff is broken / needs to be fixed right away
 - Major label = should be resolved in max 2 days
 - Minor label = should be done within sprint
