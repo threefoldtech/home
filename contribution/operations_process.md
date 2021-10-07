@@ -23,13 +23,21 @@
 ## Process products 
 1. BizDev / Stakeholders agree on products
 2. Stakeholders decide on priorities and product owner
-3. Product owner creates a circle (using given template) and with architects create roadmap in circlestool
-4. Dev leads create story's in Github and link to roadmap story's in circles.
-5. Developers implement story's on devnet + write full documentation
-6. Developers puts product on testnet & hands over to QA team (label issues as QA project)
-7. QA team finishes testing (testnet) and puts stories in Github on 'verified'
-8. Dev lead invites external users to test 
-9. Dev lead pushed to mainnet (if applicable)
+3. Product owner creates a circle (using given template) and with architects create roadmap in circle tool
+4. Dev leads write stories on circle
+5. Dev leads create stories in Github and link to circles stories.
+6. Product owner runs circle management and lead the sprint with selected sprint stories
+7. Developers execute circle and github stories within the sprint
+8. Developers release new component/product version on devnet + write full documentation
+9. QA team tests devnet env. If failed, developers do bug fixes.
+10. If passed, developers upgrade the version to testnet env.
+11. QA team tests the testnet. If failed, developers do bug fixes.
+12.If passed, QA team puts stories in Github to 'verified' column
+13. Dev lead invites external users to test the tesnet
+14. If failed, product owner puts stories in Github to 'Blocked' or 'in Progress' column
+15. If stable, product owner puts stories in Github to 'Done' column
+16. Dev lead and product owner creates release notes and other documentations together
+17. Dev lead push version to to mainnet (if applicable)
 
 
 ## Process services
