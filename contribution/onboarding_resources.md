@@ -89,7 +89,7 @@ We use terraform for infrastructure and automation
 - [ubuntu server guide](https://help.ubuntu.com/lts/serverguide/)
 - [nginx](https://www.nginx.com/)
 - [debian handbook](https://debian-handbook.info)
-- [travis](https://travis-ci.org/)
+- github workflows
 - [tmux](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
 
 
