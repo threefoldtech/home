@@ -43,12 +43,18 @@ The training process divided into two categories, one for generic tools and prog
 - [flask megatuorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [pynacl](https://pynacl.readthedocs.io/en/latest/)
 - [peewee](http://docs.peewee-orm.com/en/latest/)
+- [TDD with python/django](https://www.obeythetestinggoat.com)
 - [composing programs](http://composingprograms.com/)
 
 ### GO
 - [gobyexample](https://gobyexample.com)
+- [learn with tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [go101](https://go101.org/article/101.html)
 - [ultimatego](https://github.com/hoanhan101/ultimate-go)
+
+### Rust / Substrate
+- https://doc.rust-lang.org/book/
+- https://docs.substrate.io
 
 ### Redis
 - [redis in action](https://redislabs.com/redis-in-action/) is a book that will help you to know redis by practice.
@@ -72,6 +78,11 @@ The training process divided into two categories, one for generic tools and prog
 ### Kubernetes
 - Kubernetes Tutorial [One 4 Hour video](https://youtu.be/X48VuDVv0do) | [Playlist](https://youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC)
 - Kubernetes the Hard Way [GitHub Link](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+
+### terraform
+We use terraform for infrastructure and automation 
+- [terraform docs](https://www.terraform.io)
+- [extending terraform](https://www.terraform.io/docs/extend/index.html)
 
 ### Git
 - Git is a very important tool that we use daily to manage and control the development process and versioning.
