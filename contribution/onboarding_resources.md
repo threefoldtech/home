@@ -1,10 +1,6 @@
 # Onboarding Resources
 
-Welcome to Threefold Tech. We are happy that you join us to change the world internet.
-
-After finishing this document you will be ready to start your new journey :D
-
-It will be divided into two sections, needed programs and a training plan.
+This document is covering the onboarding process, It's divided into two sections, needed programs and a training plan.
 
 # Needed Programs
 
@@ -95,6 +91,8 @@ We use terraform for infrastructure and automation
 - [debian handbook](https://debian-handbook.info)
 - [travis](https://travis-ci.org/)
 - [tmux](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
+
+
 
 ## Threefold Tech Products
 
