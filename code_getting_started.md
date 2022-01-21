@@ -6,28 +6,28 @@
 
 - All our ThreeFold Tech code is available on [GitHub TFTech](https://github.com/threefoldtech)
 - TF Foundation websites/wiki/... and ThreeFold Foundation specific code is on [GitHub ThreeFold Foundation](https://github.com/threefoldtech)
-- The new crystal twin is on (set of digital twin experiences on top of the ThreeFold Grid) is on [GitHub Crystal Universe](https://github.com/crystaluniverse)
+- A set of digital twin experiences on top of the ThreeFold Grid are on [GitHub Crystal Universe](https://github.com/crystaluniverse) = opensource contributions
 
 Each repository has a license file please consult the license before using the source code.
 
 ## some product info
 
 - whitepapers: https://wiki.threefold.io/#/whitepapers
+- 
 ## info threefold
 
 - website: http://www.threefold.io/
-- knowledgebase TFGrid: http://info.threefold.io/
-- get started with the capacity layer on TFGrid: https://manual.threefold.io
-- access to your virtual system administrator: https://deploy3bot.grid.tf
-- explorer: overview of existing grid capacity: https://explorer.threefold.io
-- threefold now = marketplace on top of TFGrid ([commercial info](https://now.threefold.io), [marketplace](https://marketplace.threefold.io)): 
+- knowledgebase TFGrid: https://library.threefold.me/
+- manual for TFGrid: https://library.threefold.me/info/manual/#/ 
+- explorer for TFGrid: overview of existing grid capacity: https://explorer.threefold.io 
+- portal for TFGrid: http://portal.grid.tf
+- weblets for TFGrid: easily deploy something: https://play.grid.tf 
 
-
-## overview of some components
-
-We do realize it is still very difficult today based on the repos alone to get started. The documentation is by no means complete and it still requires a lot of knowledge to get started without help.
+## overviewe components
 
 ### Zero-OS
+
+our base operating system
 
 * [Zero-OS](https://github.com/threefoldtech/zos): our low level operating system
 * [0-fs](https://github.com/threefoldtech/0-fs): The storage layer of our container technology
@@ -41,7 +41,7 @@ We do realize it is still very difficult today based on the repos alone to get s
 * [bus for interprocess communication](https://github.com/threefoldtech/zbus)
 * [distributed storage layer - 0-stor](https://github.com/threefoldtech/0-stor)
 
-## Our Automation layer
+## Our Automation layer 2.x
 
 * Jumpscale 11 = next gent: Cloud automation framework (is our 11th generation of this framework and a big rework). 
     * [JS-NG](https://github.com/threefoldtech/js-ng)
@@ -66,10 +66,10 @@ We do realize it is still very difficult today based on the repos alone to get s
 - [network wall component, called tcprouter originally, now being changed to become more](https://github.com/threefoldtech/tcprouter)
 * https://github.com/crystaluniverse/Simulator : simulator for the TFGrid
 
-## 3Bot 
+## 3Bot
 
-The 3Bot is your digital avatar which as first use case acts as your virtual system administrator.
-3Bot v1 is build using Jumpscale NG
+The 3Bot is your virtual system administrator.
+3Bot v1 is build using Jumpscale NG, is today only working for TFGrid 2.x, in TFGrid 3.x we use infrastructure as code.
 
 - python version of our 3bot admin
     * [3Bot Admin built Threefold Grid SDK](https://github.com/threefoldtech/js-sdk)
@@ -78,7 +78,7 @@ The 3Bot is your digital avatar which as first use case acts as your virtual sys
 - [BCDB Server](https://github.com/threefoldtech/bcdb): the blockchain database lives on top of ZDB & Zero-Stor, the heart of our data stor
 - [BCDB Client](https://github.com/threefoldtech/bcdb-client) : client for BCDB
 
-## Crystal Universe (home for the crystal twin)
+## Crystal Universe 
 
 Is a layer on top of the ThreeFold Grid, contributed from TFTech NV & other parties as opensource.
 
