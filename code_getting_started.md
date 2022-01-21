@@ -78,19 +78,19 @@ The 3Bot is your virtual system administrator.
 - [BCDB Server](https://github.com/threefoldtech/bcdb): the blockchain database lives on top of ZDB & Zero-Stor, the heart of our data stor
 - [BCDB Client](https://github.com/threefoldtech/bcdb-client) : client for BCDB
 
-## Crystal Universe 
+## FreeFlow Universe 
 
 Is a layer on top of the ThreeFold Grid, contributed from TFTech NV & other parties as opensource.
 
-* https://github.com/crystaluniverse/crystaltwin : first crystal lang based version of the crystal twin (WIP)
+* https://github.com/freeflowuniverse/crystaltwin : first crystal lang based version of the crystal twin (WIP)
 * https://github.com/freeflowuniverse/crystaltools : supporting tools 
 * [PublishingTools](https://github.com/crystaluniverse/publishingtools): Web content publishing system
-* https://github.com/crystaluniverse/crystalserver : server v1 for the crystal twin, working on new version
-* https://github.com/crystaluniverse/crystalstore : the file stor backend
-* https://github.com/crystaluniverse/crystaldrive : the file stor
-* https://github.com/crystaluniverse/crystaldrive-ui : Web UI for the crystal drive
+* https://github.com/freeflowuniverse/crystalserver : server v1 for the crystal twin, working on new version
+* https://github.com/freeflowuniverse/crystalstore : the file stor backend
+* https://github.com/freeflowuniverse/crystaldrive : the file stor
+* https://github.com/freeflowuniverse/crystaldrive-ui : Web UI for the crystal drive
 
-Many more repo's in https://github.com/crystaluniverse
+Many more repo's in https://github.com/freeflowuniverse
 
 
 ## Open Source
