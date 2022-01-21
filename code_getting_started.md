@@ -10,10 +10,6 @@
 
 Each repository has a license file please consult the license before using the source code.
 
-## some product info
-
-- whitepapers: https://wiki.threefold.io/#/whitepapers
-- 
 ## info threefold
 
 - website: http://www.threefold.io/
@@ -23,7 +19,7 @@ Each repository has a license file please consult the license before using the s
 - portal for TFGrid: http://portal.grid.tf
 - weblets for TFGrid: easily deploy something: https://play.grid.tf 
 
-## overviewe components
+## overview components
 
 ### Zero-OS
 
@@ -44,7 +40,7 @@ our base operating system
 * planetary network: https://github.com/threefoldtech/Planetary-Network
 * https://github.com/threefoldtech/zinit = init for Zero-OS
 
-## Our Automation layer 2.x
+### Our Automation layer 2.x
 
 * Jumpscale 11 = next gent: Cloud automation framework (is our 11th generation of this framework and a big rework). 
     * [JS-NG](https://github.com/threefoldtech/js-ng)
@@ -58,7 +54,7 @@ our base operating system
    - https://github.com/threefoldtech/jumpscaleX_weblibs 
    - https://github.com/threefoldtech/jumpscaleX_builders (builders for all kinds of software using jumpscale)
 
-## TFChain + TFGrid Infrastructure As Code
+### TFChain + TFGrid Infrastructure As Code
 
 - https://github.com/threefoldtech/tfchain : our blockchain for TFGrid 3.0
 - https://github.com/threefoldtech/tfchain_explorer : explorer for TFGrid 3.0 which shows nodes on grid
@@ -75,14 +71,14 @@ our base operating system
 - https://github.com/threefoldtech/weblets_pocs : proof of concept weblets (examples who to deploy on TFGrid)
 - https://github.com/threefoldtech/tfchain_portal : frontend to interact with portal
 
-## Reliable Message Bus
+### Reliable Message Bus
 
 - https://github.com/threefoldtech/rmb: reliable message bus for Zero-OS and other TFGrid components
 - https://github.com/threefoldtech/go-rmb : reliable message bus for Zero-OS and other TFGrid components in golang
 - https://github.com/threefoldtech/ts-rmb-client : javascript typescrip layer
 - https://github.com/threefoldtech/rmb-proxy : web proxy for RMB
 
-## TFGrid Tools (some are for TFGrid 2.x only)
+### TFGrid Tools (some are for TFGrid 2.x only)
 
 - https://github.com/threefoldtech/flutter-pkid-client flutter client for identity layer
 - https://github.com/threefoldtech/wallet-next : next generation wallet for multichain (part of TFConnect)
@@ -102,7 +98,7 @@ our base operating system
 - https://github.com/crystaluniverse/Simulator : simulator for the TFGrid
 - https://github.com/threefoldtech/nodes-explorer : explorer which shows all nodes
 
-## 3Bot
+### 3Bot
 
 The 3Bot is your virtual system administrator.
 3Bot v1 is build using Jumpscale NG, is today only working for TFGrid 2.x, in TFGrid 3.x we use infrastructure as code.
@@ -114,7 +110,12 @@ The 3Bot is your virtual system administrator.
 - [BCDB Server](https://github.com/threefoldtech/bcdb): the blockchain database lives on top of ZDB & Zero-Stor, the heart of our data stor
 - [BCDB Client](https://github.com/threefoldtech/bcdb-client) : client for BCDB
 
-## some proof of concepts
+## Community Driven
+
+Opensource effort to build things on top of us.
+Licenses see the repositories:
+
+### some proof of concepts
 
 - https://github.com/threefoldtech/threefold-wallet-electron
 - https://github.com/threefoldtech/CosmWasm-wasmd 
@@ -126,7 +127,7 @@ The 3Bot is your virtual system administrator.
 - https://github.com/threefoldtech/tfgridclient_v
 - https://github.com/threefoldtech/taiga-contrib-threefold-auth
 
-## FreeFlow Universe 
+### FreeFlow Universe 
 
 Is a layer on top of the ThreeFold Grid, contributed from TFTech NV & other parties as opensource.
 
