@@ -3,8 +3,10 @@
 
 ## ThreeFold Development Process
 
+Most info on https://library.threefold.me/info/freeflow#/collaboration/collaboration
+
+
 - [the main process](development_process.md)
-- [the use of issues & labels ](issue_labels.md)
 - [specs guidelines](specs_guidelines.md)
 
 ### more info
