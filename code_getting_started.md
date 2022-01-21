@@ -5,8 +5,8 @@
 ![](https://cdn-images.welcometothejungle.com/5DDbrp9_kdlw05Z0hzc7kYEpaaruHhUUWJqs-nW1o8k/rs:auto:980::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9jYXRlZ29yeS9jb3Zlci8yNjYwLzE1NDg4My9jb2xsZWN0aW9uX2NhdGVnb3J5X2JlaGluZF90aGVfY29kZS5qcGc)
 
 - All our ThreeFold Tech code is available on [GitHub TFTech](https://github.com/threefoldtech)
-- TF Foundation websites/wiki/... and ThreeFold Foundation specific code is on [GitHub ThreeFold Foundation](https://github.com/threefoldtech)
-- A set of digital twin experiences on top of the ThreeFold Grid are on [GitHub Crystal Universe](https://github.com/crystaluniverse) = opensource contributions
+- TF Foundation websites/wiki/... and ThreeFold Foundation specific code is on [GitHub ThreeFold Foundation](https://github.com/threefoldfoundation)
+- A set of digital twin experiences on top of the ThreeFold Grid are on [GitHub FreeFlow Universe](https://github.com/freeflowuniverse) = opensource contributions
 
 Each repository has a license file please consult the license before using the source code.
 
@@ -26,7 +26,7 @@ Each repository has a license file please consult the license before using the s
 our base operating system
 
 * [Zero-OS](https://github.com/threefoldtech/zos): our low level operating system
-* [0-fs](https://github.com/threefoldtech/0-fs): The storage layer of our container technology
+* [0-fs](https://github.com/threefoldtech/0-fs): The storage layer of our container technology.
 * [0-initramfs](https://github.com/threefoldtech/0-initramfs): All that is needed to build the Zero-OS-kernel and initramfs to start root filesystem
 * [0-bootstrap](https://github.com/threefoldtech/0-bootstrap): This web service provides dynamic construction of iPXE scripts for booting and bootstrapping Zero-OS kernel images
 * [0-hub](https://github.com/threefoldtech/0-hub): Everything needed to serve, upload, merge, and manage flists, as well as convert docker images to flists
