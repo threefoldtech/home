@@ -40,7 +40,9 @@ our base operating system
 * [flist-builder](https://github.com/threefoldtech/flist-builder-config): autobuilder config template
 * [bus for interprocess communication](https://github.com/threefoldtech/zbus)
 * [distributed storage layer - 0-stor](https://github.com/threefoldtech/0-stor)
+* https://github.com/threefoldtech/0-stor_v2 2e & 3e gen zero stor
 * planetary network: https://github.com/threefoldtech/Planetary-Network
+* https://github.com/threefoldtech/zinit = init for Zero-OS
 
 ## Our Automation layer 2.x
 
@@ -72,9 +74,13 @@ our base operating system
 - https://github.com/threefoldtech/tfchain_graphql_ts_types : database types
 - https://github.com/threefoldtech/weblets_pocs : proof of concept weblets (examples who to deploy on TFGrid)
 - https://github.com/threefoldtech/tfchain_portal : frontend to interact with portal
+
+## Reliable Message Bus
+
 - https://github.com/threefoldtech/rmb: reliable message bus for Zero-OS and other TFGrid components
 - https://github.com/threefoldtech/go-rmb : reliable message bus for Zero-OS and other TFGrid components in golang
-- 
+- https://github.com/threefoldtech/ts-rmb-client : javascript typescrip layer
+- https://github.com/threefoldtech/rmb-proxy : web proxy for RMB
 
 ## TFGrid Tools (some are for TFGrid 2.x only)
 
@@ -87,6 +93,7 @@ our base operating system
 - https://github.com/threefoldtech/nodes-explorer; explorer overview which unifies the 3 nets (testnet, production net & development net)
 - https://github.com/threefoldtech/pkid : identity management layer
 - https://github.com/threefoldtech/threefold_login_pkid_example
+- https://github.com/threefoldtech/openkyc : identity manager with KYC integration
 - https://github.com/threefoldtech/3bot_wallet: a stellar wallet (there are many more stellar wallets out there)
 - tools for our planetary wan: https://github.com/threefoldtech/yggdrasil-desktop-client
 - [S3 compatible layer based on minio, adjusted to use our storage backend](https://github.com/threefoldtech/minio)
@@ -111,6 +118,13 @@ The 3Bot is your virtual system administrator.
 
 - https://github.com/threefoldtech/threefold-wallet-electron
 - https://github.com/threefoldtech/CosmWasm-wasmd 
+- https://github.com/threefoldtech/pancake-frontent
+- https://github.com/threefoldtech/quantum-storage
+- https://github.com/threefoldtech/rfs
+- https://github.com/threefoldtech/grid_monitoring
+- https://github.com/threefoldtech/twin_server_v2
+- https://github.com/threefoldtech/tfgridclient_v
+- https://github.com/threefoldtech/taiga-contrib-threefold-auth
 
 ## FreeFlow Universe 
 
