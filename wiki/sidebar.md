@@ -1,9 +1,9 @@
-- [**To Home Knowledgebase**](!@tftechhome:home)
+- [**To Home Knowledgebase**](!@home)
 -----------
 
-- [High Level Roadmap](threefold:roadmap_grid)
-  - [Release Notes](releasenotes3)
-  - [What's New](grid3_new)
+- [High Level Roadmap](!@threefold:roadmap_grid)
+  - [Release Notes](!@manual:releasenotes3)
+  - [What's New](!@manual:grid3_new)
 ------------
 - [Legal](!@legal:legal_home)
 
