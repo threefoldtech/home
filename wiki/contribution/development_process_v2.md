@@ -54,12 +54,12 @@ Example:
 - Requires: Terraform_provider 0.1.22 and TFChain Graphql 1.0.1
 - Linked components: None
 
-**ZOS 3.0.9 **
+**ZOS 3.0.9**
 
 - Requires: Nothing
 - Linked components: HUBv..., ZDBv..., ...
 
-**ThreeFold Connect 3.5.0 **
+**ThreeFold Connect 3.5.0**
 
 - Requires: Nothing
 - Compatible with: TFGrid 3.0.8
