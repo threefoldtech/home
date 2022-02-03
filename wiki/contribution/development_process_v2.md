@@ -1,4 +1,4 @@
-<!-- base document, to be updated Feb 2022 -->
+> base document to be updated Feb 2022
 
 # Development Process
 
@@ -127,7 +127,9 @@ We don't use milestones for version numbers. This should be part of a project an
 
 So issues with no milestones can only be in 1 condition: new and not sorted out yet where (repo) it belongs
 
-Why do we use these 3 generic milestones? It makes it very easy to see what is new and what to sort out. It becomes a generic way of dealing with the funnel- basically: now, next, later
+##### Why do we use these 3 generic milestones? 
+
+It makes it very easy to see what is new and what to sort out. It becomes a generic way of dealing with the funnel- basically: `now`, `next`, `later`.
 
 ## Branching
 
@@ -154,8 +156,8 @@ We have branches for new features/disruptive changes. These have a prefix of `de
 
 Each project and story should define which branches to use & the branching strategy.
 
-There should never be any branch on the system which can not be found back by looking at the stories in the "home" repo.
-Title of the story in between [] 
+There should never be any branch on the system which can not be found back by looking at the stories in the `home` repo.
+Title of the story : in between [] 
 
 
 ### Pull Requests
