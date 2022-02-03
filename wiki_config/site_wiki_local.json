@@ -1,0 +1,9 @@
+{
+	"fs_path": "../wiki",
+	"name": "tftechhome",
+	"domains": [
+		"tftechhome.threefold.me"
+	],
+	"cat":"wiki",
+	"pull": false
+}

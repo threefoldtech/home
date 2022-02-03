@@ -1,8 +1,0 @@
-{
-    "plugins": [
-        "puml",
-        "collapsible-menu"
-    ],
-    "pluginsConfig": {},
-    "root": "./docs"
-}

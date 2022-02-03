@@ -1,0 +1,11 @@
+{
+    "name": "manual",
+    "git_url": "https://github.com/threefoldfoundation/info_manual3/tree/development/wiki",
+    "pull": false,
+    "reset": false,
+    "cat": "wiki",
+    "domains": [
+        "manual.threefold.io"
+    ],
+    "descr": "wiki for foundation, collaborate, what if farmings, tokens"
+}

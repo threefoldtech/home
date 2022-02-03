@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/home/gitpod/codewiki"
+		},
+		{
+			"path": "/home/gitpod/code/crystaltools"
+		},
+		{
+			"path": "/home/gitpod/.vmodules/despiegk/crystallib"
+		},
+		{
+			"path": "/home/gitpod/code/github"
+		}
+	],
+	"settings": {
+		"v.pathToExecutableFile": "/usr/local/bin/v",
+		"v.vls.enable": true,
+		"v.vls.customPath": "/usr/local/bin/vls",
+		"emeraldwalk.runonsave": {
+			"commands": [
+				{
+					"match": "\\.v$",
+					"isAsync": true,
+					"cmd": "v fmt -w ${file}",
+					"runIn": "terminal"
+				}
+			]
+		},
+	},
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"label": "format",
+				"type": "shell",
+				"command": "v fmt -w ${file}",
+			}
+		]
+	}
+}

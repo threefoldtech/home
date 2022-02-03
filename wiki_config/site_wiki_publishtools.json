@@ -1,0 +1,23 @@
+{
+    "name": "publishtools",
+    "git_url": "git@github.com:freeflowuniverse/crystaltools/tree/development/wiki",
+    "pull": true,
+    "reset": false,
+    "cat":"wiki",
+    "domains": [
+        "publishtools-info.threefold.io"
+    ],
+    "descr": "Publishtools Info",
+    "groups": [],
+    "acl": [],
+    "trackingid": "",
+    "opengraph": {
+        "title": "",
+        "description": "",
+        "url": "",
+        "type_": "",
+        "image": "",
+        "image_width": "",
+        "image_height": ""
+    }
+}

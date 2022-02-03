@@ -1,0 +1,47 @@
+image:
+  file: .gitpod.Dockerfile
+tasks:
+    - name: WIKI
+      command: |
+        sudo apt-get update
+        curl https://raw.githubusercontent.com/freeflowuniverse/crystaltools/development/installscripts/install.sh > /tmp/install.sh
+        bash /tmp/install.sh
+        source /workspace/env.sh
+        publtools_check
+        cd wiki_config && publishtools flatten 
+        cd ..
+        echo ' - do "./wiki_run" to run wiki.'
+        echo ' - do "open workspace.code-workspace" to open all relevant dirs in your editor.'
+ports:
+  - port: 9998
+    onOpen: open-browser
+  - port: 8080
+    onOpen: open-browser    
+  - port: 6379
+    onOpen: ignore
+vscode:
+  extensions:
+    - vlanguage.vscode-vlang
+    - telesoho.vscode-markdown-paste-image
+    - yzhang.markdown-all-in-one
+    - shd101wyy.markdown-preview-enhanced
+    - bierner.markdown-mermaid
+    - darkriszty.markdown-table-prettify
+    - bpruitt-goddard.mermaid-markdown-syntax-highlighting
+    - shuworks.vscode-table-formatter
+github:
+  prebuilds:
+    # enable for the master/default branch (defaults to true)
+    master: true
+# enable for all branches in this repo (defaults to false)
+    branches: true
+# enable for pull requests coming from this repo (defaults to true)
+    pullRequests: true
+# enable for pull requests coming from forks (defaults to false)
+    pullRequestsFromForks: false
+# add a "Review in Gitpod" button as a comment to pull requests (defaults to true)
+    addComment: true
+# add a "Review in Gitpod" button to pull requests (defaults to false)
+    addBadge: false
+# add a label once the prebuild is ready to pull requests (defaults to false)
+    addLabel: prebuilt-in-gitpod
