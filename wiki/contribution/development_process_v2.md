@@ -1,4 +1,4 @@
-> base document to be updated Feb 2022
+> base document being updated Feb 2022
 
 # Development Process
 
@@ -49,25 +49,25 @@ The used swimlanes:
 Example:
 
 ```markdown
-**eVDC 2.3**
+**Grid weblets 1.3.0**
 
-- Requires: TFGrid 2.3 and 3bot 2.3
+- Requires: Terraform_provider 0.1.22 and TFChain Graphql 1.0.1
 - Linked components: None
 
-**TFGrid 2.3**
+**ZOS 3.0.9 **
 
 - Requires: Nothing
-- Linked components: ZOSv0.5, HUBv..., ZDBv..., ...
+- Linked components: HUBv..., ZDBv..., ...
 
-**3Bot 2.3**
+**ThreeFold Connect 3.5.0 **
 
 - Requires: Nothing
-- Compatible with: TFGrid 2.3
+- Compatible with: TFGrid 3.0.8
 - Linked components: jsng..., jssdk...
 
 ```
 
-You see how different products can be made up out of other products. Its up to the product manager to link the right components to it.
+You see how different products can be made up out of other products. It's up to the product manager to link the right components to it.
 
 
 <!-- ## Team Projects = Team Kanban (on account level)
