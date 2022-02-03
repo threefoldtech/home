@@ -6,13 +6,9 @@ The development process of our projects is agile, collaborative and above all, r
 
 **Github project based**
 
-## Technical Product (account level)
+## Product defined on Home repo
 
-Each product has a clear name and a version.
-
-- The name is ```product_$name_$versionnr``` and is hosted on account level
-
-- Each product is defined on a product page in the "home" repo
+- Each product is defined on a project section in the "home" repo
 - The home page in the home repo links to the product pages
 - Each product is linked to components which are relevant for the next release
 - Each component is clearly defined by a version nr. That component corresponds with 1 (exceptional more) Github repo's, where repo projects show the next release. The common release linked to the product release is marked on the product page in clear ways.
@@ -22,7 +18,12 @@ Each product has a clear name and a version.
 
 ## Component Project (on repo level)
 
-Generally only **1** github repo, there can be **exceptional** cases where 1 component spans multiple repos but this is the exception. Normally it means its just more than 1 component.
+> Please do not create projects on account level, only create projects on repo level. 
+> Please use old way of creating projects on github, not the beta version
+
+Each project needs to have a note describing the owner, the release number, a description and the deadline
+
+Generally only **1** github repo, there can be **exceptional** cases where 1 component spans multiple repos but this is the exception. Normally it means it's just more than 1 component. If no planned release, no need to make a project. 
 
 The used swimlanes:
 
@@ -69,7 +70,7 @@ Example:
 You see how different products can be made up out of other products. Its up to the product manager to link the right components to it.
 
 
-## Team Projects = Team Kanban (on account level)
+<!-- ## Team Projects = Team Kanban (on account level)
 
 - Name ```team_$wellchosenname```
 - To allow a team to see which bugs,feature requests and stories are relevant in their current scrum
@@ -99,7 +100,7 @@ The used swimlanes:
     - Project owner can never go from 'Verification' to 'Done' without approval from stakeholders (often represented by QA team)
 - ```Done```
     - Everyone agreed; (project owner and stakeholders) agreed that the issue was done ok
-    - check that the item is also in a project release and on right state (if relevant, not everything is on product release project)
+    - check that the item is also in a project release and on right state (if relevant, not everything is on product release project) --> 
 
 ## Funnel of Issues, Bugs and Feature Requests
 
@@ -121,9 +122,9 @@ We don't use milestones for version numbers. This should be part of a project an
 > We use the milestones as a mechanism to manage the funnel
 
 - No milestone means need to be sorted
-- Milestone now means: bug/feature request is in a component version for the release we are working on
-- Milestone next means: bug/feature request is planned for next component version
-- Milestone later means: bug/feature request is not to be dealt with now, somewhere in future we will look back at it
+- Milestone `now` means: bug/feature request is in a component version for the release we are working on. It needs to be assigned and put in a swimlane on the current active repo project.
+- Milestone `next` means: bug/feature request is planned for next component version (< 1 month in the future). It needs to be put in a swimlane (mostly backlog) on the current active repo project.
+- Milestone `later` means: bug/feature request is not to be dealt with now, somewhere in future we will look back at it. No assignee, does not belong to a project.
 
 So issues with no milestones can only be in 1 condition: new and not sorted out yet where (repo) it belongs
 
@@ -207,8 +208,8 @@ Home repo is a specific one, it's the starting point of all development.
 It links to all products & components
 Link back to used circles on projects.threefold.me
 
-- DO NOT PUT bugs / feature request / questions here
-- PUT ALL STORIES HERE 
+- DO NOT PUT `type_bug` / `type_feature` / `type_question` tags here
+- Put only stories, identified with tag `type_story` here 
 
 ## Link to Product Management
 
