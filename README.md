@@ -35,12 +35,12 @@ Planned Release Summary:
 
   - **TF Capacity Explorer v3.0.0 Alpha-4**
     - An all-in-one Unified Capacity Explorer
-    - 
+    
   - **ZOS v3.1.0** 
     - ZOS Performance Improvements
-    - 
+    
   - **Minting v3.0**
-  - 
+  
   - **Terraform Grid Provider v0.2.0**
     - Deploy PoktNetwork to Terraform Grid Provider
 
