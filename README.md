@@ -4,12 +4,25 @@
 
 ## Products and Projects
 
-- Current Release: [TFGrid v3.0.0 Alpha 2](https://library.threefold.me/info/manual/#/cloud/manual__releasenotes3)
+### Currently delivered Release
 
-- Ongoing Relase: See [TFGrid v3.0.0 Alpha 4]()
+- [TFGrid v3.0.0 Alpha 2](https://library.threefold.me/info/manual/#/cloud/manual__releasenotes3)
 
+### Currently ongoing Release (February 2022
 
+- See [TFGrid v3.0.0 Alpha 4 Spec](https://github.com/threefoldtech/home/blob/master/wiki/v3specs/v3_alpha4.md)
+- See [TF Ecosystem Updates Forum Post](https://forum.threefold.io/t/threefold-product-updates-february-2022/2061)
 
+Release Summary:
+
+  - TFConnect App v3.4.0: Add (substrate-based) TFChain Wallet, add in-app ‘Farm Management’ Feature, Planetary network v0.2.0 iOS
+  - GetTFT Shop v1.1.0: Add ‘Trade Fiat to TFT’ Integration, Minor UX / UI improvements
+  - TFChain v1.1.0: TFDAO Implementation part 2 - Adjoint Validator-Council member request
+  - TFPlay v3.0.0 Alpha-4: New community and blockchain solutions, UX Improvements: Simplified Solution Deployment Sizing, ‘Owncloud powered by ThreeFold’ Deployer Website v0.1.0, Enable TFConnect SSO on deployable solutions
+  - TF Capacity Explorer v3.0.0 Alpha-4: An all-in-one Unified Capacity Explorer
+  - ZOS v3.1.0: ZOS Performance Improvements
+  - Minting v3.0
+  - Terraform Grid Provider v0.2.0: Deploy PoktNetwork to Terraform Grid Provider
 
 ## Other Components
   
@@ -22,29 +35,29 @@
 
 ## Previous Versions
 
-### TF Cloud (Previously called 3Bot Project)
-- [ThreeFold Cloud v2.8.0](products/tfcloud2.8.md)
+### TFCloud (Previously called 3Bot Project)
+- [TFCloud v2.8.0](products/tfcloud2.8.md)
 - [3Bot v2.7.1](products/3bot2.7.1.md) 
 - [3Bot v2.7.0](products/3bot2.7.md) 
 - [3Bot v2.6.0](products/3bot2.6.md) 
 - [3Bot v2.5.0](products/3bot2.5.md)
 - [3Bot v2.4.0](products/3bot2.4.md)
 
-### TF Grid
-- [TF Grid v2.8.0](products/tfgrid2.8.md):
-- [TF Grid v2.7.1](products/tfgrid2.7.1.md) 
-- [TF Grid v2.6.0](products/tfgrid2.6.md) 
-- [TF Grid v2.5.0](products/tfgrid2.5.md) 
-- [TF Grid v2.4.0](products/tfgrid2.4.md)
-- [TF Grid v2.3.0](products/tfgrid2.3.md)
+### TFGrid
+- [TFGrid v2.8.0](products/tfgrid2.8.md):
+- [TFGrid v2.7.1](products/tfgrid2.7.1.md) 
+- [TFGrid v2.6.0](products/tfgrid2.6.md) 
+- [TFGrid v2.5.0](products/tfgrid2.5.md) 
+- [TFGrid v2.4.0](products/tfgrid2.4.md)
+- [TFGrid v2.3.0](products/tfgrid2.3.md)
 
 
-## TF Connect
-- [ThreeFold Connect v2.8.0](products/threefoldconnect2.8.md)
-- [TF Connect v2.7.1](products/threefoldconnect2.7.1.md) 
-- [TF Connect v2.5.0](products/threefoldconnect2.5.md) 
-- [TF Connect v2.3.0](products/threefoldconnect2.3.md) 
+## TFConnect
+- [TFConnect v2.8.0](products/threefoldconnect2.8.md)
+- [TFConnect v2.7.1](products/threefoldconnect2.7.1.md) 
+- [TFConnect v2.5.0](products/threefoldconnect2.5.md) 
+- [TFConnect v2.3.0](products/threefoldconnect2.3.md) 
 
-## TF Chain (Previously called TFT Project)
-- [ThreeFold Chain v2.8.0](products/tfchain2.8.md)
+## TFChain (Previously called TFT Project)
+- [TFChain v2.8.0](products/tfchain2.8.md)
 - [TFT V2.7.1](products/tft2.7.1.md)
