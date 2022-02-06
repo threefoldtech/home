@@ -6,12 +6,13 @@
 
 ### Currently delivered Release
 
-- [TFGrid v3.0.0 Alpha 2](https://library.threefold.me/info/manual/#/cloud/manual__releasenotes3)
+- [TFGrid v3.0.0 Alpha-2](https://library.threefold.me/info/manual/#/cloud/manual__releasenotes3)
 
 ### Currently ongoing Release (February 2022)
 
-- See [TFGrid v3.0.0 Alpha 4 Spec](https://github.com/threefoldtech/home/blob/master/wiki/v3specs/v3_alpha4.md)
-- See [TF Ecosystem Updates Forum Post](https://forum.threefold.io/t/threefold-product-updates-february-2022/2061)
+- See Spec: [TFGrid v3.0.0 Alpha-4 Spec](https://github.com/threefoldtech/home/blob/master/wiki/v3specs/v3_alpha4.md)
+- See Active Project: [TFGrid v3.0.0 Alpha-4](https://github.com/threefoldtech/home/projects/5)
+- See Forum Updates: [TF Ecosystem Updates Forum Post](https://forum.threefold.io/t/threefold-product-updates-february-2022/2061)
 
 Planned Release Summary:
 
