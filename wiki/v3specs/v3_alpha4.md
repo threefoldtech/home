@@ -41,7 +41,7 @@ Project:[ https://github.com/threefoldfoundation/it_as_energy_shop/projects/10](
 On this release we aim to create **minor UX improvements** on the existing GetTFT Shop website that could create a better experience for our customers, such as improved interactivity, fixed embedded media, revised UX content, improved screen responsiveness, and many more.
 
 
-### TFChain v1.1.0*
+### TFChain v1.1.0
 
 
 #### ThreeFold DAO Implementation part 2 - Adjoint Validator-Council member request
