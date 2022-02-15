@@ -8,14 +8,6 @@ Story: https://github.com/threefoldtech/home/issues/1105
 
 We need to move ThreeFold Connect’s backend services from a data storage in Lochchristi to TFGrid. From TF Wallet, to TF account, and TFNews, all active services will be migrated by using helm charts.
 
-
-## TFT_Stellar v1.5.0
-
-Story: https://github.com/threefoldtech/home/issues/1166
-
-### Enable TFT Unvesting
-Vesting services has been successfully created and running on v1.4.2. As agreed, locked TFTs from vested accounts would be released monthly, when TFT average price is higher or equal than $0.1 on the particular month.
-
 ## TFPlay v1.1.4
 
 Story: https://github.com/threefoldtech/home/issues/1157
@@ -26,7 +18,6 @@ On this release, we will add Mattermost as one of our deployable decentralised s
 Mattermost is a secure, open source platform for communication, collaboration, and workflow orchestration across tools and teams.
 
 ### Separate TFPlay into 3 different networks
-
 
 
 Node upgrades could happen anytime, and it could make solution deployments on different networks incompatible. Therefore, we should also separate TFPlay into 3 different networks: 
