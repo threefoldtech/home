@@ -17,7 +17,7 @@ On the first initial release of TFT Shop v1.0.0, we have made it easier for user
 
 On this v1.1.0 release, we aim to give the users another option to buy TFT by using fiat currency. This will be made possible by integrating [mercuryo.io](http://www.mercuryo.io/) (third-party) widget onto the shop. By buying TFT using TFT Shop you confirm that you read and agree to [ThreeFold’s terms and conditions](https://library.threefold.me/info/legal/#/legal__terms_conditions_gettft).
 
-[Mercuryo's API docs](https://mercuryo.io/widget/  
+[Mercuryo API docs](https://mercuryo.io/widget/  
 https://github.com/mercuryoio/api-migration-docs/blob/master/Widget_API_Mercuryo_v1.6.md)
 
 ## TF RMB v0.1.0
