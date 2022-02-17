@@ -23,8 +23,9 @@ https://github.com/mercuryoio/api-migration-docs/blob/master/Widget_API_Mercuryo
 ## TF RMB v0.1.0
 
 ## ZOS v3.1.0
-ZOS Performance Improvements
-Project: https://github.com/threefoldtech/zos/projects/10 6
+
+### Performance Improvements
+Project: https://github.com/threefoldtech/zos/projects/106
 
 This new feature release of ZOS v3.1.0 includes a lot of improvements such as improvements on performance issues (disk and IO), grid events handling, and improvement on the current yggdrasil network by start and maintaining our public peers.
 
