@@ -46,7 +46,7 @@ We would add capacity sizing for each deployment, such as: “small”, “mediu
 
 ### New Backend Changes
 
-[Uhuru](www.uhuru.me) is a digital product on top of a the TFGrid that enhance collaboration with features such as chat, videocall, office tools, and file storage, all in one platform. You can visit [beta.uhuru.me](beta.uhuru.me) to try its latest release of v.1.0.0.
+[Uhuru](www.uhuru.me) is a digital product on top of a the TFGrid that enhance collaboration with features such as chat, videocall, office tools, and file storage, all in one platform. You can visit [beta.uhuru.me](beta.uhuru.me) to try its latest beta release of v.1.0.0.
 
 On this release, a big backend change is required to actually communicate using the [RMB (Remote Message Bus)](https://github.com/threefoldtech/rmb) and include the full stack on TFGrid. In this version we won't change anything functionally, but include the backend changes needed to be able to execute this.
 
