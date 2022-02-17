@@ -22,3 +22,31 @@ https://github.com/mercuryoio/api-migration-docs/blob/master/Widget_API_Mercuryo
 
 ## TF RMB v0.1.0
 
+## ZOS v3.1.0
+ZOS Performance Improvements
+Project: https://github.com/threefoldtech/zos/projects/10 6
+
+This new feature release of ZOS v3.1.0 includes a lot of improvements such as improvements on performance issues (disk and IO), grid events handling, and improvement on the current yggdrasil network by start and maintaining our public peers.
+
+## TF Playground v3.0.0 Alpha-5
+Project: https://github.com/threefoldtech/grid_weblets/projects/8
+
+### New community and blockchain solutions
+On the last release, we have added new deployable community solutions on TF Playground, such as Peertube, Funkwhale and Taiga, Mattermost as well as some developer tools like CapRover, Virtual Machine, Kubernetes and Owncloud.
+
+On this release, we will add more community and blockchain solutions such as Discourse (forum), Presearch Node and Casperlabs validator node.
+
+### UX Improvements: Simplified Solution Deployment Sizing
+On this release we also aim to create UX improvements on the existing TF Playground website 1that could create a better experience for our users. One of them is by simplifying solution deployment processes by creating deployment sizing.
+
+We would add capacity sizing for each deployment, such as: “small”, “medium” and “large”. Each size requires a different capacity amount. For example, an ‘S’ size for Funkwhale deployment, would need a different capacity amount to ‘S size for Peertube deployment.
+
+## Uhuru v1.1 (beta)
+
+### New Backend Changes
+
+[Uhuru](www.uhuru.me) is a digital product on top of a the TFGrid that enhance collaboration with features such as chat, videocall, office tools, and file storage, all in one platform. You can visit [beta.uhuru.me](beta.uhuru.me) to try its latest release of v.1.0.0.
+
+On this release, a big backend change is required to actually communicate using the [RMB (Remote Message Bus)](https://github.com/threefoldtech/rmb) and include the full stack on TFGrid. In this version we won't change anything functionally, but include the backend changes needed to be able to execute this.
+
+To decentralize this entirely, we will search other addresses on the blockchain, through RMB. Included as a result of these major backend changes, there will be a lot of bug fixing and rewriting flows/code to work with the new backend.
