@@ -44,6 +44,8 @@ We would add capacity sizing for each deployment, such as: “small”, “mediu
 
 ## Uhuru v1.1 (beta)
 
+Project: https://github.com/threefoldtech/twin_aydo/projects/4
+
 ### New Backend Changes
 
 [Uhuru](www.uhuru.me) is a digital product on top of a the TFGrid that enhance collaboration with features such as chat, videocall, office tools, and file storage, all in one platform. You can visit [beta.uhuru.me](beta.uhuru.me) to try its latest beta release of v.1.0.0.
