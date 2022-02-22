@@ -47,4 +47,8 @@ On this release we created minor UX improvements on the existing GetTFT Shop web
 
 Currently we have a few separate capacity explorers for both TFGrid v2 Explorer and TFGrid v3 Explorer. On this release we unified all versions and networks into one explorer, where users can find capacity information on both TFGrid v2 and v3 mainnet, testnet, and devnet. This  all-in-one unified Capacity Explorer will be hosted under the domain https://explorer.threefold.io.
 
+## TF Farm Management v1.1
 
+On TFGrid v3, node and farm management are also moved to substrate-based blockchains. A farm can be managed by making calls directly to the blockchain using objects created in TFChain called Twins. TFWallet app can reuse the wallet keypair to support a twin. A twin is also associated with a planetary network address that is supported by the TFConnect App. 
+
+Therefore we would like to a add a ‘Farm Management’ feature on the TFConnect App** that would enable farmers to list their farms and create new ones directly on the mobile app.  The ‘Farm Management’ feature will allow users to create new farms, list farms, as well as migrate their farms from TFGrid v2 to TFGrid v3.
