@@ -72,18 +72,10 @@ However, TFT is still the native currency on TFChain. As such, there is no need 
 
 Project: https://github.com/threefoldtech/wallet-next/projects/5
 
-https://github.com/threefoldtech/wallet-next/projects/5
+On the last sprint, alpha-4 we released farm management V1.0 and V1.1 which allows farmers to migrate their farms from V2 to V3 through the TF Connect application.
 
-- On the last sprint, alpha-4 we released farm management V1.0 and V1.1
-https://github.com/threefoldtech/home/issues/1172
-https://github.com/threefoldtech/home/issues/1173
-
-- For this version V1.2 we will do the following: 
-
+For this version V1.2 we will do the following: 
 A change was done on TFChain, this broke the farmers tab in the wallet. Changes need to be done to fix this. This was done quickly in production.
-
-
-
 
 ## TFConnect App v3.5.0
 
