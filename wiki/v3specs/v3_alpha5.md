@@ -57,7 +57,7 @@ On this release, a big backend change is required to actually communicate using 
 To decentralize this entirely, we will search other addresses on the blockchain, through RMB. Included as a result of these major backend changes, there will be a lot of bug fixing and rewriting flows/code to work with the new backend.
 
 
-## ThreeFold Connect App v3.4.0
+## ThreeFold Walet v3.4.0
 
 Project: [https://github.com/threefoldtech/wallet-next/projects/1](https://github.com/threefoldtech/wallet-next/projects/1)
 
@@ -74,6 +74,17 @@ On TFGrid v3, node and farm management are also moved to substrate-based blockch
 
 Therefore we would like to a add a ‘Farm Management’ feature on the TFConnect App** that would enable farmers to list their farms and create new ones directly on the mobile app.  The ‘Farm Management’ feature will allow users to create new farms, list farms, as well as migrate their farms from TFGrid v2 to TFGrid v3.
 
+
+## TFConnect App v3.5.0
+
+Project: https://github.com/threefoldtech/threefold_connect/projects/7
+
+### Generic Frontend and Backend Improvements
+This new feature release of TFConnect App includes new features such as enabling user to sign documents on the app directly, and many other backend improvements.
+
+### Planetary network v0.2.0 iOS
+
+On last release, we have officially released Planetary Network v0.2.0 on TFConnect App - Android. On this release we are releasing  Planetary Network v0.2.0 on TFConnect App on iOS. Planetary Network is your gateway to access ThreeFold’s p2p internet. Click here to read more about[ TF Planetary Network](https://library.threefold.me/info/manual/#/manual__yggdrasil_client). 
 
 ### Integrate TFConnect SSO to TFPlay Solutions
 
