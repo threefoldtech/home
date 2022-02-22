@@ -73,3 +73,8 @@ However, TFT is still the native currency on TFChain. As such, there is no need 
 On TFGrid v3, node and farm management are also moved to substrate-based blockchains. A farm can be managed by making calls directly to the blockchain using objects created in TFChain called Twins. TFWallet app can reuse the wallet keypair to support a twin. A twin is also associated with a planetary network address that is supported by the TFConnect App. 
 
 Therefore we would like to a add a ‘Farm Management’ feature on the TFConnect App** that would enable farmers to list their farms and create new ones directly on the mobile app.  The ‘Farm Management’ feature will allow users to create new farms, list farms, as well as migrate their farms from TFGrid v2 to TFGrid v3.
+
+
+### Integrate TFConnect SSO to TFPlay Solutions
+
+We need to make peer-to-peer collaboration on the new internet easier and simplify how users interact with their TFPlay solutions. We would like to eliminate a complicated way of signing up to solutions and multiple user's existence on the internet by replacing login mechanism of emails, username and password With just a few clicks on user's TFConnect app to enable user to start using the solutions they would like to use. Therefore on this release, we are creating SSO backend environments for the following TFPlay solutions: Discourse. Mattermost, and Gitea that will allow users to sign in and start using the solutions with just few clicks.
