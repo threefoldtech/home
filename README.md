@@ -10,9 +10,8 @@
 
 ### Currently ongoing Release (February 2022)
 
-- See Spec: [TFGrid v3.0.0 Alpha-4 Spec](https://github.com/threefoldtech/home/blob/master/wiki/v3specs/v3_alpha4.md)
-- See Active Project: [TFGrid v3.0.0 Alpha-4](https://github.com/threefoldtech/home/projects/5)
-- See Forum Updates: [TF Ecosystem Updates Forum Post](https://forum.threefold.io/t/threefold-product-updates-february-2022/2061)
+- See Spec: [TFGrid v3.0.0 Alpha-5 Spec](https://github.com/threefoldtech/home/blob/master/wiki/v3specs/v3_alpha5.md)
+- See Active Project: [TFGrid v3.0.0 Alpha-5](https://github.com/threefoldtech/home/projects/6)
 
 Planned Release Summary:
 
@@ -34,16 +33,10 @@ Planned Release Summary:
     - ‘Owncloud powered by ThreeFold’ Deployer Website v0.1.0
     - Enable TFConnect SSO on deployable solutions
 
-  - **TF Capacity Explorer v3.0.0 Alpha-4**
-    - An all-in-one Unified Capacity Explorer
-    
+  
   - **ZOS v3.1.0** 
     - ZOS Performance Improvements
     
-  - **Minting v3.0**
-  
-  - **Terraform Grid Provider v0.2.0**
-    - Deploy PoktNetwork to Terraform Grid Provider
 
 ## Other Components
   
