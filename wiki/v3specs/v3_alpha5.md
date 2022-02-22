@@ -57,9 +57,9 @@ On this release, a big backend change is required to actually communicate using 
 To decentralize this entirely, we will search other addresses on the blockchain, through RMB. Included as a result of these major backend changes, there will be a lot of bug fixing and rewriting flows/code to work with the new backend.
 
 
-## ThreeFold Walet v3.4.0
+## ThreeFold Wallet v3.0.0
 
-Project: [https://github.com/threefoldtech/wallet-next/projects/1](https://github.com/threefoldtech/wallet-next/projects/1)
+Project: [https://github.com/threefoldtech/wallet-next/projects/2](https://github.com/threefoldtech/wallet-next/projects/1)
 
 ### Add (substrate-based) TFChain Wallet
 
@@ -68,7 +68,7 @@ ThreeFold Wallet needs to add (substrate-based) TFChain Wallet in order to suppo
 
 However, TFT is still the native currency on TFChain. As such, there is no need for an external service to transfer tokens on TFChain. A transaction fee is charged (currently 0.01 TFT) for every transaction/extrinsic call. 
 
-### Add ‘Farm Management’ Feature
+## TF Farm management v1.2.0
 
 On TFGrid v3, node and farm management are also moved to substrate-based blockchains. A farm can be managed by making calls directly to the blockchain using objects created in TFChain called Twins. TFWallet app can reuse the wallet keypair to support a twin. A twin is also associated with a planetary network address that is supported by the TFConnect App. 
 
