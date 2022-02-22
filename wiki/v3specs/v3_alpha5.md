@@ -3,7 +3,7 @@
 
 Sprint overview for TFGrid c3.0.0.0 Alpha-5
 
-## TFNode-Pilot V0.1.0
+## TFNode-Pilot v0.1.0
 
 Pocket Network is a blockchain data platform built for applications that uses cost-efficient economics to coordinate and distribute data at scale, enabling seamless interactions between blockchains and applications.
 
