@@ -6,7 +6,7 @@
 
 ### Currently delivered Release
 
-- [TFGrid v3.0.0 Alpha-2](https://library.threefold.me/info/manual/#/cloud/manual__releasenotes3)
+- [TFGrid v3.0.0 Alpha-4](products/v3/tfgrid_3.0.0_a4.md)
 
 ### Currently ongoing Release (February 2022)
 
