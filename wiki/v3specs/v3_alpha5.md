@@ -70,6 +70,8 @@ However, TFT is still the native currency on TFChain. As such, there is no need 
 
 ## TF Farm management v1.2.0
 
+### Adjust farm management for the latest TFChain upgrade
+
 Project: https://github.com/threefoldtech/wallet-next/projects/5
 
 On the last sprint, alpha-4 we released farm management V1.0 and V1.1 which allows farmers to migrate their farms from V2 to V3 through the TF Connect application.
