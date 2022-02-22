@@ -20,7 +20,11 @@ On this v1.1.0 release, we aim to give the users another option to buy TFT by us
 [Mercuryo API docs](https://mercuryo.io/widget/  
 https://github.com/mercuryoio/api-migration-docs/blob/master/Widget_API_Mercuryo_v1.6.md)
 
-## TF RMB v0.1.0
+## TF RMB v0.2.0
+
+Project: https://github.com/threefoldtech/rmb_go/projects/2
+
+RMB (Reliable Message Bus) is an essential component of TFGrid v3. It enable clients (a piece of computer hardware or software that accesses a designated service on the TFGrid) to talk directly to TFChain and ZOS,  and connects all TFGrid components without needing an intermediary tool. On this release we would like to improve the performance of RMB, rewriting the codes from GoLang to Vlang, adding PGP support, adding better documentations and many more.
 
 ## ZOS v3.1.0
 
@@ -53,3 +57,21 @@ Project: https://github.com/threefoldtech/twin_aydo/projects/4
 On this release, a big backend change is required to actually communicate using the [RMB (Remote Message Bus)](https://github.com/threefoldtech/rmb) and include the full stack on TFGrid. In this version we won't change anything functionally, but include the backend changes needed to be able to execute this.
 
 To decentralize this entirely, we will search other addresses on the blockchain, through RMB. Included as a result of these major backend changes, there will be a lot of bug fixing and rewriting flows/code to work with the new backend.
+
+
+## ThreeFold Connect App v3.4.0
+
+Project: [https://github.com/threefoldtech/wallet-next/projects/1](https://github.com/threefoldtech/wallet-next/projects/1)
+
+### Add (substrate-based) TFChain Wallet
+
+TFGrid v3 is powered by substrate-based blockchain. A TFT is moveable from Stellar blockchain to TFChain through the use of a bridge.
+ThreeFold Wallet needs to add (substrate-based) TFChain Wallet in order to support the bridge transaction. 
+
+However, TFT is still the native currency on TFChain. As such, there is no need for an external service to transfer tokens on TFChain. A transaction fee is charged (currently 0.01 TFT) for every transaction/extrinsic call. 
+
+### Add ‘Farm Management’ Feature
+
+On TFGrid v3, node and farm management are also moved to substrate-based blockchains. A farm can be managed by making calls directly to the blockchain using objects created in TFChain called Twins. TFWallet app can reuse the wallet keypair to support a twin. A twin is also associated with a planetary network address that is supported by the TFConnect App. 
+
+Therefore we would like to a add a ‘Farm Management’ feature on the TFConnect App** that would enable farmers to list their farms and create new ones directly on the mobile app.  The ‘Farm Management’ feature will allow users to create new farms, list farms, as well as migrate their farms from TFGrid v2 to TFGrid v3.
