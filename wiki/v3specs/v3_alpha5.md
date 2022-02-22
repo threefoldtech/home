@@ -88,7 +88,7 @@ On last release, we have officially released Planetary Network v0.2.0 on TFConne
 
 ### Integrate TFConnect SSO to TFPlay Solutions
 
-We need to make peer-to-peer collaboration on the new internet easier and simplify how users interact with their TFPlay solutions. We would like to eliminate a complicated way of signing up to solutions and multiple user's existence on the internet by replacing login mechanism of emails, username and password With just a few clicks on user's TFConnect app to enable user to start using the solutions they would like to use. Therefore on this release, we are creating SSO backend environments for the following TFPlay solutions: Discourse. Mattermost, and Gitea that will allow users to sign in and start using the solutions with just few clicks.
+We need to simplify peer-to-peer collaboration and how users interact with their TFPlay solutions. We would like to eliminate a complicated way of signing up to solutions and multiple user's existence on the internet by replacing login mechanism (emails, username and password) With just a few clicks on user's TFConnect app. Therefore on this release, we are creating SSO backend environments for the following TFPlay solutions: Discourse. Mattermost, and Gitea that will allow users to sign in and start using the solutions with just few clicks.
 
 ### **TFChain v1.2.0**
 
