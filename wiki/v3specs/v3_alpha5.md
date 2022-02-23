@@ -68,7 +68,7 @@ ThreeFold Wallet needs to add (substrate-based) TFChain Wallet in order to suppo
 
 However, TFT is still the native currency on TFChain. As such, there is no need for an external service to transfer tokens on TFChain. A transaction fee is charged (currently 0.01 TFT) for every transaction/extrinsic call. 
 
-## TF Farm management v1.2.0
+## TF Farm Migration Tool v1.2.0
 
 ### Adjust farm management for the latest TFChain upgrade
 
