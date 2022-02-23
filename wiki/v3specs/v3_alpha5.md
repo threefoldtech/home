@@ -94,16 +94,16 @@ On last release, we have officially released Planetary Network v0.2.0 on TFConne
 
 We need to simplify peer-to-peer collaboration and how users interact with their TFPlay solutions. We would like to eliminate a complicated way of signing up    to solutions (emails, username and password) by replacing it using TFConnect app SSO login. Therefore on this release, we are creating SSO backend environments for the following TFPlay solutions: Discourse. Mattermost, and Gitea that will allow users to sign in and start using the solutions with just few clicks.
 
-### **TFChain v1.2.0**
+## TFChain v1.2.0
 
 Project: https://github.com/threefoldtech/tfchain/projects/2
 
-#### **ThreeFold DAO Implementation part 2 - Adjoint Validator-Council member request**
+### ThreeFold DAO Implementation part 2 - Adjoint Validator-Council member request
 
 From version 3.0 on, [ThreeFold Grid operates as a DAO](https://library.threefold.me/info/threefold#/tfgrid/threefold__dao). On the last release of TFChain v1.0.0,  we have successfully implemented The first TF-DAO that allows farmers to request to become DAO council members. 
 
 On this release we would like to implement **ThreeFold DAO Request part 2 where any farmer could request to become an adjoint validator-council member**: by running a a validator node, not only that they become a validator, they would also gain a seat as DAO council member that give them the right to vote for organizational changes.
 
-### **ThreeFold DAO Implementation part 2 - Enable Validator Application
+### ThreeFold DAO Implementation part 2 - Enable Validator Application
 
 On this release we would like to also implement ThreeFold DAO Request part 2 any farmer could apply to become a validator and register the validator application on-chain if they meet the validator requirements.
