@@ -1,7 +1,7 @@
 
 # ThreeFold Grid v3.0.0 Alpha - 5
 
-Sprint overview for TFGrid c3.0.0.0 Alpha-5
+Sprint overview for TFGrid v3.0.0.0 Alpha-5
 
 ## TFNode-Pilot v0.1.0
 
@@ -30,6 +30,13 @@ RMB (Reliable Message Bus) is an essential component of TFGrid v3. It enable cli
 Project: https://github.com/threefoldtech/zos/projects/106
 
 This new feature release of ZOS v3.1.0 includes a lot of improvements such as improvements on performance issues (disk and IO), grid events handling, and improvement on the current yggdrasil network by start and maintaining our public peers.
+
+### ZOS Supoort Dedicated Nodes
+
+Project: https://github.com/threefoldtech/home/issues/1156
+
+To empower community-driven decentralization on the TFGrid, we would like to soon invite anyone to deploy their own solutions on the TFGrid. This is feasible to do by allowing any external developers to deploy their own workloads on **dedicated nodes** and provide the deployment documentation. By choosing to deploy on dedicated nodes, a user can reserve an entire node, then use it exclusively to deploy solutions for themselves or for other customers. Therefore on this release we would like to support dedicated nodes deployment, and apply the dedicated node contracts on TFChain and support mechanism both on ZOS and 's next release.
+
 
 ## TF Playground v3.0.0 Alpha-5
 Project: https://github.com/threefoldtech/grid_weblets/projects/8
@@ -98,12 +105,21 @@ We need to simplify peer-to-peer collaboration and how users interact with their
 
 Project: https://github.com/threefoldtech/tfchain/projects/2
 
-### ThreeFold DAO Implementation part 2 - Adjoint Validator-Council member request
+  ### ThreeFold DAO Pt. 2: Adjoint Validator-Council member request
 
 From version 3.0 on, [ThreeFold Grid operates as a DAO](https://library.threefold.me/info/threefold#/tfgrid/threefold__dao). On the last release of TFChain v1.0.0,  we have successfully implemented The first TF-DAO that allows farmers to request to become DAO council members. 
 
 On this release we would like to implement **ThreeFold DAO Request part 2 where any farmer could request to become an adjoint validator-council member**: by running a a validator node, not only that they become a validator, they would also gain a seat as DAO council member that give them the right to vote for organizational changes.
 
-### ThreeFold DAO Implementation part 2 - Enable Validator Application
+### ThreeFold DAO Pt. 2: Enable Validator Application
 
 On this release we would like to also implement ThreeFold DAO Request part 2 any farmer could apply to become a validator and register the validator application on-chain if they meet the validator requirements.
+
+## TFGrid Client Proxy v1.2.0\
+
+Project: https://github.com/threefoldtech/tfgridclient_proxy/issues/107
+
+### Implement REST API
+
+TFGrid Client Proxy contains list of farms, nodes and node details on the TFGrid. On the next release of TFGrid Client Proxy, we would like to implement REST API:  a set of application integration protocols that follows the **REST- (REpresentational State Transfer)** architectural style for distributed hypermedia systems. One of the key advantages of applying REST APIs is that they provide a great deal of flexibility. Data is not tied to resources or methods, so REST can handle multiple types of calls, return different data formats and even change structurally with the correct implementation of hypermedia. This would be beneficial to make the way we handle datas of farms and nodes on TFGrid more flexible and independent. 
+
