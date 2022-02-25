@@ -115,7 +115,7 @@ On this release we would like to implement **ThreeFold DAO Request part 2 where 
 
 On this release we would like to also implement ThreeFold DAO Request part 2 any farmer could apply to become a validator and register the validator application on-chain if they meet the validator requirements.
 
-## TFGrid Client Proxy v1.2.0\
+## TFGrid Client Proxy v1.2.0
 
 Project: https://github.com/threefoldtech/tfgridclient_proxy/issues/107
 
