@@ -3,11 +3,6 @@
 
 Sprint overview for TFGrid v3.0.0 Alpha-5
 
-## TFNode-Pilot v0.1.0
-
-Pocket Network is a blockchain data platform built for applications that uses cost-efficient economics to coordinate and distribute data at scale, enabling seamless interactions between blockchains and applications.
-
-In order to **deploy PoktNetwork to TF Terraform Grid Provider**, we need to reverse engineer the Pokt node pilot into Node pilot light. It is a similar to node-pilot but open-source and stripped down. the scripts are being written into this [repository.](https://github.com/threefoldtech/node-pilot-light)
 
 ## TFT Shop v1.1.0
 
