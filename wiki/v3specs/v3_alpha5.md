@@ -123,10 +123,4 @@ Project: https://github.com/threefoldtech/tfgridclient_proxy/issues/107
 TFGrid Client Proxy contains list of farms, nodes and node details information on the TFGrid. On the next release of TFGrid Client Proxy, we would like to implement REST API:  a set of application integration protocols that follows the **REST- (REpresentational State Transfer)** architectural style for distributed hypermedia systems. One of the key advantages of applying REST APIs is that they provide a great deal of flexibility. Data is not tied to resources or methods, so REST can handle multiple types of calls, return different data formats and even change structurally with the correct implementation of hypermedia. This would be beneficial to **make the way we handle datas of farms and nodes on TFGrid more flexible and independent. 
 **
 
-## **‘Owncloud powered by ThreeFold’ Deployer Website v0.1.0**
-
-Project: https://github.com/threefoldtech/www_owncloud/projects/1
-
-ThreeFold has teamed up with Owncloud to provide a time-limited freemium experience of Owncloud product on the TFGrid as a SaaS product. 
-Users would soon be able to** deploy their freemium TF Owncloud solution by signing up for an account on the new TF Owncloud deployer **website using their TFConnect SSO (ThreeFold ID).
 
