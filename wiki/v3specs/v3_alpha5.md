@@ -65,10 +65,6 @@ Recently a change was made within the codes of TFChain, thus broke the farm mana
 ### Generic Frontend and Backend Improvements
 This new feature release of TFConnect App includes new features such as **enabling user to sign documents on the app** directly, and many other backend improvements.
 
-### Planetary network v0.2.0 iOS
-
-On last release, we have officially released Planetary Network v0.2.0 on TFConnect App - Android. On this release we are releasing** Planetary Network v0.2.0 on TFConnect App on iOS**. Planetary Network is your gateway to access ThreeFold’s p2p internet. Click here to read more about[ TF Planetary Network](https://library.threefold.me/info/manual/#/manual__yggdrasil_client). 
-
 ### Integrate TFConnect SSO to TFPlay Solutions
 
 We need to simplify peer-to-peer collaboration and how users interact with their TFPlay solutions. On this release, we have eliminated a complicated way of signing up to solutions (emails, username and password) by replacing it using **TFConnect app SSO login**. Therefore on this release, we successfully created TFConnect Native SSO backend environments for the following TFPlay solutions**: Discourse. Mattermost, and Gitea, that will allow users to sign in and start using the solutions with just few clicks.
@@ -77,9 +73,9 @@ We need to simplify peer-to-peer collaboration and how users interact with their
 
 ### ThreeFold DAO Pt. 2: Adjoint Validator-Council member request
 
-From version 3.0 on, [ThreeFold Grid operates as a DAO](https://library.threefold.me/info/threefold#/tfgrid/threefold__dao). On the last release of TFChain v1.0.0,  we have successfully implemented The first TF-DAO that allows farmers to request to become DAO council members. 
+From version 3.0 on, [ThreeFold Grid operates as a DAO](https://library.threefold.me/info/threefold#/tfgrid/threefold__dao). On the last release of TFChain v1.0.0,  we have successfully implemented The first TF-DAO that allows users to request to become DAO council members. 
 
-On this release we also have successfully implemented **ThreeFold DAO Request part 2 where any farmer could request to become an adjoint validator-council member**: by running a a validator node, not only that they become a validator, they would also gain a seat as DAO council member that give them the right to vote for organizational changes.
+On this release we also have successfully implemented **ThreeFold DAO Request part 2 where any user could request to become an adjoint validator-council member**: by running a a validator node, not only that they become a validator, they would also gain a seat as DAO council member that give them the right to vote for organizational changes.
 
 ### ThreeFold DAO Pt. 2: Enable Validator Application
 
