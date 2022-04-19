@@ -42,10 +42,6 @@ We have added **capacity sizing** for each deployment, such as: “small”, “
 
 [Uhuru](www.uhuru.me) is a digital product on top of a the TFGrid that enhance collaboration with features such as chat, videocall, office tools, and file storage, all in one platform. You can visit [beta.uhuru.me](beta.uhuru.me) to try its latest beta release of v.1.0.0.
 
-On this release, a big backend change was required to actually communicate using the [RMB (Remote Message Bus)](https://github.com/threefoldtech/rmb) and include the full stack on TFGrid. In this version we are not changing anything on Uhuru functionally, but we have included the backend changes needed to execute necessary fixes.
-
-To decentralize this entirely, we will search other addresses on the blockchain, through RMB. Included as a result of these major backend changes, there will be a lot of bug fixing and rewriting flows/code to work with the new backend.
-
 
 ## ThreeFold Wallet v3.0.0
 
