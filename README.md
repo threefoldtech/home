@@ -11,7 +11,7 @@
 ### Currently ongoing Release (April 2022)
 
 - See Active Project: [TFGrid v3.0.0 Alpha-6](https://github.com/threefoldtech/home/projects/8)
-- See Current Sprint Planning Doc: [TFGrid v3.0.0 Alpha-6 Sprint Plann](https://github.com/threefoldtech/home/blob/master/wiki/products/v3/tfgrid_3.0.0_alpha6.md)
+- See Current Sprint Planning Doc: [TFGrid v3.0.0 Alpha-6 Sprint Plan](https://github.com/threefoldtech/home/blob/master/wiki/products/v3/tfgrid_3.0.0_alpha6.md)
 
 ## Other Components
   
