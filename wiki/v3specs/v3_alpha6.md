@@ -18,7 +18,7 @@ Project: https://github.com/threefoldtech/www_owncloud/projects/1
 
 ThreeFold has teamed up with Owncloud to provide a time-limited freemium experience of Owncloud product on the TFGrid as a SaaS product.
 
-Users would soon be able to** deploy their freemium TF Owncloud solution by signing up for an account on the new TF Owncloud deployer **website using their TFConnect SSO (ThreeFold ID).
+Users would soon be able to **deploy their freemium TF Owncloud** solution by signing up for an account on the new TF Owncloud deployer website using their TFConnect SSO (ThreeFold ID).
 
 ### Seamless TFConnect Integration for Solution Deployments
 
