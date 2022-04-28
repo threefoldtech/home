@@ -20,10 +20,6 @@ ThreeFold has teamed up with Owncloud to provide a time-limited freemium experie
 
 Users would soon be able to** deploy their freemium TF Owncloud solution by signing up for an account on the new TF Owncloud deployer **website using their TFConnect SSO (ThreeFold ID).
 
-### UX Improvements: Simplified Solution Deployment Sizing
-On this release we have created **UX improvements on the existing TF Playground** website to provide a better experience for our users. One of them is by simplifying solution deployment processes by adding deployment size options.
-
-We have added **capacity sizing** for each deployment, such as: “small”, “medium” and “large”. Each size requires a different capacity amount. For example, an ‘S’ size for a Funkwhale deployment, would need a different capacity amount to ‘S size for a Peertube deployment.
 
 ## Uhuru v1.2 (beta)
 
@@ -31,9 +27,6 @@ We have added **capacity sizing** for each deployment, such as: “small”, “
 
 ## ThreeFold Wallet v3.0.0
 
-
-
-## TF Farm Management Tool v3.0.2
 
 
 ## TFConnect App v3.5.0
