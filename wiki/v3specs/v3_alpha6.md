@@ -20,6 +20,11 @@ ThreeFold has teamed up with Owncloud to provide a time-limited freemium experie
 
 Users would soon be able to** deploy their freemium TF Owncloud solution by signing up for an account on the new TF Owncloud deployer **website using their TFConnect SSO (ThreeFold ID).
 
+### Seamless TFConnect Integration for Solution Deployments
+
+on the last release, we have successfully created TFConnect Native SSO backend environments for the following TFPlay solutions: Discourse. Mattermost, and Gitea. On this release, we will be adding **TFConnect app SSO login** to the frontend, that will allow users to sign in to their deployed Discourse, Mattermost, and Gitea using TFConnect directly and start using the solutions with just few clicks.
+
+
 
 ## Uhuru v1.2 (beta)
 
