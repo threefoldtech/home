@@ -3,6 +3,8 @@
 
 Sprint overview for TFGrid v3.0.0 Alpha-6
 
+## ZOS 3.0.2
+
 
 ## TFNode-Pilot V0.1.0
 
@@ -41,8 +43,14 @@ The main focus for this release is to enable locked token unlocking. There are a
 ### Generic UI Improvements 
 This new feature release of TFConnect App includes better usability and user experience through the app workflow improvements as well as design and interface, look and feel improvement.
 
+## Planetary Network v0.3
+
 
 ## TFHub v0.1.0
 
+
+## TFChain 1.6.4
+
+## Validator Deployer v0.1
 
 
