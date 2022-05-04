@@ -38,12 +38,12 @@ We now also are including more internal testing with help of Sabrina, the goal i
 
 The main focus for this release is to enable locked token unlocking. There are also many improvements and fixes included, including some things the community asked for. The support for apple devices has also greatly been improved.
 
-## TFConnect App v3.5.0
+## TFConnect App v3.6.0
 
 ### Generic UI Improvements 
 This new feature release of TFConnect App includes better usability and user experience through the app workflow improvements as well as design and interface, look and feel improvement.
 
-## Planetary Network v0.3
+## Planetary Network v0.3.0
 
 
 ## TFHub v0.1.0
@@ -51,6 +51,5 @@ This new feature release of TFConnect App includes better usability and user exp
 
 ## TFChain 1.6.4
 
-## Validator Deployer v0.1
 
 
