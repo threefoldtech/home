@@ -28,11 +28,13 @@ on the last release, we have successfully created TFConnect Native SSO backend e
 
 ## Uhuru v1.2 (beta)
 
+For the V1.2 Beta we continue tackling the UI/UX issues and bugs.
 
+We now also are including more internal testing with help of Sabrina, the goal is still to not add much features except for main missing things like a logout option.
 
-## ThreeFold Wallet v3.0.0
+## ThreeFold Wallet v3.1.0
 
-
+The main focus for this release is to enable locked token unlocking. There are also many improvements and fixes included, including some things the community asked for. The support for apple devices has also greatly been improved.
 
 ## TFConnect App v3.5.0
 
