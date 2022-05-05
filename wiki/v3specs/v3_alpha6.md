@@ -47,7 +47,7 @@ This new feature release of TFConnect App includes** better usability and user e
 
 ### New P2P functionalities on Desktop Client
 
-TF Planetary Network is an application that allows users to access[ Peer To Peer end2end encrypted global network](https://library.threefold.me/info/manual/#/technology/threefold__planetary_network) which lives on top of the existing internet or other Peer To Peer networks created. On this new release of TF Planetary Network, We are **improving the desktop clients **for planetary network by add support for M1 version of Mac. New functionalities have also been added such as allowing the application to refresh list of 'peers', allowing extra 'peers' to be added by TF org, and debug multiple account issues on Mac.
+TF Planetary Network is an application that allows users to access[ Peer To Peer end2end encrypted global network](https://library.threefold.me/info/manual/#/technology/threefold__planetary_network) which lives on top of the existing internet or other Peer To Peer networks created. On this new release of TF Planetary Network, We are **improving the desktop clients** for planetary network by add support for M1 version of Mac. New functionalities have also been added such as allowing the application to refresh list of 'peers', allowing extra 'peers' to be added by TF org, and debug multiple account issues on Mac.
 
 
 ## TFChain 1.6.4
@@ -65,7 +65,3 @@ On this release we are aiming to **enable farmer voting on Chain.** The goal is 
 
 ### UX Improvements
 This new release of TFTShop v1.1.1 will include **better usability and user experience** through the app workflow improvements as well as design and interface, look and feel improvement, such as Improvement on TFT purchase flows on all BTC-TFT, and FIAT-TFT transactions, adding more efficiency on TFT purchases.
-
-
-
-
