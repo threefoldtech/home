@@ -11,7 +11,7 @@ On the last release we have announced that we are supporting dedicated nodes dep
 
 ## ZOS v3.1.0
 
-On this release, new ZOS functionalities are being worked on, including but not limited to these features as described below. Click https://github.com/threefoldtech/zos/projects/12 to see the ZOS v3.1.0 project.
+On this release, new ZOS functionalities are being worked on, including but not limited to these features as described below. Click [**here**](https://github.com/threefoldtech/zos/projects/12) to see the ZOS v3.1.0 project.
 
 ### Add GPU Support
 As requested by the community, on this release we are adding GPU support from AI/ML users and farmers.
@@ -25,7 +25,7 @@ On this release, we are reviving the feature to enable log streaming from VMs/Co
 ## TFNode-Pilot V0.1.0
 Pocket Network is a blockchain data platform built for applications that uses cost-efficient economics to coordinate and distribute data at scale, enabling seamless interactions between blockchains and applications.
 
-In order to **deploy PoktNetwork to TF Terraform Grid Provider**, we need to reverse engineer the Pokt node pilot into Node pilot light. It is a similar to node-pilot but open-source and stripped down. the scripts are being written into this repository.
+In order to **deploy PoktNetwork to TF Terraform Grid Provider,** we need to reverse engineer the Pokt node pilot into Node pilot light. It is a similar to node-pilot but open-source and stripped down. the scripts are being written into this repository.
 
 ## TFPlay v3.0.0 Alpha-6
 
@@ -45,7 +45,7 @@ For the V1.2 Beta we continue tackling the UI/UX issues and bugs. We now also ar
 ## ThreeFold Wallet v3.1.0
 
 ### Token Unlock Feature
-The main focus for TFWallet v3.1.0 release is to enable **token unlocking**. On this release we would allow users to unlock their locked tokens via TFwallet. There are also many improvements and fixes included, including usability supports for iOS devices that will be has greatly been improved.
+The main focus for TFWallet v3.1.0 release is to enable **token unlocking.** On this release we would allow users to unlock their locked tokens via TFwallet. There are also many improvements and fixes included, including usability supports for iOS devices that will be has greatly been improved.
 
 ## TFConnect App v3.6.0
 
