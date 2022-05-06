@@ -13,7 +13,7 @@ On the last release we have announced that we are supporting dedicated nodes dep
 
 ## ZOS v3.1.0
 
-[Project: ZOS v3.1.0](Click [**here**](https://github.com/threefoldtech/zos/projects/12)
+Project: [ZOS v3.1.0](https://github.com/threefoldtech/zos/projects/12)
 
 On this release, new ZOS functionalities are being worked on, including but not limited to these features as described below. Please check out ZOS v3.1.0 project for a more in-depth view of the ongoing release.
 
