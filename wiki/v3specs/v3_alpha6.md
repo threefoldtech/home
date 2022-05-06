@@ -3,7 +3,7 @@
 
 Sprint overview for TFGrid v3.0.0 Alpha-6
 
-## ZOS 3.0.19
+## TFGrid Proxy v1.4.1
 
 ### Allow Querying Available Nodes for Rent
 
