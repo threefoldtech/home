@@ -8,17 +8,16 @@ Project Board: [TFGrid v3.0.0 Alpha-6 Project](https://github.com/threefoldtech/
 
 Project: [TFGrid Proxy v1.4.0 Project](https://github.com/threefoldtech/tfgridclient_proxy/projects/10)
 
-### Allow Querying Available Nodes for Rent
-On the last release we have announced that we are supporting dedicated nodes deployment, by applying dedicated node contracts on TFChain and support mechanism on ZOS. On this release, the support works is in continuation by **allowing ZOS to query available nodes** for renting, by allowing gridproxy to finding nodes that has 0 contracts associated.
-
+- Querying for dedicated nodes support in gridproxy API 
+- Missing queries on farms
+- Twins and Contracts supports
+- 
 ## ZOS v3.1.0
 
 Project: [ZOS v3.1.0](https://github.com/threefoldtech/zos/projects/12)
 
 On this release, new ZOS functionalities are being worked on, including but not limited to these features as described below. Please check out ZOS v3.1.0 project for a more in-depth view of the ongoing release.
 
-### Add GPU Support
-As requested by the community, on this release we are adding GPU support from AI/ML users and farmers.
 
 ### ZOS Update over Chain
 On this release, we plan to allow nodes to sync their release version against the published version on chain. the later installed version will be chosen by the DAO itself.
@@ -40,9 +39,6 @@ Project: [Owncloud v1.0.0 Project](https://github.com/threefoldtech/www_owncloud
 
 ThreeFold has teamed up with Owncloud to provide a time-limited freemium experience of Owncloud product on the TFGrid as a SaaS product.
 Users would soon be able to **deploy their freemium TF Owncloud** solution by signing up for an account on the new TF Owncloud deployer website using their TFConnect SSO (ThreeFold ID).
-
-### TFPlay Seamless TFConnect Integration for Solution Deployments
-On the last release, we have successfully created TFConnect Native SSO backend environments for the following TFPlay solutions: Discourse. Mattermost, and Gitea. On this release, we will be adding **TFConnect app SSO login** to the frontend, that will allow users to sign in to their deployed Discourse, Mattermost, and Gitea using TFConnect directly and start using the solutions with just few clicks.
 
 
 ## Uhuru v1.2 (beta)
