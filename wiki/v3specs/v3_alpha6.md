@@ -8,13 +8,12 @@ Project Board: [TFGrid v3.0.0 Alpha-6 Project](https://github.com/threefoldtech/
 
 Project: [TFGrid Proxy v1.4.0 Project](https://github.com/threefoldtech/tfgridclient_proxy/projects/10)
 
-- Querying for dedicated nodes support in gridproxy API 
-- Missing queries on farms
-- Twins and Contracts supports
-- 
+### Added Supports and functionalities
+On this release, several supports and functionalities afe being added to TFGrid Proxy, succh as Querying for dedicated nodes support in gridproxy API. We're also adding missing queries on farms, as well as Twins and Contracts supports.
+
 ## ZOS v3.1.0
 
-Project: [ZOS v3.1.0](https://github.com/threefoldtech/zos/projects/12)
+Project: [ZOS v3.1.0 Project](https://github.com/threefoldtech/zos/projects/12)
 
 On this release, new ZOS functionalities are being worked on, including but not limited to these features as described below. Please check out ZOS v3.1.0 project for a more in-depth view of the ongoing release.
 
