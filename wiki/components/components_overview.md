@@ -48,7 +48,8 @@ our base operating system
 - https://github.com/threefoldtech/tfchain_graphql : database layer on top of TFChain, query service
 - https://github.com/threefoldtech/tfchain_graphql_ts_types : database types
 - https://github.com/threefoldtech/weblets_pocs : proof of concept weblets (examples who to deploy on TFGrid)
-- https://github.com/threefoldtech/tfchain_portal : frontend to interact with portal
+- https://github.com/threefoldtech/tfchain_portal : frontend portal to interact with TFChain
+- https://github.com/threefoldtech/tfgrid_dashboard : frontend dashboard to interact with TFChain
 
 ### Reliable Message Bus
 
