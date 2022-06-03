@@ -108,7 +108,7 @@ For each repository (component) there is a list of issues which is dealt with li
 
 #### Labels
 
-see [issue_labels](issue_labels)
+see [issue labels](issue_labels.md)
 
 #### Branch Names in Title
 
