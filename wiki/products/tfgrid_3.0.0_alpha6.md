@@ -1,4 +1,4 @@
-# ThreeFold Grid v3.0.0 Alpha-5 Release Note (Draft)
+# ThreeFold Grid v3.0.0 Alpha-6 Release Note (Draft)
 
 Release Note Candidate of ThreeFold Grid v3.0.0 Alpha-6. It includes updates, improvements and fixes of numerous grid components as described below.
 
@@ -22,12 +22,13 @@ Release Note Candidate of ThreeFold Grid v3.0.0 Alpha-6. It includes updates, im
 
 ## TF Planetary Network v0.3.0
 
-
-
-### New P2P functionalities on Desktop Client
-
 TF Planetary Network is an application that allows users to access[ Peer To Peer end2end encrypted global network](https://library.threefold.me/info/manual/#/technology/threefold__planetary_network) which lives on top of the existing internet or other Peer To Peer networks created. 
 
-On this new release of TF Planetary Network, We are improving the desktop clients for planetary network by adding support for M1 version of Mac. New functionalities have also been added such as allowing the application to refresh the list of ‘peers’, allowing extra ‘peers’ to be added by TF org, and debug multiple account issues on Mac.
+### New P2P functionalities on Desktop Client
+- Improved the desktop clients for planetary network by adding support for M1 version of Mac.
+-  Allowed the application to refresh the list of ‘peers’, allowing extra ‘peers’ to be added by TF org
+-  Debugged multiple account issues on Mac.
+
+
 
 
