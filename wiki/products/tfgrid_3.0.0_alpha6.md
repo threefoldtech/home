@@ -2,33 +2,56 @@
 
 Release Note Candidate of ThreeFold Grid v3.0.0 Alpha-6. It includes updates, improvements and fixes of numerous grid components as described below.
 
-## Uhuru v1.2 (beta)
+## TFPlaygrround v1.4.3
+- Updated Farming Calculator
+- Better node-filtering mechanism by adding 'capacity' filter
+- Simplified K8s solution deployment by eliminating 'add ssh key' part
+- Improved UX for manual solution deployment on dedicated nodes
+- Fixed solution's post-deployment bad gateway issue.
 
-### Generic UX/UI Improvements
+## Uhuru v1.2 (beta)
 - Tackled the UI/UX issues and bugs.  
 - Added many features except for main missing things such as 'logout' option.
 
 ## ThreeFold Wallet v3.1.0
-
-### Token Unlocking
 - Enable token unlocking feature
 - Allow users to unlock their locked tokens via TFwallet. 
 - Improvements and fixes included, including usability supports for iOS devices that will be greatly improved.
 
 ## TFConnect App v3.6.0
 
-### Generic UX/UI Improvements
-- Better usability and user experience through the app workflow improvements as well as design and interface, look and feel improvement.
+- Better usability and user experience through the app workflow improvements as well as 
+- Improved design and interface, look and feel.
 
 ## TF Planetary Network v0.3.0
+TF Planetary Network is an application that allows users to access[ Peer To Peer end2end encrypted global network](https://library.threefold.me/info/manual/#/technology/threefold__planetary_network) which lives on top of the existing internet or other Peer To Peer networks created. This release's improvements:
 
-TF Planetary Network is an application that allows users to access[ Peer To Peer end2end encrypted global network](https://library.threefold.me/info/manual/#/technology/threefold__planetary_network) which lives on top of the existing internet or other Peer To Peer networks created. 
-
-### New P2P functionalities on Desktop Client
+- New P2P functionalities on Desktop Client
 - Improved the desktop clients for planetary network by adding support for M1 version of Mac.
 -  Allowed the application to refresh the list of ‘peers’, allowing extra ‘peers’ to be added by TF org
 -  Debugged multiple account issues on Mac.
 
+## TFTShop (GetTFT) v1.1.1
 
+- Better usability and user experience through the app workflow improvements as well as 
+- Improved design and interface, look and feel, such as Improvement on TFT purchase flows on all BTC-TFT, and FIAT-TFT transactions
+
+## TFGrid Proxy v1.5.0
+TFGrid Proxy is a REST API-based server used to interact with TFGridDB (Database) in order to access all available node-related information. This release's improvements:
+
+- Added querying for dedicated nodes support in gridproxy API.
+- Added support for twins and contracts.
+- Added filter for dedicated nodes
+- Added missing queries on farms
+
+## ZOS v3.1.0
+- Allow nodes to sync their release version against the published version on-chain.
+- Enabled log streaming from VMs/Containers to a remote logs aggregation server. 
+
+## TFNode-Pilot V0.1.0
+Pocket Network is a blockchain data platform built for applications that use cost-efficient economics to coordinate and distribute data at scale, enabling seamless interactions between blockchains and applications. This release's content:
+
+- Reverse-engineered the Pokt node pilot into Node pilot light. 
+- Deployed first version of PoktNetwork to TF Terraform Grid Provider.
 
 
