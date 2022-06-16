@@ -2,7 +2,7 @@
 
 Release Note Candidate of ThreeFold Grid v3.0.0 Alpha-6. It includes updates, improvements and fixes of numerous grid components as described below.
 
-## TFPlaygrround v1.4.3
+## TFPlayground v1.4.3
 - Updated Farming Calculator
 - Better node-filtering mechanism by adding 'capacity' filter
 - Simplified K8s solution deployment by eliminating 'add ssh key' part
@@ -22,6 +22,9 @@ Release Note Candidate of ThreeFold Grid v3.0.0 Alpha-6. It includes updates, im
 
 - Better usability and user experience through the app workflow improvements as well as 
 - Improved design and interface, look and feel.
+- Backend: Added private key management ssh/openpgp as part of TFConnect. Allow users to generate multiple openpgp keys in TFConnect
+- Backend: Allowed TFConnect-enabled app to ask for OpenPGP & SSH pub key based on name
+
 
 ## TF Planetary Network v0.3.0
 TF Planetary Network is an application that allows users to access[ Peer To Peer end2end encrypted global network](https://library.threefold.me/info/manual/#/technology/threefold__planetary_network) which lives on top of the existing internet or other Peer To Peer networks created. This release's improvements:
@@ -53,5 +56,3 @@ Pocket Network is a blockchain data platform built for applications that use cos
 
 - Reverse-engineered the Pokt node pilot into Node pilot light. 
 - Deployed first version of PoktNetwork to TF Terraform Grid Provider.
-
-
