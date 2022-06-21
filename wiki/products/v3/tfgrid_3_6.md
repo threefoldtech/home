@@ -1,6 +1,6 @@
-# ThreeFold Grid v3.0.0 Alpha-6 Release Note (Draft)
+# ThreeFold Grid v3.6 Release Note (Draft)
 
-Release Note Candidate of ThreeFold Grid v3.0.0 Alpha-6. It includes updates, improvements and fixes of numerous grid components as described below.
+Release Note Candidate of ThreeFold Grid v3.6. It includes updates, improvements and fixes of numerous grid components as described below.
 
 ## TFPlayground v1.4.3
 - Updated Farming Calculator
@@ -51,7 +51,7 @@ TFGrid Proxy is a REST API-based server used to interact with TFGridDB (Database
 - Allow nodes to sync their release version against the published version on-chain.
 - Enabled log streaming from VMs/Containers to a remote logs aggregation server. 
 
-## TFNode-Pilot V0.1.0
+## TFNode-Pilot v0.1.0
 Pocket Network is a blockchain data platform built for applications that use cost-efficient economics to coordinate and distribute data at scale, enabling seamless interactions between blockchains and applications. This release's content:
 
 - Reverse-engineered the Pokt node pilot into Node Pilot Light. 
