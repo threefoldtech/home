@@ -8,6 +8,7 @@ Release Note Candidate of ThreeFold Grid v3.6. It includes updates, improvements
 - Simplified K8s solution deployment by eliminating 'add ssh key' part
 - Improved UX for manual solution deployment on dedicated nodes
 - Fixed solution's post-deployment bad gateway issue.
+- Validation enhancements
 
 ## Uhuru v1.2 (beta)
 - Tackled the UI/UX issues and bugs.  
@@ -36,7 +37,7 @@ TF Planetary Network is an application that allows users to access[ Peer To Peer
 
 ## TFTShop (GetTFT) v1.1.1
 
-- Better usability and user experience through the app workflow improvements as well as 
+- Better usability and user experience through the app workflow improvements 
 - Improved design and interface, look and feel, such as Improvement on TFT purchase flows on all BTC-TFT, and FIAT-TFT transactions
 
 ## TFGrid Proxy v1.5.0
