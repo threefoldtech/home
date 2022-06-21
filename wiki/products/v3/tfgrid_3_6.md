@@ -47,6 +47,7 @@ TFGrid Proxy is a REST API-based server used to interact with TFGridDB (Database
 - Added support for twins and contracts.
 - Added filter for dedicated nodes
 - Added missing queries on farms
+- Added country API for node distribution
 
 ## ZOS v3.1.0
 - Allow nodes to sync their release version against the published version on-chain.
@@ -57,3 +58,9 @@ Pocket Network is a blockchain data platform built for applications that use cos
 
 - Reverse-engineered the Pokt node pilot into Node Pilot Light. 
 - Deployed first version of PoktNetwork to TF Terraform Grid Provider.
+
+## TFChain
+- DAO support
+- Dedicated nodes support
+
+
