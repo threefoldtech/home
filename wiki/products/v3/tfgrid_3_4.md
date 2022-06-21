@@ -1,4 +1,4 @@
-# ThreeFold Grid v3.0.0 Alpha - 4 Release Note
+# ThreeFold Grid v3.4 Release Note
 
 ## TFConnect v3.4.0
 
