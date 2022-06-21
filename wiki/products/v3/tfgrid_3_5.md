@@ -1,6 +1,6 @@
-# ThreeFold Grid v3.0.0 Alpha-5 Release Note
+# ThreeFold Grid v3.5 Release Note
 
-This is the release note of TFGrid v3.0.0 Alpha 5. It includes updates, improvements and fixes of numerous grid components as described below.
+This is the release note of TFGrid v3.5. It includes updates, improvements and fixes of numerous grid components as described below.
 
 ## TFT Shop v1.1.0
 
