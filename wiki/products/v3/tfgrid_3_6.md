@@ -62,5 +62,9 @@ Pocket Network is a blockchain data platform built for applications that use cos
 ## TFChain v1.12
 - DAO support
 - Dedicated nodes support
-
+- General stability improvement
+- Reworked farming policies
+- Introduction of contract grace periods
+- Farm certificaation through DAO
+- New bridge code
 
