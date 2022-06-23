@@ -59,7 +59,7 @@ Pocket Network is a blockchain data platform built for applications that use cos
 - Reverse-engineered the Pokt node pilot into Node Pilot Light. 
 - Deployed first version of PoktNetwork to TF Terraform Grid Provider.
 
-## TFChain
+## TFChain v1.12
 - DAO support
 - Dedicated nodes support
 
