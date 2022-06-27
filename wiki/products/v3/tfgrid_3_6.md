@@ -54,7 +54,7 @@ TFGrid Proxy is a REST API-based server used to interact with TFGridDB (Database
 Pocket Network is a blockchain data platform built for applications that use cost-efficient economics to coordinate and distribute data at scale, enabling seamless interactions between blockchains and applications. This release's content:
 
 - Reverse-engineered the Pokt node pilot into Node Pilot Light. 
-- Deployed first version of PoktNetwork to TF Terraform Grid Provider.
+- Deployed first version of PoktNetwork with TF Terraform Grid Provider.
 
 ## TFChain v1.12
 - DAO support
