@@ -1,4 +1,4 @@
-# ThreeFold Grid v3.6 Release Note (Draft)
+# ThreeFold Grid v3.6 Release Note
 
 Release Note Candidate of ThreeFold Grid v3.6. It includes updates, improvements and fixes of numerous grid components as described below.
 
