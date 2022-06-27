@@ -23,9 +23,6 @@ Release Note Candidate of ThreeFold Grid v3.6. It includes updates, improvements
 
 - Better usability and user experience through the app workflow improvements as well as 
 - Improved design and interface, look and feel.
-- Backend: Added private key management ssh/openpgp as part of TFConnect. Allow users to generate multiple openpgp keys in TFConnect
-- Backend: Allowed TFConnect-enabled app to ask for OpenPGP & SSH pub key based on name
-
 
 ## TF Planetary Network v0.3.0
 TF Planetary Network is an application that allows users to access[ Peer To Peer end2end encrypted global network](https://library.threefold.me/info/manual/#/technology/threefold__planetary_network) which lives on top of the existing internet or other Peer To Peer networks created. This release's improvements:
