@@ -6,11 +6,12 @@ Javascript chat widget which uses RMB and can be used by e.g. vlang to create a 
 # remarks
 
 - chatid: is the unique id of one chat session
+- **it uses the javascript_processor for the blockchain & kvs features**
 - markdown
     - is https://miaolz123.github.io/vue-markdown/ a right renderer?
     - can we have support for images & sizes like in docsify
         - or should we use html inside the markdown? ```<img src="http://....jpg" width="200" height="200" />```
-- its a chat based system, which means we see all above answers
+- its a chat based system, which means we see all above answers unless if cleaned
 
 ## visualization
 
@@ -51,8 +52,8 @@ the questions are done section per section, and people can always edit the answe
 ```json
 {
     "type":"section_new", 
-    "chat_id": $chatid,
-    "desription": 'markdown text, describes the section',
+    "chat_id": 4,
+    "desription": "markdown text, describes the section",
     "section_id": 10,
     "nrquestions": 4
 }
