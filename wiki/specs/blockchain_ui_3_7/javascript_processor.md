@@ -8,7 +8,7 @@
 - RPC messages come in and are processed
 - are simple json messages with a chosen method name
 
-## Blockchain & Wallet/Account Management
+## Blockchain & Account Management
 
 The client in the processor should be compatible with multiple blockchains and we need support for them
 
@@ -18,12 +18,14 @@ The client in the processor should be compatible with multiple blockchains and w
 - smartchain
 - algorand
 
-Lets call an account always a wallet and its a simplified way how to interact with a blockchain
+Lets call an account always a account and its a simplified way how to interact with a blockchain
+
+Each account can manage multiple currencies.
 
 
-### create wallet ("wallet_create")
+### create account ("account_create")
 
-This creates a wallet, with chosen name, public key & private key will be returned
+This creates a account, with chosen name, public key & private key will be returned
 
 ```json
 {
@@ -46,38 +48,38 @@ return
 - QUESTION: which mnemonic
 - NAMES need to be unique over the blockchain types
 
-### init wallet ("wallet_init")
+### init account ("account_init")
 
-restore wallet from mnemonic
+restore account from mnemonic
 
 ```json
 {
     "blockchain_type":"tfchain", 
-    "name":"wallet_name",
+    "name":"account_name",
     "mnemonic": "...",
 }
 ```
 
-### delete wallet ("wallet_delete")
+### delete account ("account_delete")
 
-delete wallet
+delete account
 
 ```json
 {
     "blockchain_type":"tfchain", //verification 
-    "name":"wallet_name",
+    "name":"account_name",
 }
 ```
 
 
 
-### list wallet ("wallet_list")
+### list account ("account_list")
 
-This creates a wallet, with chosen name, public key & private key will be returned
+This creates a account, with chosen name, public key & private key will be returned
 
 ```json
 {
-    "type":"wallet_list",
+    "type":"account_list",
     "blockchain_type":"tfchain", //if empty show all
 }
 ```
@@ -93,25 +95,25 @@ return
 ```
 
 
-### select wallet ("wallet_select")
+### select account ("account_select")
 
-selects the active wallet, if selected all corresponding actions will be done on this wallet.
+selects the active account, if selected all corresponding actions will be done on this account.
 
 ```json
 {
     "blockchain_type":"tfchain", //not really needed but is to make sure that we select the right one in right blockchain
-    "name":"wallet_name"
+    "name":"account_name"
 }
 ```
 
 
-### get wallet ("wallet_get")
+### get account ("account_get")
 
 
 ```json
 {
     "blockchain_type":"tfchain", //not really needed but is to make sure that we select the right one in right blockchain
-    "name":"wallet_name"
+    "name":"account_name"
 }
 ```
 
@@ -123,8 +125,16 @@ return
     "pub_key":"...",
     "blockchain_type":"tfchain",
     "mnemonic": "...",
+    "assets":[
+        {
+            "cur":"USDT",
+            "val":10.333,
+        },
+    ]
 }
 ```
+
+
 
 
 ## sign ("sign")
@@ -132,12 +142,11 @@ return
 ```json
 {
     "content": 'somethign to sign',
-    "wallet_name":"mywallet1"
+    "account_name":"myaccount1"
 }
 ```
 
-- returns the signed content with private key of user
-- also returns the public key used (which format?)
+- returns the signed content 
 - check how we can use this to do generic signing for calling transactions on e.g. a cosmos chain, need to make sure we support the right signing mechanisms 
 
 
@@ -145,16 +154,12 @@ return
 
 ```json
 {
-    "type":"encrypt",
-    "chat_id": $chatid,
-    "description": 'please encrypt',
     "content": 'somethign to encrypt',
-    "show_content": false, //if we should show what we encrypt
+    "account_name":"myaccount1"
 }
 ```
 
-- returns the encrypted content with private key of user
-- also returns the public key used (which format?)
+- returns the encrypted content
 
 
 ## pay
@@ -165,12 +170,10 @@ return
     "chat_id": 234,
     "description": "",
     "currency":"",
-    "blockchain_type_source":"stellar",
+    "account_name":"myaccount1",
     "blockchain_type_dest":"tfchain",
-    "address_source":"",
     "address_dest":"",
     "amount":10.2,
-    "confirm":true, //if chosen will prepare everything, if it can be executed, will ask the user to confirm
 }
 ```
 
