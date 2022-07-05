@@ -276,6 +276,58 @@ return
 
 - messages for widget which call the [javascrip_processor](javascript_processor.md) RPC.
 
+## init account
+
+```json
+{
+    "type":"init_account",
+    "chat_id": $chatid,
+    "description": '',
+    "blockchain_type":"tfchain", //the one which can be chosen, can be left empty then ask for all available accounts right now
+}
+```
+
+- ask for mnemonic and if needed which blockchain type, also ask for name
+- will call the javascript_processor to activate an account
+
+
+
+## select account
+
+```json
+{
+    "type":"select_account",
+    "chat_id": $chatid,
+    "description": '',
+    "blockchain_type":"tfchain", //the one which can be chosen, can be left empty then ask for all available accounts right now
+}
+```
+
+- if there is only 1 account, ask user if this account is good
+- otherwise will have dropdown let user choose which account (based on blockchain type, name & public key)
+
+
+## list account
+
+
+```json
+{
+    "type":"list_account",
+    "chat_id": $chatid,
+    "blockchain_type":"tfchain", //the one which can be chosen, can be left empty then ask for all available accounts right now
+}
+```
+
+- call the javascript processor, return the result
+- there is no user interaction, this is just for the chatbot to know which accounts are available
+- need to return pubkey, name & type of chain
+
+## assets account
+
+.... todo
+
+- returns current active account & the assets linked to it
+
 
 ## sign
 
@@ -286,13 +338,13 @@ return
     "description": 'please sign your request',
     "content": 'somethign to sign',
     "show_content": false, //if we should show what we sign
-    "
+    "account_name": ""      //if not the current active one, so can choose another one
 }
 ```
 
 - returns the signed content with private key of user
-- also returns the public key used (which format?)
-- check how we can use this to do generic signing for calling transactions on e.g. a cosmos chain, need to make sure we support the right signing mechanisms 
+- also returns the public key
+- will use the current active account
 
 
 ## encrypt
@@ -304,49 +356,14 @@ return
     "description": 'please encrypt',
     "content": 'somethign to encrypt',
     "show_content": false, //if we should show what we encrypt
+    "account_name": ""      //if not the current active one, so can choose another one
 }
 ```
 
 - returns the encrypted content with private key of user
 - also returns the public key used (which format?)
+- will use the current active account
 
-## select blockchain account
-
-The client should be compatible with multiple blockchains and we need support for them
-
-- stellar
-- tfhub (cosmos based)
-- tfchain
-- smartchain
-- algorand
-
-```json
-{
-    "type":"select_account",
-    "chat_id": $chatid,
-    "description": '',
-    "blockchain_type":"tfchain", //the one which can be chosen
-}
-```
-
-- if there is only 1 account, ask user if this account is good
-
-
-## select blockchain
-
-
-```json
-{
-    "type":"select_blockchain",
-    "chat_id": $chatid,
-    "description": '',
-    "blockchain_type":"tfchain"
-}
-```
-
-- check that there is account loaded (activated) and is of right blockchain
-- if selected and right, just continue
-- if not ask which blockchain account to use of that type and activate
 
 ## pay
 
@@ -356,9 +373,8 @@ The client should be compatible with multiple blockchains and we need support fo
     "chat_id": 234,
     "description": "",
     "currency":"",
-    "blockchain_type_source":"stellar",
+    "account_name": "",      //if not the current active one, so can choose another one
     "blockchain_type_dest":"tfchain",
-    "address_source":"",
     "address_dest":"",
     "amount":10.2,
     "confirm":true, //if chosen will prepare everything, if it can be executed, will ask the user to confirm
@@ -377,6 +393,7 @@ The client should be compatible with multiple blockchains and we need support fo
 {
     "type":"kvs_set",
     "chat_id": 234,
+    "account_name": "",
     "description": "",//optional
     "key":"",
     "data":"",
@@ -385,6 +402,8 @@ The client should be compatible with multiple blockchains and we need support fo
 ```
 
 - info is encrypted in datastor using private key user (as loaded)
+- nothing is asked to user, this is just to allow chatbot to set info to KVS over the browser
+- when set encryption done in browser (so chat bot does not have to know priv key)
 
 
 
@@ -394,6 +413,7 @@ The client should be compatible with multiple blockchains and we need support fo
 {
     "type":"kvs_get",
     "chat_id": 234,
+    "account_name": "",
     "description": "",//optional
     "key":"",
     "twin":"", //name of the twin e.g. kristof  (is our original 3bot name)
@@ -403,7 +423,9 @@ The client should be compatible with multiple blockchains and we need support fo
 
 - info is encrypted in datastor using private key user (as loaded)
 - in this method data needs to be decrypted using private key user (blockchain as loaded)
-- if conform ask user if ok to get info from this stor & decrypt and give to chatbot
+- if confirm ask user if ok to get info from this stor & decrypt and give to chatbot
+- nothing is asked to user (unless if confirm), this is just to allow chatbot to get info from KVS over the browser
+- - when retrieved decryption done in browser
 
 
 ### delete
@@ -412,6 +434,7 @@ The client should be compatible with multiple blockchains and we need support fo
 {
     "type":"kvs_set",
     "chat_id": 234,
+    "account_name": "",
     "description": "",//optional
     "key":"",
     "twin":"", //name of the twin e.g. kristof  (is our original 3bot name)
@@ -419,3 +442,4 @@ The client should be compatible with multiple blockchains and we need support fo
 ```
 
 - question: is this safe, does the server check this has been asked for by the right user?
+- nothing is asked to user, this is just to allow chatbot to delete info from KVS over the browser

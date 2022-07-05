@@ -29,7 +29,7 @@ This creates a account, with chosen name, public key & private key will be retur
 
 ```json
 {
-    "blockchain_type":"tfchain", //the one which can be chosen
+    "blockchain_type":"tfchain", 
     "name":"chosen_name"
 }
 ```
@@ -66,7 +66,6 @@ delete account
 
 ```json
 {
-    "blockchain_type":"tfchain", //verification 
     "name":"account_name",
 }
 ```
@@ -101,7 +100,6 @@ selects the active account, if selected all corresponding actions will be done o
 
 ```json
 {
-    "blockchain_type":"tfchain", //not really needed but is to make sure that we select the right one in right blockchain
     "name":"account_name"
 }
 ```
@@ -112,7 +110,6 @@ selects the active account, if selected all corresponding actions will be done o
 
 ```json
 {
-    "blockchain_type":"tfchain", //not really needed but is to make sure that we select the right one in right blockchain
     "name":"account_name"
 }
 ```
@@ -125,6 +122,28 @@ return
     "pub_key":"...",
     "blockchain_type":"tfchain",
     "mnemonic": "...",
+}
+```
+
+
+### assets account ("account_assets")
+
+retrieve the assets from an account
+
+
+```json
+{
+    "name":"account_name"
+}
+```
+
+return
+
+```json
+{
+    "name": "...",
+    "pub_key":"...",
+    "blockchain_type":"tfchain",
     "assets":[
         {
             "cur":"USDT",
@@ -134,7 +153,7 @@ return
 }
 ```
 
-
+- this info is fetched from blockchain !!!
 
 
 ## sign ("sign")
@@ -166,8 +185,6 @@ return
 
 ```json
 {
-    "type":"pay",
-    "chat_id": 234,
     "description": "",
     "currency":"",
     "account_name":"myaccount1",
@@ -183,13 +200,10 @@ return
 
 ## KVS on central datastor (as used in TFConnect)
 
-### set
+### set ("kvs_set")
 
 ```json
 {
-    "type":"kvs_set",
-    "chat_id": 234,
-    "description": "",//optional
     "key":"",
     "data":"",
     "twin":"", //name of the twin e.g. kristof  (is our original 3bot name)
@@ -200,16 +214,12 @@ return
 
 
 
-### get
-
+### get ("kvs_get")
+ 
 ```json
 {
-    "type":"kvs_get",
-    "chat_id": 234,
-    "description": "",//optional
     "key":"",
     "twin":"", //name of the twin e.g. kristof  (is our original 3bot name)
-    "confirm":true, //if chosen will prepare everything, if it can be executed, will ask the user to confirm
 }
 ```
 
@@ -218,16 +228,14 @@ return
 - if conform ask user if ok to get info from this stor & decrypt and give to chatbot
 
 
-### delete
+### delete ("kvs_delete")
 
 ```json
 {
-    "type":"kvs_set",
-    "chat_id": 234,
-    "description": "",//optional
     "key":"",
     "twin":"", //name of the twin e.g. kristof  (is our original 3bot name)
 }
 ```
 
 - question: is this safe, does the server check this has been asked for by the right user?
+
