@@ -272,6 +272,11 @@ return
 
 ```
 
+# Blockchain based work
+
+- messages for widget which call the [javascrip_processor](javascript_processor.md) RPC.
+
+
 ## sign
 
 ```json
@@ -364,3 +369,53 @@ The client should be compatible with multiple blockchains and we need support fo
 - library is smart enough to use the right private keys 
 
 
+## KVS on central datastor (as used in TFConnect)
+
+### set
+
+```json
+{
+    "type":"kvs_set",
+    "chat_id": 234,
+    "description": "",//optional
+    "key":"",
+    "data":"",
+    "twin":"", //name of the twin e.g. kristof  (is our original 3bot name)
+}
+```
+
+- info is encrypted in datastor using private key user (as loaded)
+
+
+
+### get
+
+```json
+{
+    "type":"kvs_get",
+    "chat_id": 234,
+    "description": "",//optional
+    "key":"",
+    "twin":"", //name of the twin e.g. kristof  (is our original 3bot name)
+    "confirm":true, //if chosen will prepare everything, if it can be executed, will ask the user to confirm
+}
+```
+
+- info is encrypted in datastor using private key user (as loaded)
+- in this method data needs to be decrypted using private key user (blockchain as loaded)
+- if conform ask user if ok to get info from this stor & decrypt and give to chatbot
+
+
+### delete
+
+```json
+{
+    "type":"kvs_set",
+    "chat_id": 234,
+    "description": "",//optional
+    "key":"",
+    "twin":"", //name of the twin e.g. kristof  (is our original 3bot name)
+}
+```
+
+- question: is this safe, does the server check this has been asked for by the right user?
