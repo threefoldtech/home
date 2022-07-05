@@ -4,9 +4,9 @@ We have a lot of work to be done for user interface and today it goes too slow b
 
 RMB would be the protocol but signing needs to happen at client side (javascript maybe in tfconnect).
 
-- [chatbot specs](chat_bot_widget)
-- [javascript_processor](javascript_processor)
-- [questions](questions)
+- [chatbot specs](chat_bot_widget.md)
+- [javascript_processor](javascript_processor.md)
+- [questions](questions.md)
 
 
 ## main requirements
