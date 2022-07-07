@@ -13,8 +13,15 @@
 
 
 ## TFgrid Dashboard
-Single interface for everything 
-- replacing the portal: manage your farms, dedicated nodes, twins, tfchain DAO, and money flows (transfers, swaps) 
-- explorer UI: farms, nodes, searching and statistics
+Tfgrid Dashboard is the mainhighlight of this release. We aim to have a simpler workflow for our Threefold users and more unified experience. The supported functionalites for this release are:
+- Farm management
+- Twin management
+- Dedicated nodes
+- Tfchain DAO
+- Transferring money to TFChain accounts
+- Swapping tokens on Binance and stellar
+- Exploring farms
+- Explorring nodes
+- Grid statistics
 
 ...to be expanded
