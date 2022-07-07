@@ -24,4 +24,4 @@ Tfgrid Dashboard is the mainhighlight of this release. We aim to have a simpler 
 - Explorring nodes
 - Grid statistics
 
-...to be expanded
+service is deployed on https://dashboard.test.grid.tf
