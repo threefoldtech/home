@@ -6,9 +6,11 @@ The development process of our projects is agile, collaborative and above all, r
 
 ## Product defined on Home  
 
-> We use the new style projects `Projects Beta` in github
-> New style projects bring many features including having dynamic kanban/table views with flexibility controlling the views. e.g showing issues by labels, by repo, .. etc
 
+We are using new github style projects to manage the development process, all repos are linked against tfgrid product e.g 3.6.0
+- You can have different views e.g StoryCards only view for Highlevel overview, a view by repositories, priorities
+- We will drive all repos from that one project
+- We should use milestones (semantic version to sort out the issues)
 - Each product is defined on a project section in the "home" repo
 - The home page in the home repo links to the product pages
 - Each product is linked to components which are relevant for the next release
@@ -17,28 +19,28 @@ The development process of our projects is agile, collaborative and above all, r
 - A product can link to another product too which then links to the component!
 - A product can link to a 3rd party product; also there specify the used version nrs
 - Components are also tracked on the same product project
+- All components need to use [semantic versioning](https://semver.org)
 
 
 ## The used swimlanes:
 We should stick to the default template in github beta projects for ease of maintenance and for consistency
 
-- ```No Status``` 
+- `No Status` 
     - Stakeholder or project owner suggests a feature/story/bug to be resolved in this release
-- ```Accepted```
+- `Accepted`
     - The project owner accepts the item, the issue will be worked on and he commits to solve within the release
     - Once accepted = then escalation is needed if it can not be done in time
-- ```In progress```
+- `In progress`
     - The issue is being worked on
-- ```Blocked```       
+- `Blocked`       
     - We are using the Kanban way of thinking - something in this swimlane needs to be resolved asap, can be e.g. a question
     - Means issue cannot be completed, attention from e.g. stakeholders is needed
-- ```Verification```        : work is being verified
+- `Verification`        : work is being verified
     - The team delivered the feature/bug/story
     - Stakeholders need to agree that the issue has been resolved appropriately
     - Project owner can never go from 'Verification' to 'Done' without approval from stakeholders (often represented by QA team)
-- ```Done```
+- `Done`
     - Everyone agreed (project owner and stakeholders) agreed that the issue was done ok
-    
 
 
 You see how different products can be made up out of other products. It's up to the product manager to link the right components to it.
