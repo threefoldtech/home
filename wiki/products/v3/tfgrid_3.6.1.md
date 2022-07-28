@@ -85,3 +85,16 @@ Tfgrid Dashboard is the mainhighlight of this release. We aim to have a simpler 
 - Grid statistics
 
 service is deployed on https://dashboard.test.grid.tf
+
+## Uhuru v1.4.0 (beta)
+- Improved mobile View
+- Improved multiple screen size views
+- Added support and usability for more browsers (Firefox, Safari, etc)
+- Added features on chat group management
+- Full backend rewrite for improved performance, stability and security
+
+## TFConnect App v3.6.0
+- UX rewrite on for userflows like the welcome screen, registration screen, planetary network and many more
+- Added Planetary network for iOS users
+
+
