@@ -17,6 +17,21 @@ Release Note of ThreeFold Grid v3.6.1 It includes updates, improvements and fixe
 
 ## Component Upgrades
 
+### TFgrid Dashboard v3.6.1
+Tfgrid Dashboard is an all-in-one TFGrid utility tool that include various usability in features such as TFGrid Eplorer, farm management, wallet, and more. This is the main highlight of this release. We upgraded TFGrid Dashboard with a simpler user workflow and more unified user experience for ThreeFold community. The supported functionalites for this release are:
+
+- Improved Farm management feature
+- Added Twin management
+- Added Dedicated nodes feature
+- Added support for Tfchain DAO
+- Enabled transferring money to TFChain accounts
+- Enabled Binance - Stellar token swaps 
+- Added Farm Explorer feature 
+- Add Node Explorer feature
+- Integrated TFGrid statistics natively into the dashboard
+
+service is deployed on https://dashboard.test.grid.tf
+
 ### TFPlayground v1.4.3
 - Updated Farming Calculator
 - Better node-filtering mechanism by adding 'capacity' filter
@@ -77,19 +92,7 @@ Pocket Network is a blockchain data platform built for applications that use cos
 - Farm certificaation through DAO
 - New bridge code
 
-### TFgrid Dashboard
-Tfgrid Dashboard is the mainhighlight of this release. We aim to have a simpler workflow for our Threefold users and more unified experience. The supported functionalites for this release are:
-- Farm management
-- Twin management
-- Dedicated nodes
-- Tfchain DAO
-- Transferring money to TFChain accounts
-- Swapping tokens on Binance and stellar
-- Exploring farms
-- Explorring nodes
-- Grid statistics
 
-service is deployed on https://dashboard.test.grid.tf
 
 ### Uhuru v1.4.0 (beta)
 - Improved mobile View
