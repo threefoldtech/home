@@ -9,7 +9,7 @@
  - terraform 1.2.1
  - gridproxy v1.5.1
  - explorer 3.2.2
- - tfgrid_dashboard 1.0.4
+ - tfgrid_dashboard 1.0.6
 
 
 ## TFgrid Dashboard
