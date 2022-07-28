@@ -18,7 +18,7 @@ Release Note of ThreeFold Grid v3.6.1 It includes updates, improvements and fixe
 ## Component Upgrades
 
 ### TFgrid Dashboard v3.6.1
-Tfgrid Dashboard is an all-in-one TFGrid utility tool that include various usability in features such as TFGrid Eplorer, farm management, wallet, and more. This is the main highlight of this release. We upgraded TFGrid Dashboard with a simpler user workflow and more unified user experience for ThreeFold community. The supported functionalites for this release are:
+TFGrid Dashboard is an all-in-one TFGrid utility tool that include various usability in features such as TFGrid Eplorer, farm management, wallet, and more. This is the main highlight of this release. We upgraded TFGrid Dashboard with a simpler user workflow and more unified user experience for ThreeFold community. The supported functionalites for this release are:
 
 - Improved Farm management feature
 - Added Twin management
@@ -91,8 +91,6 @@ Pocket Network is a blockchain data platform built for applications that use cos
 - Introduction of contract grace periods
 - Farm certificaation through DAO
 - New bridge code
-
-
 
 ### Uhuru v1.4.0 (beta)
 - Improved mobile View
