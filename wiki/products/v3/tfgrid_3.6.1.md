@@ -1,3 +1,7 @@
+# ThreeFold Grid v3.6.1 Release Note
+
+Release Note of ThreeFold Grid v3.6.1 It includes updates, improvements and fixes of numerous grid components as described below.
+
 ## TFGrid 3.6.1 components
  - testnet tfchain 1.12.1
  - substrate client (go) release for type change
