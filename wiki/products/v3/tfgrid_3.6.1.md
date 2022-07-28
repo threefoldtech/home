@@ -58,7 +58,7 @@ TFGrid Proxy is a REST API-based server used to interact with TFGridDB (Database
 - Added missing queries on farms
 - Added country API for node distribution
 
-## ZOS v3.1.0
+### ZOS v3.1.0
 - Support pausing workloads to allow grace period before canceling contract.
 - Enabled log streaming from VMs/Containers to a remote logs aggregation server. 
 
