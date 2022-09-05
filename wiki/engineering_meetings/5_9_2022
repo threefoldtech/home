@@ -1,0 +1,42 @@
+Attendees 
+
+Reem
+Thabet
+Dylan
+Hanafy
+Lee
+Rob
+Maxux <3
+
+
+## Agenda
+ - Anyone can currently boot a node in any farm. This could potentially be bad for a farmer if the node is not as good as the other nodes in the farmer’s farm.
+   Should we have farmers have to accept nodes into their farms?
+ - Do we verify that the node and the farm are owned by the same person?
+ - https://github.com/threefoldtech/home/issues/1258. L1 Validator discussion, been blocked for too long (rob will double check)
+ - Zos Image build. Where are we at?
+ - TPM usage for encryption @maxime needs to do some research
+ -  L2 validators code is blocked on the wallet flow
+ - https://github.com/threefoldtech/home/issues/1298 why are they accessing graphql instead of the gridproxy?
+ - public ips deployment on devnet is resolved https://github.com/threefoldtech/test_feedback/issues/272, but do we have any guarantees it won’t happen again?
+ - booting nodes in another farm issue https://github.com/threefoldtech/test_feedback/issues/282
+ - tft unlock / migration services https://github.com/threefoldtech/home/issues/1265 (rob to confirm is fixed)
+ - QA are running their testsuites on QAnet
+
+
+
+
+
+## Planning for 3.8
+ - TFGrid monitoring https://github.com/threefoldtech/home/issues/1294 (we need specs) Lee Smet and Jan De Landtsheer need to talk
+ - Capacity Planning: https://github.com/threefoldtech/home/issues/1304
+ - ZOS update over chain: https://github.com/threefoldtech/zos/issues/1755
+ - capacity certification: https://github.com/threefoldtech/home/issues/1245 (discussion: https://github.com/threefoldtech/capacity-certifier/discussions/2) should it be 4.0?
+ - IPFS: https://github.com/threefoldtech/home/issues/1280 (specced)
+ - Panel staking: https://github.com/threefoldtech/home/issues/1276
+ - Hub improvements: https://github.com/threefoldtech/home/issues/1292 is this really planned? Partly planned. Maxime to update
+ - Decentralized node sales: https://github.com/threefoldtech/home/issues/1217 is this really happening? Lee Smet and kds need to agree
+ - Power management: https://github.com/threefoldtech/home/issues/1303
+ - Extra validation improvements on tfchain https://github.com/threefoldtech/tfchain/issues/419
+ - Tfchain 2.2.0 https://github.com/threefoldtech/tfchain/issues?q=is%3Aopen+is%3Aissue+milestone%3A2.2.0
+
