@@ -1,0 +1,27 @@
+## Attendees 
+
+- Reem
+- Thabet
+- Azmy
+- Dylan
+- Hanafy
+- Lee
+- Rob
+- Maxux
+
+## Agenda
+
+- Zos Image builds seems to work in containers just fine
+- the plan for 3.8 will be more limited to (power management, capacity planning, ipfs and qsfs)
+	- Jan already started power mgmt 
+	- Capacity planning probably should be done on the chain?
+- we really need to plan Grid monitoring
+- booting nodes in another farm issue https://github.com/threefoldtech/test_feedback/issues/282
+- tft unlock / migration services https://github.com/threefoldtech/home/issues/1265 (closed) 
+- tft bridge prometheus https://github.com/threefoldtech/tfchain_tft_bridge/issues/66 ?
+- testnet upgrade
+- thirdparty billing https://github.com/threefoldtech/tfchain/issues/445
+- use ADRs in repos e.g zos and tfchain  https://github.com/threefoldtech/tfchain/issues/446 
+- algorand sizes too big to test on devnet https://howbigisalgorand.com/ -> develop against mainnet
+- farms IPs check
+- testnet has a ridiculous farm policy causing a farmer to receive 10K and 60K TFT for 2 nodes Dylan Verstraete will look into this
