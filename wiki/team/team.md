@@ -57,10 +57,10 @@
 - specialities/skills
     - Golang
     - Rust
-    - Software Design
+    - Javascript
     - Blockchain
 - my active engineering/content tasks
-    - [tfchain](https://github.com/orgs/threefoldtech/tfchain)
+    - [tfchain](https://github.com/orgs/threefoldtech/projects/172/views/9)
 - active products
     - [tfchain](https://github.com/threefoldtech/tfchain)
     - [tfchain_graphql](https://github.com/threefoldtech/tfchain_graphql)
