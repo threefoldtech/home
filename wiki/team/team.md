@@ -50,6 +50,25 @@
 - location: Belgium
 - reports_to: Rob
 
+### [Dylan Verstraete](dylan.md) : Software Engineer/Designer
+
+<img src="img/dylan.jpg" alt="img" width=200px />
+
+- specialities/skills
+    - Golang
+    - Rust
+    - Software Design
+    - Blockchain
+- my active engineering/content tasks
+    - [tfchain](https://github.com/orgs/threefoldtech/tfchain)
+- active products
+    - [tfchain](https://github.com/threefoldtech/tfchain)
+    - [tfchain_graphql](https://github.com/threefoldtech/tfchain_graphql)
+    - [tfchain_tft_bridge](https://github.com/threefoldtech/tfchain_tft_bridge)
+    - [bsc_bridge](https://github.com/threefoldfoundation/tft)
+- location: Belgium
+- reports_to: Rob
+
 
 ## TFGrid Support, Testing & Integration & QA
 
