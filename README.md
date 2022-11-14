@@ -6,37 +6,11 @@
 
 ### Currently delivered Release
 
-- [TFGrid v3.0.0 Alpha-4](https://github.com/threefoldtech/home/blob/master/wiki/products/v3/tfgrid_3.0.0_alpha4.md)
+- [TFGrid v3.7.0](https://library.threefold.me/info/manual/#/manual__tfgrid_release_3_7_0)
 
-### Currently ongoing Release (February 2022)
+### Currently ongoing Release (Octiber 2022)
 
-- See Spec: [TFGrid v3.0.0 Alpha-5 Spec](https://github.com/threefoldtech/home/blob/master/wiki/v3specs/v3_alpha5.md)
-- See Active Project: [TFGrid v3.0.0 Alpha-5](https://github.com/threefoldtech/home/projects/6)
-
-Planned Release Summary:
-
-  - **TFConnect App v3.4.0**
-    - Add (substrate-based) TFChain Wallet
-    - Add in-app ‘Farm Management’ Feature, 
-    - Planetary network v0.2.0 iOS
-    
-  - **GetTFT Shop v1.1.0** 
-    - Add ‘Trade Fiat to TFT’ Integration
-    - Minor UX / UI improvements
-    
-  - **TFChain v1.1.0**
-    - TFDAO Implementation part 2 - Adjoint Validator-Council member request
-    
-  - **TFPlay v3.0.0 Alpha-4**
-    - New community and blockchain solutions
-    - UX Improvements: Simplified Solution Deployment Sizing
-    - ‘Owncloud powered by ThreeFold’ Deployer Website v0.1.0
-    - Enable TFConnect SSO on deployable solutions
-
-  
-  - **ZOS v3.1.0** 
-    - ZOS Performance Improvements
-    
+- See Active Project: [TFGrid v3.8.0](https://github.com/orgs/threefoldtech/projects/172)
 
 ## Other Components
   

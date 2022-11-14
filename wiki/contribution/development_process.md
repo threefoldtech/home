@@ -1,13 +1,16 @@
-> base document being updated Feb 2022
-
 # Development Process
 
 The development process of our projects is agile, collaborative and above all, respectful. We believe in the ingenuity of the people and that everyone has invaluable input to our codebase.
 
 **Github project based**
 
-## Product defined on Home repo
+## Product defined on Home  
 
+
+We are using new github style projects to manage the development process, all repos are linked against tfgrid product e.g 3.6.0
+- You can have different views e.g StoryCards only view for Highlevel overview, a view by repositories, priorities
+- We will drive all repos from that one project
+- We should use milestones (semantic version to sort out the issues)
 - Each product is defined on a project section in the "home" repo
 - The home page in the home repo links to the product pages
 - Each product is linked to components which are relevant for the next release
@@ -15,100 +18,38 @@ The development process of our projects is agile, collaborative and above all, r
 - Each product links to release notes which show history and per release (note) there are links to the components as used at that point
 - A product can link to another product too which then links to the component!
 - A product can link to a 3rd party product; also there specify the used version nrs
+- Components are also tracked on the same product project
+- All components need to use [semantic versioning](https://semver.org)
 
-## Component Project (on repo level)
 
-> Please do not create projects on account level, only create projects on repo level. 
-> Please use old way of creating projects on github, not the beta version
+## The used swimlanes:
+We should stick to the default template in github beta projects for ease of maintenance and for consistency
 
-Each project needs to have a note describing the owner, the release number, a description and the deadline
-
-Generally only **1** github repo, there can be **exceptional** cases where 1 component spans multiple repos but this is the exception. Normally it means it's just more than 1 component. If no planned release, no need to make a project. 
-
-The used swimlanes:
-
-- ```Backlog``` 
+- `No Status` 
     - Stakeholder or project owner suggests a feature/story/bug to be resolved in this release
-- ```Accepted```
+- `Accepted`
     - The project owner accepts the item, the issue will be worked on and he commits to solve within the release
     - Once accepted = then escalation is needed if it can not be done in time
-- ```In progress```
+- `In progress`
     - The issue is being worked on
-- ```Blocked```       
+- `Blocked`       
     - We are using the Kanban way of thinking - something in this swimlane needs to be resolved asap, can be e.g. a question
     - Means issue cannot be completed, attention from e.g. stakeholders is needed
-- ```Verification```        : work is being verified
+- `Verification`        : work is being verified
     - The team delivered the feature/bug/story
     - Stakeholders need to agree that the issue has been resolved appropriately
     - Project owner can never go from 'Verification' to 'Done' without approval from stakeholders (often represented by QA team)
-- ```Done```
+- `Done`
     - Everyone agreed (project owner and stakeholders) agreed that the issue was done ok
-    
-> exception only: when component is more than 1 repo, make the project on account level, in any other case its in the repo.
 
-Example:
-
-```markdown
-**Grid weblets 1.3.0**
-
-- Requires: Terraform_provider 0.1.22 and TFChain Graphql 1.0.1
-- Linked components: None
-
-**ZOS 3.0.9**
-
-- Requires: Nothing
-- Linked components: HUBv..., ZDBv..., ...
-
-**ThreeFold Connect 3.5.0**
-
-- Requires: Nothing
-- Compatible with: TFGrid 3.0.8
-- Linked components: jsng..., jssdk...
-
-```
 
 You see how different products can be made up out of other products. It's up to the product manager to link the right components to it.
 
 
-<!-- ## Team Projects = Team Kanban (on account level)
-
-- Name ```team_$wellchosenname```
-- To allow a team to see which bugs,feature requests and stories are relevant in their current scrum
-- Each day they should check what issues need to be worked on and which ones should have been done already
-- Priorities:
-    - "priority_cricital" means team needs to do it the same day (every other work needs to be suspended until done)
-        - if it cannot be done in time, escalation needs to happen asap (not next day)
-    - "priority_major" means the task should be done within 48 hours (exceptional 3 days, if its simply a too big issue)
-        - this means, any priority task gets priority on everything else
-
-The used swimlanes:
-
-- ```Backlog``` 
-    - A stakeholder or team lead suggests a feature/story/bug to be executed in the team
-- ```Accepted```
-    - The team lead accepts the item to be worked on in relation to the priority 
-    - Once accepted = then escalation is needed if it can not be done in time (means < 1 week) or faster depending priority state
-    - Everything which gets in the team Kanban on 'Accepted' needs to be resolved < 1 week from the day it was attached to team Kanban
-- ```In progress```
-    - The issue is being worked on
-- ```Blocked```       
-    - We are using the Kanban way of thinking; something in this swimlane needs to be resolved asap, can be e.g. a question
-    - Means issue cannot be completed, attention from e.g. stakeholders is needed
-- ```Verification```        : work is being verified
-    - The team delivered the feature/bug/story
-    - Stakeholders need to agree that the issue has been resolved appropriately
-    - Project owner can never go from 'Verification' to 'Done' without approval from stakeholders (often represented by QA team)
-- ```Done```
-    - Everyone agreed; (project owner and stakeholders) agreed that the issue was done ok
-    - check that the item is also in a project release and on right state (if relevant, not everything is on product release project) --> 
-
-## Funnel of Issues, Bugs and Feature Requests
-
-For each repository (component) there is a list of issues which is dealt with like a funnel.
 
 #### Labels
 
-see [issue_labels](issue_labels)
+see [issue labels](issue_labels.md)
 
 #### Branch Names in Title
 
@@ -117,20 +58,14 @@ If not specified, it is to be fixed/developed on development.
 
 #### Milestones for Issues
 
-We don't use milestones for version numbers. This should be part of a project and a project allows us to see when a release will be delivered.
+We use milestones for version numbers e.g `1.4.2` means this issue is going to be part of the release of `1.4.2` of the component.
 
-> We use the milestones as a mechanism to manage the funnel
+> It's very important that nobody works on any issue in milestones not part of the global project plan
 
 - No milestone means need to be sorted
-- Milestone `now` means: bug/feature request is in a component version for the release we are working on. It needs to be assigned and put in a swimlane on the current active repo project.
-- Milestone `next` means: bug/feature request is planned for next component version (< 1 month in the future). It needs to be put in a swimlane (mostly backlog) on the current active repo project.
-- Milestone `later` means: bug/feature request is not to be dealt with now, somewhere in future we will look back at it. No assignee, does not belong to a project.
+- Number e.g `1.4.2` means 
 
 So issues with no milestones can only be in 1 condition: new and not sorted out yet where (repo) it belongs
-
-##### Why do we use these 3 generic milestones? 
-
-It makes it very easy to see what is new and what to sort out. It becomes a generic way of dealing with the funnel- basically: `now`, `next`, `later`.
 
 ## Branching
 
@@ -171,11 +106,12 @@ As soon as work is started on a different branch where a developer or a group of
 
 ### Releasing Process
 
-- Before tagging a release, open a branch named with the intended version e.g 10.5.x with the quality level 
-  - alpha: doesn't have all the features, but you can use the features in there
-  - beta: no major, or blocking bugs. All features working for the customer as promised, no blocking bugs
-  - production: no major, no blocking, no minor bugs and the documentation is ready
+Before tagging a release, open a branch named with the intended version e.g 10.5.x with the quality level 
+    - alpha: doesn't have all the features, but you can use the features in there
+    - beta: no major, or blocking bugs. All features working for the customer as promised, no blocking bugs
+    - production: no major, no blocking, no minor bugs and the documentation is ready
   
+check the [release process document](release_process.md) for more information
   
 #### Blocking
 
