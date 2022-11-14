@@ -102,13 +102,16 @@
   - Typescript/ Javascript
   - Golang
   - Python
-  - Vue/Svelte
+  - Vue/ Svelte
 
 - my active engineering/content tasks
   - PKID
+
+- active products
   - [TFGrid Client](https://github.com/threefoldtech/grid3_client_ts)
   - [TFGrid Weblets](https://github.com/threefoldtech/grid_weblets)
   - [TFGrid Dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
+
 - location: Egypt
 - reports_to: [Ahmed Thabet](ahmed_thabet.md) and [Ahmed Hanafy](ahmed_hanafy.md)
 
