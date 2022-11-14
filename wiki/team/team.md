@@ -379,12 +379,12 @@ td, th {
   - design with photoshop/illustrator
   - Video creator & Editing
 
-- my active engineering/content tasks
+- My active engineering/content tasks
   - Weekly Product Scrum
   - Web Presence Project Mgmt
   - ThreeFold Wikis Mgmt
   - Github Cleanups
-  - Forum Product Updates
+  - Forum Content on Product Updates
 - location: Spain
 - reports_to: KDS / Marketing Team / Timur 
 
