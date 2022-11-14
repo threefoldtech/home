@@ -66,7 +66,8 @@
   - Flutter
 - my active engineering/content tasks
   - [Polygon Bridge](https://github.com/threefoldfoundation/tft/projects/12)
-  - [Polygon Weblet](https://github.com/threefoldtech/grid_weblets/pull/1099)
+  - [TFGrid Weblets](https://github.com/threefoldtech/grid_weblets)
+  - [TFGrid Dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
 - location: Egypt
 - reports_to: [Ahmed Thabet](ahmed_thabet.md), Reem Khamis and [Ahmed Hanafy](ahmed_hanafy.md)
 
