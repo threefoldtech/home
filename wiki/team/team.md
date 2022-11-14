@@ -189,7 +189,19 @@
 
 ## TFGrid Support, Testing & Integration & QA
 
-> TODO:
+### [Mohamed Amer](mohamed_amer.md) : Software Test Engineer
+<img src="img/mohamed_amer.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Software Testing.
+  - Test Automation.
+  - Javascript.
+  - Python.
+- my active engineering/content tasks
+  - tfgrid testing, verification & automation.
+  - documentation.
+- location: Egypt
+- reports_to: Ramez Saeed
 
 ## TF Foundation (content, scripts, ...)
 
