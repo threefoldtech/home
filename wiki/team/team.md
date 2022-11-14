@@ -131,9 +131,11 @@
   - Vue/ Svelte
 
 - my active engineering/content tasks
+
   - PKID
 
 - active products
+
   - [TFGrid Client](https://github.com/threefoldtech/grid3_client_ts)
   - [TFGrid Weblets](https://github.com/threefoldtech/grid_weblets)
   - [TFGrid Dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
@@ -180,11 +182,13 @@
 <img src="img/ahmed_hanafy.jpg" alt="img" width=200px />
 
 - specialities/skills
+
   - Python
   - Typescript
   - Golang
 
 - my active engineering/content tasks
+
   - [Grid Client](https://github.com/orgs/threefoldtech/projects/172/views/11)
   - [Grid Weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
   - [Grid Dashboard](https://github.com/orgs/threefoldtech/projects/172/views/7)
@@ -218,6 +222,26 @@
   - [Profile Manger Extension](https://github.com/threefoldtech/profile-manager-extension)
 - location: Egypt
 - reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
+
+### [Ashraf Fouda](ashraf_fouda.md) : Software Engineer
+
+<img src="img/ashraf.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Python
+  - Rust
+  - Kubernetes
+  - Terraform
+  - Golang
+- my active engineering/content tasks
+  - [terrafrom-provider-grid](https://github.com/orgs/threefoldtech/projects/172/views/16)
+  - [tfgrid_dashboard](https://github.com/orgs/threefoldtech/projects/172/views/7)
+- active products
+  - [terraform-provider-grid](https://github.com/threefoldtech/terraform-provider-grid)
+  - [rmb-rs](https://github.com/threefoldtech/rmb-rs)
+  - [zor-rs](https://github.com/threefoldtech/zos-rs)
+- location: Egypt
+- reports_to: Thabet
 
 ### ZOS
 
@@ -300,6 +324,7 @@
 <img src="img/mario.jpg" alt="img" width=200px />
 
 - specialities/skills
+
   - Rust
   - Golang
 
@@ -319,6 +344,7 @@
 <img src="img/kassem.jpg" alt="img" width=200px />
 
 - specialities/skills
+
   - JavaScript
   - TypeScript
   - C++
@@ -334,6 +360,7 @@
 ## TFGrid Support, Testing & Integration & QA
 
 ### [Ramez Saeed](ramez_saeed.md) : QA Team Lead
+
 <img src="img/Ramez2.jpg" alt="img" width=200px />
 
 - specialities/skills
@@ -371,7 +398,7 @@
   - Test Automation.
   - Software Testing.
 - my active engineering/content tasks
-  - [TFDashboard](https://github.com/threefoldtech/tfgrid_dashboard/tree/development/tests/frontend_selenium) test automation.   
+  - [TFDashboard](https://github.com/threefoldtech/tfgrid_dashboard/tree/development/tests/frontend_selenium) test automation.
   - tfgrid testing, verification & automation.
 - location: Egypt
 - reports_to: Ramez Saeed
@@ -444,6 +471,7 @@ td, th {
 <img src="img/ehab.jpg" alt="img" width=200px />
 
 - specialties/skills
+
   - HTML/CSS/JavaScript/Some Vue JS
   - Website Framework Gridsome,Zola,Mobirise...
   - design with photoshop/illustrator
@@ -464,6 +492,7 @@ td, th {
 <img src="img/sasha.png" alt="img" width=200px />
 
 - specialties/skills
+
   - Scrum
   - Content Writer
   - Github, Publishtools
@@ -482,18 +511,20 @@ td, th {
 - reports_to: KDS / Marketing Team / Timur
 
 ### [Jonas](jonas_delrue.md) : Product Manager Jimber (TF-Connect / Digitaltwin / Kutana / Wallet)
+
 <img src="https://user-images.githubusercontent.com/1687505/201686580-d7e83f79-1ed3-40d9-8b11-23f2894f7f41.png" alt="img" width=200px />
 
 - Specialities/skills
- - Product Management
- - C++ / Go / PHP / Docker/ Nginx / Flutter ..
- - Yggdrasil
+- Product Management
+- C++ / Go / PHP / Docker/ Nginx / Flutter ..
+- Yggdrasil
 - Tasks
- - Managing Jimber team working on above projects
+- Managing Jimber team working on above projects
 - Location: Belgium
-- Reports to: KDS 
+- Reports to: KDS
 
 ### [Lennert](lennert_defauw.md) : Software Developer Jimber
+
 <img src="img/lennert.jpg" alt="img" width=200px />
 
 - Specialities/skills
@@ -502,8 +533,8 @@ td, th {
   - Dart / Flutter
   - Python
 - My active engineering/content tasks
-   - [ThreeFold Mobile App](https://github.com/threefoldtech/threefold_connect)
-   - [ThreeFold Wallet](https://github.com/threefoldtech/wallet-next)
-   - [FreeFlow](https://github.com/threefoldtech/twin_aydo)
+  - [ThreeFold Mobile App](https://github.com/threefoldtech/threefold_connect)
+  - [ThreeFold Wallet](https://github.com/threefoldtech/wallet-next)
+  - [FreeFlow](https://github.com/threefoldtech/twin_aydo)
 - Location: Belgium
-- Reports to: Jonas Delrue 
+- Reports to: Jonas Delrue
