@@ -66,6 +66,7 @@
   - Python
   - Ruby
   - Java
+  - Rust
 
 - my active engineering/content tasks
   - [Polygon Bridge](https://github.com/threefoldfoundation/tft/projects/12)
