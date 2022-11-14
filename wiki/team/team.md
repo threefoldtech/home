@@ -53,8 +53,8 @@
   - Python
   - Typescript
 - my active engineering/content tasks
-  - [Mastodon Weblet](https://github.com/orgs/threefoldtech/projects/172/views/6)
-  - [Support threefold connect login flow](https://github.com/freeflowuniverse/crystallib/pull/80)
+  - [weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
+  - [crystallib](https://github.com/orgs/freeflowuniverse/projects/3)
 - location: Egypt
 - reports_to: Ahmed Thabet
 
