@@ -291,6 +291,19 @@
 
 ## TFGrid Support, Testing & Integration & QA
 
+### [Ramez Saeed](ramez_saeed.md) : QA Team Lead
+<img src="img/Ramez2.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Software Testing.
+  - Test Automation.
+  - Python.
+- my active engineering/content tasks
+  - tfgrid testing.
+  - Bug Assessments.
+- location: Egypt
+- reports_to: Reem Khamis
+
 ### [Mohamed Amer](mohamed_amer.md) : Software Test Engineer
 <img src="img/mohamed_amer.jpg" alt="img" width=200px />
 
@@ -304,6 +317,7 @@
   - documentation.
 - location: Egypt
 - reports_to: Ramez Saeed
+
 
 ## TF Foundation (content, scripts, ...)
 
