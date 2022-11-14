@@ -42,7 +42,21 @@
 
 ## TFGrid
 
-> TODO:
+### [Mahmoud Emad](mahmoud_emad.md) : Software Engineer
+
+<img src="img/mahmmoud.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Golang
+  - Vlang
+  - Javascript
+  - Python
+  - Typescript
+- my active engineering/content tasks
+  - [Mastodon Weblet](https://github.com/orgs/threefoldtech/projects/172/views/6)
+  - [Support threefold connect login flow](https://github.com/freeflowuniverse/crystallib/pull/80)
+- location: Egypt
+- reports_to: Ahmed Thabet
 
 ### ZOS
 
