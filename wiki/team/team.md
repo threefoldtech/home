@@ -151,6 +151,24 @@
 - location: Belgium
 - reports_to: Dylan
 
+### [Erwan Renaut](erwan.md) : Software Engineer
+
+<img src="img/erwan.jpg" alt="img" width=200px />
+
+- specialities/skills
+    - Rust
+    - C/C++
+    - Java
+    - Applied Mathematics
+    - Computer Graphics
+- my active engineering/content tasks
+    - [tfchain](https://github.com/orgs/threefoldtech/projects/172/views/9)
+- active products
+    - [tfchain](https://github.com/threefoldtech/tfchain)
+    - [tfchain_tft_bridge](https://github.com/threefoldtech/tfchain_tft_bridge)
+- location: Brazil
+- reports_to: Dylan
+
 ## TFGrid Support, Testing & Integration & QA
 
 > TODO:
