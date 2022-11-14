@@ -78,6 +78,21 @@
 
 ## TF Foundation (content, scripts, ...)
 
+
+### [Rob Van Mieghem](vmieghemr.md) : Software Engineer/
+
+
+- specialities/skills
+    - Golang
+    - Blockchain
+- my active engineering/content tasks
+    - [TFT on Polygon](https://github.com/threefoldfoundation/tft)
+- active products
+    - [TFT on Stellar]((https://github.com/threefoldfoundation/tft-stellar)
+    - [TFT on Polygon](https://github.com/threefoldfoundation/tft)
+- location: Belgium
+- reports_to: Kristof
+- 
 > TODO:
 
 ## protocol.me / FreeFlow Tools
