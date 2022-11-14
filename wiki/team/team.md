@@ -243,6 +243,24 @@
 - location: Egypt
 - reports_to: Thabet
 
+### [Mario Bassem](mariobassem.md) : Software Engineer
+
+<img src="img/mario.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Rust
+  - Golang
+
+- my active engineering/content tasks
+  - [terrafrom-provider-grid](https://github.com/orgs/threefoldtech/projects/172/views/16)
+- active products
+  - [terraform provider](https://github.com/threefoldtech/terraform-provider-grid)
+  - [gridproxy](https://github.com/threefoldtech/tfgridclient_proxy)
+  - zos
+  - [rmb-go](https://github.com/threefoldtech/rmb_go)
+- location: Egypt
+- reports_to: [Ahmed Thabet](ahmed_thabet.md)
+
 ### ZOS
 
 ### [Muhamad Azmy](azmy.md) : Software Engineer/Designer
