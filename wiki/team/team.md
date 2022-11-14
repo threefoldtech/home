@@ -49,11 +49,46 @@
 - location: Belgium
 - reports_to: Rob
 
+### [Dylan Verstraete](dylan.md) : Software Engineer/Designer
+
+<img src="img/dylan.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Golang
+  - Rust
+  - Javascript
+  - Blockchain
+- my active engineering/content tasks
+  - [tfchain](https://github.com/orgs/threefoldtech/projects/172/views/9)
+- active products
+  - [tfchain](https://github.com/threefoldtech/tfchain)
+  - [tfchain_graphql](https://github.com/threefoldtech/tfchain_graphql)
+  - [tfchain_tft_bridge](https://github.com/threefoldtech/tfchain_tft_bridge)
+  - [bsc_bridge](https://github.com/threefoldfoundation/tft)
+- location: Belgium
+- reports_to: Rob
+
 ## TFGrid Support, Testing & Integration & QA
 
 > TODO:
 
 ## TF Foundation (content, scripts, ...)
+
+### [Rob Van Mieghem](vmieghemr.md) : Software Engineer
+
+<img src="img/rob.jpeg" alt="photo Rob" width=200px />
+
+- specialities
+  - Golang
+  - Blockchain
+  - Tech architect
+- my active engineering/content tasks
+  - [TFT on Polygon](https://github.com/threefoldfoundation/tft)
+- active products
+  - [TFT on Stellar](https://github.com/threefoldfoundation/tft-stellar)
+  - [TFT on Polygon](https://github.com/threefoldfoundation/tft)
+- location: Belgium
+- reports_to: Kristof
 
 > TODO:
 
