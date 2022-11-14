@@ -39,7 +39,6 @@
 - location: Cairo
 - reports_to: Kristof
 
-
 ## TFGrid
 
 > TODO:
@@ -89,18 +88,36 @@
 <img src="img/brandon.png" alt="img" width=200px />
 
 - specialities/skills
-    - Rust
-    - Python
-    - C/C++
-    - Software Design
-    - Testing
+  - Rust
+  - Python
+  - C/C++
+  - Software Design
+  - Testing
 - my active engineering/content tasks
-    - [tfchain](https://github.com/orgs/threefoldtech/projects/172/views/9)
+  - [tfchain](https://github.com/orgs/threefoldtech/projects/172/views/9)
 - active products
-    - [tfchain](https://github.com/threefoldtech/tfchain)
-    - [tfchain_graphql](https://github.com/threefoldtech/tfchain_graphql)
+  - [tfchain](https://github.com/threefoldtech/tfchain)
+  - [tfchain_graphql](https://github.com/threefoldtech/tfchain_graphql)
 - location: Belgium
 - reports_to: Dylan
+
+### [Zainab Elgohary](zainab_elgohary.md) : Software Engineer
+
+<img src="img/zainab.jpeg" alt="img" width=200px />
+
+- specialities/skills
+  - Javascript
+  - Typescript
+- my active engineering/content tasks
+  - [tfgrid_dashboard](https://github.com/orgs/threefoldtech/projects/172/views/7)
+  - [grid_weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
+- active products
+  - [tfgrid_dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
+  - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
+  - [tf_stats](https://github.com/threefoldtech/tfgrid_stats)
+- location: Egypt
+- reports_to: Hanafy
+
 ## TFGrid Support, Testing & Integration & QA
 
 > TODO:
