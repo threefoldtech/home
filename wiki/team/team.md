@@ -60,10 +60,13 @@
 <img src="img/amira.jpeg" alt="img" width=200px />
 
 - specialities/skills
+
   - Typescript/ Javascript
   - Golang
   - Python
-  - Flutter
+  - Ruby
+  - Java
+
 - my active engineering/content tasks
   - [Polygon Bridge](https://github.com/threefoldfoundation/tft/projects/12)
   - [TFGrid Weblets](https://github.com/threefoldtech/grid_weblets)
