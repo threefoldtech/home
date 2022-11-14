@@ -51,7 +51,6 @@
   - Vlang
   - Javascript
   - Python
-  - Typescript
 - my active engineering/content tasks
   - [weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
   - [crystallib](https://github.com/orgs/freeflowuniverse/projects/3)
