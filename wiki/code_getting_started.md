@@ -42,6 +42,8 @@ Licenses see the repositories:
 
 Is a layer on top of the ThreeFold Grid, contributed from TFTech NV & other parties as opensource.
 
+> TODO: needs to be updated
+
 * https://github.com/freeflowuniverse/crystaltwin : first crystal lang based version of the crystal twin (WIP)
 * https://github.com/freeflowuniverse/crystaltools : supporting tools 
 * [PublishingTools](https://github.com/crystaluniverse/publishingtools): Web content publishing system

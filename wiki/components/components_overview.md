@@ -19,19 +19,10 @@ our base operating system
 * planetary network: https://github.com/threefoldtech/Planetary-Network
 * https://github.com/threefoldtech/zinit = init for Zero-OS
 
-### Our Automation layer 2.x
+- master architect: Lee
+- product owner: Lee, Azmy
 
-* Jumpscale 11 = next gent: Cloud automation framework (is our 11th generation of this framework and a big rework). 
-    * [JS-NG](https://github.com/threefoldtech/js-ng)
-* Zero-CI - [continuous integration layer](https://github.com/threefoldtech/zeroCI)
-* [Some docker images which can be converted to flists](https://github.com/threefoldtech/tf-images)
-* v10 of jumpscale which still has lots of knowledge inside (big codebase)
-   - https://github.com/threefoldtech/jumpscaleX_core
-   - https://github.com/threefoldtech/jumpscaleX_threebot. (the alpha version of our 3bot server)
-   - https://github.com/threefoldtech/jumpscaleX_libs
-   - https://github.com/threefoldtech/jumpscaleX_libs_extra
-   - https://github.com/threefoldtech/jumpscaleX_weblibs 
-   - https://github.com/threefoldtech/jumpscaleX_builders (builders for all kinds of software using jumpscale)
+> TODO: is this complete?
 
 ### TFChain + TFGrid Infrastructure As Code
 
@@ -50,6 +41,8 @@ our base operating system
 - https://github.com/threefoldtech/weblets_pocs : proof of concept weblets (examples who to deploy on TFGrid)
 - https://github.com/threefoldtech/tfchain_portal : frontend portal to interact with TFChain
 - https://github.com/threefoldtech/tfgrid_dashboard : frontend dashboard to interact with TFChain
+
+> TODO: is this complete? owners?
 
 ### Reliable Message Bus
 
@@ -78,14 +71,29 @@ our base operating system
 - https://github.com/crystaluniverse/Simulator : simulator for the TFGrid
 - https://github.com/threefoldtech/nodes-explorer : explorer which shows all nodes
 
-### 3Bot
+### TFConnect
 
-The 3Bot is your virtual system administrator.
-3Bot v1 is build using Jumpscale NG, is today only working for TFGrid 2.x, in TFGrid 3.x we use infrastructure as code.
+> TODO: quite some from above need to be put here, also there need to be name changes
 
-- python version of our 3bot admin
-    * [3Bot Admin built Threefold Grid SDK](https://github.com/threefoldtech/js-sdk)
-- python version of our 3bot server
-    * [3Bot Server built with Threefold Grid SDK](https://github.com/threefoldtech/js-sdk)
-- [BCDB Server](https://github.com/threefoldtech/bcdb): the blockchain database lives on top of ZDB & Zero-Stor, the heart of our data stor
-- [BCDB Client](https://github.com/threefoldtech/bcdb-client) : client for BCDB
+## FreeFlow Tools & Protocol.Me
+
+Owner: Kristof
+
+> TODO: link to similar page on FreeFlow Universe Account
+
+e.g. 
+
+- [BCDB Server](https://github.com/threefoldtech/bcdb): the blockchain database lives on top of ZDB & Zero-Stor (needs refresh)
+
+
+## FreeFlow Twin
+
+Owner: Ken
+
+> TODO: link to similar page on FreeFlow Universe Account
+
+## Metaverse
+
+Owner: TBD
+
+> TODO: link to similar page on Metaverse Account (which is this account)

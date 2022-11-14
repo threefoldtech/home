@@ -1,6 +1,7 @@
 # Release process
 
 ## Github projects
+
 - We are going to use new github style projects to manage the development process, all repos are linked against tfgrid product e.g 3.6.0
 - You can have different views e.g StoryCards only view for Highlever overview, a view by repositories, priorities
 - We will drive all repos from that one project
@@ -10,10 +11,10 @@
 
 
 ### Environments
-- Grid releases are no longer linked to an environment in a pipeline, while this makes sense in lots of scenarios, it won't scale
-- An enviornment hosts a specific grid version based on the components it has
-- In the future, we should be able to create ephermal environments e.g deploy this grid version on these X number of nodes
 
+- Grid releases are no longer linked to an environment in a pipeline, while this makes sense in lots of scenarios, it won't scale
+- An environment hosts a specific grid version based on the components it has
+- In the future, we should be able to create ephermal environments e.g deploy this grid version on these X number of nodes
 
 ### Versions
 
@@ -22,12 +23,15 @@
 
 
 ### Branching/Tagging
+
 - Devnet(s) should host development branches and once it reaches a specific quality they get verified on that branch
-- Once verification happens and everything goes ok, we should tag a release 
+    - THIS IS NOT TRUE: it can be that on a dev net you have production components
+- Once verification happens and everything goes ok, we should tag a release of a component
 - Once all components are ready a grid release is complete and we can host that release on whatever environment
 
 
-### Bugfixes for mainnet
+### Blocking Bugfixes for mainnet
+
 - In case of a blocking bug happening only on mainnet, we branch out of the tag on the affected component repository
 - do the fix on that branch
 - host a new grid release on a testing environment to verify
