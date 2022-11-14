@@ -63,7 +63,7 @@
     - [freeflow_caprover](https://github.com/threefoldtech/freeflow_caprover)
     - [crystallib](https://github.com/freeflowuniverse/crystallib)
 - location: Egypt
-- reports_to: Thabet
+- reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
 ### [Mahmoud Emad](mahmoud_emad.md) : Software Engineer
 
 <img src="img/mahmmoud.jpg" alt="img" width=200px />
@@ -77,7 +77,7 @@
   - [weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
   - [crystallib](https://github.com/orgs/freeflowuniverse/projects/3)
 - location: Egypt
-- reports_to: Ahmed Thabet
+- reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
 
 ### [Omar Abdulaziz](omar.md) : Software Engineer
 
@@ -95,7 +95,7 @@
   - [tfgrid_dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
   - [tfgridclient_proxy](https://github.com/threefoldtech/tfgridclient_proxy)
 - location: Egypt
-- reports_to: Thabet
+- reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
 
 ### [Amira Abouhadid](amira_abouhadid.md) : Software Engineer
 
@@ -115,7 +115,7 @@
   - [TFGrid Weblets](https://github.com/threefoldtech/grid_weblets)
   - [TFGrid Dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
 - location: Egypt
-- reports_to: [Ahmed Thabet](ahmed_thabet.md), Reem Khamis and [Ahmed Hanafy](ahmed_hanafy.md)
+- reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
 
 ### [Rawda Gastan](rawda_gastan.md) : Software Engineer
 
@@ -137,8 +137,7 @@
   - [TFGrid Dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
 
 - location: Egypt
-- reports_to: [Ahmed Thabet](ahmed_thabet.md) and [Ahmed Hanafy](ahmed_hanafy.md)
-
+- reports_to: [Ahmed Thabet](ahmed_thabet.md)
 
 ### [Mayar Osama](mayar_osama.md) : Software Engineer
 
@@ -155,7 +154,7 @@
   - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
   - [tf_stats](https://github.com/threefoldtech/tfgrid_stats)
 - location: Egypt
-- reports_to: [Ahmed Thabet](ahmed_thabet.md), Reem Khamis and [Ahmed Hanafy](ahmed_hanafy.md)
+- reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
 
 ### [Ahmed Hanafy](ahmed_hanafy.md) : Software Engineer
 
@@ -271,7 +270,7 @@
   - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
   - [tf_stats](https://github.com/threefoldtech/tfgrid_stats)
 - location: Egypt
-- reports_to: Hanafy
+- reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
 ### [Mario Bassem](mariobassem.md) : Software Engineer
 <img src="img/mario.jpg" alt="img" width=200px />
 
@@ -288,7 +287,7 @@
     - zos
     - [rmb-go](https://github.com/threefoldtech/rmb_go)
 - location: Egypt
-- reports_to: Ahmed Thabet
+- reports_to: [Ahmed Thabet](ahmed_thabet.md)
 
 ## TFGrid Support, Testing & Integration & QA
 
