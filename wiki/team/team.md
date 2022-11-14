@@ -365,3 +365,26 @@ td, th {
   - Freeflow website
 - location: Egypt
 - reports_to: Marketing Team / Nayer
+
+### [Sasha](sasha_astiadi.md) : Product Scrum / Web & Wiki Content Manager
+
+<img src="img/sasha.png" alt="img" width=200px />
+
+- specialties/skills
+  - Scrum 
+  - Content Writer
+  - Github, Publishtools
+  - HTML/CSS
+  - Website Framework: Gridsome,Zola,Mobirise
+  - design with photoshop/illustrator
+  - Video creator & Editing
+
+- my active engineering/content tasks
+  - Weekly Product Scrum
+  - Web Presence Project Mgmt
+  - ThreeFold Wikis Mgmt
+  - Github Cleanups
+  - Forum Product Updates
+- location: Spain
+- reports_to: KDS / Marketing Team / Timur 
+
