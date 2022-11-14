@@ -1,4 +1,3 @@
-
 # ThreeFold Related Engineering Team
 
 ## coordination
@@ -39,7 +38,6 @@
 - location: Cairo
 - reports_to: Kristof
 
-
 ## TFGrid
 
 ### [Mahmoud Emad](mahmoud_emad.md) : Software Engineer
@@ -56,6 +54,21 @@
   - [Support threefold connect login flow](https://github.com/freeflowuniverse/crystallib/pull/80)
 - location: Egypt
 - reports_to: Ahmed Thabet
+
+### [Amira Abouhadid](amira_abouhadid.md) : Software Engineer
+
+<img src="img/amira.jpeg" alt="img" width=200px />
+
+- specialities/skills
+  - Typescript/ Javascript
+  - Golang
+  - Python
+  - Flutter
+- my active engineering/content tasks
+  - [Polygon Bridge](https://github.com/threefoldfoundation/tft/projects/12)
+  - [Polygon Weblet](https://github.com/threefoldtech/grid_weblets/pull/1099)
+- location: Egypt
+- reports_to: [Ahmed Thabet](ahmed_thabet.md), Reem Khamis and [Ahmed Hanafy](ahmed_hanafy.md)
 
 ### ZOS
 
@@ -102,18 +115,19 @@
 <img src="img/brandon.png" alt="img" width=200px />
 
 - specialities/skills
-    - Rust
-    - Python
-    - C/C++
-    - Software Design
-    - Testing
+  - Rust
+  - Python
+  - C/C++
+  - Software Design
+  - Testing
 - my active engineering/content tasks
-    - [tfchain](https://github.com/orgs/threefoldtech/projects/172/views/9)
+  - [tfchain](https://github.com/orgs/threefoldtech/projects/172/views/9)
 - active products
-    - [tfchain](https://github.com/threefoldtech/tfchain)
-    - [tfchain_graphql](https://github.com/threefoldtech/tfchain_graphql)
+  - [tfchain](https://github.com/threefoldtech/tfchain)
+  - [tfchain_graphql](https://github.com/threefoldtech/tfchain_graphql)
 - location: Belgium
 - reports_to: Dylan
+
 ## TFGrid Support, Testing & Integration & QA
 
 > TODO:
