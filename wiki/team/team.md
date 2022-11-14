@@ -428,3 +428,12 @@ td, th {
   - Forum Content on Product Updates
 - location: Spain
 - reports_to: KDS / Marketing Team / Timur
+
+### [Jonas](jonas_delrue.md) : Product Manager Jimber (TF-Connect / Digitaltwin / Kutana / Wallet)
+- Specialities/skills
+ - Product Management
+ - C++ / Go / PHP / Docker/ Nginx / Flutter ..
+ - Yggdrasil
+- Tasks
+ - Managing Jimber team working on above projects
+ 
