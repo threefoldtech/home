@@ -93,7 +93,7 @@
 - location: Egypt
 - reports_to: [Ahmed Thabet](ahmed_thabet.md), Reem Khamis and [Ahmed Hanafy](ahmed_hanafy.md)
 
-### [Rawda Gastan](amira_abouhadid.md) : Software Engineer
+### [Rawda Gastan](rawda_gastan.md) : Software Engineer
 
 <img src="img/rawda.jpg" alt="img" width=200px />
 
