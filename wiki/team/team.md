@@ -1,4 +1,3 @@
-
 # ThreeFold Related Engineering Team
 
 ## coordination
@@ -41,7 +40,58 @@
 
 ## TFGrid
 
-> TODO:
+### [Mahmoud Emad](mahmoud_emad.md) : Software Engineer
+
+<img src="img/mahmmoud.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Golang
+  - Vlang
+  - Javascript
+  - Python
+- my active engineering/content tasks
+  - [weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
+  - [crystallib](https://github.com/orgs/freeflowuniverse/projects/3)
+- location: Egypt
+- reports_to: Ahmed Thabet
+
+### [Omar Abdulaziz](omar.md) : Software Engineer
+
+<img src="img/omar.png" alt="img" width=200px />
+
+- specialities/skills
+  - Golang
+  - Typescript
+  - Vue/Svelte
+- my active engineering/content tasks
+  - [tfgrid_dashboard](https://github.com/orgs/threefoldtech/projects/172/views/7)
+  - [tfgridclient_proxy](https://github.com/orgs/threefoldtech/projects/172/views/12)
+- active products
+  - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
+  - [tfgrid_dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
+  - [tfgridclient_proxy](https://github.com/threefoldtech/tfgridclient_proxy)
+- location: Egypt
+- reports_to: Thabet
+
+### [Amira Abouhadid](amira_abouhadid.md) : Software Engineer
+
+<img src="img/amira.jpeg" alt="img" width=200px />
+
+- specialities/skills
+
+  - Typescript/ Javascript
+  - Golang
+  - Python
+  - Ruby
+  - Java
+  - Rust
+
+- my active engineering/content tasks
+  - [Polygon Bridge](https://github.com/threefoldfoundation/tft/projects/12)
+  - [TFGrid Weblets](https://github.com/threefoldtech/grid_weblets)
+  - [TFGrid Dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
+- location: Egypt
+- reports_to: [Ahmed Thabet](ahmed_thabet.md), Reem Khamis and [Ahmed Hanafy](ahmed_hanafy.md)
 
 ### ZOS
 
@@ -93,6 +143,24 @@
   - C/C++
   - Software Design
   - Testing
+- my active engineering/content tasks
+  - [tfchain](https://github.com/orgs/threefoldtech/projects/172/views/9)
+- active products
+  - [tfchain](https://github.com/threefoldtech/tfchain)
+  - [tfchain_graphql](https://github.com/threefoldtech/tfchain_graphql)
+- location: Belgium
+- reports_to: Dylan
+
+### [Erwan Renaut](erwan.md) : Software Engineer
+
+<img src="img/erwan.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Rust
+  - C/C++
+  - Java
+  - Applied Mathematics
+  - Computer Graphics
 - my active engineering/content tasks
   - [tfchain](https://github.com/orgs/threefoldtech/projects/172/views/9)
 - active products
