@@ -323,6 +323,20 @@
 - location: Egypt
 - reports_to: Ramez Saeed
 
+### [Ahmed Harby](ahmed_harby.md) : Software Test Engineer
+
+<img src="img/Ahmed_Harby.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Python
+  - Selenium, Cypress JS/TS.
+  - Test Automation.
+  - Software Testing.
+- my active engineering/content tasks
+  - [TFDashboard](https://github.com/threefoldtech/tfgrid_dashboard/tree/development/tests/frontend_selenium) test automation.   
+  - tfgrid testing, verification & automation.
+- location: Egypt
+- reports_to: Ramez Saeed
 
 ## TF Foundation (content, scripts, ...)
 
@@ -428,15 +442,3 @@ td, th {
   - Forum Content on Product Updates
 - location: Spain
 - reports_to: KDS / Marketing Team / Timur
-
-### [Jonas](jonas_delrue.md) : Product Manager Jimber (TF-Connect / Digitaltwin / Kutana / Wallet)
-<img src="https://user-images.githubusercontent.com/1687505/201686580-d7e83f79-1ed3-40d9-8b11-23f2894f7f41.png" alt="img" width=200px />
-
-- Specialities/skills
- - Product Management
- - C++ / Go / PHP / Docker/ Nginx / Flutter ..
- - Yggdrasil
-- Tasks
- - Managing Jimber team working on above projects
-- Location: Belgium
-- Reports to: KDS 
