@@ -40,6 +40,30 @@
 
 ## TFGrid
 
+### [Sameh Farouk](sameh_farouk.md) : Software Engineer
+<img style="border-radius: 50%;" src="img/sameh.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Python
+  - Vlang
+  - Golang
+  - rust
+  - Javascript
+- my active engineering/content tasks
+    - [tf-pinning-service](https://github.com/threefoldtech/tf-pinning-service/issues/3)
+- active products
+    - [tf-pinning-service](https://github.com/threefoldtech/tf-pinning-service/)
+    - [taiga_play](https://github.com/freeflowuniverse/taiga_play)
+    - [Vlang-GridProxy-API-client](https://github.com/threefoldtech/vgrid/tree/development/gridproxy)
+    - [rmb-rs](https://github.com/threefoldtech/rmb-rs)
+    - [rmb-v](https://github.com/threefoldtech/rmb/commits/development_a5)
+    - [owncloud_deployer](https://github.com/threefoldtech/owncloud_deployer)
+    - [taiga-contrib-threefold-auth](https://github.com/threefoldtech/taiga-contrib-threefold-auth)
+    - [TFGrid Weblets](https://github.com/threefoldtech/grid_weblets)
+    - [freeflow_caprover](https://github.com/threefoldtech/freeflow_caprover)
+    - [crystallib](https://github.com/freeflowuniverse/crystallib)
+- location: Egypt
+- reports_to: Thabet
 ### [Mahmoud Emad](mahmoud_emad.md) : Software Engineer
 
 <img src="img/mahmmoud.jpg" alt="img" width=200px />
