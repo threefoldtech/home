@@ -51,7 +51,6 @@
   - Vlang
   - Javascript
   - Python
-  - Typescript
 - my active engineering/content tasks
   - [Mastodon Weblet](https://github.com/orgs/threefoldtech/projects/172/views/6)
   - [Support threefold connect login flow](https://github.com/freeflowuniverse/crystallib/pull/80)
