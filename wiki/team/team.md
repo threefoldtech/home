@@ -454,3 +454,18 @@ td, th {
  - Managing Jimber team working on above projects
 - Location: Belgium
 - Reports to: KDS 
+
+### [Lennert](lennert_defauw.md) : Software Developer Jimber
+<img src="img/lennert.jpg" alt="img" width=200px />
+
+- Specialities/skills
+  - Docker
+  - TypeScript / Javascript / Vue3 / NodeJS
+  - Dart / Flutter
+  - Python
+- My active engineering/content tasks
+   - [ThreeFold Mobile App](https://github.com/threefoldtech/threefold_connect)
+   - [ThreeFold Wallet](https://github.com/threefoldtech/wallet-next)
+   - [FreeFlow](https://github.com/threefoldtech/twin_aydo)
+- Location: Belgium
+- Reports to: Jonas Delrue 
