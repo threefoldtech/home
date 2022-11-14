@@ -82,6 +82,8 @@
 ### [Rob Van Mieghem](vmieghemr.md) : Software Engineer
 
 
+<img src="img/rob.jpeg" alt="photo Rob" width=200px />
+
 - specialities
     - Golang
     - Blockchain
