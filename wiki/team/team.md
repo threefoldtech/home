@@ -41,6 +41,7 @@
 ## TFGrid
 
 ### [Sameh Farouk](sameh_farouk.md) : Software Engineer
+
 <img style="border-radius: 50%;" src="img/sameh.jpg" alt="img" width=200px />
 
 - specialities/skills
@@ -50,20 +51,21 @@
   - rust
   - Javascript
 - my active engineering/content tasks
-    - [tf-pinning-service](https://github.com/orgs/threefoldtech/projects/172/views/10)
+  - [tf-pinning-service](https://github.com/orgs/threefoldtech/projects/172/views/10)
 - active products
-    - [tf-pinning-service](https://github.com/threefoldtech/tf-pinning-service/)
-    - [taiga_play](https://github.com/freeflowuniverse/taiga_play)
-    - [Vlang-GridProxy-API-client](https://github.com/threefoldtech/vgrid/tree/development/gridproxy)
-    - [rmb-rs](https://github.com/threefoldtech/rmb-rs)
-    - [rmb-v](https://github.com/threefoldtech/rmb/commits/development_a5)
-    - [owncloud_deployer](https://github.com/threefoldtech/owncloud_deployer)
-    - [taiga-contrib-threefold-auth](https://github.com/threefoldtech/taiga-contrib-threefold-auth)
-    - [TFGrid Weblets](https://github.com/threefoldtech/grid_weblets)
-    - [freeflow_caprover](https://github.com/threefoldtech/freeflow_caprover)
-    - [crystallib](https://github.com/freeflowuniverse/crystallib)
+  - [tf-pinning-service](https://github.com/threefoldtech/tf-pinning-service/)
+  - [taiga_play](https://github.com/freeflowuniverse/taiga_play)
+  - [Vlang-GridProxy-API-client](https://github.com/threefoldtech/vgrid/tree/development/gridproxy)
+  - [rmb-rs](https://github.com/threefoldtech/rmb-rs)
+  - [rmb-v](https://github.com/threefoldtech/rmb/commits/development_a5)
+  - [owncloud_deployer](https://github.com/threefoldtech/owncloud_deployer)
+  - [taiga-contrib-threefold-auth](https://github.com/threefoldtech/taiga-contrib-threefold-auth)
+  - [TFGrid Weblets](https://github.com/threefoldtech/grid_weblets)
+  - [freeflow_caprover](https://github.com/threefoldtech/freeflow_caprover)
+  - [crystallib](https://github.com/freeflowuniverse/crystallib)
 - location: Egypt
 - reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
+
 ### [Mahmoud Emad](mahmoud_emad.md) : Software Engineer
 
 <img src="img/mahmmoud.jpg" alt="img" width=200px />
@@ -148,6 +150,23 @@
   - Javascript / Typescript
   - Python
 - my active engineering/content tasks
+  - [grid_weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
+- active products
+  - [tfgrid_dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
+  - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
+  - [tf_stats](https://github.com/threefoldtech/tfgrid_stats)
+- location: Egypt
+- reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
+
+### [Zainab Elgohary](zainab_elgohary.md) : Software Engineer
+
+<img src="img/zainab.jpeg" alt="img" width=200px />
+
+- specialities/skills
+  - Javascript/Typescript
+  - Vue/Svelte
+- my active engineering/content tasks
+  - [tfgrid_dashboard](https://github.com/orgs/threefoldtech/projects/172/views/7)
   - [grid_weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
 - active products
   - [tfgrid_dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
@@ -255,37 +274,22 @@
 - location: Belgium
 - reports_to: Dylan
 
-### [Zainab Elgohary](zainab_elgohary.md) : Software Engineer
-
-<img src="img/zainab.jpeg" alt="img" width=200px />
-
-- specialities/skills
-  - Javascript
-  - Typescript
-- my active engineering/content tasks
-  - [tfgrid_dashboard](https://github.com/orgs/threefoldtech/projects/172/views/7)
-  - [grid_weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
-- active products
-  - [tfgrid_dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
-  - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
-  - [tf_stats](https://github.com/threefoldtech/tfgrid_stats)
-- location: Egypt
-- reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
 ### [Mario Bassem](mariobassem.md) : Software Engineer
+
 <img src="img/mario.jpg" alt="img" width=200px />
 
 - specialities/skills
-    - Rust
-    - Golang
- 
- - my active engineering/content tasks
-    - [terraform provider](https://github.com/threefoldtech/terraform-provider-grid)
-    - [rmb-go](https://github.com/threefoldtech/rmb_go)
+  - Rust
+  - Golang
+
+- my active engineering/content tasks
+  - [terraform provider](https://github.com/threefoldtech/terraform-provider-grid)
+  - [rmb-go](https://github.com/threefoldtech/rmb_go)
 - active products
-    - [terraform provider](https://github.com/threefoldtech/terraform-provider-grid)
-    - [gridproxy](https://github.com/threefoldtech/tfgridclient_proxy)
-    - zos
-    - [rmb-go](https://github.com/threefoldtech/rmb_go)
+  - [terraform provider](https://github.com/threefoldtech/terraform-provider-grid)
+  - [gridproxy](https://github.com/threefoldtech/tfgridclient_proxy)
+  - zos
+  - [rmb-go](https://github.com/threefoldtech/rmb_go)
 - location: Egypt
 - reports_to: [Ahmed Thabet](ahmed_thabet.md)
 
@@ -305,6 +309,7 @@
 - reports_to: Reem Khamis
 
 ### [Mohamed Amer](mohamed_amer.md) : Software Test Engineer
+
 <img src="img/mohamed_amer.jpg" alt="img" width=200px />
 
 - specialities/skills
@@ -382,7 +387,6 @@ td, th {
 }
 </style>
 
-
 ### [Ehab](ehab_hassan.md) : UI developer/Graphic Designer
 
 <img src="img/ehab.jpg" alt="img" width=200px />
@@ -408,7 +412,7 @@ td, th {
 <img src="img/sasha.png" alt="img" width=200px />
 
 - specialties/skills
-  - Scrum 
+  - Scrum
   - Content Writer
   - Github, Publishtools
   - HTML/CSS
@@ -423,5 +427,4 @@ td, th {
   - Github Cleanups
   - Forum Content on Product Updates
 - location: Spain
-- reports_to: KDS / Marketing Team / Timur 
-
+- reports_to: KDS / Marketing Team / Timur
