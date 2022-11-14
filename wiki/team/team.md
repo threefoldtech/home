@@ -25,6 +25,21 @@
 - location: Zanzibar
 - reports_to: Karoline
 
+### [Ahmed Thabet](ahmed_thabet.md) : Development Lead
+
+<img src="img/ahmed_thabet.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - python
+  - go
+  - documentation
+  - tech architect
+- my active engineering/content tasks
+  - [tfgrid](https://github.com/orgs/threefoldtech/projects/172)
+- location: Cairo
+- reports_to: Kristof
+
+
 ## TFGrid
 
 > TODO:
