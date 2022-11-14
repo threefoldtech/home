@@ -438,4 +438,5 @@ td, th {
  - Yggdrasil
 - Tasks
  - Managing Jimber team working on above projects
- 
+- Location: Belgium
+- Reports to: KDS 
