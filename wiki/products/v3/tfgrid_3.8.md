@@ -46,3 +46,7 @@ TODO
 
 ### Terraform 1.6.0
 - capacity planning upgrade
+
+
+
+For detailed list of the 3.8 https://github.com/orgs/threefoldtech/projects/172

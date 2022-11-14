@@ -37,3 +37,7 @@ Release Note of ThreeFold Grid v3.6.2 It includes mainly patches for tfgrid_dash
 - Adding range of IPs using batch
 
 for detailed listing please check https://github.com/threefoldtech/tfgrid_dashboard/milestone/11?closed=1
+
+
+### rmb 0.2.1
+- fixes websocket connection leaks to tfchain
