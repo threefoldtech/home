@@ -156,6 +156,30 @@
   - [tf_stats](https://github.com/threefoldtech/tfgrid_stats)
 - location: Egypt
 - reports_to: [Ahmed Thabet](ahmed_thabet.md), Reem Khamis and [Ahmed Hanafy](ahmed_hanafy.md)
+
+### [Ahmed Hanafy](ahmed_hanafy.md) : Software Engineer
+
+<img src="img/ahmed_hanafy.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Python
+  - Typescript
+  - Golang
+
+- my active engineering/content tasks
+  - [Grid Client](https://github.com/orgs/threefoldtech/projects/172/views/11)
+  - [Grid Weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
+  - [Grid Dashboard](https://github.com/orgs/threefoldtech/projects/172/views/7)
+  - [Grid Proxy](https://github.com/orgs/threefoldtech/projects/172/views/12)
+
+- active products
+  - [Grid Client](https://github.com/threefoldtech/grid3_client_ts)
+  - [Grid Weblets](https://github.com/threefoldtech/grid_weblets)
+  - [Grid Dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
+  - [Grid Proxy](https://github.com/threefoldtech/tfgridclient_proxy)
+- location: Egypt
+- reports_to: [Ahmed Thabet](ahmed_thabet.md)
+
 ### ZOS
 
 ### [Muhamad Azmy](azmy.md) : Software Engineer/Designer
