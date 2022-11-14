@@ -8,9 +8,10 @@ The development process of our projects is agile, collaborative and above all, r
 
 
 We are using new github style projects to manage the development process, all repos are linked against tfgrid product e.g 3.6.0
+
 - You can have different views e.g StoryCards only view for Highlevel overview, a view by repositories, priorities
 - We will drive all repos from that one project
-- We should use milestones (semantic version to sort out the issues)
+- We should use milestones (semantic version to sort out the issues) = versioning per component
 - Each product is defined on a project section in the "home" repo
 - The home page in the home repo links to the product pages
 - Each product is linked to components which are relevant for the next release
