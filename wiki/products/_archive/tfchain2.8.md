@@ -8,7 +8,7 @@
 - [TFT](https://github.com/threefoldfoundation/tft)
 - [TFT-Stellar](https://github.com/threefoldfoundation/tft-stellar)
 - [BSC Bridge](https://github.com/threefoldtech/binance-chain-bridge-dapp)
-- [TFT Stats on Wiki](https://wiki.threefold.io/#/threefold__stats_token_overview)
+- [TFT Stats on Wiki](https://wiki.threefold.io/#/stats_token_overview)
 
 ## What's New on TF Chain v2.8.0
 

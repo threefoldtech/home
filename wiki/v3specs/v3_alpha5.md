@@ -106,7 +106,7 @@ Project: https://github.com/threefoldtech/tfchain/projects/2
 
   ### ThreeFold DAO Pt. 2: Adjoint Validator-Council member request
 
-From version 3.0 on, [ThreeFold Grid operates as a DAO](https://library.threefold.me/info/threefold#/tfgrid/threefold__dao). On the last release of TFChain v1.0.0,  we have successfully implemented The first TF-DAO that allows farmers to request to become DAO council members. 
+From version 3.0 on, [ThreeFold Grid operates as a DAO](threefold:dao). On the last release of TFChain v1.0.0,  we have successfully implemented The first TF-DAO that allows farmers to request to become DAO council members. 
 
 On this release we would like to implement **ThreeFold DAO Request part 2 where any farmer could request to become an adjoint validator-council member**: by running a a validator node, not only that they become a validator, they would also gain a seat as DAO council member that give them the right to vote for organizational changes.
 
