@@ -1,0 +1,10 @@
+## Samar Adel
+
+- telegram: @adelsamar
+- github: @samaradel
+- email: adels@incubaid.com
+- 3bot: samar
+
+## SSHKey
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8c6SAf9NVL6l6SUE75/bZ+Sj0ohBLzAVDQtaZHrO9VVlcY9wLvTunc0sLONRI+vLNhkJIbXzgeCQmYzrr7WHCujCMszhrwdANmmbig2hV5ahAuiccGjht6tfWeuDf+cdEFMNa48YwnG1yTNdySK8v5PYwzCsQtC0ZCXWZahchHND+uRJ79NjnIJQvpE4joRC4BJgTRIpBxS+Zgucj9vARLKceu8XNOMUZnVxgl8XR6UIEPwzIbSqS1JWqZO5nMiNOBpHtgOlmhpD5EZ5eHMNqkyVbg99hiWISVlYCzphFYGizvDFywYjRSNUp15SgetVoB9UGz0EJFy/MbmSDq5lX

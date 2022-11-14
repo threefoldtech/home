@@ -93,6 +93,22 @@
 - location: Egypt
 - reports_to: [Ahmed Thabet](ahmed_thabet.md), Reem Khamis and [Ahmed Hanafy](ahmed_hanafy.md)
 
+### [Mayar Osama](mayar_osama.md) : Software Engineer
+
+<img src="img/mayar.jpeg" alt="img" width=200px />
+
+- specialities/skills
+  - Golang
+  - Javascript / Typescript
+  - Python
+- my active engineering/content tasks
+  - [grid_weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
+- active products
+  - [tfgrid_dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
+  - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
+  - [tf_stats](https://github.com/threefoldtech/tfgrid_stats)
+- location: Egypt
+- reports_to: [Ahmed Thabet](ahmed_thabet.md), Reem Khamis and [Ahmed Hanafy](ahmed_hanafy.md)
 ### ZOS
 
 ### [Muhamad Azmy](azmy.md) : Software Engineer/Designer
@@ -185,10 +201,39 @@
   - [tf_stats](https://github.com/threefoldtech/tfgrid_stats)
 - location: Egypt
 - reports_to: Hanafy
+### [Mario Bassem](mariobassem.md) : Software Engineer
+<img src="img/mario.jpg" alt="img" width=200px />
+
+- specialities/skills
+    - Rust
+    - Golang
+ 
+ - my active engineering/content tasks
+    - [terraform provider](https://github.com/threefoldtech/terraform-provider-grid)
+    - [rmb-go](https://github.com/threefoldtech/rmb_go)
+- active products
+    - [terraform provider](https://github.com/threefoldtech/terraform-provider-grid)
+    - [gridproxy](https://github.com/threefoldtech/tfgridclient_proxy)
+    - zos
+    - [rmb-go](https://github.com/threefoldtech/rmb_go)
+- location: Egypt
+- reports_to: Ahmed Thabet
 
 ## TFGrid Support, Testing & Integration & QA
 
-> TODO:
+### [Mohamed Amer](mohamed_amer.md) : Software Test Engineer
+<img src="img/mohamed_amer.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Software Testing.
+  - Test Automation.
+  - Javascript.
+  - Python.
+- my active engineering/content tasks
+  - tfgrid testing, verification & automation.
+  - documentation.
+- location: Egypt
+- reports_to: Ramez Saeed
 
 ## TF Foundation (content, scripts, ...)
 
@@ -252,3 +297,24 @@ td, th {
    border: none!important;
 }
 </style>
+
+
+### [Ehab](ehab_hassan.md) : UI developer/Graphic Designer
+
+<img src="img/ehab.jpg" alt="img" width=200px />
+
+- specialties/skills
+  - HTML/CSS/JavaScript/Some Vue JS
+  - Website Framework Gridsome,Zola,Mobirise...
+  - design with photoshop/illustrator
+  - Video creator & Editing
+
+- my active engineering/content tasks
+  - [Threefold](https://github.com/orgs/threefoldfoundation/projects/80/views/4?filterQuery=ehab)
+  - [Codescalers](https://github.com/codescalers/www_codescalers_egypt/issues/4)
+- active products
+  - web static sites
+  - ThreeFold website
+  - Freeflow website
+- location: Egypt
+- reports_to: Marketing Team / Nayer
