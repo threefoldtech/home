@@ -253,3 +253,24 @@ td, th {
    border: none!important;
 }
 </style>
+
+
+### [Ehab](ehab_hassan.md) : UI developer/Graphic Designer
+
+<img src="img/ehab.jpg" alt="img" width=200px />
+
+- specialties/skills
+  - HTML/CSS/JavaScript/Some Vue JS
+  - Website Framework Gridsome,Zola,Mobirise...
+  - design with photoshop/illustrator
+  - Video creator & Editing
+
+- my active engineering/content tasks
+  - [Threefold](https://github.com/orgs/threefoldfoundation/projects/80/views/4?filterQuery=ehab)
+  - [Codescalers](https://github.com/codescalers/www_codescalers_egypt/issues/4)
+- active products
+  - web static sites
+  - ThreeFold website
+  - Freeflow website
+- location: Egypt
+- reports_to: Marketing Team / Nayer
