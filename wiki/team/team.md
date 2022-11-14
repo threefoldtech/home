@@ -55,24 +55,24 @@
 - location: Egypt
 - reports_to: Ahmed Thabet
 
-
 ### [Omar Abdulaziz](omar.md) : Software Engineer
 
 <img src="img/omar.png" alt="img" width=200px />
 
 - specialities/skills
-    - Golang
-    - Typescript
-    - Vue/Svelte
+  - Golang
+  - Typescript
+  - Vue/Svelte
 - my active engineering/content tasks
-    - [tfgrid_dashboard](https://github.com/orgs/threefoldtech/projects/172/views/7)
-    - [tfgridclient_proxy](https://github.com/orgs/threefoldtech/projects/172/views/12)
+  - [tfgrid_dashboard](https://github.com/orgs/threefoldtech/projects/172/views/7)
+  - [tfgridclient_proxy](https://github.com/orgs/threefoldtech/projects/172/views/12)
 - active products
-    - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
-    - [tfgrid_dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
-    - [tfgridclient_proxy](https://github.com/threefoldtech/tfgridclient_proxy)
+  - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
+  - [tfgrid_dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
+  - [tfgridclient_proxy](https://github.com/threefoldtech/tfgridclient_proxy)
 - location: Egypt
 - reports_to: Thabet
+
 ### [Amira Abouhadid](amira_abouhadid.md) : Software Engineer
 
 <img src="img/amira.jpeg" alt="img" width=200px />
@@ -172,19 +172,35 @@
 <img src="img/erwan.jpg" alt="img" width=200px />
 
 - specialities/skills
-    - Rust
-    - C/C++
-    - Java
-    - Applied Mathematics
-    - Computer Graphics
+  - Rust
+  - C/C++
+  - Java
+  - Applied Mathematics
+  - Computer Graphics
 - my active engineering/content tasks
-    - [tfchain](https://github.com/orgs/threefoldtech/projects/172/views/9)
+  - [tfchain](https://github.com/orgs/threefoldtech/projects/172/views/9)
 - active products
-    - [tfchain](https://github.com/threefoldtech/tfchain)
-    - [tfchain_tft_bridge](https://github.com/threefoldtech/tfchain_tft_bridge)
-- location: Brazil
+  - [tfchain](https://github.com/threefoldtech/tfchain)
+  - [tfchain_graphql](https://github.com/threefoldtech/tfchain_graphql)
+- location: Belgium
 - reports_to: Dylan
 
+### [Zainab Elgohary](zainab_elgohary.md) : Software Engineer
+
+<img src="img/zainab.jpeg" alt="img" width=200px />
+
+- specialities/skills
+  - Javascript
+  - Typescript
+- my active engineering/content tasks
+  - [tfgrid_dashboard](https://github.com/orgs/threefoldtech/projects/172/views/7)
+  - [grid_weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
+- active products
+  - [tfgrid_dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
+  - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
+  - [tf_stats](https://github.com/threefoldtech/tfgrid_stats)
+- location: Egypt
+- reports_to: Hanafy
 ### [Mario Bassem](mariobassem.md) : Software Engineer
 <img src="img/mario.jpg" alt="img" width=200px />
 
