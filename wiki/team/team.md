@@ -50,7 +50,7 @@
   - rust
   - Javascript
 - my active engineering/content tasks
-    - [tf-pinning-service](https://github.com/threefoldtech/tf-pinning-service/issues/3)
+    - [tf-pinning-service](https://github.com/orgs/threefoldtech/projects/172/views/10)
 - active products
     - [tf-pinning-service](https://github.com/threefoldtech/tf-pinning-service/)
     - [taiga_play](https://github.com/freeflowuniverse/taiga_play)
