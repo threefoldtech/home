@@ -430,8 +430,7 @@ td, th {
 - reports_to: KDS / Marketing Team / Timur
 
 ### [Jonas](jonas_delrue.md) : Product Manager Jimber (TF-Connect / Digitaltwin / Kutana / Wallet)
-
-![image](https://user-images.githubusercontent.com/1687505/201686580-d7e83f79-1ed3-40d9-8b11-23f2894f7f41.png)
+<img src="[img/sasha.png](https://user-images.githubusercontent.com/1687505/201686580-d7e83f79-1ed3-40d9-8b11-23f2894f7f41.png)" alt="img" width=200px />
 
 - Specialities/skills
  - Product Management
