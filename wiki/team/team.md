@@ -11,7 +11,7 @@ td, th {
 
 ### [Kristof](despiegk.md) : CTO/Architect
 
-<img src="img/despiegk.png" alt="img"/>
+<img src="img/despiegk.png" alt="img" width: 200px; />
 
 - specialities/skills
     - vlang
