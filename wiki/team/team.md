@@ -293,6 +293,23 @@
 - location: Egypt
 - reports_to: [Ahmed Thabet](ahmed_thabet.md)
 
+### [Omar Kassem](omarKassem.md) : Software Engineer
+
+<img src="img/kassem.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - JavaScript
+  - TypeScript
+  - C++
+  - Python
+
+- my active engineering/content tasks
+  - [grid_weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
+- active products
+  - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
+- location: Egypt
+- reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
+
 ## TFGrid Support, Testing & Integration & QA
 
 ### [Ramez Saeed](ramez_saeed.md) : QA Team Lead
