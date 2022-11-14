@@ -556,3 +556,22 @@ td, th {
   - [FreeFlow](https://github.com/threefoldtech/twin_aydo)
 - Location: Belgium
 - Reports to: Jonas Delrue
+
+### [Lee](lee.md) : Research
+
+<img src="img/lee.jpg" alt="image of lee" width=200px />
+
+- specialities/skills
+  - Golang
+  - Rust
+  - Tech architect
+  - Networking
+  - System engineering
+  - Blockchain
+  - Code analysis
+- my active engineering/content tasks
+  - Improve grid VM experience / recovery
+- active products
+
+- location: Belgium
+- reports_to: Kristof
