@@ -169,6 +169,24 @@
 - location: Brazil
 - reports_to: Dylan
 
+### [Mario Bassem](mariobassem.md) : Software Engineer
+<img src="img/mario.jpg" alt="img" width=200px />
+
+- specialities/skills
+    - Rust
+    - Golang
+ 
+ - my active engineering/content tasks
+    - [terraform provider](https://github.com/threefoldtech/terraform-provider-grid)
+    - [rmb-go](https://github.com/threefoldtech/rmb_go)
+- active products
+    - [terraform provider](https://github.com/threefoldtech/terraform-provider-grid)
+    - [gridproxy](https://github.com/threefoldtech/tfgridclient_proxy)
+    - zos
+    - [rmb-go](https://github.com/threefoldtech/rmb_go)
+- location: Egypt
+- reports_to: Ahmed Thabet
+
 ## TFGrid Support, Testing & Integration & QA
 
 > TODO:
