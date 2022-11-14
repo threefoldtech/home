@@ -57,6 +57,25 @@
 - location: Egypt
 - reports_to: Ahmed Thabet
 
+
+### [Omar Abdulaziz](omar.md) : Software Engineer
+
+<img src="img/omar.png" alt="img" width=200px />
+
+- specialities/skills
+    - Golang
+    - Typescript
+    - Vue/Svelte
+- my active engineering/content tasks
+    - [tfgrid_dashboard](https://github.com/orgs/threefoldtech/projects/172/views/7)
+    - [tfgridclient_proxy](https://github.com/orgs/threefoldtech/projects/172/views/12)
+- active products
+    - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
+    - [tfgrid_dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
+    - [tfgridclient_proxy](https://github.com/threefoldtech/tfgridclient_proxy)
+- location: Egypt
+- reports_to: Thabet
+
 ### ZOS
 
 ### [Muhamad Azmy](azmy.md) : Software Engineer/Designer
