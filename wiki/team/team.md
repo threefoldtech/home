@@ -93,6 +93,26 @@
 - location: Egypt
 - reports_to: [Ahmed Thabet](ahmed_thabet.md), Reem Khamis and [Ahmed Hanafy](ahmed_hanafy.md)
 
+### [Rawda Gastan](amira_abouhadid.md) : Software Engineer
+
+<img src="img/rawda.jpg" alt="img" width=200px />
+
+- specialities/skills
+
+  - Typescript/ Javascript
+  - Golang
+  - Python
+  - Vue/Svelte
+
+- my active engineering/content tasks
+  - PKID
+  - [TFGrid Client](https://github.com/threefoldtech/grid3_client_ts)
+  - [TFGrid Weblets](https://github.com/threefoldtech/grid_weblets)
+  - [TFGrid Dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
+- location: Egypt
+- reports_to: [Ahmed Thabet](ahmed_thabet.md) and [Ahmed Hanafy](ahmed_hanafy.md)
+
+
 ### [Mayar Osama](mayar_osama.md) : Software Engineer
 
 <img src="img/mayar.jpeg" alt="img" width=200px />
