@@ -1,0 +1,13 @@
+## Omar Abdulaziz
+
+- telegram: @Omarabdul3ziz
+- github: @Omarabdul3ziz
+- email: abdulazizo@incubaid.com
+- 3bot: omarabdulaziz.3bot
+
+## SSHKey
+
+```bash
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCmsJGADpI/+GdjMsWYTZm5nAC38qFC2tzD9Ylz0NdaXZAw4dF2QdzQAObagjvD24s8cMghKG5DOEbhKwg146gj/Xdz7BClZFpQl9On7bNF/lYNK7WQ7f8wRcHu+E6sbjlcN7rXphCFBjDBSVermowhNdsUXSX8QrI1Ej3Ht+GD0GU+RH1FhijCd8UZC3nN/fiCYr6McyAVyXueYLhvz/BogiP7pkfpbIZCDoYyZsKe3SVHO245V8MuZfgrbWW1HF8kLqfKsqQYMKgIoAct/TR3RRXnfMKudQAr7WFUfh94+TEuQcNdYxJGuIzMsIkbrVMF5YEWw3zKzd0oiPkjfmH0/ebfh/OsnkW95eJnX7E1Ps6zWYxWCsYpT7xo/wXpaRQlF7qkkab91+fnh+ZUQigZWn15d80fRcacr5WCxnjvVFDNQRRUuxHwEWGObTetqv2nyFR98iiA7FaSGOptmz3IHGlD24aa9WFJGAEKpkk4M1N1LS3+LzKqxf0idD6O8wU= omar@jarvis
+```
+
