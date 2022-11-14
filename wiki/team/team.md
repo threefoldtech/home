@@ -1,9 +1,3 @@
-<style>
-img[alt=img] { width: 200px; }
-td, th {
-   border: none!important;
-}
-</style>
 
 # ThreeFold Related Engineering Team 
 
@@ -57,3 +51,9 @@ td, th {
 
 > TODO
 
+<style>
+img[alt=img] { width: 200px; }
+td, th {
+   border: none!important;
+}
+</style>
