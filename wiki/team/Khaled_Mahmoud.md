@@ -12,7 +12,7 @@
 - my active engineering/content tasks
   - [tfgrid](https://github.com/orgs/threefoldtech/projects/172)
 - location: Cairo
-- reports_to: Ahmed Thabet
+- reports_to: Ramez Saeed
 
 - telegram: @khaledgx24 
 - github: @khaledyoussef24
