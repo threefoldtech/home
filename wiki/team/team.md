@@ -31,6 +31,7 @@
         - [Mohamed Amer](mohamed_amer.md) : Software Test Engineer 
         - [Ahmed Harby](ahmed_harby.md) : Software Test Engineer
         - [Khaled Mahmoud](Khaled_Mahmoud.md) : Software Test Engineer
+    - [Sabrina Sadik](sabrina.md) : Support & Operations Lead
 - FreeFlow Twin
     - [Jonas](jonas_delrue.md) : Product Manager Jimber (TF-Connect / Digitaltwin / Kutana / Wallet)
     - [Lennert](lennert_defauw.md) : jimber developer
