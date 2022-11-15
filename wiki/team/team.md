@@ -38,5 +38,6 @@
     - [Timur](timurgordon.md) : Software Engineer
 - Websites / Content Management
     - [Ehab](ehab_hassan.md) : UI developer/Graphic Designer
+    - [Samar](samar_adel.md) : UI developer
     - [Sasha](sasha_astiadi.md) : Product Scrum / Web & Wiki Content Manager
 
