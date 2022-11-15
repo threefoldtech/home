@@ -1,4 +1,4 @@
-# ThreeFold Grid v3.8 Release Note
+# ThreeFold Grid v3.8 Release Note (Candidate until officially released)
 
 
 
