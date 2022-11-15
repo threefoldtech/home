@@ -19,4 +19,4 @@
 - GitHub : @delandtj
 - Email  : jan@incubaid.com
 - 3bot   : delandtj.3bot
-- sshkey :  `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKQR7vLf30BOux/Zs80AvdShkVPwNfosUxP5Vg0hL3P3 delandtj@Chui`
+- sshkey :  `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMTygWw4n12EXEIu3nhiCzwDYF7NjAvRNd49wXxBT3af jan@delandtsheer.eu`
