@@ -1,4 +1,4 @@
-## Kristof
+## Rob
 
 
 <img src="img/rob.jpeg" alt="photo Rob" width=200px />
@@ -8,7 +8,11 @@
   - Blockchain
   - Tech architect
 - my active engineering/content tasks
-  - [TFT on Polygon](https://github.com/threefoldfoundation/tft)
+  - [tfgrid](https://github.com/orgs/threefoldtech/projects/172/views/13?filterQuery=-status%3A%22%E2%9C%85+Done%22+assignee%3Arobvanmieghem)
+  - [freeflow](https://github.com/orgs/freeflowuniverse/projects/3/views/8?filterQuery=-status%3A%22%E2%9C%85+Done%22+assignee%3Arobvanmieghem)
+  - [foundation](https://github.com/orgs/threefoldfoundation/projects/80/views/7?filterQuery=-status%3A%22%E2%9C%85+Done%22+assignee%3Arobvanmieghem)
+  - Detail
+      - [TFT on Polygon](https://github.com/threefoldfoundation/tft)
 - active products
   - [TFT on Stellar](https://github.com/threefoldfoundation/tft-stellar)
   - [TFT on Polygon](https://github.com/threefoldfoundation/tft)
