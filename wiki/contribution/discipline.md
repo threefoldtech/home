@@ -21,7 +21,7 @@ To create a reliable product discipline is very important.
     - we have all stories we own properly defined and linked with proper label type_story and linked in right project
     - we follow up on our stories we own and make sure that the issues linked to it are in the relevant project, specified, ...
     - we respect our deadlines, if we can't make it we escalate
-- if we own a product we have our ownership well defined in [components list](wiki/components/components_overview.md) 
+- if we own a product we have our ownership well defined in [components list](https://github.com/threefoldtech/home/blob/master/wiki/components/components_overview.md) 
 - collaboration is not taken lightly
     - we think before we do, we read before we run, we make sure we understand, if we don't we ask for help or clarifications
     - we are part of a company, when there are company meetings or meetings important for our work we are there, if not we have a good reason and will listen to the zoom
