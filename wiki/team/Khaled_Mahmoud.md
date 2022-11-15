@@ -1,5 +1,19 @@
 ## Khaled Mahmoud
 
+<img src="img/khaled.jpg" alt="img" width=200px />
+
+
+- specialities/skills
+  - python
+  - go (terratests)
+  - cypress
+  - manual testing
+  - automation testing
+- my active engineering/content tasks
+  - [tfgrid](https://github.com/orgs/threefoldtech/projects/172)
+- location: Cairo
+- reports_to: Ahmed Thabet
+
 - telegram: @khaledgx24 
 - github: @khaledyoussef24
 - email: mahmoudk@incubaid.com
