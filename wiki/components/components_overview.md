@@ -5,7 +5,9 @@
 our base operating system
 
 * [Zero-OS](https://github.com/threefoldtech/zos): our low level operating system
-* [0-fs](https://github.com/threefoldtech/0-fs): The storage layer of our container technology.
+* 0-fs: The storage layer of our container technology.
+  * [rust implementation](https://github.com/threefoldtech/rfs)
+  * [go implemetation](https://github.com/threefoldtech/0-fs)
 * [0-initramfs](https://github.com/threefoldtech/0-initramfs): All that is needed to build the Zero-OS-kernel and initramfs to start root filesystem
 * [0-bootstrap](https://github.com/threefoldtech/0-bootstrap): This web service provides dynamic construction of iPXE scripts for booting and bootstrapping Zero-OS kernel images
 * [0-hub](https://github.com/threefoldtech/0-hub): Everything needed to serve, upload, merge, and manage flists, as well as convert docker images to flists
