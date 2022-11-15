@@ -1,4 +1,4 @@
-## Kristof
+## Lee
 
 
 <img src="img/lee.jpg" alt="image of lee" width=200px />
