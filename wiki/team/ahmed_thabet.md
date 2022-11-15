@@ -1,5 +1,18 @@
 ## Ahmed Thabet
 
+<img src="img/ahmed_thabet.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - python
+  - go
+  - documentation
+  - tech architect
+- my active engineering/content tasks
+  - [tfgrid](https://github.com/orgs/threefoldtech/projects/172)
+- location: Cairo
+- reports_to: Kristof
+
+
 - telegram: @xmonader 
 - github: @xmonader
 - email: thabeta@incubaid.com

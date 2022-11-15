@@ -1,5 +1,26 @@
 ## Amira Abouhadid
 
+
+<img src="img/amira.jpeg" alt="img" width=200px />
+
+- specialities/skills
+
+  - Typescript/ Javascript
+  - Golang
+  - Python
+  - Ruby
+  - Java
+  - Rust
+
+- my active engineering/content tasks
+  - [Polygon Bridge](https://github.com/threefoldfoundation/tft/projects/12)
+  - [TFGrid Weblets](https://github.com/threefoldtech/grid_weblets)
+  - [TFGrid Dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
+- location: Egypt
+- reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
+
+
+
 - telegram: @slayerprincessmetal
 - github: @amiraabouhadid
 - email: alia@incubaid.com

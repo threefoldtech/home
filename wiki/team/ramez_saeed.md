@@ -1,5 +1,18 @@
 ## Ramez Saeed
 
+<img src="img/Ramez2.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Software Testing.
+  - Test Automation.
+  - Python.
+- my active engineering/content tasks
+  - tfgrid testing.
+  - Bug Assessments.
+- location: Egypt
+- reports_to: Reem Khamis
+
+
 - telegram: @ramez_saeed 
 - github: @ramezsaeed
 - email: saeedr@incubaid.com

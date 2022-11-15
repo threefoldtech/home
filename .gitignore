@@ -5,10 +5,11 @@ examples/texttools
 examples/gittools
 examples/tmux
 examples/vredis2
-*dSYM/
 publisher/publish
 install_publisher
+*dSYM/
 .vmodules/
 vex_webserver
-publishtools/publishtools
 .vscode
+
+publishtools/publishtools

@@ -1,4 +1,22 @@
 ## Omar Kassem
+
+<img src="img/kassem.jpg" alt="img" width=200px />
+
+- specialities/skills
+
+  - JavaScript
+  - TypeScript
+  - C++
+  - Python
+
+- my active engineering/content tasks
+  - [grid_weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
+- active products
+  - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
+- location: Egypt
+- reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
+
+
 - telegram: @[o0M4R](https://t.me/o0M4R)
 - github: @[0oM4R](https://github.com/0oM4R)
 - email: omarkassem099@gmail.com

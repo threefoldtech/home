@@ -1,5 +1,21 @@
 ## Kristof
 
+
+<img src="img/rob.jpeg" alt="photo Rob" width=200px />
+
+- specialities
+  - Golang
+  - Blockchain
+  - Tech architect
+- my active engineering/content tasks
+  - [TFT on Polygon](https://github.com/threefoldfoundation/tft)
+- active products
+  - [TFT on Stellar](https://github.com/threefoldfoundation/tft-stellar)
+  - [TFT on Polygon](https://github.com/threefoldfoundation/tft)
+- location: Belgium
+- reports_to: Kristof
+
+
 - telegram: @robvanmieghem
 - github: @robvanmieghem
 - email: robf@threefold.tech 

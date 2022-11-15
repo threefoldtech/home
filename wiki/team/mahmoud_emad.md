@@ -1,5 +1,19 @@
 ## Mahmoud Emad
 
+<img src="img/mahmmoud.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Golang
+  - Vlang
+  - Javascript
+  - Python
+- my active engineering/content tasks
+  - [weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
+  - [crystallib](https://github.com/orgs/freeflowuniverse/projects/3)
+- location: Egypt
+- reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
+
+
 - telegram: @mahmoud_emmad
 - github: @Mahmoud-Emad
 - email: @emadm@incubaid.com

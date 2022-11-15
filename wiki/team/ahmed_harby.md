@@ -1,5 +1,19 @@
 ## Ahmed Harby
 
+
+<img src="img/Ahmed_Harby.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Python
+  - Selenium, Cypress JS/TS.
+  - Test Automation.
+  - Software Testing.
+- my active engineering/content tasks
+  - [TFDashboard](https://github.com/threefoldtech/tfgrid_dashboard/tree/development/tests/frontend_selenium) test automation.
+  - tfgrid testing, verification & automation.
+- location: Egypt
+- reports_to: Ramez Saeed
+
 - telegram: @Ahmed_Saleh_Harby 
 - github: @A-Harby
 - email: harbya@incubaid.com

@@ -1,5 +1,26 @@
 ## Kristof
 
+
+<img src="img/timurgordon.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - communicating tech
+  - learning and teaching
+  - interested in architectture
+  - vlang
+  - web development
+- my active engineering/content tasks
+  - [freeflow](https://github.com/orgs/freeflowuniverse/projects/3/views/8?filterQuery=-status%3A%22%E2%9C%85+Done%22+assignee%3Atimurgordon)
+- active products
+  - web templates and static sites
+  - web publishing tools
+  - ui framework using htmx and vweb
+  - dao user interface
+  - threefold publishing user interface
+  - [crystallib](https://github.com/freeflowuniverse/crystallib) (generic library for vlang)
+- location: Zanzibar / Istanbul
+- reports_to: Kristof
+
 - telegram: @timurgordon
 - github: @timurgordon
 - email: timur@threefold.io

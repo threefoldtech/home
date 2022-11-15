@@ -1,5 +1,19 @@
 ## Mohamed Amer
 
+
+<img src="img/mohamed_amer.jpg" alt="img" width=200px />
+
+- specialities/skills
+  - Software Testing.
+  - Test Automation.
+  - Javascript.
+  - Python.
+- my active engineering/content tasks
+  - tfgrid testing, verification & automation.
+  - documentation.
+- location: Egypt
+- reports_to: Ramez Saeed
+
 - telegram: @Mohamedamer45
 - github: @mohamedamer453
 - email: amerm@incubaid.com
