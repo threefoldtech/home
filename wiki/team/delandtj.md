@@ -1,5 +1,7 @@
 # Jan De Landtsheer
 
+<img src="img/delandtj.jpg" alt="img" width=250px />
+
 - Specialities
   - OSes, networking, storage
   - hosting and sysem integrations
