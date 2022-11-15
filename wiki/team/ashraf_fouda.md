@@ -10,14 +10,14 @@
   - Golang
 - my active engineering/content tasks
   - [terrafrom-provider-grid](https://github.com/orgs/threefoldtech/projects/172/views/16)
-  - [tfgrid_dashboard](https://github.com/orgs/threefoldtech/projects/172/views/7)
+  - [grid_weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
 - active products
   - [terraform-provider-grid](https://github.com/threefoldtech/terraform-provider-grid)
   - [rmb-rs](https://github.com/threefoldtech/rmb-rs)
   - [zor-rs](https://github.com/threefoldtech/zos-rs)
+  - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
 - location: Egypt
 - reports_to: Thabet
-
 
 - telegram: @ashraffouda
 - github: @ashraffouda
