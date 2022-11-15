@@ -13,6 +13,9 @@
   - [zos](https://github.com/orgs/threefoldtech/projects/172/views/5)
 - active products
   - [zos](https://github.com/threefoldtech/zos)
+  - 0-fs
+    - [rust](https://github.com/threefoldtech/rfs)
+    - [go](https://github.com/threefoldtech/0-fs)
   - [rmb-rs](https://github.com/threefoldtech/rmb-rs)
   - [zinit](https://github.com/threefoldtech/zinit)
   - [cloud-container](https://github.com/threefoldtech/cloud-container)
