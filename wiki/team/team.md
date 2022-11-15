@@ -35,6 +35,7 @@
 - FreeFlow Twin
     - [Jonas](jonas_delrue.md) : Product Manager Jimber (TF-Connect / Digitaltwin / Kutana / Wallet)
     - [Lennert](lennert_defauw.md) : jimber developer
+    - [Joris Basslé](joris_bassle.md) : jimber developer
 - FreeFlow / protocol.me
     - [Timur](timurgordon.md) : Software Engineer
 - Websites / Content Management
