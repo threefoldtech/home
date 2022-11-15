@@ -6,7 +6,7 @@
     - [Kristof](despiegk.md) : CTO/Architect
 - TFGrid / ZOS
     - [Rob Van Mieghem](vmieghemr.md)  : Software Engineer / Architect
-    - jan todo ...
+    - [Jan De Landtsheer](delandtj.md)
     - [Ahmed Thabet](ahmed_thabet.md) : Development Lead
         - [Rawda Gastan](rawda_gastan.md) : Software Engineer (dashboard, weblets, tfgrid client)
         - [Ashraf Fouda](ashraf_fouda.md) : Software Engineer (rmb, zos-rs, terraform, dashboard)
