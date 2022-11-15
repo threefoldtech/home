@@ -9,7 +9,7 @@
   - Javascript
   - Blockchain
 - my active engineering/content tasks
-  - [tfchain](https://github.com/orgs/threefoldtech/projects/172/views/9)
+  - [tfchain](https://github.com/orgs/threefoldtech/projects/172/views/13?filterQuery=assignee%3ADylanVerstraete+)
 - active products
   - [tfchain](https://github.com/threefoldtech/tfchain)
   - [tfchain_graphql](https://github.com/threefoldtech/tfchain_graphql)
