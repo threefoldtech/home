@@ -9,6 +9,7 @@
   - Software Design
   - Operating Systems
 - my active engineering/content tasks
+  - [tasks](https://github.com/orgs/threefoldtech/projects/172/views/13?filterQuery=assignee%3Amuhamadazmy)
   - [zos](https://github.com/orgs/threefoldtech/projects/172/views/5)
 - active products
   - [zos](https://github.com/threefoldtech/zos)
