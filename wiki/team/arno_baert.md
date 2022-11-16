@@ -6,7 +6,7 @@
 
 - Specialities/skills
   - UI/UX Design
-  - TypeScript / Javascript / Vue3 / NodeJS
+  - TypeScript / Javascript / Vue3 / Prisma
   - Dart / Flutter
 - My active engineering/content tasks
   - [ThreeFold Mobile App](https://github.com/threefoldtech/threefold_connect)
