@@ -2,7 +2,7 @@
 
 ###  QA + Functional analyst Jimber
 
-<img src="img/ken.jpg" alt="img" width=200px />
+<img src="img/kenfoto.jpg" alt="img" width=200px />
 
 - Specialities/skills
   - QA
