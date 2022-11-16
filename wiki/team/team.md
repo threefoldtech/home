@@ -35,6 +35,7 @@
 - FreeFlow Twin + TF Connect
     - [Jonas](jonas_delrue.md) : Technical Product Manager Jimber (TF-Connect / Digitaltwin / Kutana / Wallet)
     - [Ken De Moor](ken_de_moor.md) : Functional analyst + QA Jimber
+    - [Arno Baert](arno_baert.md) : UI/UX designer + Frontend developer
     - [Lennert](lennert_defauw.md) : jimber developer
     - [Joris Basslé](joris_bassle.md) : jimber developer
 - FreeFlow / protocol.me
