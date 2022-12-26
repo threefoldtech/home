@@ -24,3 +24,7 @@
 - [TF Blog Template](https://github.com/threefoldfoundation/blog_example)
 - [TF Wiki / Knowledgebase Template](https://github.com/threefoldfoundation/wiki_example)
 - [TF Gridsome Website Template](https://github.com/threefoldfoundation/www_examplesite)
+
+
+## Team
+The current team information can be found [here](./wiki/team/team.md)
