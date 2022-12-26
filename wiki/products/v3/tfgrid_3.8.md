@@ -13,30 +13,42 @@
 - gridproxy 1.6.5
 - terraform 1.6.0
 
-This release will be mainly around the power management and capacity planning, and more solutions on the threefold grid.
+This release will be for bugfixes and monitoring improvement and more solutions on the threefold grid.
 
 ### tfchain 2.2.0
 - 3rd party billing services
-- power management over the tfchain
-- capacity planning over the tfchain
+- only allow blockcreators to set prices
+- allow next authority to create billing extrinsics
+- fire billing on validators creating blocks
+- improve ip validation
+- reworking migrations
+- billing flow been reworked https://github.com/threefoldtech/tfchain/issues/269
 - Setting node certification via council
+
+https://github.com/threefoldtech/tfchain/milestone/8
 
 for more information, please check [2.2.0 milestone](https://github.com/threefoldtech/tfchain/milestone/8)
 
 ### zos 3.4
-- power management in zos
 - dhcpd replacement for udhcpd
 - fixes incorrect nodes reports
 - update cloudehypervisor to latest
 - fixes nodes not recovering from network outages
 - fixes sudden panic while sending uptime reports
-- handling power events from the grid
+- vector and node-exporter support for monitoring
+- graceperiod workload regression fixes
+- ugprading yggdrasil to 0.4.7
+- improved the capacity reporting 
+- fixes for network workload updates failure
+- fixes for nodes not recovering from network outage
+- qsfs decomission cleanup
+- uptime reports to happen every 40 minutes instead of evey 2 hours
 
 [3.4 milestone](https://github.com/threefoldtech/zos/milestone/11) for more details
 
 ### Weblets 1.6.0
 - Algorand solution support
-- QVM: quantum storage enabled VM solution
+- Supporting a simpler profile manager
 - Mastodon support
 - Discourse upgrade
 - Various bugfixes and UI [improvements](https://github.com/orgs/threefoldtech/projects/172/views/6)
@@ -50,11 +62,11 @@ for more details, see [1.6.0 milestone](https://github.com/threefoldtech/grid_we
 - fixes adding new farm in the dashboard redirects you to the home page
 - node filters validations fix
 - filter nodes by farm name support
+- including monitoring dashboard 
 
 for more details, see [1.3.0 milestone](https://github.com/threefoldtech/tfgrid_dashboard/milestone/12)
 
 ### Grid client 1.5.0
-- capacity planning upgrade
 - zlogs workload support
 - documentation updates
 
