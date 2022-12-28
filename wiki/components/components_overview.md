@@ -1,5 +1,7 @@
 ## overview components
 
+Current grid owner: xmonader
+
 ### Zero-OS
 
 our base operating system
@@ -21,7 +23,7 @@ our base operating system
 * planetary network: https://github.com/threefoldtech/Planetary-Network
 * https://github.com/threefoldtech/zinit = init for Zero-OS
 
-- Owner: azmy
+Owner: azmy
 
 
 ### TFChain
@@ -70,10 +72,9 @@ Owners: azmy
 - https://github.com/threefoldtech/3bot_wallet: a stellar wallet (there are many more stellar wallets out there)
 - tools for our planetary wan: https://github.com/threefoldtech/yggdrasil-desktop-client
 
-Owner: Jonas
+Owners: Jonas
 
 
-Current grid owner: xmonader
 
 
 ## FreeFlow Tools & Protocol.Me
