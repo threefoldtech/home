@@ -16,33 +16,21 @@
 This release will be for bugfixes and monitoring improvement and more solutions on the threefold grid.
 
 ### tfchain 2.2.0
-- 3rd party billing services
-- only allow blockcreators to set prices
-- allow next authority to create billing extrinsics
-- fire billing on validators creating blocks
-- improve ip validation
-- reworking migrations
+- [3rd party billing services](https://github.com/threefoldtech/tfchain/blob/12bc8842c7c321d22e36667a91dfc5d3c7d04ab8/substrate-node/pallets/pallet-smart-contract/service_consumer_contract_flow.md), allowing defining contracts between tfchain users for a service and the billing
 - billing flow been reworked https://github.com/threefoldtech/tfchain/issues/269
-- Setting node certification via council
-
-https://github.com/threefoldtech/tfchain/milestone/8
+- Infrastructure wise, we integrated firesquid which is showing promising improvements in regards of the storage and data syncing
+Also, there were bugfixes around data validations and improving migrations and more you can follow in the [milestone](https://github.com/threefoldtech/tfchain/milestone/8) 
 
 for more information, please check [2.2.0 milestone](https://github.com/threefoldtech/tfchain/milestone/8)
 
 ### zos 3.4
-- dhcpd replacement for udhcpd
-- fixes incorrect nodes reports
-- update cloudehypervisor to latest
-- fixes nodes not recovering from network outages
-- fixes sudden panic while sending uptime reports
-- vector and node-exporter support for monitoring
+This realease was mainly focused on stabilization of zos, monitoring support, upgrading components and fixing bugs 
+- vector and node-exporter support for [monitoring](https://metrics.grid.tf/) 
+- bugfixes/hardening around uptime reports, capacity reports and qsfs workloads cleanup
+- fixes graceperiod regression
+- fixes for zos nodes recovery after network outages
+- uptime reports now happen every 40 minutes instead of evey 2 hours
 - graceperiod workload regression fixes
-- ugprading yggdrasil to 0.4.7
-- improved the capacity reporting 
-- fixes for network workload updates failure
-- fixes for nodes not recovering from network outage
-- qsfs decomission cleanup
-- uptime reports to happen every 40 minutes instead of evey 2 hours
 
 [3.4 milestone](https://github.com/threefoldtech/zos/milestone/11) for more details
 
@@ -54,6 +42,7 @@ for more information, please check [2.2.0 milestone](https://github.com/threefol
 - Various bugfixes and UI [improvements](https://github.com/orgs/threefoldtech/projects/172/views/6)
 
 for more details, see [1.6.0 milestone](https://github.com/threefoldtech/grid_weblets/milestone/10)
+
 ### Dashboard 1.3.0
 - fixes borken filters by farm Id 
 - fixes HRU filter
@@ -77,7 +66,6 @@ for more details, see [1.3.0 milestone](https://github.com/threefoldtech/tfgrid_
 - kubernetes token validation
 
 [1.6.0 milestone](https://github.com/threefoldtech/terraform-provider-grid/milestone/6)
-
 
 
 For detailed list of the 3.8 https://github.com/orgs/threefoldtech/projects/172
