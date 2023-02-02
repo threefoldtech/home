@@ -4,7 +4,6 @@
 
 ## TFGrid 3.8 components
 
-> TODO: to be created
 - tfchain 2.2.0
 - zos 3.4
 - weblets 1.6.0
