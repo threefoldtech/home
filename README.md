@@ -10,11 +10,12 @@
 ### Releases
 
 - [Released: TFGrid v3.7.0](https://library.threefold.me/info/manual/#/manual__tfgrid_release_3_7_0)
-- [Dev/Testnet: TFGrid v3.8.0](https://github.com/orgs/threefoldtech/projects/172)
+- [Dev/Testnet: TFGrid v3.8.0](https://github.com/orgs/threefoldtech/projects/194)
     - [3.8 release notes](wiki/products/v3/tfgrid_3.8.md)
 
 > TODO: finish 3.8.0 release notes which list the components in line 3.8.0
 
+There is also an [overview of the  environments and the deployed components](https://github.com/orgs/threefoldtech/projects/176/views/1).
 
 ## Other Components
   
