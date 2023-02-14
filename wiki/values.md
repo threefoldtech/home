@@ -20,8 +20,7 @@ values we hold as a team:
     personally. Consider other people’s perspectives. Empathize with our users. Focus on the specific
     issue at hand, and remember that we all care about the project, first and
     foremost.
-  - [GitHub issues](https://github.com/threefoldtech/js-sdk/issues/new),
-    document comments, or meetings are often better and higher bandwidth ways to
+  - GitHub issues, comments, or meetings are often better and higher bandwidth ways to
     communicate complex and nuanced design issues, as opposed to protracted
     heated live chats.
   - Be mindful of the terminology you are using, it may not be the same as
