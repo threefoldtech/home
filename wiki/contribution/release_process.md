@@ -24,11 +24,12 @@
 
 ### Branching/Tagging
 
+- As mentioned above, releases should should follow semantic versioning. The tag itself is prefixed with a `v`. so vx.y.z or vx.y.z-rc1
 - Devnet(s) should host development branches and once it reaches a specific quality they get verified on that branch
     - THIS IS NOT TRUE: it can be that on a dev net you have production components
 - Once verification happens and everything goes ok, we should tag a release of a component
 - Once all components are ready a grid release is complete and we can host that release on whatever environment
-
+- Container image tags must not contain the `v`-prefix
 
 ### Blocking Bugfixes for mainnet
 
