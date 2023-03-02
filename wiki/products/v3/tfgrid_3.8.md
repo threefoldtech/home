@@ -1,11 +1,11 @@
-# ThreeFold Grid v3.8 Release Note (Candidate until officially released)
+# ThreeFold Grid v3.8 Release Note
 
 
 
 ## TFGrid 3.8 components
 
 - tfchain 2.2.0
-- zos 3.4
+- zos 3.5
 - weblets 1.6.0
 - dashboard 1.3.0
 - gridclient 1.5.0
@@ -22,7 +22,7 @@ Also, there were bugfixes around data validations and improving migrations and m
 
 for more information, please check [2.2.0 milestone](https://github.com/threefoldtech/tfchain/milestone/8)
 
-### zos 3.4
+### zos 3.5
 This realease was mainly focused on stabilization of zos, monitoring support, upgrading components and fixing bugs 
 - vector and node-exporter support for [monitoring](https://metrics.grid.tf/) 
 - bugfixes/hardening around uptime reports, capacity reports and qsfs workloads cleanup
