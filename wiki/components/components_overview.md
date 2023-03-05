@@ -27,6 +27,7 @@ Owner: azmy
 
 
 ### TFChain
+
 - https://github.com/threefoldtech/tfchain : our blockchain for TFGrid 3.0
 - https://github.com/threefoldtech/tfchain_client : rust based client for TFChain
 - https://github.com/threefoldtech/tfchain_tft_bridge : bridge between stellar and TFChain 
@@ -57,10 +58,10 @@ Owners: xmonader, hanafy
 
 Owners: azmy
 
-
-### Blockchain(Stellar)
-
 ### TFConnect
+
+Our mobile app, network overlay and identity management
+
 - https://github.com/threefoldtech/flutter-pkid-client flutter client for identity layer
 - https://github.com/threefoldtech/wallet-next : next generation wallet for multichain (part of TFConnect)
 - https://github.com/threefoldtech/threefold_wallet : current wallet
@@ -72,30 +73,5 @@ Owners: azmy
 - https://github.com/threefoldtech/3bot_wallet: a stellar wallet (there are many more stellar wallets out there)
 - tools for our planetary wan: https://github.com/threefoldtech/yggdrasil-desktop-client
 
-Owners: Jonas
+Owners: Xmonader
 
-
-
-
-## FreeFlow Tools & Protocol.Me
-
-Owner: Kristof
-
-> TODO: link to similar page on FreeFlow Universe Account
-
-e.g. 
-
-- [BCDB Server](https://github.com/threefoldtech/bcdb): the blockchain database lives on top of ZDB & Zero-Stor (needs refresh)
-
-
-## FreeFlow Twin
-
-Owner: Ken
-
-> TODO: link to similar page on FreeFlow Universe Account
-
-## Metaverse
-
-Owner: TBD
-
-> TODO: link to similar page on Metaverse Account (which is this account)
