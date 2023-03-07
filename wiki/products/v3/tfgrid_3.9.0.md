@@ -14,7 +14,6 @@ This release is mainly around power management/capacity planning orchestrated by
 - terraform 1.8.0
 - rmb-rs 1.0.2
 
-This release will be for bugfixes and monitoring improvement and more solutions on the threefold grid.
 
 ### tfchain 2.3.0
 - Fix locked balances
