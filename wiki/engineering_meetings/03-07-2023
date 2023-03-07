@@ -1,0 +1,26 @@
+## Attendees
+
+- Azmy
+- Ahmed
+- Dylan
+- Lee
+- Hanafy 
+- Brandon
+- Rob
+
+## Absent:
+- Jan
+- Reem
+
+
+## Agenda
+
+3.9.0 
+- Umbrel support done 
+- Remove the confusion between solution provider, sales channel, 3rd party billing still suck with names (solution provider and service provider? ) offload to weynand
+- RMB-relay / Solutions update to use the relay (terraform is done, typescript/dashboard, playground are in progress)
+- Farmerbot 
+- Docker compose deployment of the grid
+- Qsfs testing / docs are in progress 
+- Release mgmt & components versions https://github.com/threefoldtech/home/commit/1f355ebf8e47aeb42ac9186e0843d964dd9152b5
+- Jimber update
