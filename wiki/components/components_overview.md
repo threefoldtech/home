@@ -2,6 +2,8 @@
 
 Current grid owner: xmonader
 
+> TODO: need to define all components in this dir
+
 ### Zero-OS
 
 our base operating system

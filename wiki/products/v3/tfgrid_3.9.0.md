@@ -1,5 +1,7 @@
 # ThreeFold Grid v3.9 Release Note
 
+> TODO: when do we release?
+
 This release is mainly around power management/capacity planning orchestrated by the farmerbot based on Wake-on Lan (WOL) and the reliable message bus (RMB) and the toolings update to utilize both.
 
 ## TFGrid 3.9 components
