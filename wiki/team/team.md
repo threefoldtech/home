@@ -13,7 +13,7 @@
         - [Mario Bassem](mariobassem.md) : Software Engineer (rmb, terraform, gridproxy)
     - [Ahmed Hanafy](ahmed_hanafy.md) teamlead + software engineer
         - [Sameh Farouk](sameh_farouk.md) : Software Engineer (taiga, ipfs grid, rmb, weblets, crystallib)
-        - [Mahmoud Emad](mahmoud_emad.md) : Software Engineer (weblets, crystallib)
+        - [Mahmoud Emad](mahmoud_emad.md) : Software Engineer (weblets, grid dashboard, crystallib)
         - [Omar Abdulaziz](omar_abdulaziz.md) : Software Engineer (weblets, grid dashboard, grid proxy)
         - [Amira Abouhadid](amira_abouhadid.md) : Software Engineer (weblets, grid dashboard, polygon bridge)
         - [Mayar Osama](mayar_osama.md) : Software Engineer (weblets, grid dashboard, tfstats)
