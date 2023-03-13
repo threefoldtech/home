@@ -20,6 +20,7 @@
         - [Zainab Elgohary](zainab_elgohary.md) : Software Engineer (weblets, grid dashboard, tfstats)
         - [Mohamed Rabie](mohamed_rabie.md) : Software Engineer (grid dashboard, weblets, profile manager, tfgrid client)
         - [Omar Kassem](omarKassem.md) : Software Engineer (weblets)
+        - [Ali Chaddad](ali_chaddad.md): Software Engineer (grid dashboard, weblets)
     - [Muhamad Azmy](azmy.md) : Software Engineer ZOS
     - [Lee](lee.md) : Research
 - TFChain & Other Blockchain Related Engineering
