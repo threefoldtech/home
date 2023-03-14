@@ -7,10 +7,11 @@
 - TFGrid / ZOS
     - [Rob Van Mieghem](vmieghemr.md)  : Software Engineer / Architect
     - [Jan De Landtsheer](delandtj.md)
+    - [Reem Khamis](reem_khamis.md): Team Lead
     - [Ahmed Thabet](ahmed_thabet.md) : Development Lead
-        - [Rawda Gastan](rawda_gastan.md) : Software Engineer (dashboard, weblets, tfgrid client)
         - [Ashraf Fouda](ashraf_fouda.md) : Software Engineer (rmb, zos-rs, terraform, dashboard)
         - [Mario Bassem](mariobassem.md) : Software Engineer (rmb, terraform, gridproxy)
+        - [Rawda Gastan](rawda_gastan.md) : Software Engineer (dashboard, weblets, tfgrid client)
     - [Ahmed Hanafy](ahmed_hanafy.md) teamlead + software engineer
         - [Sameh Farouk](sameh_farouk.md) : Software Engineer (taiga, ipfs grid, rmb, weblets, crystallib)
         - [Mahmoud Emad](mahmoud_emad.md) : Software Engineer (weblets, grid dashboard, crystallib)
@@ -33,12 +34,16 @@
         - [Ahmed Harby](ahmed_harby.md) : Software Test Engineer
         - [Khaled Mahmoud](Khaled_Mahmoud.md) : Software Test Engineer
     - [Sabrina Sadik](sabrina.md) : Support & Operations Lead
-- FreeFlow Twin + TF Connect
+        - [Bert Coesens](coesens_bert.md)
+        - [Samir Hosny](samir_hosny.md)
+        - [Peter Naashat](peter_nashaat.md)
+<!--- FreeFlow Twin + TF Connect
     - [Jonas](jonas_delrue.md) : Technical Product Manager Jimber (TF-Connect / Digitaltwin / Kutana / Wallet)
         - [Ken De Moor](ken_de_moor.md) : Functional analyst + QA Jimber
         - [Arno Baert](arno_baert.md) : UI/UX designer + Frontend developer
         - [Lennert](lennert_defauw.md) : jimber developer
         - [Joris Basslé](joris_bassle.md) : jimber developer
+!-->
 - FreeFlow / protocol.me
     - [Timur](timurgordon.md) : Software Engineer
     - [Jonathan](jonathan_ouwerx.md) : Software Engineer
