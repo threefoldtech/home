@@ -37,6 +37,7 @@
         - [Bert Coesens](coesens_bert.md)
         - [Samir Hosny](samir_hosny.md)
         - [Peter Naashat](peter_nashaat.md)
+        - [Atef Nazmy](atef_nazmy.md) 
 <!--- FreeFlow Twin + TF Connect
     - [Jonas](jonas_delrue.md) : Technical Product Manager Jimber (TF-Connect / Digitaltwin / Kutana / Wallet)
         - [Ken De Moor](ken_de_moor.md) : Functional analyst + QA Jimber
