@@ -24,6 +24,7 @@
         - [Ali Chaddad](ali_chaddad.md): Software Engineer (grid dashboard, weblets)
     - [Muhamad Azmy](azmy.md) : Software Engineer ZOS
     - [Lee](lee.md) : Research
+    - [Maxime Daniel](maxime_daniel.md): Software Engineer
 - TFChain & Other Blockchain Related Engineering
     - [Erwan Renaut](erwan.md)         : Software Engineer
     - [Dylan Verstraete](dylan.md)     : Software Engineer
@@ -34,10 +35,10 @@
         - [Ahmed Harby](ahmed_harby.md) : Software Test Engineer
         - [Khaled Mahmoud](Khaled_Mahmoud.md) : Software Test Engineer
     - [Sabrina Sadik](sabrina.md) : Support & Operations Lead
-        - [Bert Coesens](coesens_bert.md)
-        - [Samir Hosny](samir_hosny.md)
-        - [Peter Naashat](peter_nashaat.md)
-        - [Atef Nazmy](atef_nazmy.md) 
+        - [Bert Coesens](coesens_bert.md): Operations Engineer
+        - [Samir Hosny](samir_hosny.md): Operations Engineer
+        - [Peter Naashat](peter_nashaat.md): Operations Engineer
+        - [Atef Nazmy](atef_nazmy.md): Internal IT
 <!--- FreeFlow Twin + TF Connect
     - [Jonas](jonas_delrue.md) : Technical Product Manager Jimber (TF-Connect / Digitaltwin / Kutana / Wallet)
         - [Ken De Moor](ken_de_moor.md) : Functional analyst + QA Jimber
