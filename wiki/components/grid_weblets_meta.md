@@ -9,7 +9,7 @@
  issues_url:'https://github.com/threefoldtech/grid_weblets/issues'
 
 !!product.meta.component.release name:grid_weblets
-    version:2.0.0
+    version:1.7.0
  giturl:'https://github.com/threefoldtech/grid_weblets'
  issues_url:'https://github.com/threefoldtech/grid_weblets/milestone/9'
  planning_url:'https://github.com/orgs/threefoldtech/projects/172'

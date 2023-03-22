@@ -9,7 +9,7 @@
  issues_url:'https://github.com/threefoldtech/tfgridclient_proxy/issues'
 
 !!product.meta.component.release name:gridproxy
-    version:2.0.0
+    version:1.7.0
  giturl:'https://github.com/threefoldtech/tfgridclient_proxy'
  issues_url:'https://github.com/threefoldtech/tfgridclient_proxy/milestone/6'
  planning_url:'https://github.com/orgs/threefoldtech/projects/172'

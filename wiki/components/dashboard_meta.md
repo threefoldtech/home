@@ -9,7 +9,7 @@
  issues_url:'https://github.com/threefoldtech/tfgrid_dashboard/issues'
 
 !!product.meta.component.release name:dashboard
-    version:2.0.0
+    version:1.4.0
  giturl:'https://github.com/threefoldtech/tfgrid_dashboard'
  issues_url:'https://github.com/threefoldtech/tfgrid_dashboard/milestone/13'
  planning_url:'https://github.com/orgs/threefoldtech/projects/172'
