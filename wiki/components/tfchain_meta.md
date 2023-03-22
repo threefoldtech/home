@@ -3,7 +3,7 @@ remark:''
 description:'threefold chain'
 coordinator:'dylan@incubaid.com'
 architects:'dylan@incubaid.com'
-contributors:'dylan@incubaid.com,erwan@incubaid.com,brandon@incubaid.com'
+contributors:'dylan@incubaid.com,renaute@incubaid.com,brandon@incubaid.com'
 giturl:'git@github.com:threefoldtech/tfchain'
 issues_url:'https://github.com/threefoldtech/tfchain'
 
