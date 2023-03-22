@@ -11,9 +11,9 @@ This release is mainly around power management/capacity planning orchestrated by
 - farmerbot 1.0.0
 - weblets 1.7.0
 - dashboard 1.4.0
-- gridclient 1.5.3
+- gridclient 2.0.0
 - gridproxy 1.7.0
-- terraform 1.8.0
+- terraform 1.8.x
 - rmb-rs 1.0.2
 - tfchain-grahql 2.9.0
 
@@ -137,15 +137,17 @@ for more details, see [1.4.0 milestone](https://github.com/threefoldtech/tfgrid_
 - HTTP server mode allows configuration file for user credentials
 - Filter nodes by farmID fixes
 
-[1.5.0 milestone](https://github.com/threefoldtech/grid3_client_ts/milestone/15)
 
-### Terraform 1.8.0
+[2.0.0 milestone](https://github.com/threefoldtech/grid3_client_ts/milestone/15)
+
+### Terraform 1.8.x
 
 - Support RMB and relay
-- Support deployment using direct client
+- Support deployment using direct client 
+- Support parallel deployment of resources
 - Expanding the resources and data sources documentation
 
-[1.8.0 milestone](https://github.com/threefoldtech/terraform-provider-grid/milestone/6)
+[1.8.x milestone](https://github.com/threefoldtech/terraform-provider-grid/milestone/16)
 
 ## Tfgrid proxy 1.7.0
 
