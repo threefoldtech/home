@@ -9,7 +9,7 @@
  issues_url:'https://github.com/threefoldtech/zos/issues'
 
 !!product.meta.component.release name:zos
-    version:2.1.0
+    version:3.6.1
  giturl:'https://github.com/threefoldtech/zos'
  issues_url:'https://github.com/threefoldtech/zos/milestone/12'
  planning_url:'https://github.com/orgs/threefoldtech/projects/172'
