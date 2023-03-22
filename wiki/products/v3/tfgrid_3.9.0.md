@@ -82,15 +82,16 @@ for more details, see [1.4.0 milestone](https://github.com/threefoldtech/tfgrid_
 - Filter nodes by farmID fixes
 
 
-[1.5.0 milestone](https://github.com/threefoldtech/grid3_client_ts/milestone/15)
+[2.0.0 milestone](https://github.com/threefoldtech/grid3_client_ts/milestone/15)
 
-### Terraform 1.8.0
+### Terraform 1.8.x
 
 - Support RMB and relay
 - Support deployment using direct client 
+- Support parallel deployment of resources
 - Expanding the resources and data sources documentation
 
-[1.8.0 milestone](https://github.com/threefoldtech/terraform-provider-grid/milestone/6)
+[1.8.x milestone](https://github.com/threefoldtech/terraform-provider-grid/milestone/16)
 
 
 
