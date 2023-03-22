@@ -6,7 +6,7 @@
  architects:'azmym@incubaid.com'
  contributors:'azmym@incubaid.com,fawzyr@incubaid.com'
  giturl:'git@github.com:threefoldtech/zos'
- issues_url:'https://github.com/threefoldtech/zos'
+ issues_url:'https://github.com/threefoldtech/zos/issues'
 
 !!product.meta.component.release name:zos
     version:2.1.0
