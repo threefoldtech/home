@@ -11,9 +11,9 @@ This release is mainly around power management/capacity planning orchestrated by
 - farmerbot 1.0.0
 - weblets 1.7.0
 - dashboard 1.4.0
-- gridclient 1.5.0
+- gridclient 2.0.0
 - gridproxy 1.7.0
-- terraform 1.8.0
+- terraform 1.8.x
 - rmb-rs 1.0.2
 
 
