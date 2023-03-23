@@ -88,16 +88,16 @@ The farmerbot is a new component that farmer can setup to enable Wake on lan on 
 
 for more information, please check [2.3.0 milestone](https://github.com/threefoldtech/tfchain/milestone/11)
 
-### zos 3.5
+### zos v3.6.0-rc1
 
-- switching dhcpd from udhcpd
+- support the new RMB and the relay
 - WOL support
 - power management support
 - fixes gateways backend validation
 - add number of workloads and deployments to zos reported statistics
-- support the new RMB and the relay
 - Provide clearer messaging during twin registration
 
+[full change logs](https://github.com/threefoldtech/zos/releases/tag/v3.6.0-rc1)
 [3.5 milestone](https://github.com/threefoldtech/zos/milestone/12) for more details
 
 ### Farmerbot 1.0.0
