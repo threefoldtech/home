@@ -7,7 +7,7 @@ This release is mainly around power management/capacity planning orchestrated by
 ## TFGrid 3.9 components
 
 - tfchain 2.3.0
-- zos 3.5
+- zos 3.5.2
 - farmerbot 1.0.0
 - weblets 1.7.0
 - dashboard 1.4.0
