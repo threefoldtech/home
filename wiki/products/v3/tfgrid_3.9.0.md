@@ -14,7 +14,7 @@ This release is mainly around power management/capacity planning orchestrated by
 - gridclient 2.0.0
 - gridproxy 1.7.0
 - terraform 1.8.x
-- rmb-rs 1.0.2
+- rmb-rs v1.0.2-rc4
 - tfchain-grahql 2.9.0
 
 ## Changelog
