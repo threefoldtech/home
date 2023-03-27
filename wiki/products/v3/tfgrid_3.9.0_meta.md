@@ -14,9 +14,15 @@
  coordinator:'thabeta@incubaid.com'
  issues_url:'https://github.com/orgs/threefoldtech/projects/172'
  planning_url:'https://github.com/orgs/threefoldtech/projects/172'
-    component.1:'zos_3.6.0'
-    component.2:'rmb_1.0.0'
-
-> TODO: for components do name with underscore and version nr always with 3 parts, needs to correspond with name of components
-
-> TODO: The git url includes tag or branch
+    component.1:'zos_3.6.1'
+    component.2:'rmb_1.0.2'
+    component.3:'dashboard_1.4.0'
+    component.4:'grid3_client_ts_2.0.0'
+    component.5:'grid_weblets_1.7.0'
+    component.6:'gridproxy_1.7.0'
+    component.7:'terraform_1.8.2'
+    component.8:'rfs_0.28'
+    component.9:'tfchain_bridge_2.5.3'
+    component.10:'tfchain_graphql_2.3.0'
+    component.11:'tfchain_2.3.0'
+    
