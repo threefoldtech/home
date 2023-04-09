@@ -50,12 +50,18 @@ We changed the twin objects on tfchain and removed to notion of an `ip`. We adde
 
 Impacted clients:
 
-- [grid3_client_ts](https://github.com/threefoldtech/grid3_client_ts/releases/tag/1.5.3)
+- [grid3_client_ts](https://github.com/threefoldtech/grid3_client_ts/releases/tag/v2.0.0)
 - [grid3_client_rs](https://github.com/threefoldtech/grid3_client_rs/releases/tag/v0.2.0)
 
 ### Terraform
 
 Terraform also uses the new RMB relay functionality, see latest terraform release.
+
+### Gridclient
+The client interface has been change to be easier to initialize. No need anymore to define RMB client to create an instance from it. see the new interface [here](https://github.com/threefoldtech/grid3_client_ts/releases/tag/v2.0.0)
+
+Impacted projects:
+- [weblets](https://github.com/threefoldtech/grid_weblets/releases/tag/v1.7.0)
 
 ### Tfchain graphql
 
