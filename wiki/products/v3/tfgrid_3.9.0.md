@@ -7,7 +7,7 @@ This release is mainly around power management/capacity planning orchestrated by
 ## TFGrid 3.9 components
 
 - tfchain 2.3.0
-- zos v3.6.0-rc1
+- zos v3.6.0
 - farmerbot 1.0.0
 - weblets 1.7.0
 - dashboard 1.4.0
@@ -161,7 +161,7 @@ for more details, see [1.4.0 milestone](https://github.com/threefoldtech/tfgrid_
 
 [1.7.0 milestone](https://github.com/threefoldtech/tfgridclient_proxy/milestone/6)
 
-## RMB 1.0.2
+## RMB v1.0.2
 
 The new version of RMB written in rust
 
