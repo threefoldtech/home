@@ -15,7 +15,7 @@ This release is mainly around power management/capacity planning orchestrated by
 - gridproxy 1.7.0
 - terraform 1.8.x
 - rmb-rs v1.0.2-rc4
-- tfchain-grahql 2.9.0
+- tfchain-grahql 2.9.2
 
 ## Changelog
 
@@ -65,7 +65,7 @@ Impacted projects:
 
 ### Tfchain graphql
 
-Graphql 2.9.0 requires multiple steps to upgrade.
+Graphql 2.9.2 requires multiple steps to upgrade.
 
 1. restart the ingester from scratch using the new config
 2. restart the processor from scratch using the new code
