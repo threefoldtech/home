@@ -1,12 +1,15 @@
 ![](img/future.png)  
 
-# ThreeFold Related Engineering Team
+# ThreeFold Core Engineering Team
 
 - TFCoordination
     - [Kristof](despiegk.md) : CTO/Architect
+    - [Rob Van Mieghem](vmieghemr.md)  : Master Architect Blockchain
+    - [Jan De Landtsheer](delandtj.md) : Master Architect ZOS and Systems
+    - [Lee](lee.md) : Research & Architecture In general
 - TFGrid / ZOS
-    - [Rob Van Mieghem](vmieghemr.md)  : Software Engineer / Architect
-    - [Jan De Landtsheer](delandtj.md)
+    - [Muhamad Azmy](azmy.md) : Software Engineer ZOS
+    - [Maxime Daniel](maxime_daniel.md): Software Engineer
     - [Reem Khamis](reem_khamis.md): Team Lead
     - [Ahmed Thabet](ahmed_thabet.md) : Development Lead
         - [Ashraf Fouda](ashraf_fouda.md) : Software Engineer (rmb, zos-rs, terraform, dashboard)
@@ -22,9 +25,6 @@
         - [Mohamed Rabie](mohamed_rabie.md) : Software Engineer (grid dashboard, weblets, profile manager, tfgrid client)
         - [Omar Kassem](omarKassem.md) : Software Engineer (weblets)
         - [Ali Chaddad](ali_chaddad.md): Software Engineer (grid dashboard, weblets)
-    - [Muhamad Azmy](azmy.md) : Software Engineer ZOS
-    - [Lee](lee.md) : Research
-    - [Maxime Daniel](maxime_daniel.md): Software Engineer
 - TFChain & Other Blockchain Related Engineering
     - [Erwan Renaut](erwan.md)         : Software Engineer
     - [Dylan Verstraete](dylan.md)     : Software Engineer
@@ -49,8 +49,9 @@
 - FreeFlow / protocol.me
     - [Timur](timurgordon.md) : Software Engineer
     - [Jonathan](jonathan_ouwerx.md) : Software Engineer
-- Websites / Content Management
+- Websites / Content Management / Manual
     - [Ehab](ehab_hassan.md) : UI developer/Graphic Designer
     - [Samar](samar_adel.md) : Front-End Developer
     - [Sasha](sasha_astiadi.md) : Product Scrum / Web & Wiki Content Manager
 
+> There are +30 people contributing in the community
