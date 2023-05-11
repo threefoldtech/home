@@ -25,3 +25,24 @@ Daily scrum 10AM CE(S)T on Sabrina's Zoom.
     - Samir Hossny
     - Peter Nashaat
 
+
+## Egypt Development
+
+Team will be splitted to 3 (4 by team)
+
+- Lead: Reem
+  - Ahmed Thabet
+  - Ashraf 
+  - Rawda Gastan
+  - Ahmed Hanafy
+  - Mohammed Rabie
+  - Amira AbouHadid
+  - Zainab Elgohary
+  - Omar Kassem
+  - Mahmoud Emad
+  - Ali Chaddad
+  - Sameh Farouk
+  - Mayar Osama
+  - Samar Adel
+  
+
