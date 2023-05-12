@@ -31,6 +31,7 @@ Daily scrum 10AM CE(S)T on Sabrina's Zoom.
 Team will be splitted to 3 (4 by team)
 
 - Lead: Reem
+- Team:
   - Ahmed Thabet
   - Ashraf 
   - Rawda Gastan
@@ -45,4 +46,11 @@ Team will be splitted to 3 (4 by team)
   - Mayar Osama
   - Samar Adel
   
+## Egypt QA
+
+- Lead: Ramez
+- Team
+  - Mohamed Amer
+  - Ahmed Harby
+  - Khaled Mahmoud      
 
