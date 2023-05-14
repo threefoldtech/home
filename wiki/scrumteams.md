@@ -28,23 +28,37 @@ Daily scrum 10AM CE(S)T on Sabrina's Zoom.
 
 ## Egypt Development
 
-Team will be splitted to 3 (4 by team)
-
-- Lead: Reem
+- Lead:  Ahmed Hanafy
 - Team:
-  - Ahmed Thabet
-  - Ashraf 
-  - Rawda Gastan
-  - Ahmed Hanafy
   - Mohammed Rabie
-  - Amira AbouHadid
   - Zainab Elgohary
   - Omar Kassem
   - Mahmoud Emad
+  - Samar Adel
+
+Scrum: 10:00 AM, Egypt time
+
+
+- Lead: Ahmed Thabet
+- Team
+  - Ashraf 
+  - Rawda Gastan
+  - Mario (working with Sabrina Right now on web3proxy)
+ 
+ Scrum: 10:15 AM, Egypt time
+
+
+- Lead: Reem
+- Team:
   - Ali Chaddad
   - Sameh Farouk
   - Mayar Osama
-  - Samar Adel
+  - Amira AbouHadid
+  - Omar Abdulaziz (working with Sabrina Right now on web3proxy)
+  
+Scrum: 10:30 AM, Egypt time
+
+
   
 ## Egypt QA
 
@@ -53,4 +67,5 @@ Team will be splitted to 3 (4 by team)
   - Mohamed Amer
   - Ahmed Harby
   - Khaled Mahmoud      
+
 
