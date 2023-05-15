@@ -68,4 +68,4 @@ Scrum: 10:30 AM, Egypt time
   - Ahmed Harby
   - Khaled Mahmoud      
 
-
+Scrum: 10:45 AM, Egypt time
