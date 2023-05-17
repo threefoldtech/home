@@ -42,7 +42,8 @@ Scrum: 10:00 AM, Egypt time
 - Lead: Ahmed Thabet
 - Team
   - Ashraf 
-  - Rawda Gastan
+  - Ali Chaddad
+  - Mayar Osama
   - Mario (working with Sabrina Right now on web3proxy)
  
  Scrum: 10:15 AM, Egypt time
@@ -50,9 +51,8 @@ Scrum: 10:00 AM, Egypt time
 
 - Lead: Reem
 - Team:
-  - Ali Chaddad
   - Sameh Farouk
-  - Mayar Osama
+  - Rawda Gastan
   - Amira AbouHadid
   - Omar Abdulaziz (working with Sabrina Right now on web3proxy)
   
