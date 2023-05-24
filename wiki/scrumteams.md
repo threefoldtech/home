@@ -6,7 +6,6 @@
   - Team:  
     - Rob Van Mieghem
     - Lee Smet
-    - Azmy Awad
     - Dylan Verstraete
     - Brandon Pille
     - Maxime Daniel 
@@ -51,6 +50,7 @@ Scrum: 10:00 AM, Egypt time
 
 - Lead: Reem
 - Team:
+  - Azmy Awad
   - Sameh Farouk
   - Rawda Gastan
   - Amira AbouHadid
