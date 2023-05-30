@@ -40,7 +40,7 @@ We moved all of the components targeting web/typescript developers and frontend 
 - Gateways to support wireguard
 - Support hex secrets
 
-And various [fixes(https://github.com/orgs/threefoldtech/projects/192/views/12?filterQuery=repo%3A%22threefoldtech%2Ftfgrid-sdk-ts%22+label%3Agrid_client) 
+And various [fixes](https://github.com/orgs/threefoldtech/projects/192/views/12?filterQuery=repo%3A%22threefoldtech%2Ftfgrid-sdk-ts%22+label%3Agrid_client) 
 
 
 ### Dashboard
