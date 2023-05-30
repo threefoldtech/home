@@ -51,6 +51,7 @@ And various [fixes](https://github.com/orgs/threefoldtech/projects/192/views/12?
 
 ### GridWeblets
 	We are phasing out the gridweblets for a newer playground rewritten in vue3, however, we introduced some maintaince [bugfixes](https://github.com/orgs/threefoldtech/projects/192/views/12?filterQuery=repo%3A%22threefoldtech%2Ftfgrid-sdk-ts%22+label%3Aweblets)
+- [Support umbrel on the grid](https://github.com/threefoldtech/home/issues/1394)
 
 
 ### Playground
@@ -74,6 +75,5 @@ Project to follow up [Stellar unvesting](https://github.com/orgs/threefoldtech/p
 
 
 
-
+## 3Bot Deployer
 [3Bot Deployer](https://github.com/threefoldtech/home/issues/1428)
-[Support umbrel on the grid](https://github.com/threefoldtech/home/issues/1394)
