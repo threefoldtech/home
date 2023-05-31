@@ -7,8 +7,7 @@ In 3.10 we come with lots of fixes and new features
 - Solve syncing issues https://github.com/threefoldtech/tfchain/issues/619
 - Attaching solution provider id to contracts: https://github.com/threefoldtech/tfchain/issues/630
 - Allow bonding a stash account to a twin: https://github.com/threefoldtech/tfchain/issues/636
-- Billing storage cleanup: https://github.com/threefoldtech/tfchain/issues/665
-- Various bugfixes (see release notes tfchain 2.4.0-rc1)
+- Various [bugfixes](https://github.com/threefoldtech/tfchain/releases/tag/v2.4.0)
 
 ## ZOS 3.6
 - reworked the [capacity](https://github.com/threefoldtech/zos/blob/main/docs/internals/capacity.md) and it became more dynamic
