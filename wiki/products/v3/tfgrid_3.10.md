@@ -3,7 +3,6 @@ In 3.10 we come with lots of fixes and new features
 
 ## TFChain 2.4.0
 
-[TFChain](https://github.com/threefoldtech/home/issues/1401)
 - Solve syncing issues https://github.com/threefoldtech/tfchain/issues/619
 - Attaching solution provider id to contracts: https://github.com/threefoldtech/tfchain/issues/630
 - Allow bonding a stash account to a twin: https://github.com/threefoldtech/tfchain/issues/636
