@@ -107,8 +107,3 @@ This release introduces a new playground with a more consistent user experience.
 We launched a [website](https://tokenservices.threefold.io/unvest/)
 
 You can find the details of Stellar unvesting [here](https://github.com/threefoldtech/home/issues/1166)
-
-
-
-## 3Bot Deployer
-[3Bot Deployer](https://github.com/threefoldtech/home/issues/1428)
