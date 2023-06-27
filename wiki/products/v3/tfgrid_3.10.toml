@@ -1,6 +1,16 @@
 [tfchain]
 version = "2.4.0"
 repo = "https://github.com/threefoldtech/tfchain"
+[[tfchain.services.node]]
+version = ">=2.2.1"
+path="substrate-node"
+
+[tfchain_tft_bridge]
+version="2.5.5"
+repo="https://github.com/threefoldtech/tfchain_tft_bridge"
+
+[tfchain_activation_service]
+version="1.0.1"
 
 [tfchain_client_js]
 version = "2.4.0"
@@ -29,3 +39,15 @@ repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 [tfgrid-sdk-ts]
 version = "2.0.0"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-ts"
+[[tfgrid-sdk-ts.services.dashboard]]
+path="packages/dashboard"
+[[tfgrid-sdk-ts.services.weblets]]
+path="packages/weblets"
+[[tfgrid-sdk-ts.services.playground]]
+path="packages/playground"
+[[tfgrid-sdk-ts.services.stats]]
+path="packages/stats"
+
+[rmb]
+version="1.0.5"
+repo="https://github.com/threefoldtech/rmb-rs"
