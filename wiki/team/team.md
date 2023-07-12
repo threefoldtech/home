@@ -7,12 +7,18 @@
     - [Rob Van Mieghem](vmieghemr.md)  : Master Architect Blockchain
     - [Jan De Landtsheer](delandtj.md) : Master Architect ZOS and Systems
     - [Lee](lee.md) : Research & Architecture In general
+- 3bot and Web3GW
+    - [Reem Khamis](reem_khamis.md): Team Lead
+        - [Maxime Daniel](maxime_daniel.md): Software Engineer
+        - [Ashraf Fouda](ashraf_fouda.md) : Software Engineer (Golang, rmb, zos-rs, terraform, dashboard)
+        - [Ali Chaddad](ali_chaddad.md): Software Engineer (Golang, weblets)
+        - [Brandon Pille](brandon.md)      : Software Engineer
+        - [Timur](timur.md): Software Engineer
+        - [Didem](didem.md): Software Engineer
+  
 - TFGrid / ZOS
     - [Muhamad Azmy](azmy.md) : Software Engineer ZOS
-    - [Maxime Daniel](maxime_daniel.md): Software Engineer
-    - [Reem Khamis](reem_khamis.md): Team Lead
     - [Ahmed Thabet](ahmed_thabet.md) : Development Lead
-        - [Ashraf Fouda](ashraf_fouda.md) : Software Engineer (rmb, zos-rs, terraform, dashboard)
         - [Mario Bassem](mariobassem.md) : Software Engineer (rmb, terraform, gridproxy)
         - [Rawda Gastan](rawda_gastan.md) : Software Engineer (dashboard, weblets, tfgrid client)
     - [Ahmed Hanafy](ahmed_hanafy.md) teamlead + software engineer
@@ -24,11 +30,9 @@
         - [Zainab Elgohary](zainab_elgohary.md) : Software Engineer (weblets, grid dashboard, tfstats)
         - [Mohamed Rabie](mohamed_rabie.md) : Software Engineer (grid dashboard, weblets, profile manager, tfgrid client)
         - [Omar Kassem](omarKassem.md) : Software Engineer (weblets)
-        - [Ali Chaddad](ali_chaddad.md): Software Engineer (grid dashboard, weblets)
 - TFChain & Other Blockchain Related Engineering
     - [Erwan Renaut](erwan.md)         : Software Engineer
     - [Dylan Verstraete](dylan.md)     : Software Engineer
-    - [Brandon Pille](brandon.md)      : Software Engineer
 - TFGrid support/testing
     - [Ramez Saeed](ramez_saeed.md) : QA Team Lead
         - [Mohamed Amer](mohamed_amer.md) : Software Test Engineer 
