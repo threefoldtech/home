@@ -1,23 +1,22 @@
-## Kristof
-
+## Timur
 
 <img src="img/timurgordon.jpg" alt="img" width=200px />
 
 - specialities/skills
-  - communicating tech
-  - learning and teaching
-  - interested in architectture
+  - python (tensorflow, pandas)
+  - c++ & OOP
   - vlang
-  - web development
+  - web development (react, svelte, tailwindcss, zola)
+  - network & application security
+
 - my active engineering/content tasks
-  - [freeflow](https://github.com/orgs/freeflowuniverse/projects/3/views/8?filterQuery=-status%3A%22%E2%9C%85+Done%22+assignee%3Atimurgordon)
-- active products
-  - web templates and static sites
-  - web publishing tools
-  - ui framework using htmx and vweb
-  - dao user interface
-  - threefold publishing user interface
-  - [crystallib](https://github.com/freeflowuniverse/crystallib) (generic library for vlang)
+  - [crystallib](https://github.com/freeflowuniverse/crystallib)
+  - [spiderlib](https://github.com/freeflowuniverse/spiderlib)
+  - [weblib](https://github.com/freeflowuniverse/weblib)
+  - [web3_proxy](https://github.com/freeflowuniverse/web3_proxy)
+  - [Baobab](https://github.com/freeflowuniverse/baobab)
+  - Zola ssg template
+  - Publisher UI
 - location: Zanzibar / Istanbul
 - reports_to: Kristof
 
