@@ -12,4 +12,4 @@
 - 5Eh2stFNQX4khuKoh2a1jQBVE91Lv3kyJiVP2Y5webontjRe
   [Dylan Verstraete]((../../../team/dylan.md))
 - 5CqRchiLPvqSA7uowfR32ZqgMPFBq55H8hWoz24B3RokuVj1
-  [Operation team]((../../../team/samir_hosny.md))
+  [Operation team](../../../team/samir_hosny.md)
