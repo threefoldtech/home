@@ -21,7 +21,7 @@ version = "3.8.0"
 repo = "https://github.com/threefoldtech/zos"
 
 [tfgrid-sdk-go]
-version = "0.10.1"
+version = "0.10.2"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [terraform]
@@ -29,7 +29,7 @@ version = "2.0.0"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [gridproxy]
-version = "0.10.1"
+version = "0.10.2"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [tfgrid-sdk-ts]
