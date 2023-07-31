@@ -8,3 +8,5 @@
   [Lee Smet](../../../team/lee.md)
 - 5HBgSPMr2VLQ5zkCkk3GHa58KdyAYBiY4j58UhoJsB9S1WmX
   [Rob Van Mieghem](../../..wiki/team/vmieghemr.md)
+- 5CqRchiLPvqSA7uowfR32ZqgMPFBq55H8hWoz24B3RokuVj1
+  [Operation team](../../../team/samir_hosny.md)
