@@ -5,8 +5,8 @@ repo = "https://github.com/threefoldtech/tfchain"
 version = ">=2.2.1"
 path="substrate-node"
 
-[tfchain_activation_service]
-version="1.0.1"
+[[tfchain.services.activtionservice]]
+path="activation-service"
 
 [tfchain_client_js]
 version = "2.5.0-rc7"
@@ -33,7 +33,7 @@ version = "0.10.2"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [tfgrid-sdk-ts]
-version = "2.1.0-rc5"
+version = "2.1.0-rc6"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-ts"
 [[tfgrid-sdk-ts.services.dashboard]]
 path="packages/dashboard"
