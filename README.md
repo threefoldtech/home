@@ -5,6 +5,7 @@
 - [Components](wiki/components/components_overview.md) (has owners inside)
 - [How to contribute](wiki/contribution/)
 - [Lets be disciplined](wiki/contribution/discipline.md)
+- [Council](wiki/products/v3/deployments)
 
 ### Releases
 
