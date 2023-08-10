@@ -5,7 +5,8 @@ repo = "https://github.com/threefoldtech/tfchain"
 version = ">=2.2.1"
 path="substrate-node"
 
-[[tfchain.services.activtionservice]]
+
+[[tfchain.services.activationservice]]
 version = "2.5.0-rc7"
 path="activation-service"
 
@@ -14,7 +15,7 @@ version = "2.5.0-rc7"
 repo = "https://github.com/threefoldtech/tfchain"
 
 [tfchain_graphl]
-version = "2.11.0"
+version = "2.11.2"
 repo = "https://github.com/threefoldtech/tfchain_graphql"
 
 [zos]

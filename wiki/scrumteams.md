@@ -1,65 +1,37 @@
 # Scrumteams
 
-## Belgium Development 
+## FreeFlow Foundation
   
-  - Lead: Sabrina
+  - Lead: Rob
   - Team:  
-    - Rob Van Mieghem
-    - Lee Smet
-    - Dylan Verstraete
+    - Ali Chaddad
+    - Ashraf Fouda
     - Brandon Pille
     - Maxime Daniel 
-    - Mario Bassem
-    - Omar Abdulaziz
     - Timur Gordon
 
-Daily scrum 10AM CE(S)T on Sabrina's Zoom.
+## Grid (Ahmed Thabet)
+### ZOS/ RMB/ GRID-SDK-GO/ TFChain
 
-## Belgium Operations
-
-  - Lead: Sabrina
-  - Team:
-    - Jan De Landtsheer
-    - Bert Coesens
-    - Samir Hossny
-    - Peter Nashaat
-
-
-## Egypt Development
+- Lead:  Muhammad Azmy
+- Team:
+  - Sameh Farouk
+  - Erwan Renaut
+  - Mario Bassem
+  - Rawda Gastan
+  - Amira Abouhadid
+ 
+### GRID-SDK-TS / TF Connect / FreeFlowTwin
 
 - Lead:  Ahmed Hanafy
 - Team:
-  - Mohammed Rabie
-  - Zainab Elgohary
-  - Omar Kassem
   - Mahmoud Emad
-  - Samar Adel
-
-Scrum: 10:00 AM, Egypt time
-
-
-- Lead: Ahmed Thabet
-- Team
-  - Ashraf 
-  - Ali Chaddad
+  - Omar Abdulaziz
   - Mayar Osama
-  - Mario (working with Sabrina Right now on web3proxy)
- 
- Scrum: 10:15 AM, Egypt time
+  - Zainab Elgohary
+  - Mohamed Rabie
+  - Omar Kassem
 
-
-- Lead: Reem
-- Team:
-  - Azmy Awad
-  - Sameh Farouk
-  - Rawda Gastan
-  - Amira AbouHadid
-  - Omar Abdulaziz (working with Sabrina Right now on web3proxy)
-  
-Scrum: 10:30 AM, Egypt time
-
-
-  
 ## Egypt QA
 
 - Lead: Ramez
@@ -68,4 +40,11 @@ Scrum: 10:30 AM, Egypt time
   - Ahmed Harby
   - Khaled Mahmoud      
 
-Scrum: 10:45 AM, Egypt time
+## Operations
+
+  - Lead: Sabrina
+  - Team:
+    - Jan De Landtsheer
+    - Bert Coesens
+    - Samir Hossny
+    - Peter Nashaat
