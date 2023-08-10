@@ -5,7 +5,7 @@ repo = "https://github.com/threefoldtech/tfchain"
 version = ">=2.2.1"
 path="substrate-node"
 
-[[tfchain.services.activtionservice]]
+[[tfchain.services.activationservice]]
 path="activation-service"
 
 [tfchain_client_js]
