@@ -10,18 +10,18 @@
     - Maxime Daniel 
     - Timur Gordon
 
-## ZOS/ RMB/ GRID-SDK-GO/ TFChain
+## Grid (Ahmed Thabet)
+### ZOS/ RMB/ GRID-SDK-GO/ TFChain
 
-- Lead:  Ahmed Thabet
+- Lead:  Muhammad Azmy
 - Team:
-  - Muhamad Azmy
   - Sameh Farouk
   - Erwan Renaut
   - Mario Bassem
   - Rawda Gastan
   - Amira Abouhadid
  
-## GRID-SDK-TS / TF Connect / FreeFlowTwin
+### GRID-SDK-TS / TF Connect / FreeFlowTwin
 
 - Lead:  Ahmed Hanafy
 - Team:
