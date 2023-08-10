@@ -7,8 +7,8 @@
     - [Rob Van Mieghem](vmieghemr.md)  : Master Architect Blockchain
     - [Jan De Landtsheer](delandtj.md) : Master Architect ZOS and Systems
     - [Lee](lee.md) : Research & Architecture In general
-- 3bot and Web3GW
-    - [Reem Khamis](reem_khamis.md): Team Lead
+- FreeFlow Foundation
+    - [Rob Van Mieghem](vmieghemr.md): Team Lead
         - [Maxime Daniel](maxime_daniel.md): Software Engineer
         - [Ashraf Fouda](ashraf_fouda.md) : Software Engineer (Golang, rmb, zos-rs, terraform, dashboard)
         - [Ali Chaddad](ali_chaddad.md): Software Engineer (Golang, weblets)
