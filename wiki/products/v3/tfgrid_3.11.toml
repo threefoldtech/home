@@ -6,6 +6,7 @@ version = ">=2.2.1"
 path="substrate-node"
 
 [[tfchain.services.activationservice]]
+version = "2.5.0-rc7"
 path="activation-service"
 
 [tfchain_client_js]
