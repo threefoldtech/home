@@ -14,7 +14,7 @@
         - [Ali Chaddad](ali_chaddad.md): Software Engineer (Golang, weblets)
         - [Brandon Pille](brandon.md)      : Software Engineer
         - [Timur](timur.md): Software Engineer
-        - [Didem](didem.md): Software Engineer
+ 
 
 - [Ahmed Thabet](ahmed_thabet.md) : Development Lead
     - ZOS/ RMB/ GRID-SDK-GO/ TFChain
@@ -53,7 +53,7 @@
 !-->
 - FreeFlow / protocol.me
     - [Timur](timurgordon.md) : Software Engineer
-    - [Jonathan](jonathan_ouwerx.md) : Software Engineer
+   
 - Websites / Content Management / Manual
     - [Ehab](ehab_hassan.md) : UI developer/Graphic Designer
     - [Samar](samar_adel.md) : Front-End Developer
