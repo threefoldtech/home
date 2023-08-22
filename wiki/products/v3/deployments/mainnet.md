@@ -14,3 +14,5 @@
   [Dylan Verstraete]((../../../team/dylan.md))
 - 5HpgfPZicPXLHzBUUnauvZdADPN69hNKsDAR3kM4gxrbUZFE
   [Kristof De Spiegeleer](../../../team/despiegk.md)
+- 5HHGwmj1h5Z56E67gQxnvAx2svhVzfR9pLdwFsCxG2D79NNz
+    [Operation team](../../../team/samir_hosny.md)
