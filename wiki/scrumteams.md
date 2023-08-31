@@ -4,7 +4,7 @@
   
   - Lead: Rob
   - Team:  
-    - Ali Chaddad
+    - Omar Kassem
     - Ashraf Fouda
     - Brandon Pille
     - Maxime Daniel 
@@ -19,19 +19,20 @@
   - Erwan Renaut
   - Mario Bassem
   - Rawda Gastan
-  - Amira Abouhadid
- 
+  - Omar Abdulaziz
+
 ### GRID-SDK-TS / TF Connect / FreeFlowTwin
 
 - Lead:  Ahmed Hanafy
 - Team:
   - Mahmoud Emad
-  - Omar Abdulaziz
   - Mayar Osama
   - Zainab Elgohary
   - Mohamed Rabie
-  - Omar Kassem
-
+  - Amira Abouhadid
+  - Ehab Hassan
+  - Samar Adel
+ 
 ## Egypt QA
 
 - Lead: Ramez
