@@ -2,8 +2,6 @@
 
 Current grid owner: xmonader
 
-> TODO: need to define all components in this dir
-
 ### Zero-OS
 
 our base operating system
@@ -30,35 +28,27 @@ Owner: azmy
 
 ### TFChain
 
-- https://github.com/threefoldtech/tfchain : our blockchain for TFGrid 3.0
-- https://github.com/threefoldtech/tfchain_client : rust based client for TFChain
-- https://github.com/threefoldtech/tfchain_tft_bridge : bridge between stellar and TFChain 
-- https://github.com/threefoldtech/tfchain_activation_service : activation service for TFChain (let people to get initial TFT on TFChain)
+- https://github.com/threefoldtech/tfchain : our blockchain for TFGrid 3.0, also javascript, rust, and go clients, stellar-tfchain bridge and the grid activation service
 - https://github.com/threefoldtech/tfchain_graphql : database layer on top of TFChain, query service
 - https://github.com/threefoldtech/tfchain_graphql_ts_types : database types
 
-Owners: Dylan, Rob
+Owners: Rob
 
 ###  TFGrid Infrastructure As Code
 
 - https://github.com/threefoldtech/tf-images : set of images which can be used on top of TFGrid (docker builds, flists, ...)
-- https://github.com/threefoldtech/grid3_client_ts : javascript/typescript client to provision on top of TFGrid
+- h[ttps://github.com/threefoldtech/tfgrid-sdk-go](https://github.com/threefoldtech/tfgrid-sdk-go) : golang monorepo, libraries to develop on the grid, gridproxy, activation service, rmb clients, grid-cli, gridify
 - https://github.com/threefoldtech/terraform-provider-grid : terraform automation layer
-- https://github.com/threefoldtech/grid_weblets : set of weblets to provision workloads
-- https://github.com/threefoldtech/tfgridclient_proxy : proxy between internet and our blockchain and reliable message bus between components
-- https://github.com/threefoldtech/tfgrid_dashboard : frontend dashboard to interact with TFChain
+- h[ttps://github.com/threefoldtech/tfgrid-sdk-ts](https://github.com/threefoldtech/tfgrid-sdk-ts) : typescript monorepo, typescript libraries to develop on the grid, tfchain client, statistics website, dashboard, playground, rmb-http servers, rmb clients
 - [tcprouter](https://github.com/threefoldtech/tcprouter) SNI based router
 - 
-Owners: xmonader, hanafy
+Owners: Azmy, Hanafy
 
 ### Reliable Message Bus
 
 - https://github.com/threefoldtech/rmb-rs: reliable message bus for Zero-OS and other TFGrid components
-- https://github.com/threefoldtech/go-rmb : reliable message bus for Zero-OS and other TFGrid components in golang
-- https://github.com/threefoldtech/ts-rmb-client : javascript typescrip layer
-- https://github.com/threefoldtech/rmb-proxy : web proxy for RMB
 
-Owners: azmy
+Owners: Azmy
 
 ### TFConnect
 
@@ -74,6 +64,8 @@ Our mobile app, network overlay and identity management
 - https://github.com/threefoldtech/openkyc : identity manager with KYC integration
 - https://github.com/threefoldtech/3bot_wallet: a stellar wallet (there are many more stellar wallets out there)
 - tools for our planetary wan: https://github.com/threefoldtech/yggdrasil-desktop-client
+
+  
 
 Owners: Xmonader
 
