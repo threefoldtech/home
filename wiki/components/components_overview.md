@@ -56,13 +56,10 @@ Our mobile app, network overlay and identity management
 
 - https://github.com/threefoldtech/flutter-pkid-client flutter client for identity layer
 - https://github.com/threefoldtech/wallet-next : next generation wallet for multichain (part of TFConnect)
-- https://github.com/threefoldtech/threefold_wallet : current wallet
 - https://github.com/threefoldtech/threefold_connect : our mobile tools, authentication, link to planetary network, news, wallet
-- https://github.com/threefoldtech/yggdrasil_flutter: Planetary Network Mobile Client
+- https://github.com/threefoldtech/planetary_network_flutter : Planetary Network Mobile Client
 - https://github.com/threefoldtech/pkid : identity management layer
-- https://github.com/threefoldtech/threefold_login_pkid_example
 - https://github.com/threefoldtech/openkyc : identity manager with KYC integration
-- https://github.com/threefoldtech/3bot_wallet: a stellar wallet (there are many more stellar wallets out there)
 - tools for our planetary wan: https://github.com/threefoldtech/yggdrasil-desktop-client
 
   
