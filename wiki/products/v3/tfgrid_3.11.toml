@@ -22,19 +22,19 @@ version = "3.8.4"
 repo = "https://github.com/threefoldtech/zos"
 
 [tfgrid-sdk-go]
-version = "0.10.3"
+version = "0.11.0"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [terraform]
-version = "2.0.0"
+version = "1.9.2"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [gridproxy]
-version = "0.10.3"
+version = "0.11.0"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [tfgrid-sdk-ts]
-version = "2.1.0-rc8"
+version = "2.1.0"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-ts"
 [[tfgrid-sdk-ts.services.dashboard]]
 path="packages/dashboard"
