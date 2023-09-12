@@ -15,7 +15,7 @@
 - 5HHGwmj1h5Z56E67gQxnvAx2svhVzfR9pLdwFsCxG2D79NNz
     [Operation team](../../../team/samir_hosny.md)
 - 5GxGh4bozbox9gFfeUtuzYqzJWKcgA3foVkwWzjCwMzNXiVt
-  [Erwan]((../../../team/erwan.md))
+  [Erwan](../../../team/erwan.md)
 - 5EFkv5SZqRRBEL9sxXd7RmzSQk7JCpxgWh6TiJjEq5X77Sb9
-  [Ahmed Hanafy]((../../../team/ahmed_hanafy.md))
+  [Ahmed Hanafy](../../../team/ahmed_hanafy.md)
 
