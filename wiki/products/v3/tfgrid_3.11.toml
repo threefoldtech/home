@@ -34,7 +34,7 @@ version = "0.11.0"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [tfgrid-sdk-ts]
-version = "2.1.0"
+version = "2.1.1"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-ts"
 [[tfgrid-sdk-ts.services.dashboard]]
 path="packages/dashboard"
