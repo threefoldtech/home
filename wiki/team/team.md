@@ -25,7 +25,7 @@
             - [Omar Abdulaziz](omar_abdulaziz.md)
 
     -  GRID-SDK-TS / TF Connect / FreeflowTwin
-        - [Ahmed Hanafy](ahmed_hanafy.md) teamlead + software engineer
+        - [Ahmed Hanafy](ahmed_hanafy.md)
             - [Mahmoud Emad](mahmoud_emad.md) 
             - [Mayar Osama](mayar_osama.md) 
             - [Zainab Elgohary](zainab_elgohary.md) 
@@ -33,7 +33,7 @@
             - [Omar Kassem](omarKassem.md)
             - [Amira Abouhadid](amira_abouhadid.md)
             - [Alaa Mahmoud](alaa_mahmoud.md)
-            - 
+
 - TFGrid support/testing
     - [Ramez Saeed](ramez_saeed.md) : QA Team Lead
         - [Mohamed Amer](mohamed_amer.md) : Software Test Engineer 
