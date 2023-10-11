@@ -20,6 +20,7 @@
   - Mario Bassem
   - Rawda Gastan
   - Omar Abdulaziz
+  - Eslam Nawara
 
 ### GRID-SDK-TS / TF Connect / FreeFlowTwin
 
@@ -30,6 +31,7 @@
   - Zainab Elgohary
   - Mohamed Rabie
   - Amira Abouhadid
+  - Alaa Mahmoud
   - Ehab Hassan
   - Samar Adel
  

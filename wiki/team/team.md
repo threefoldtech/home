@@ -11,29 +11,29 @@
     - [Rob Van Mieghem](vmieghemr.md): Team Lead
         - [Maxime Daniel](maxime_daniel.md): Software Engineer
         - [Ashraf Fouda](ashraf_fouda.md) : Software Engineer (Golang, rmb, zos-rs, terraform, dashboard)
-        - [Ali Chaddad](ali_chaddad.md): Software Engineer (Golang, weblets)
-        - [Brandon Pille](brandon.md)      : Software Engineer
         - [Timur](timur.md): Software Engineer
  
 
 - [Ahmed Thabet](ahmed_thabet.md) : Development Lead
     - ZOS/ RMB/ GRID-SDK-GO/ TFChain
-        - [Muhamad Azmy](azmy.md) : Software Engineer ZOS
-            - [Sameh Farouk](sameh_farouk.md) : Software Engineer (taiga, ipfs grid, rmb, weblets, crystallib)
-            - [Erwan Renaut](erwan.md)         : Software Engineer
-            - [Mario Bassem](mariobassem.md) : Software Engineer (rmb, terraform, gridproxy)
-            - [Rawda Gastan](rawda_gastan.md) : Software Engineer (dashboard, weblets, tfgrid client)
-            - [Amira Abouhadid](amira_abouhadid.md) : Software Engineer (weblets, grid dashboard, polygon bridge)
-         
+        - [Muhamad Azmy](azmy.md)
+            - [Sameh Farouk](sameh_farouk.md)
+            - [Erwan Renaut](erwan.md)
+            - [Mario Bassem](mariobassem.md)
+            - [Rawda Gastan](rawda_gastan.md)
+            - [Eslam Nawara](eslam_nawara.md)
+            - [Omar Abdulaziz](omar_abdulaziz.md)
+
     -  GRID-SDK-TS / TF Connect / FreeflowTwin
         - [Ahmed Hanafy](ahmed_hanafy.md) teamlead + software engineer
-            - [Mahmoud Emad](mahmoud_emad.md) : Software Engineer (weblets, grid dashboard, crystallib)
-            - [Omar Abdulaziz](omar_abdulaziz.md) : Software Engineer (weblets, grid dashboard, grid proxy)
-            - [Mayar Osama](mayar_osama.md) : Software Engineer (weblets, grid dashboard, tfstats)
-            - [Zainab Elgohary](zainab_elgohary.md) : Software Engineer (weblets, grid dashboard, tfstats)
-            - [Mohamed Rabie](mohamed_rabie.md) : Software Engineer (grid dashboard, weblets, profile manager, tfgrid client)
-            - [Omar Kassem](omarKassem.md) : Software Engineer (weblets)
-
+            - [Mahmoud Emad](mahmoud_emad.md) 
+            - [Mayar Osama](mayar_osama.md) 
+            - [Zainab Elgohary](zainab_elgohary.md) 
+            - [Mohamed Rabie](mohamed_rabie.md)
+            - [Omar Kassem](omarKassem.md)
+            - [Amira Abouhadid](amira_abouhadid.md)
+            - [Alaa Mahmoud](alaa_mahmoud.md)
+            - 
 - TFGrid support/testing
     - [Ramez Saeed](ramez_saeed.md) : QA Team Lead
         - [Mohamed Amer](mohamed_amer.md) : Software Test Engineer 
