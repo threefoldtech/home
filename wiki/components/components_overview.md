@@ -13,6 +13,8 @@ our base operating system + storage + db _ network components
     * [Zinit](https://github.com/threefoldtech/zinit): init for Zero-OS
     * [core-X](https://github.com/threefoldtech/corex): Process manager for containers
     * [zbus](https://github.com/threefoldtech/zbus): bus for interprocess communication
+    * [cpu benchmark](https://github.com/threefoldtech/cpu-benchmark-simple)
+    * [internal lib for workerpool](https://github.com/threefoldtech/tokio-worker-pool)
 * webservices
     * [0-bootstrap](https://github.com/threefoldtech/0-bootstrap): This web service provides dynamic construction of iPXE scripts for booting and bootstrapping Zero-OS 
     * [0-hub](https://github.com/threefoldtech/0-hub): Everything needed to serve, upload, merge, and manage flists, as well as convert docker images to flists 
@@ -20,7 +22,9 @@ our base operating system + storage + db _ network components
     * 0-fs: The storage layer of our container technology.
         * [rust implementation](https://github.com/threefoldtech/rfs)
         * [go implemetation](https://github.com/threefoldtech/0-fs)
-    * [0-db](https://github.com/threefoldtech/0-db): A super fast and efficient key-value store redis-protocol with fast indexing
+    * 0-db
+        * [0-db](https://github.com/threefoldtech/0-db): A super fast and efficient key-value store redis-protocol with fast indexing
+        * [0-db-fs](https://github.com/threefoldtech/0-db-fs): filesystem read/write on top of 0-db
     * flist: dedupe, metadata format for our cacheable filesystem layer to boot vm & containers from
         * [0-flist](https://github.com/threefoldtech/0-flist): Tool to create and manage flists. The flist file format creates a small file with enough information to make a complete filesystem available without the data payload itself
         * [flist-builder](https://github.com/threefoldtech/flist-builder-config): autobuilder config template
@@ -47,18 +51,30 @@ Main Products Owner: azmy
 - [tfchain_graphql_ts_types](https://github.com/threefoldtech/tfchain_graphql_ts_types) : database types
 - [Atomic Swaps](https://github.com/threefoldtech/atomicswap): swap digital assets between blockchains
 - [Minting Code](https://github.com/threefoldtech/minting_v3)
+- [Simulator for reward for a farmer](https://github.com/threefoldtech/tfgrid_simulator)
+- [tfchain new version poc, not used](https://github.com/threefoldtech/tfchain3)
+- [libp2p-relay](https://github.com/threefoldtech/libp2p-relay)
 
 Owner: Rob
 
-###  TFGrid Infrastructure As Code
 
-- [pulumi-provider-grid](https://github.com/threefoldtech/pulumi-provider-grid): pulumi automation layer
-- [terraform-provider-grid](https://github.com/threefoldtech/terraform-provider-grid) : terraform automation layer
-- [tf-images](https://github.com/threefoldtech/tf-images) : set of images which can be used on top of TFGrid (docker builds, flists, ...)
+###  SDK, Clients, Browser Plugin
+
 - [tfgrid-sdk-go](https://github.com/threefoldtech/tfgrid-sdk-go) : golang monorepo, libraries to develop on the grid, gridproxy, activation service, rmb clients, grid-cli, gridify
 - [tfgrid-sdk-ts](https://github.com/threefoldtech/tfgrid-sdk-ts) : typescript monorepo, typescript libraries to develop on the grid, tfchain client, statistics website, dashboard, playground, rmb-http servers, rmb clients
+- providers
+    - [pulumi-provider-grid](https://github.com/threefoldtech/pulumi-provider-grid): pulumi automation layer
+    - [terraform-provider-grid](https://github.com/threefoldtech/terraform-provider-grid) : terraform automation layer
+- tools
+    - [tf-images](https://github.com/threefoldtech/tf-images) : set of images which can be used on top of TFGrid (docker builds, flists, ...)
+    - [farmer bot](https://github.com/threefoldtech/farmerbot): manage 3nodes on behalf of farmer, e.g. power management
+    - [publish script for flist on github](https://github.com/threefoldtech/publish-flist)
+- browser
+    - [browser plugin to manage private key](https://github.com/threefoldtech/tf-wallet-connector-extension)
+ - [python framework for automation](https://github.com/threefoldtech/js-ng)
 
 Owners: Azmy, Hanafy
+
 
 
 
@@ -70,12 +86,14 @@ Our mobile app, network overlay and identity management
 
 - https://github.com/threefoldtech/threefold_connect : our mobile tools, authentication, link to planetary network, news, wallet
 - https://github.com/threefoldtech/threefold_connect_wizard: wizard framework as used in tfconnect
+- https://github.com/threefoldtech/threefold_connect_news: news component in tfconnect
 - https://github.com/threefoldtech/flutter-pkid-client flutter client for identity layer
 - https://github.com/threefoldtech/wallet-next : next generation wallet for multichain (part of TFConnect)
 - https://github.com/threefoldtech/planetary_network_flutter : Planetary Network Mobile Client
 - https://github.com/threefoldtech/pkid : identity management layer
 - https://github.com/threefoldtech/openkyc : identity manager with KYC integration
-- https://github.com/threefoldtech/yggdrasil-desktop-client: tools for our planetary network 
+- https://github.com/threefoldtech/yggdrasil-desktop-client: tools for our planetary network
+- https://github.com/threefoldtech/oauth-proxy
 
 Owners: Xmonader
 
