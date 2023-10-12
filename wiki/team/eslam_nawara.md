@@ -1,6 +1,6 @@
 ## Eslam Nawara
 
-<img src="img/Eslam.jpg" alt="img" width=300px />
+<img src="img/eslam_nawara.jpg" alt="img" width=300px />
 
 - specialities/skills
   - Golang
@@ -11,7 +11,7 @@
 - active products
   - 
 - location: Egypt
-- reports_to: [Ahmed Thabet](ahmed_thabet.md)
+- reports_to: [Muhamad Azmy](azmy.md)
 
 - telegram: @EslamNawara 
 - github: @Eslam-Nawara
