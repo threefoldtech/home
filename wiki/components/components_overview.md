@@ -21,6 +21,8 @@ our base operating system + storage + db _ network components
     * [cloud console](https://github.com/threefoldtech/cloud-console)
     * [cloud container](https://github.com/threefoldtech/cloud-container)
     * future zos work: https://github.com/threefoldtech/zos-rs  (rewrite certain components in rust)
+    * [zos-update-worker](https://github.com/threefoldtech/zos-update-worker)  updates zos images on the hub based on the DAO voting
+
 * webservices
     * [0-bootstrap](https://github.com/threefoldtech/0-bootstrap): This web service provides dynamic construction of iPXE scripts for booting and bootstrapping Zero-OS 
     * [0-hub](https://github.com/threefoldtech/0-hub): Everything needed to serve, upload, merge, and manage flists, as well as convert docker images to flists 
@@ -119,5 +121,4 @@ Owners: Xmonader
 - Zero CI (community effort, not actively maintained)
      - [Zero CI](https://github.com/threefoldtech/zeroCI)
      - [UI for our continuous Integration Server ZeroCI](https://github.com/threefoldtech/zeroci-ui)
-- [zos-update-worker](https://github.com/threefoldtech/zos-update-worker)
 
