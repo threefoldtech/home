@@ -21,11 +21,13 @@ our base operating system + storage + db _ network components
     * [cloud console](https://github.com/threefoldtech/cloud-console)
     * [cloud container](https://github.com/threefoldtech/cloud-container)
     * future zos work: https://github.com/threefoldtech/zos-rs  (rewrite certain components in rust)
-    * [zos-update-worker](https://github.com/threefoldtech/zos-update-worker)  updates zos images on the hub based on the DAO voting
+    * [zos-update-worker](https://github.com/threefoldtech/zos-update-worker) updates zos images on the hub based on the DAO voting
+    * [shim-logs](https://github.com/threefoldtech/shim-logs) to provide the enduser a way to get their container logs
 
 * webservices
     * [0-bootstrap](https://github.com/threefoldtech/0-bootstrap): This web service provides dynamic construction of iPXE scripts for booting and bootstrapping Zero-OS 
     * [0-hub](https://github.com/threefoldtech/0-hub): Everything needed to serve, upload, merge, and manage flists, as well as convert docker images to flists 
+    * [0-hub-gw](https://github.com/threefoldtech/0-hub-gw) Allows to protect backend Zero-DB for Hub uploads with protection.
 * storage components
     * 0-fs: The storage layer of our container and vm technology.
         * [rust implementation](https://github.com/threefoldtech/rfs)
@@ -48,7 +50,7 @@ our base operating system + storage + db _ network components
     * [webgw](https://github.com/threefoldtech/webgw) gateway between ipv4 and backend networks
 * supporting
     * [vbuilders](https://github.com/threefoldtech/vbuilders): builders for components as used in stack
-    * https://github.com/threefoldtech/zos-config
+    * [zos-config](https://github.com/threefoldtech/zos-config) global zos configurations for nodes on all networks
 
 Owner: azmy
 
@@ -82,12 +84,12 @@ Owner: Rob
     - [pulumi-provider-grid](https://github.com/threefoldtech/pulumi-provider-grid): pulumi automation layer
     - [terraform-provider-grid](https://github.com/threefoldtech/terraform-provider-grid) : terraform automation layer
 - browser
-    - [browser plugin to manage private key](https://github.com/threefoldtech/tf-wallet-connector-extension)    
+    - [browser plugin to manage private key](https://github.com/threefoldtech/tf-wallet-connector-extension)
  - python (outdated, not officially supported by TF)
      - [python framework for automation](https://github.com/threefoldtech/js-ng)
      - [python sdk](https://github.com/threefoldtech/js-sdk)
 
-Owners: Azmy, Hanafy
+Owners: Azmy, Xmonader
 
 ### TFConnect = our mobile app + identity management + kyc components
 
