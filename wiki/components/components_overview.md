@@ -61,6 +61,7 @@ our base operating system + storage + db _ network components
     * [zos-config](https://github.com/threefoldtech/zos-config) global zos configurations for nodes on all networks
     * [rPGP](https://github.com/threefoldtech/crpgp) rPGP bindings in rust
     * [tf-images](https://github.com/threefoldtech/tf-images) list of supported flists
+    * [coredns-redis](https://github.com/threefoldtech/coredns-redis) coredns redis plugin for dynamic DNS records
 
 Owner: azmy
 
