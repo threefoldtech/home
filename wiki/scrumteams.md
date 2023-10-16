@@ -31,6 +31,7 @@
   - Amira Abouhadid
   - Alaa Mahmoud
   - Ehab Hassan
+  - Omar Qassem
  
 ## Egypt QA
 
