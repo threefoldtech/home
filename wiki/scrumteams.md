@@ -2,11 +2,10 @@
 
 ## FreeFlow Foundation
   
-  - Lead: Rob
+  - Lead: Ashraf Fouda
   - Team:  
-    - Omar Kassem
-    - Ashraf Fouda
-    - Brandon Pille
+    - Mario Bassem
+    - Samar Adel
     - Maxime Daniel 
     - Timur Gordon
 
