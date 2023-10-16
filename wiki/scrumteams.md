@@ -16,7 +16,6 @@
 - Team:
   - Sameh Farouk
   - Erwan Renaut
-  - Mario Bassem
   - Rawda Gastan
   - Omar Abdulaziz
   - Eslam Nawara
