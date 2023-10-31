@@ -34,6 +34,10 @@ repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 version = "1.9.3-qa"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
+[pulumi]
+version = "0.4.0"
+repo = "https://github.com/threefoldtech/pulumi-threefold"
+
 
 
 [tfgrid-sdk-ts]
