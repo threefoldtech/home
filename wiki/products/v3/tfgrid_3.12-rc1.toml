@@ -6,6 +6,10 @@ version = ">=2.2.1"
 path="substrate-node"
 
 
+[[tfchain.services.bridge]]
+version = "2.6.0-rc1"
+path="bridge"
+
 [[tfchain.services.activationservice]]
 version = "2.6.0-rc1"
 path="activation-service"
