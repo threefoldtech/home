@@ -46,7 +46,9 @@ We should stick to the default template in github beta projects for ease of main
 
 You see how different products can be made up out of other products. It's up to the product manager to link the right components to it.
 
-
+##### Special 
+- Pending Review: Work is done, waiting for review; no need for daily progress updates.
+- Pending Deployment: If deployment is needed for QA testing on the staging instance.
 
 #### Labels
 
@@ -105,6 +107,7 @@ As soon as work is started on a different branch where a developer or a group of
 - well tested
 - well documented
 
+
 ### Releasing Process
 
 Before tagging a release, open a branch named with the intended version e.g 10.5.x with the quality level 
@@ -122,7 +125,6 @@ check the [release process document](release_process.md) for more information
 - stability issues 
 - performance is blocking if you can't continue
 - performance is major if you can continue
-
 
 
 ### Reporting
@@ -150,7 +152,7 @@ Link back to used circles on projects.threefold.me
 
 ## Link to Product Management
 
-- Kristof is owning product management, Sasha is helping to streamline the process
+- Kristof is owning product management
 - still need to define how we deal with specs
 
 ## What about testing?
@@ -158,3 +160,35 @@ Link back to used circles on projects.threefold.me
 - verification on a story is done in 2 steps : 
    - Story moved to verification once code complete
    - When relevant: Verification is done on story branch in case it hadn't been merged to the development branch and code moved to development when verification OK, regression testing is running automated with the ZeroCi and report should be green before release
+
+### Testplan
+
+- Testplan document needs to be provided covering scope, features, environment, resources, scenarios for everything that's tracked in the sprint, what to be automated, what needs to be done manually, .. etc. *THIS DOCUMENT IS WRITTEN BY QA LEAD ONLY*
+
+### QA Process
+
+- Daily standups
+- Weekly review of the progress
+- All of the issues after verification need to be closed *ONLY* by QA lead to ensure the deliverables are matching the testplan 
+- Testruns need to happen between environments and need to provide testrun report and schedule a meeting to go through failures to assess.
+
+### BAM (Bug Assessment Meeting)
+Needs to happen twice weekly, covering community feedback on `test_feedback` repo and all of the active projects.
+
+
+
+## Reporting issues
+We recommend this format, it helps with asynchronous communication.
+
+```
+Issue Update Format
+
+Work Completed:
+Provide a  summary of the tasks  that have been successfully finished in relation to the issue. Include specific details to ensure clarity.
+
+Work in Progress (WIP):
+Detail all ongoing efforts and remaining tasks related to this issue. Clearly outline the items that are currently being worked on and those that still need to be addressed.
+
+Investigation and Solution:
+If there has been no work completed or work in progress, elaborate on the investigative work undertaken to address the issue. Provide insights into the problem and, if a solution was reached, include it.
+```
