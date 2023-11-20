@@ -1,31 +1,57 @@
-# discipline
+# Professional Conduct
 
-To create a reliable product discipline is very important.
+Establishing a dependable and a reliable product requires a high level of discipline.
 
-## for threefold this means
+## Guidelines for ThreeFold Team Members
 
-- we have our profile filled in [team](/wiki/team/team.md) (as complete as kristof did)
-    - each user has a person page, mine is despiegk which has your details, coordinates, sshkey, ...
-    - make sure you are linked in the overview in team.md
-- in each person page: 
-    - we link to our projects where we are involved in and is active at this stage
-    - link to your assignments in the project(s) on github you are involved in (see [kristof](/wiki/team/despiegk.md))
-        - e.g. https://github.com/orgs/freeflowuniverse/projects/3/views/8?filterQuery=-status%3A%22%E2%9C%85+Done%22+assignee%3Adespiegk (note how to add assignee)
-        - this allows everyone to see immediately what you are working on
-        - if you have more than one project, make sure you list them all
-- on the projects in github where we are involved in
-    - we have all remaining work with a deadline & remaining hours (if in an active column e.g. in_progress)
-    - we have all issues/tasks we know of in the projects which are active (means in one of the active columns progress, ...)
-- we take responsibility on our own stories & tasks/issues
-    - you take responsibility: whatever you can’t do, you work with product owners/stakeholders and put it on next release, if you can’t get to them yet put in blocked column
-    - we have all stories we own properly defined and linked with proper label type_story and linked in right project
-    - we follow up on our stories we own and make sure that the issues linked to it are in the relevant project, specified, ...
-    - we respect our deadlines, if we can't make it we escalate
-- if we own a product we have our ownership well defined in [components list](https://github.com/threefoldtech/home/blob/master/wiki/components/components_overview.md) 
-- collaboration is not taken lightly
-    - we think before we do, we read before we run, we make sure we understand, if we don't we ask for help or clarifications
-    - we are part of a company, when there are company meetings or meetings important for our work we are there, if not we have a good reason and will listen to the zoom
-    - we work with our community and we are grateful for their contributions (forum, ...)
-    - we finish and get to good enough, before we do the next, we use comments on github issues, we communicate where needed
-    - i don't just do something because I am supposed to do something, rather than actually taking the time to process and do it properly, I realize if I do something half it has impact on people around me
+- **Complete Team Profiles:** Ensure your user profile in [teams directory](/wiki/team/) in the format of `$fist_last.md` is as comprehensive as Kristof's.
+  - Each user should have a personalized page, such as despiegk, containing relevant details, coordinates, SSH keys, etc.
+  - Ensure inclusion in the team.md overview.
 
+- **Link to Projects and Assignments:**
+  - On each person's page, provide links to the projects you are actively involved in.
+  - Link your assignments in the respective GitHub projects (refer to [Kristof's example](/wiki/team/despiegk.md)).
+    - Example: [GitHub Project Board](https://github.com/orgs/freeflowuniverse/projects/3/views/8?filterQuery=-status%3A%22%E2%9C%85+Done%22+assignee%3Adespiegk)
+    - This allows transparency regarding your ongoing work across multiple projects.
+
+- **Project Management:**
+  - For projects on GitHub, maintain up-to-date information:
+    - List all remaining work with deadlines and remaining hours, especially in active columns like 'in_progress.'
+    - Ensure all known issues/tasks in active projects are documented.
+
+- **Ownership of Stories & Tasks:**
+  - Take responsibility for your assigned stories and tasks.
+  - If unable to complete a task, collaborate with product owners/stakeholders, either pushing it to the next release or placing it in the 'blocked' column.
+  - Properly define and link all owned stories with the appropriate label (e.g., type_story) and link them to the correct project.
+  - Follow up on owned stories, ensuring linked issues are properly managed within the relevant project.
+
+- **Adherence to Deadlines:**
+  - Respect deadlines; if unable to meet them, escalate the matter promptly.
+
+- **Product Ownership:**
+  - If you own a product, clearly define your ownership in the [components list](https://github.com/threefoldtech/home/blob/master/wiki/components/components_overview.md).
+
+- **Collaboration Etiquette:**
+  - Approach collaboration with diligence:
+    - Think before acting, read before executing, and seek clarification when necessary.
+    - Attend company and work-related meetings unless a valid reason is communicated.
+    - Work harmoniously with the community, acknowledging and appreciating their contributions.
+    - Prioritize completion and excellence before moving on to the next task, utilizing GitHub issue comments and effective communication.
+    - Refrain from performing tasks merely out of obligation; instead, take the time to execute them thoroughly, recognizing that incomplete work impacts those around you.
+
+## Reporting updates
+
+We recommend this format, it helps with asynchronous communication.
+
+```
+Issue Update Format
+
+Work Completed:
+Provide a  summary of the tasks  that have been successfully finished in relation to the issue. Include specific details to ensure clarity.
+
+Work in Progress (WIP):
+Detail all ongoing efforts and remaining tasks related to this issue. Clearly outline the items that are currently being worked on and those that still need to be addressed.
+
+Investigation and Solution:
+If there has been no work completed or work in progress, elaborate on the investigative work undertaken to address the issue. Provide insights into the problem and, if a solution was reached, include it.
+```

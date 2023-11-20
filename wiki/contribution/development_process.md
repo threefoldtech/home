@@ -1,58 +1,57 @@
 # Development Process
 
-The development process of our projects is agile, collaborative and above all, respectful. We believe in the ingenuity of the people and that everyone has invaluable input to our codebase.
+Our project development process is characterized by agility, collaboration, and, most importantly, respect. We firmly believe in harnessing the collective ingenuity of our team, recognizing that each individual contributes invaluable insights to our codebase, our development process is completely managed on Github, using Github based projects.
 
-**Github project based**
+## Product Definition on Home
 
-## Product defined on Home  
+To streamline our development workflow, we have adopted the GitHub-style projects framework, with all repositories linked to the ThreeFold Grid (tfgrid) product (e.g., version 3.6.0).
 
+- Various views, such as StoryCards for a high-level overview, repository-specific views, and prioritized views, enhance project visibility.
+- All repositories are managed within a centralized project, ensuring unified control and coordination.
+- Milestones, aligned with semantic versioning, serve as a means to categorize and organize issues, providing versioning per component.
+- Each product is clearly outlined in a dedicated project section within the "home" repository.
+- The home page in the home repository serves as a hub linking to individual product pages.
+- Products are associated with relevant components slated for the upcoming release.
+- Components are distinctly identified by version numbers, corresponding to one (or occasionally more) GitHub repositories. The repository projects showcase the next release.
+- Product release milestones are clearly marked on the product page.
+- Release notes, accessible through each product, offer a historical overview with links to specific components used in each release.
+- Interlinked relationships between products and components, as well as links to third-party products with specified version numbers, provide comprehensive tracking.
+- Components are meticulously monitored within the same product project.
+- A commitment to [semantic versioning](https://semver.org) is mandated for all components.
 
-We are using new github style projects to manage the development process, all repos are linked against tfgrid product e.g 3.6.0
+## The used columns
 
-- You can have different views e.g StoryCards only view for Highlevel overview, a view by repositories, priorities
-- We will drive all repos from that one project
-- We should use milestones (semantic version to sort out the issues) = versioning per component
-- Each product is defined on a project section in the "home" repo
-- The home page in the home repo links to the product pages
-- Each product is linked to components which are relevant for the next release
-- Each component is clearly defined by a version nr. That component corresponds with 1 (exceptional more) Github repo's, where repo projects show the next release. The common release linked to the product release is marked on the product page in clear ways.
-- Each product links to release notes which show history and per release (note) there are links to the components as used at that point
-- A product can link to another product too which then links to the component!
-- A product can link to a 3rd party product; also there specify the used version nrs
-- Components are also tracked on the same product project
-- All components need to use [semantic versioning](https://semver.org)
+When creating a new project, please use the [grid template project](https://github.com/orgs/threefoldtech/projects/205)
 
-
-## The used swimlanes:
-We should stick to the default template in github beta projects for ease of maintenance and for consistency
-
-- `No Status` 
-    - Stakeholder or project owner suggests a feature/story/bug to be resolved in this release
+- `No Status`
+  - Stakeholder or project owner suggests a feature/story/bug to be resolved in this release
 - `Accepted`
-    - The project owner accepts the item, the issue will be worked on and he commits to solve within the release
-    - Once accepted = then escalation is needed if it can not be done in time
+  - The project owner accepts the item, the issue will be worked on and he commits to solve within the release
+  - Once accepted = then escalation is needed if it can not be done in time
 - `In progress`
-    - The issue is being worked on
-- `Blocked`       
-    - We are using the Kanban way of thinking - something in this swimlane needs to be resolved asap, can be e.g. a question
-    - Means issue cannot be completed, attention from e.g. stakeholders is needed
+  - The issue is being worked on
+- `Blocked`
+  - We are using the Kanban way of thinking - something in this swimlane needs to be resolved asap, can be e.g. a question
+  - Means issue cannot be completed, attention from e.g. stakeholders is needed
 - `Verification`        : work is being verified
-    - The team delivered the feature/bug/story
-    - Stakeholders need to agree that the issue has been resolved appropriately
-    - Project owner can never go from 'Verification' to 'Done' without approval from stakeholders (often represented by QA team)
+  - The team delivered the feature/bug/story
+  - Stakeholders need to agree that the issue has been resolved appropriately
+  - Project owner can never go from 'Verification' to 'Done' without approval from stakeholders (often represented by QA team)
 - `Done`
-    - Everyone agreed (project owner and stakeholders) agreed that the issue was done ok
-
+  - Everyone agreed (project owner and stakeholders) agreed that the issue was done ok
 
 You see how different products can be made up out of other products. It's up to the product manager to link the right components to it.
 
-##### Special 
-- Pending Review: Work is done, waiting for review; no need for daily progress updates.
-- Pending Deployment: If deployment is needed for QA testing on the staging instance.
+##### Special columns
+
+Some projects require special columns like the following
+
+- `Pending Review`: Work is done, waiting for review; no need for daily progress updates.
+- `Pending Deployment`: If deployment is needed for QA testing on the staging instance.
 
 #### Labels
 
-see [issue labels](issue_labels.md)
+See [issue labels](issue_labels.md)
 
 #### Branch Names in Title
 
@@ -66,7 +65,7 @@ We use milestones for version numbers e.g `1.4.2` means this issue is going to b
 > It's very important that nobody works on any issue in milestones not part of the global project plan
 
 - No milestone means need to be sorted
-- Number e.g `1.4.2` means 
+- Number e.g `1.4.2` means
 
 So issues with no milestones can only be in 1 condition: new and not sorted out yet where (repo) it belongs
 
@@ -74,43 +73,103 @@ So issues with no milestones can only be in 1 condition: new and not sorted out 
 
 We encourage collaborative branching. Meaning any group of people working within the same scope are highly encouraged to work on the same branch, trusting and communicating with one another.
 
-Our branching strategy is: 
+Our branching strategy is:
 
 - `master` is the last stable release
 - `master_$hotfix` is only for solving BLOCKING issues which are in the field on the last release
-    - short living
+  - short living
 - `development` is where all stories branch from, and the one that has hotfixes if needed
 - `development_$storyname`
-    - branch for a story
-    - always updated from development(_hotfixes)
+  - branch for a story
+  - always updated from development(_hotfixes)
 - `development_$storyname_$reviewname`
-    - short living branch for when reviews are needed for a story
+  - short living branch for when reviews are needed for a story
 - `development_hotfixes` short living hotfix(es) to allow people to review and then put on development
-    - now everyone should update from or development or development_hotfixes
-    - development_hotfixes is always newer than development
+  - now everyone should update from or development or development_hotfixes
+  - development_hotfixes is always newer than development
 - `integration` is a branch used to integrate development branches
-    - never develop on it, its for verifying & doing tests
+  - never develop on it, its for verifying & doing tests
 
 We have branches for new features/disruptive changes. These have a prefix of `development_<relevantname>`
 
 Each project and story should define which branches to use & the branching strategy.
 
 There should never be any branch on the system which can not be found back by looking at the stories in the `home` repo.
-Title of the story : in between [] 
+Title of the story : in between []
 
+### Issues
+
+Consider the following for Effective Issue Reporting
+
+1. **Title:**
+   - Provide a clear and concise title that summarizes the issue.
+
+2. **Description:**
+   - Offer a detailed description of the issue, including what you expected to happen and what actually occurred.
+   - Provide steps to reproduce the issue, if possible.
+   - Include any error messages received.
+
+3. **Environment:**
+   - Specify the environment in which the issue occurred (e.g., operating system, browser, version).
+
+4. **Attachments:**
+   - Attach relevant files or screenshots to help visualize the problem.
+
+5. **Issue Type:**
+   - Label the issue with an appropriate type (e.g., bug, feature request, question).
+
+6. **Priority:**
+   - If applicable, assign a priority level to indicate the urgency of the issue.
+
+7. **Version Information:**
+   - Include information about the version of the software or application where the issue was encountered.
+
+8. **Labels:**
+   - Apply relevant labels to categorize the issue (e.g., priority levels, type of issue).
+
+9. **Reproducibility:**
+   - Clearly state whether the issue is reproducible and under what conditions.
+
+10. **Additional Context:**
+    - Provide any additional context that might help in understanding and addressing the issue.
+
+11. **Assigned:**
+    - If known, assign the issue to the responsible team member or developer.
+
+12. **Discussion:**
+    - Engage in discussions with the development team and other stakeholders to gather insights and potential solutions.
+
+By following these guidelines, you contribute to a more efficient issue resolution process, enabling developers and the team to address concerns promptly and effectively.
 
 ### Pull Requests
 
-As soon as work is started on a different branch where a developer or a group of developers want their peers' opinions, they can immediately open a `draft pull request` for ease of communication. When they deem the work is done, they open a pull request signifying the work is 
+When developers or a group initiate work on a separate branch and seek input from their peers, it is recommended to promptly open a `draft pull request` for seamless communication. Upon completion of the work, opening a pull request signals that the work is:
 
-- complete as defined in the project
-- well tested
-- well documented
+- Complete as Defined in the Project: The work aligns with the predefined goals and specifications outlined in the project.
+- Well Tested: Thorough testing has been conducted to ensure the reliability and functionality of the code.
+- Well Documented: Comprehensive documentation accompanies the code, aiding in understanding and future maintenance.
 
+#### Pull Requests Best Practices
+
+When creating pull requests (PRs), adhere to the following best practices for effective collaboration:
+
+- Early Draft PRs: Open a draft pull request as soon as work begins on a different branch. This allows for ongoing communication and collaboration with peers throughout the development process.
+- Timely Updates: Regularly update the PR as new changes are made to keep reviewers informed of progress.
+- Clear and Concise Title: Use a clear and concise title that summarizes the purpose or goal of the pull request.
+- Detailed Description: Provide a comprehensive description of the changes made, the problem solved, and any relevant context. This aids reviewers in understanding the purpose and impact of the changes.
+- Link to Issues: If the pull request addresses specific issues, link them to provide additional context and traceability.
+- Reviewers and Assignees: Assign the appropriate reviewers and, if applicable, assignees to ensure that the right people are involved in the review process.
+- Complete Work: Ensure that the work is complete as defined in the project requirements. Address any outstanding issues before marking the PR as ready for review.
+- Thorough Testing: Verify that the code has undergone thorough testing. Include details about the testing strategy and results in the PR description.
+- Documentation: Confirm that the changes are well-documented. Documentation should not only explain how the code works but also guide future developers on its usage and maintenance.
+- Address Feedback: Be responsive to feedback from reviewers. Address comments and concerns promptly to facilitate a smooth review process.
+- Code Style and Standards: Ensure that the code follows established style guidelines and coding standards. Consistent formatting contributes to maintainability.
+- Status Checks: Ensure that automated status checks, such as continuous integration (CI) tests, pass successfully before merging.
+By adhering to these best practices, you contribute to a collaborative and efficient development process, fostering a culture of high-quality code and effective communication within the team.
 
 ### Releasing Process
 
-Before tagging a release, open a branch named with the intended version e.g 10.5.x with the quality level 
+Before tagging a release, open a branch named with the intended version e.g 10.5.x with the quality level
     - alpha: doesn't have all the features, but you can use the features in there
     - beta: no major, or blocking bugs. All features working for the customer as promised, no blocking bugs
     - production: no major, no blocking, no minor bugs and the documentation is ready
@@ -119,76 +178,121 @@ check the [release process document](release_process.md) for more information
   
 #### Blocking
 
-- customer can't get to the functionality described in the manual
-- stability when it crashes is blocking
-- security issues are blocking 
-- stability issues 
-- performance is blocking if you can't continue
-- performance is major if you can continue
+Issues categorized as blockers include:
 
+- Inability of the customer to access the functionality as described in the manual.
+- Stability concerns that impede progress, particularly instances where the system crashes.
+- Security issues that act as barriers to further development.
+- Stability issues that hinder smooth operation.
+- Performance concerns labeled as blockers when they prevent continuation.
+- Performance issues classified as major when they allow for continued work.
 
-### Reporting
+#### Progress Reporting
 
-Complete transparency is very important in teams that work remotely.
+In teams operating remotely, complete transparency is of utmost importance.
 
-The development progress needs to be highly visible through the storycards and issues.
+Visibility into development progress is crucial and is best achieved through the use of storycards and issues.
 
-This is why commenting each day is critical to our process.
+To facilitate clear communication, commenting daily is a critical aspect of our process. We advocate for the following format, which aids in asynchronous communication:
 
-If an issue/story has `priority_critical` it means that the stakeholders need continuous updates of the progress, so a minimum of twice/day update is required.
+```
 
-ETA should always be part of the comment. It's an estimation so it can vary with new findings but it's a good way to project completeness.
+## Work Completed:
+Summarize the tasks successfully finished in relation to the issue. Provide specific details to ensure clarity.
 
+## Work in Progress (WIP):
+Detail ongoing efforts and remaining tasks related to this issue. Clearly outline items currently being worked on and those still needing attention.
+
+## Investigation and Solution:
+If no work has been completed or is in progress, elaborate on the investigative work undertaken to address the issue. Provide insights into the problem, and if a solution was reached, include it.
+```
+
+For issues or stories labeled with `priority_critical`, continuous updates should be at least two updates per day to keep stakeholders informed.
+
+Including an Estimated Time of Arrival (ETA) in the comments is essential. While it serves as an estimation subject to change with new findings, it provides a valuable projection of completion.
 
 ### Home Repo
 
-Home repo is a specific one, it's the starting point of all development.
+Home repo serves a special role in the organization, it's the starting point of all development.
 
-It links to all products & components
-Link back to used circles on projects.threefold.me
-
+- It links to all products & components
+- Links back to used circles on projects.threefold.me
 - DO NOT PUT `type_bug` / `type_feature` / `type_question` tags here
-- Put only stories, identified with tag `type_story` here 
+- Put only stories, identified with tag `type_story` here
 
-## Link to Product Management
+# Quality Assurance (QA) Process
 
-- Kristof is owning product management
-- still need to define how we deal with specs
+QA plays a crucial role in delivering high-quality software. This document outlines responsibilities, expectations, and best practices.
 
-## What about testing?
+## QA Responsibilities
 
-- verification on a story is done in 2 steps : 
-   - Story moved to verification once code complete
-   - When relevant: Verification is done on story branch in case it hadn't been merged to the development branch and code moved to development when verification OK, regression testing is running automated with the ZeroCi and report should be green before release
+### Daily Standups
+
+- Attend daily standups for progress updates, issue discussions, and coordination.
+
+### Provide Test Plans
+
+- Collaborate on test plans for each sprint.
+
+### Test Execution
+
+- Execute test plans manually and through automated testing.
+- Log and prioritize defects.
+- Track nightly tests.
+
+### Test Documentation
+
+- Maintain updated test documentation.
+
+### Verification and Closure
+
+- Verify issues and user stories before closure.
+
+### Cross-Environment Testing
+
+- Conduct test runs across different environments.
+
+### Bug Assessment Meetings (BAM)
+
+- Conduct BAM sessions twice weekly to address community feedback, covering both `test_feedback` repository and active projects.
+
+### Additional Testing Types
+
+- Expand responsibilities to include various testing types such as:
+  - Performance testing
+  - Security testing
+  - Compatibility testing
+  - Usability testing
+  - Regression testing
+
+## Expectations for QA Leads
+
+### Test Planning
+
+- Lead the creation of detailed test plans.
+
+### Test Strategy
+
+- Define a testing strategy, emphasizing automation.
+
+### Review and Closure
+
+- Review and close issues, ensuring alignment with the test plan.
+
+### Communication
+
+- Facilitate communication between QA and development teams.
+
+## QA Verification and Testing
 
 ### Testplan
 
-- Testplan document needs to be provided covering scope, features, environment, resources, scenarios for everything that's tracked in the sprint, what to be automated, what needs to be done manually, .. etc. *THIS DOCUMENT IS WRITTEN BY QA LEAD ONLY*
+- Provide a comprehensive test plan, authored exclusively by the QA lead that serves as the source of truth for the verification process
 
-### QA Process
+### Verification Process
 
-- Daily standups
-- Weekly review of the progress
-- All of the issues after verification need to be closed *ONLY* by QA lead to ensure the deliverables are matching the testplan 
-- Testruns need to happen between environments and need to provide testrun report and schedule a meeting to go through failures to assess.
-
-### BAM (Bug Assessment Meeting)
-Needs to happen twice weekly, covering community feedback on `test_feedback` repo and all of the active projects.
-
-
-
-## Reporting issues
-We recommend this format, it helps with asynchronous communication.
-
-```
-Issue Update Format
-
-Work Completed:
-Provide a  summary of the tasks  that have been successfully finished in relation to the issue. Include specific details to ensure clarity.
-
-Work in Progress (WIP):
-Detail all ongoing efforts and remaining tasks related to this issue. Clearly outline the items that are currently being worked on and those that still need to be addressed.
-
-Investigation and Solution:
-If there has been no work completed or work in progress, elaborate on the investigative work undertaken to address the issue. Provide insights into the problem and, if a solution was reached, include it.
-```
+- Verify stories in a two-step process
+  - As soon as the story is moved to In Verification column, QA team can pickup the issue, they need to log their scenarios, executions and link to the testcase in the testplan.
+  - QA lead can then verify it's aligned to the original requirements and it was properly verified before closing
+- QA leads need to test the main features by themselves.
+- Automate regression testing through github workflows, and any other means needed.

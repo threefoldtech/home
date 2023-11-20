@@ -29,3 +29,8 @@ Mainnet:
  - if testnet has no blockers for 2 weeks, community votes to move to mainnet
  - everything is merged to main
  - final release is tagged (example: 10.2.3)
+
+
+
+## GOAL:
+moving away from that model to be able to use ephermal environments instead of maintaining such environments, but now they're available for simplicity 
