@@ -167,6 +167,69 @@ When creating pull requests (PRs), adhere to the following best practices for ef
 - Status Checks: Ensure that automated status checks, such as continuous integration (CI) tests, pass successfully before merging.
 By adhering to these best practices, you contribute to a collaborative and efficient development process, fostering a culture of high-quality code and effective communication within the team.
 
+### Commits
+
+Clear and informative commit messages are essential for understanding the history of a project. Follow these guidelines to create meaningful commit messages.
+
+## Message Structure
+
+### Header
+
+- Start with a concise one-line summary
+- Use present-tense verbs (e.g., "Add," "Fix," "Update") to describe the action.
+
+### Body
+
+- Optionally, provide a more detailed explanation.
+- Break long explanations into bullet points if needed.
+
+## Be Descriptive
+
+- Clearly describe the purpose of the commit.
+- Include information about why the change is necessary.
+
+## Reference Issues
+
+- If the commit is related to an issue, reference it in the message.
+- Use keywords like "Fixes," "Closes," or "Resolves."
+
+## Consistency
+
+- Be consistent with your writing style and formatting.
+- Use the imperative mood consistently throughout.
+
+## Examples
+
+### Good Example
+
+Here's a good example of a commit message
+```
+Add user authentication feature
+
+- Implement user login functionality
+- Enhance user registration form
+- Fixes #123
+```
+
+### Bad Example
+
+```
+Changes
+- Bug fix
+- Update
+- Important changes
+```
+
+### Merge or Rebase
+
+If you're the sole developer on the branch, you can use rebase, if more people are collaborating together, use merge
+
+### Merge or Squash merge
+
+Squash only when it makes the history cleaner. Feature branch is a good example, because it is often short-lived, small, and authored by 1 developer.
+
+On the other hand, use regular merge for big feature co-authored by multiple developers eg. long-lived branches, please be aware of the [Disadvantages of squash merges](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/about-merge-methods-on-github#squashing-your-merge-commits)
+
 ### Releasing Process
 
 Before tagging a release, open a branch named with the intended version e.g 10.5.x with the quality level
