@@ -4,6 +4,13 @@ Our project development process is characterized by agility, collaboration, and,
 
 ## Product Definition on Home
 
+
+`Home` repo serves a special role in the organization, it's the starting point of all development.
+
+- It links to all products & components
+- Put only stories, identified with tag `type_story` in the home repo
+
+
 To streamline our development workflow, we have adopted the GitHub-style projects framework, with all repositories linked to the ThreeFold Grid (tfgrid) product (e.g., version 3.6.0).
 
 - Various views, such as StoryCards for a high-level overview, repository-specific views, and prioritized views, enhance project visibility.
@@ -313,14 +320,7 @@ For issues or stories labeled with `priority_critical`, continuous updates shoul
 
 Including an Estimated Time of Arrival (ETA) in the comments is essential. While it serves as an estimation subject to change with new findings, it provides a valuable projection of completion.
 
-### Home Repo
 
-Home repo serves a special role in the organization, it's the starting point of all development.
-
-- It links to all products & components
-- Links back to used circles on projects.threefold.me
-- DO NOT PUT `type_bug` / `type_feature` / `type_question` tags here
-- Put only stories, identified with tag `type_story` here
 
 # Quality Assurance (QA) Process
 
