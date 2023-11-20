@@ -1,23 +1,24 @@
-# Labels as used on issues
+# Issue Labels Usage Guidelines
 
-Please do not use any other labels
+Kindly refrain from using labels other than the specified ones.
 
-## Priority-based
+## Priority-based Labels
 
-- `priority_critical`: means it needs to fixed/implemented NOW, with a maximum of the day itself
-    - If for any reason the developer feels this is unachievable, they must immediately escalate.
-    - critical basically means, no-one goes home (sleeps), untill its fixed, only use this for things which are blocking to that point.
-- `priority_major`: means it is very urgent. should be fixed/implemented with minimal time (usually up to 3 days, but should be 1-2 days normally max). 
-    - If for any reason the developer feels this is unachievable, they must immediately escalate.
-- Anything with no labels is 
-    - or in swimlane `to start`, means we don't work on it this week
-    - or in swimlane `in progress`, which means its finished this week
-    - or in swimlane `blocked`, means to be resolved in 1-2 days
-- `priority_minor`: put at back of sprint cycle
+- `priority_critical`: This label indicates that the issue requires immediate attention, with a maximum resolution timeframe of the same day.
+    - If the assigned developer deems this timeline unachievable, they must escalate the issue immediately.
+    - The term "critical" implies that the resolution is of utmost urgency, and everyone involved should prioritize it until it is resolved.
 
-## Types
+- `priority_major`: This label designates issues that are very urgent and should be addressed within a minimal timeframe, typically within 1-2 days but no more than 3 days.
+    - If the developer anticipates challenges in meeting this timeframe, they are required to escalate the issue promptly.
+- `priority_minor`: Issues labeled as such are given a lower priority and are typically positioned towards the end of the sprint cycle.
+
+## Types Labels
 
 - `type_bug`
 - `type_feature`
 - `type_question`
-- `type_story`: used to distinguish storycards; usually an overview of a usecase we want to achieve
+- `type_story`: This label is used to distinguish story cards, providing an overview of a use case the team aims to achieve.
+
+### For monorepos
+
+Repository owners are free to create labels per component in the monorepo for easier repo management
