@@ -19,9 +19,12 @@ To streamline our development workflow, we have adopted the GitHub-style project
 - Components are meticulously monitored within the same product project.
 - A commitment to [semantic versioning](https://semver.org) is mandated for all components.
 
-## The used columns
+## Github Project
 
 When creating a new project, please use the [grid template project](https://github.com/orgs/threefoldtech/projects/205)
+
+
+### Github project columns
 
 - `No Status`
   - Stakeholder or project owner suggests a feature/story/bug to be resolved in this release
@@ -40,62 +43,48 @@ When creating a new project, please use the [grid template project](https://gith
 - `Done`
   - Everyone agreed (project owner and stakeholders) agreed that the issue was done ok
 
-You see how different products can be made up out of other products. It's up to the product manager to link the right components to it.
 
-##### Special columns
+##### Project Special Columns
 
 Some projects require special columns like the following
 
 - `Pending Review`: Work is done, waiting for review; no need for daily progress updates.
 - `Pending Deployment`: If deployment is needed for QA testing on the staging instance.
 
-#### Labels
 
-See [issue labels](issue_labels.md)
+### Repository
 
-#### Branch Names in Title
+Creating a repository involves establishing a foundation for collaborative development. Follow these guidelines to ensure consistency and best practices in repository creation.
 
-Each issue has the name of a branch in the title as [development_something], the name 'development' can be skipped and its the default or previous could also be written as [something] but don't forget branch is development_...
-If not specified, it is to be fixed/developed on development.
+#### Naming
 
-#### Milestones for Issues
+- Choose a clear and descriptive name for the repository.
+- Use lowercase letters and hyphens for improved readability.
 
-We use milestones for version numbers e.g `1.4.2` means this issue is going to be part of the release of `1.4.2` of the component.
+#### README
 
-> It's very important that nobody works on any issue in milestones not part of the global project plan
+- Include a comprehensive README.md file.
+- Provide essential information about the project, including setup instructions, dependencies, and usage guidelines.
 
-- No milestone means need to be sorted
-- Number e.g `1.4.2` means
+#### License
 
-So issues with no milestones can only be in 1 condition: new and not sorted out yet where (repo) it belongs
+- Include a LICENSE file specifying the project's licensing terms, threefoldtech is using [Apache2 License](../templates/LICENSE).
 
-## Branching
+#### Github Templates
 
-We encourage collaborative branching. Meaning any group of people working within the same scope are highly encouraged to work on the same branch, trusting and communicating with one another.
+- Use github templates to provide proper template for issues [bug_report](../templates/.github/ISSUE_TEMPLATE/bug_report.md) or [feature request](../templates/.github/ISSUE_TEMPLATE/feature_request.md)
+- Use github templates to provide proper template for [pull requests](../templates/.github/PULL_REQUEST_TEMPLATE.md)
 
-Our branching strategy is:
+#### Expected Workflows
 
-- `master` is the last stable release
-- `master_$hotfix` is only for solving BLOCKING issues which are in the field on the last release
-  - short living
-- `development` is where all stories branch from, and the one that has hotfixes if needed
-- `development_$storyname`
-  - branch for a story
-  - always updated from development(_hotfixes)
-- `development_$storyname_$reviewname`
-  - short living branch for when reviews are needed for a story
-- `development_hotfixes` short living hotfix(es) to allow people to review and then put on development
-  - now everyone should update from or development or development_hotfixes
-  - development_hotfixes is always newer than development
-- `integration` is a branch used to integrate development branches
-  - never develop on it, its for verifying & doing tests
+- Set up a continuous integration (CI) pipeline using a tool like GitHub Actions.
+- Include linting, tests and code quality checks in the CI process.
+- Set up automation to deployment on staging, and production server
+- Building docker images
+- Building flists
+- Pushing to the hub
+- Publishing packages
 
-We have branches for new features/disruptive changes. These have a prefix of `development_<relevantname>`
-
-Each project and story should define which branches to use & the branching strategy.
-
-There should never be any branch on the system which can not be found back by looking at the stories in the `home` repo.
-Title of the story : in between []
 
 ### Issues
 
@@ -140,6 +129,56 @@ Consider the following for Effective Issue Reporting
     - Engage in discussions with the development team and other stakeholders to gather insights and potential solutions.
 
 By following these guidelines, you contribute to a more efficient issue resolution process, enabling developers and the team to address concerns promptly and effectively.
+
+#### Issue Labels
+
+See [issue labels](issue_labels.md)
+
+
+#### Branch Names in Issue titles
+
+Each issue has the name of a branch in the title as [development_something], the name 'development' can be skipped and its the default or previous could also be written as [something] but don't forget branch is development_...
+If not specified, it is to be fixed/developed on development.
+
+#### Milestones for Issues
+
+We use milestones for version numbers e.g `1.4.2` means this issue is going to be part of the release of `1.4.2` of the component.
+
+> It's very important that nobody works on any issue in milestones not part of the global project plan
+
+- No milestone means need to be sorted
+- Number e.g `1.4.2` means
+
+So issues with no milestones can only be in 1 condition: new and not sorted out yet where (repo) it belongs
+
+### Branching
+
+We encourage collaborative branching. Meaning any group of people working within the same scope are highly encouraged to work on the same branch, trusting and communicating with one another.
+
+Our branching strategy is:
+
+- `master` is the last stable release
+- `master_$hotfix` is only for solving BLOCKING issues which are in the field on the last release
+  - short living
+- `development` is where all stories branch from, and the one that has hotfixes if needed
+- `development_$storyname`
+  - branch for a story
+  - always updated from development(_hotfixes)
+- `development_$storyname_$reviewname`
+  - short living branch for when reviews are needed for a story
+- `development_hotfixes` short living hotfix(es) to allow people to review and then put on development
+  - now everyone should update from or development or development_hotfixes
+  - development_hotfixes is always newer than development
+- `integration` is a branch used to integrate development branches
+  - never develop on it, its for verifying & doing tests
+
+We have branches for new features/disruptive changes. These have a prefix of `development_<relevantname>`
+
+Each project and story should define which branches to use & the branching strategy.
+
+There should never be any branch on the system which can not be found back by looking at the stories in the `home` repo.
+Title of the story : in between []
+
 
 ### Pull Requests
 
