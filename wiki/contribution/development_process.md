@@ -19,7 +19,6 @@ To streamline our development workflow, we have adopted the GitHub-style project
 - Each product is clearly outlined in a dedicated project section within the "home" repository.
 - The home page in the home repository serves as a hub linking to individual product pages.
 - Products are associated with relevant components slated for the upcoming release.
-- Components are distinctly identified by version numbers, corresponding to one (or occasionally more) GitHub repositories. The repository projects showcase the next release.
 - Product release milestones are clearly marked on the product page.
 - Release notes, accessible through each product, offer a historical overview with links to specific components used in each release.
 - Interlinked relationships between products and components, as well as links to third-party products with specified version numbers, provide comprehensive tracking.
