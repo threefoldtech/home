@@ -1,0 +1,61 @@
+[tfchain]
+version = "2.6.0-rc1"
+repo = "https://github.com/threefoldtech/tfchain"
+[[tfchain.services.node]]
+version = ">=2.2.1"
+path="substrate-node"
+
+
+[[tfchain.services.bridge]]
+version = "2.6.0-rc1"
+path="bridge"
+
+[[tfchain.services.activationservice]]
+version = "2.6.0-rc1"
+path="activation-service"
+
+[tfchain_client_js]
+version = "2.6.0-rc1"
+repo = "https://github.com/threefoldtech/tfchain"
+
+[tfchain_graphl]
+version = "2.11.3"
+repo = "https://github.com/threefoldtech/tfchain_graphql"
+
+[zos]
+version = "3.9.0-qa2"
+repo = "https://github.com/threefoldtech/zos"
+
+[tfgrid-sdk-go]
+version = "0.11.4"
+repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
+
+[gridproxy]
+version = "0.11.4"
+repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
+
+[terraform]
+version = "1.9.3-qa"
+repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
+
+[pulumi]
+version = "0.4.0"
+repo = "https://github.com/threefoldtech/pulumi-threefold"
+
+
+
+[tfgrid-sdk-ts]
+version = "2.2.0-rc2"
+repo = "https://github.com/threefoldtech/tfgrid-sdk-ts"
+[[tfgrid-sdk-ts.services.dashboard]]
+path="packages/dashboard"
+[[tfgrid-sdk-ts.services.weblets]]
+path="packages/weblets"
+[[tfgrid-sdk-ts.services.playground]]
+path="packages/playground"
+[[tfgrid-sdk-ts.services.stats]]
+path="packages/stats"
+
+[rmb]
+version="1.1.1"
+repo="https://github.com/threefoldtech/rmb-rs"
