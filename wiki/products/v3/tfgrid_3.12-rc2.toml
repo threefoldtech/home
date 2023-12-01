@@ -18,7 +18,7 @@ path="activation-service"
 version = "2.6.0-rc1"
 repo = "https://github.com/threefoldtech/tfchain"
 
-[tfchain_graphl]
+[tfchain_graphql]
 version = "2.11.3"
 repo = "https://github.com/threefoldtech/tfchain_graphql"
 
