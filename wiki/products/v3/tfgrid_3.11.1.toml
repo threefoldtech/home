@@ -19,7 +19,7 @@ version = "2.11.2"
 repo = "https://github.com/threefoldtech/tfchain_graphql"
 
 [zos]
-version = "3.8.5"
+version = "3.8.6"
 repo = "https://github.com/threefoldtech/zos"
 
 [tfgrid-sdk-go]
