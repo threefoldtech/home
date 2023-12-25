@@ -4,12 +4,10 @@ Our project development process is characterized by agility, collaboration, and,
 
 ## Product Definition on Home
 
-
 `Home` repo serves a special role in the organization, it's the starting point of all development.
 
 - It links to all products & components
 - Put only stories, identified with tag `type_story` in the home repo
-
 
 To streamline our development workflow, we have adopted the GitHub-style projects framework, with all repositories linked to the ThreeFold Grid (tfgrid) product (e.g., version 3.6.0).
 
@@ -29,7 +27,6 @@ To streamline our development workflow, we have adopted the GitHub-style project
 
 When creating a new project, please use the [grid template project](https://github.com/orgs/threefoldtech/projects/205)
 
-
 ### Github project columns
 
 - `No Status`
@@ -42,21 +39,21 @@ When creating a new project, please use the [grid template project](https://gith
 - `Blocked`
   - We are using the Kanban way of thinking - something in this swimlane needs to be resolved asap, can be e.g. a question
   - Means issue cannot be completed, attention from e.g. stakeholders is needed
-- `Verification`        : work is being verified
+- `Verification`
+  - Work is being verified
   - The team delivered the feature/bug/story
   - Stakeholders need to agree that the issue has been resolved appropriately
   - Project owner can never go from 'Verification' to 'Done' without approval from stakeholders (often represented by QA team)
+  - If the issue hasn't been resolved, it should go back to 'Accepted'
 - `Done`
   - Everyone agreed (project owner and stakeholders) agreed that the issue was done ok
 
-
-##### Project Special Columns
+#### Project Special Columns
 
 Some projects require special columns like the following
 
 - `Pending Review`: Work is done, waiting for review; no need for daily progress updates.
 - `Pending Deployment`: If deployment is needed for QA testing on the staging instance.
-
 
 ### Repository
 
@@ -90,7 +87,6 @@ Creating a repository involves establishing a foundation for collaborative devel
 - Building flists
 - Pushing to the hub
 - Publishing packages
-
 
 ### Issues
 
@@ -140,7 +136,6 @@ By following these guidelines, you contribute to a more efficient issue resoluti
 
 See [issue labels](issue_labels.md)
 
-
 #### Branch Names in Issue titles
 
 Each issue has the name of a branch in the title as [development_something], the name 'development' can be skipped and its the default or previous could also be written as [something] but don't forget branch is development_...
@@ -184,7 +179,6 @@ Each project and story should define which branches to use & the branching strat
 
 There should never be any branch on the system which can not be found back by looking at the stories in the `home` repo.
 Title of the story : in between []
-
 
 ### Pull Requests
 
@@ -248,7 +242,8 @@ Clear and informative commit messages are essential for understanding the histor
 ### Good Example
 
 Here's a good example of a commit message
-```
+
+```txt
 Add user authentication feature
 
 - Implement user login functionality
@@ -258,7 +253,7 @@ Add user authentication feature
 
 ### Bad Example
 
-```
+```txt
 Changes
 - Bug fix
 - Update
@@ -303,7 +298,7 @@ Visibility into development progress is crucial and is best achieved through the
 
 To facilitate clear communication, commenting daily is a critical aspect of our process. We advocate for the following format, which aids in asynchronous communication:
 
-```
+```md
 
 ## Work Completed:
 Summarize the tasks successfully finished in relation to the issue. Provide specific details to ensure clarity.
@@ -318,8 +313,6 @@ If no work has been completed or is in progress, elaborate on the investigative 
 For issues or stories labeled with `priority_critical`, continuous updates should be at least two updates per day to keep stakeholders informed.
 
 Including an Estimated Time of Arrival (ETA) in the comments is essential. While it serves as an estimation subject to change with new findings, it provides a valuable projection of completion.
-
-
 
 # Quality Assurance (QA) Process
 
