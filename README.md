@@ -7,7 +7,13 @@
 - [Lets be disciplined](wiki/contribution/discipline.md)
 - [Council](wiki/products/v3/deployments)
 
-### Releases
+## Process
+
+- [Development](./wiki/contribution/development_process.md)
+- [QA](./wiki/contribution/develop_process.md)
+- [Operations](./wiki/contribution/ops_process.md)
+
+## Releases
 
 - [Released: TFGrid v3.9.0](https://library.threefold.me/info/manual/#/manual__tfgrid_release_3_9_0)
 
