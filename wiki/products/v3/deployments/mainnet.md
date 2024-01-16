@@ -18,4 +18,6 @@
   [Erwan](../../../team/erwan.md)
 - 5EFkv5SZqRRBEL9sxXd7RmzSQk7JCpxgWh6TiJjEq5X77Sb9
   [Ahmed Hanafy](../../../team/ahmed_hanafy.md)
+- 5Dd3NYfc16dXyjURjXFA8jRgAMifAU5cW7SVY8hD2RbhBxrX
+  [Sameh Farouk](../../../team/sameh_farouk.md)
 
