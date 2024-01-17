@@ -15,3 +15,5 @@
   [Ahmed Hanafy](../../../team/ahmed_hanafy.md)
 - 5D4mPNA5FkNfu41P97aopHsZGYTicqHaqiP95FXBTLDTpu8C
   [Muhamad Awad](../../../team/azmy.md)
+- 5CV4opX6WSoCaZT5j6dmFviFCR7RFkpsfHSZ56tSBFqjnzy9
+  [Sameh Farouk](../../../team/sameh_farouk.md)
