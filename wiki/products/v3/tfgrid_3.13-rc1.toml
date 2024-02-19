@@ -58,10 +58,6 @@ version = "2.3.0-alpha11"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-ts"
 [[tfgrid-sdk-ts.services.dashboard]]
 path="packages/dashboard"
-[[tfgrid-sdk-ts.services.weblets]]
-path="packages/weblets"
-[[tfgrid-sdk-ts.services.playground]]
-path="packages/playground"
 [[tfgrid-sdk-ts.services.stats]]
 path="packages/stats"
 
