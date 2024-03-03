@@ -54,7 +54,7 @@ repo = "https://github.com/threefoldtech/pulumi-threefold"
 
 
 [tfgrid-sdk-ts]
-version = "2.3.0-alpha12"
+version = "2.3.0-rc1"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-ts"
 [[tfgrid-sdk-ts.services.dashboard]]
 path="packages/dashboard"
