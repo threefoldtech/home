@@ -61,10 +61,6 @@ various new node fields/filters (region, excluded, total_cru, owned_by, farm_nam
 [#888](https://github.com/threefoldtech/terraform-provider-grid/issues/888): mycelium integration
 [#765](https://github.com/threefoldtech/terraform-provider-grid/issues/765): add nomad module in terraform
 
-## pulumi
-
-[#255](https://github.com/threefoldtech/pulumi-threefold/issues/255) mycelium integration
-
 ## zos
 
 - [#2208](https://github.com/threefoldtech/zos/issues/2208) support both mycelium and yggdrasil
