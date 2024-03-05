@@ -27,20 +27,20 @@ version = "3.10.1"
 repo = "https://github.com/threefoldtech/zos"
 
 [tfgrid-sdk-go]
-version = "0.14.8"
+version = "0.14.10"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [gridproxy]
-version = "0.14.8"
+version = "0.14.10"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [relay-cache-warmer]
-version = "0.14.8"
+version = "0.14.10"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 
 [farmerbot]
-version = "0.14.8"
+version = "0.14.10"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [terraform]
@@ -54,7 +54,7 @@ repo = "https://github.com/threefoldtech/pulumi-threefold"
 
 
 [tfgrid-sdk-ts]
-version = "2.3.0-rc1"
+version = "2.3.0-rc2"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-ts"
 [[tfgrid-sdk-ts.services.dashboard]]
 path="packages/dashboard"
