@@ -67,33 +67,33 @@ various new node fields/filters (region, excluded, total_cru, owned_by, farm_nam
 
 ## zos
 
-[#2208](https://github.com/threefoldtech/zos/issues/2208) support both mycelium and yggdrasil
-[#2143](https://github.com/threefoldtech/zos/issues/2143) Add healthcheck to report to zui for errors
-[#2042](https://github.com/threefoldtech/zos/issues/2042) add iperf service
-[#2052](https://github.com/threefoldtech/zos/issues/2052) Main perf tests by
-[#2053](https://github.com/threefoldtech/zos/issues/2053) Add cpu benchmark binary
-[#2058](https://github.com/threefoldtech/zos/issues/2058) add kernel version to zui
-[#2057](https://github.com/threefoldtech/zos/issues/2057) validate cpus according to actual number of node cpus
-[#2046](https://github.com/threefoldtech/zos/issues/2046) performance monitor package
-[#2064](https://github.com/threefoldtech/zos/issues/2064) filter out integrated GPUs
-[#2067](https://github.com/threefoldtech/zos/issues/2067) adds flag to disable gpu
-[#2066](https://github.com/threefoldtech/zos/issues/2066) Add CPU benchmark task
-[#2084](https://github.com/threefoldtech/zos/issues/2084) Vlan support
-[#2090](https://github.com/threefoldtech/zos/issues/2090) add cmdline param pub:mac to configure public mac
-[#2091](https://github.com/threefoldtech/zos/issues/2091) unify rfs and zufs pkgs
-[#2094](https://github.com/threefoldtech/zos/issues/2094) RFS new format integration. Avoid hub specific calls by @muhamadazmy in
-[#2070](https://github.com/threefoldtech/zos/issues/2070) Add public IPs validation task
-[#2100](https://github.com/threefoldtech/zos/issues/2100) Fix setting the gateway and caching the request
-[#2160](https://github.com/threefoldtech/zos/issues/2160) add rmb diagnostics call, that will be giving insights to the tooling to do more proper planning around the nodes
-[#2199](https://github.com/threefoldtech/zos/issues/2199) Assign ipv6 and gw6 to vm via config
-[#2206](https://github.com/threefoldtech/zos/issues/2206) Add list and list_private_ips rmb calls
-[#2105](https://github.com/threefoldtech/zos/issues/2105) improve VM detection
-[#2138](https://github.com/threefoldtech/zos/issues/2138) clean up host keys before first boot
-[#2150](https://github.com/threefoldtech/zos/issues/2150) update cloud-container tolatest cloud-container
-[#2108](https://github.com/threefoldtech/zos/issues/2108) update yggdrasil to latest 0.5.2
-[#2152](https://github.com/threefoldtech/zos/issues/2152) update cache quota checker
-[#2191](https://github.com/threefoldtech/zos/issues/2191) Update virt-what to rhel-9.3
-
+- [#2208](https://github.com/threefoldtech/zos/issues/2208) support both mycelium and yggdrasil
+- [#2143](https://github.com/threefoldtech/zos/issues/2143) Add healthcheck to report to zui for errors
+- [#2042](https://github.com/threefoldtech/zos/issues/2042) add iperf service
+- [#2052](https://github.com/threefoldtech/zos/issues/2052) Main perf tests by
+- [#2053](https://github.com/threefoldtech/zos/issues/2053) Add cpu benchmark binary
+- [#2058](https://github.com/threefoldtech/zos/issues/2058) add kernel version to zui
+- [#2057](https://github.com/threefoldtech/zos/issues/2057) validate cpus according to actual number of node cpus
+- [#2046](https://github.com/threefoldtech/zos/issues/2046) performance monitor package
+- [#2064](https://github.com/threefoldtech/zos/issues/2064) filter out integrated GPUs
+- [#2067](https://github.com/threefoldtech/zos/issues/2067) adds flag to disable gpu
+- [#2066](https://github.com/threefoldtech/zos/issues/2066) Add CPU benchmark task
+- [#2084](https://github.com/threefoldtech/zos/issues/2084) Vlan support
+- [#2090](https://github.com/threefoldtech/zos/issues/2090) add cmdline param pub:mac to configure public mac
+- [#2091](https://github.com/threefoldtech/zos/issues/2091) unify rfs and zufs pkgs
+- [#2094](https://github.com/threefoldtech/zos/issues/2094) RFS new format integration. Avoid hub specific calls by @muhamadazmy in
+- [#2070](https://github.com/threefoldtech/zos/issues/2070) Add public IPs validation task
+- [#2100](https://github.com/threefoldtech/zos/issues/2100) Fix setting the gateway and caching the request
+- [#2160](https://github.com/threefoldtech/zos/issues/2160) add rmb diagnostics call, that will be giving insights to the tooling to do more proper planning around the nodes
+- [#2199](https://github.com/threefoldtech/zos/issues/2199) Assign ipv6 and gw6 to vm via config
+- [#2206](https://github.com/threefoldtech/zos/issues/2206) Add list and list_private_ips rmb calls
+- [#2105](https://github.com/threefoldtech/zos/issues/2105) improve VM detection
+- [#2138](https://github.com/threefoldtech/zos/issues/2138) clean up host keys before first boot
+- [#2150](https://github.com/threefoldtech/zos/issues/2150) update cloud-container tolatest cloud-container
+- [#2108](https://github.com/threefoldtech/zos/issues/2108) update yggdrasil to latest 0.5.2
+- [#2152](https://github.com/threefoldtech/zos/issues/2152) update cache quota checker
+- [#2191](https://github.com/threefoldtech/zos/issues/2191) Update virt-what to rhel-9.3
+  
 ## tfchain
 
 - [#933](https://github.com/threefoldtech/tfchain/pull/933): Allow renting standby node
