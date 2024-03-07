@@ -44,12 +44,8 @@ version = "0.14.10"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [terraform]
-version = "1.9.3"
+version = "1.10.0-rc1"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
-
-[pulumi]
-version = "0.5.0"
-repo = "https://github.com/threefoldtech/pulumi-threefold"
 
 
 
