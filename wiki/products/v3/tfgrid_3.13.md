@@ -106,4 +106,4 @@ An IPv6 overlay network completely writing in Rust, developed by Threefold. The 
 
 Please check this [introduction on mycelium](https://forum.threefold.io/t/introducing-mycelium/4082) or the [repository](https://github.com/threefoldtech/mycelium) for detailed instructions
 
-For detailed list of features and bugfixes introduced, please check the [github project 3.12](https://github.com/orgs/threefoldtech/projects/203)
+For detailed list of features and bugfixes introduced, please check the [github project for 3.13](https://github.com/orgs/threefoldtech/projects/199)
