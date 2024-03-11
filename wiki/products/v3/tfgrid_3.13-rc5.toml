@@ -35,7 +35,7 @@ version = "0.14.11"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [relay-cache-warmer]
-version = "0.14.11"
+version = "0.14.12"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 
