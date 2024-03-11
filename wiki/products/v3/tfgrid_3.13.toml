@@ -1,5 +1,5 @@
 [tfchain]
-version = "2.7.0-rc4"
+version = "2.7.0"
 repo = "https://github.com/threefoldtech/tfchain"
 [[tfchain.services.node]]
 version = ">=2.2.1"
@@ -7,15 +7,15 @@ path="substrate-node"
 
 
 [[tfchain.services.bridge]]
-version = "2.7.0-rc4"
+version = "2.7.0"
 path="bridge"
 
 [[tfchain.services.activationservice]]
-version = "2.7.0-rc4"
+version = "2.7.0"
 path="activation-service"
 
 [tfchain_client_js]
-version = "2.7.0-rc4"
+version = "2.7.0"
 repo = "https://github.com/threefoldtech/tfchain"
 
 [tfchain_graphql]
