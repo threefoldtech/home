@@ -152,6 +152,7 @@ We use milestones for version numbers e.g `1.4.2` means this issue is going to b
 
 So issues with no milestones can only be in 1 condition: new and not sorted out yet where (repo) it belongs
 
+
 ### Branching
 
 We encourage collaborative branching. Meaning any group of people working within the same scope are highly encouraged to work on the same branch, trusting and communicating with one another.
@@ -201,9 +202,12 @@ When creating pull requests (PRs), adhere to the following best practices for ef
 - Complete Work: Ensure that the work is complete as defined in the project requirements. Address any outstanding issues before marking the PR as ready for review.
 - Thorough Testing: Verify that the code has undergone thorough testing. Include details about the testing strategy and results in the PR description.
 - Documentation: Confirm that the changes are well-documented. Documentation should not only explain how the code works but also guide future developers on its usage and maintenance.
+- Provide constructive feedback and suggestions for improvement.
 - Address Feedback: Be responsive to feedback from reviewers. Address comments and concerns promptly to facilitate a smooth review process.
 - Code Style and Standards: Ensure that the code follows established style guidelines and coding standards. Consistent formatting contributes to maintainability.
 - Status Checks: Ensure that automated status checks, such as continuous integration (CI) tests, pass successfully before merging.
+- The Author should be the one merging the Pull Request, given their responsibility to keep their issues updated as well.
+
 By adhering to these best practices, you contribute to a collaborative and efficient development process, fostering a culture of high-quality code and effective communication within the team.
 
 ### Commits
@@ -313,6 +317,7 @@ If no work has been completed or is in progress, elaborate on the investigative 
 For issues or stories labeled with `priority_critical`, continuous updates should be at least two updates per day to keep stakeholders informed.
 
 Including an Estimated Time of Arrival (ETA) in the comments is essential. While it serves as an estimation subject to change with new findings, it provides a valuable projection of completion.
+
 
 # Quality Assurance (QA) Process
 
