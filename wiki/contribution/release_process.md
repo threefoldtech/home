@@ -40,3 +40,13 @@
 - merge to trunk
 - create a new grid release
 - host that grid release (its components) on mainnet
+
+
+### Deploying a new release
+
+- Create all necessary versions, including the appropriate Dockerfiles and Helm charts for each component.
+- In the directory wiki/products/v3/, create a $gridversion.toml file that describes the releases of all components.
+- In the same directory, create a $gridversion.md file containing the changelog for the release.
+- Create a ticket in github.com/threefoldtech/tf_operations, ensuring the TOML file is ready for submission.
+
+
