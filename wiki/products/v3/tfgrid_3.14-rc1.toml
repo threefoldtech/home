@@ -1,5 +1,3 @@
-## TBD
-
 [tfchain]
 version = "2.8.1"
 repo = "https://github.com/threefoldtech/tfchain"
