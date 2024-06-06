@@ -1,11 +1,11 @@
 ## TBD
 
 [tfchain]
-version = "2.8.0"
+version = "2.8.1"
 repo = "https://github.com/threefoldtech/tfchain"
 
 [[tfchain.services.node]]
-version = "=2.8.0"
+version = "=2.8.1"
 path="substrate-node"
 
 [[tfchain.services.bridge]]
