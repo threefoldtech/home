@@ -27,15 +27,15 @@ version = "3.11.2"
 repo = "https://github.com/threefoldtech/zos"
 
 [tfgrid-sdk-go]
-version = "0.15.10"
+version = "0.15.11"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [gridproxy]
-version = "0.15.10"
+version = "0.15.11"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [farmerbot]
-version = "0.15.10"
+version = "0.15.11"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [terraform]
