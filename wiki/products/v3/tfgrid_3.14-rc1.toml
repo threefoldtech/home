@@ -34,11 +34,6 @@ repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 version = "0.15.10"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
-[relay-cache-warmer]
-version = "0.15.10"
-repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
-
-
 [farmerbot]
 version = "0.15.10"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
