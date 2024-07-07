@@ -17,6 +17,7 @@
 - github: @ramezsaeed
 - email: saeedr@incubaid.com
 - 3bot: saeedr.3bot
+- gitea: saeedr
 
 ## SSHKey
 
