@@ -3,21 +3,26 @@
 <img src="img/rawda.jpg" alt="img" width=200px />
 
 - specialities/skills
-  - Typescript/ Javascript
   - Golang
+  - Rust
+  - Typescript/ Javascript
   - Python
   - Vue/ Svelte
 - my active engineering/content tasks
-  - PKID
+  - Go sdk
 - active products
-  - [TFGrid Client](https://github.com/threefoldtech/grid3_client_ts)
-  - [TFGrid Weblets](https://github.com/threefoldtech/grid_weblets)
-  - [TFGrid Dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
+  - [TFGrid GO SDK](https://github.com/threefoldtech/tfgrid-sdk-go)
+  - [ZOS](https://github.com/threefoldtech/zos)
+  - [Farmerbot](https://github.com/threefoldtech/tfgrid-sdk-go/tree/development/farmerbot)
+  - [Terraform](https://github.com/threefoldtech/terraform-provider-grid)
+  - [Pulumi](https://github.com/threefoldtech/pulumi-threefold)
+  - [rfs](https://github.com/threefoldtech/rfs)
 - location: Egypt
 - reports_to: [Ahmed Thabet](ahmed_thabet.md)
 
 - telegram: @rawdaGastan 
 - github: @rawdaGastan
+- gitea: @rawdaGastan
 - email: fawzyr@incubaid.com
 - 3bot: rawda.3bot
 
