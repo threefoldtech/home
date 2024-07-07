@@ -18,6 +18,7 @@
 - github: @khaledyoussef24
 - email: mahmoudk@incubaid.com
 - 3bot: khaledyoussef.3bot
+- gittea: Khaledgx96
 
 ## SSHKey
 
