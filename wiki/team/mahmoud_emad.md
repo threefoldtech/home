@@ -3,21 +3,24 @@
 <img src="img/mahmmoud.jpg" alt="img" width=200px />
 
 - specialities/skills
+  - Python
+  - Typescript
   - Golang
   - Vlang
-  - Javascript
-  - Python
+
 - my active engineering/content tasks
-  - [weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
-  - [crystallib](https://github.com/orgs/freeflowuniverse/projects/3)
+  - [tfgrid-sdk-ts](https://github.com/threefoldtech/tfgrid-sdk-ts)
+  - [Threebot-Deployer](https://github.com/threefoldtecharchive/threebot-deployer)
+  - [CSHR](https://github.com/codescalers/CSHR)
+
 - location: Egypt
 - reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
-
 
 - telegram: @mahmoud_emmad
 - github: @Mahmoud-Emad
 - email: @emadm@incubaid.com
 - 3bot: omda.3bot
+- gitea: MahmoudEmad
 
 ## SSHKey
 
