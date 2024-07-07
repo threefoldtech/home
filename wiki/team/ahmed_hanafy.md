@@ -25,6 +25,7 @@
 
 - telegram: @ahmedhanafy725
 - github: @ahmedhanafy725
+- gitea: @AhmedHanafy725 
 - email: hanafya@incubaid.com
 - 3bot: hanafy.3bot
 
