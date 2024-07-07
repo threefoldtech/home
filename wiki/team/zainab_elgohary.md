@@ -1,23 +1,23 @@
 # Zainab Elgohary
 
 
-<img src="img/zainab.jpeg" alt="img" width=200px />
+<img src="img/zainab.png" alt="img" width=200px />
 
 - specialities/skills
   - Javascript/Typescript
   - Vue/Svelte
 - my active engineering/content tasks
-  - [tfgrid_dashboard](https://github.com/orgs/threefoldtech/projects/172/views/7)
-  - [grid_weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
+  - [tfgrid-sdk-ts](https://github.com/threefoldtech/tfgrid-sdk-ts)
+  - [CSHR](https://github.com/codescalers/CSHR)
 - active products
-  - [tfgrid_dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
-  - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
-  - [tf_stats](https://github.com/threefoldtech/tfgrid_stats)
+  - [tfgrid-sdk-ts](https://github.com/threefoldtech/tfgrid-sdk-ts)
+  - [CSHR](https://github.com/codescalers/CSHR)
 - location: Egypt
 - reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
 
 - telegram: @zaelgohary
 - github: @zaelgohary
+- gitea: @zaelgohary
 - email: elgoharyz@incubaid.com
 - 3bot: zaelgohary.3bot
 
