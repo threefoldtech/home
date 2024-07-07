@@ -15,6 +15,7 @@
 
 - telegram: @EslamNawara 
 - github: @Eslam-Nawara
+- gitea: @eslamnawara
 - email: eslamelmowafynawara@gmail.com
   
 ## SSHKey
