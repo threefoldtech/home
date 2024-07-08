@@ -22,6 +22,7 @@
 
 - telegram: @MohamedElmdary
 - github: @MohamedElmdary
+- gitea: @rabie
 - email: elmdarym@incubaid.com
 - 3bot: rabie.3bot
 
