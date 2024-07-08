@@ -19,6 +19,7 @@
 - reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
 - telegram: @AlaaMahmoud22
 - github: @AlaaElattar
+- Gitea: alaamahmoud 
 - email: Ibrahima@incubaid.com
 
 ## SSHKey
