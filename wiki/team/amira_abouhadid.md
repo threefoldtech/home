@@ -25,6 +25,7 @@
 - github: @amiraabouhadid
 - email: alia@incubaid.com
 - 3bot: slayerprincessmetal.3bot
+- gitea: slayerprincessmetal
 
 ## SSHKey
 
