@@ -3,20 +3,20 @@
 <img src="img/mayar.jpeg" alt="img" width=200px />
 
 - specialities/skills
-  - Golang
-  - Javascript / Typescript
-  - Python
+  - Javascript/Typescript
+  - Vue/Svelte
 - my active engineering/content tasks
-  - [grid_weblets](https://github.com/orgs/threefoldtech/projects/172/views/6)
+  - [tfgrid-sdk-ts](https://github.com/threefoldtech/tfgrid-sdk-ts)
+  - [CSHR](https://github.com/codescalers/CSHR)
 - active products
-  - [tfgrid_dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
-  - [grid_weblets](https://github.com/threefoldtech/grid_weblets)
-  - [tf_stats](https://github.com/threefoldtech/tfgrid_stats)
+  - [tfgrid-sdk-ts](https://github.com/threefoldtech/tfgrid-sdk-ts)
+  - [CSHR](https://github.com/codescalers/CSHR)
 - location: Egypt
 - reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
 
 - telegram: @mayarossama 
 - github: @maayarosama
+- gitea: @mayarosama
 - email: ossamam@incubaid.com
 - 3bot: mayarosama.3bot
 
