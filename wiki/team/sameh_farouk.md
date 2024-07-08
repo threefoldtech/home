@@ -8,24 +8,22 @@
   - Golang
   - rust
   - Javascript
+  - Blockchain/Substarte
 - my active engineering/content tasks
-  - [tf-pinning-service](https://github.com/orgs/threefoldtech/projects/172/views/10)
+  - [TFChain](https://github.com/orgs/threefoldtech/projects/210/views/8)
+  - [TFChain-Graphql (TFChain Squid)](https://github.com/orgs/threefoldtech/projects/210/views/13)
 - active products
-  - [tf-pinning-service](https://github.com/threefoldtech/tf-pinning-service/)
-  - [taiga_play](https://github.com/freeflowuniverse/taiga_play)
+  - [TFChain](https://github.com/threefoldtech/tfchain)
+  - [TFChain-Graphql](https://github.com/threefoldtech/tfchain_graphql)
   - [Vlang-GridProxy-API-client](https://github.com/threefoldtech/vgrid/tree/development/gridproxy)
   - [rmb-rs](https://github.com/threefoldtech/rmb-rs)
-  - [rmb-v](https://github.com/threefoldtech/rmb/commits/development_a5)
-  - [owncloud_deployer](https://github.com/threefoldtech/owncloud_deployer)
   - [taiga-contrib-threefold-auth](https://github.com/threefoldtech/taiga-contrib-threefold-auth)
-  - [TFGrid Weblets](https://github.com/threefoldtech/grid_weblets)
-  - [freeflow_caprover](https://github.com/threefoldtech/freeflow_caprover)
-  - [crystallib](https://github.com/freeflowuniverse/crystallib)
 - location: Egypt
 - reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
 
 - telegram: @sameh_farouk 
 - github: @sameh-farouk
+- git.ourworld.tf: @samehabouelsaad
 - email: farouks@incubaid.com 
 - 3bot: samehabouelsaad
 
