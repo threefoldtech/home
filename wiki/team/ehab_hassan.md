@@ -22,8 +22,8 @@
 - reports_to: Marketing Team / Nayer
 
 - telegram: @ehabhassancodescalers
-- github: ehab-hassan
-- gitea: ehab
+- github: @ehab-hassan
+- gitea: @ehab
 - email: hassane@incubaid.com
 - 3bot: ehabhassan2
 
