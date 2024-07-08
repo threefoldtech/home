@@ -4,6 +4,7 @@
 - github: @atefnazmy
 - email: nazmya@incubaid.com
 - 3bot: atef3.3bot
+- gittea: atefnazmy
 
 ## SSHKey
 
