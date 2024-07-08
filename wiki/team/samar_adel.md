@@ -22,6 +22,7 @@
 
 - telegram: @adelsamar
 - github: @samaradel
+- gitea: @samaradel
 - email: adels@incubaid.com
 - 3bot: samar.3bot
 
