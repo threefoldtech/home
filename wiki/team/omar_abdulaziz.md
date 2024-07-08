@@ -15,13 +15,14 @@
   - [tfgrid_dashboard](https://github.com/threefoldtech/tfgrid_dashboard)
   - [tfgridclient_proxy](https://github.com/threefoldtech/tfgridclient_proxy)
 - location: Egypt
-- reports_to: [Ahmed Hanafy](ahmed_hanafy.md)
+- reports_to: [Ashraf Fouda](./ashraf_fouda.md)
 
 
 - telegram: @Omarabdul3ziz
 - github: @Omarabdul3ziz
 - email: abdulazizo@incubaid.com
 - 3bot: omarabdulaziz.3bot
+- gitea: omarabdul3ziz
 
 ## SSHKey
 
