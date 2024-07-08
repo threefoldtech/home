@@ -21,6 +21,7 @@
 
 - telegram: @ashraffouda
 - github: @ashraffouda
+- gitea: @ashraf
 - email: foudaa@incubaid.com
 - 3bot: ashraf.3bot
 
