@@ -4,22 +4,21 @@
 
 - TFCoordination
     - [Kristof](despiegk.md) : CTO/Architect
-    - [Rob Van Mieghem](vmieghemr.md)  : Master Architect Blockchain
     - [Jan De Landtsheer](delandtj.md) : Master Architect ZOS and Systems
-    - [Lee](lee.md) : Research & Architecture In general
+    - [Lee](lee.md) : Research & Mycelium
 - FreeFlow Foundation
-    - [Rob Van Mieghem](vmieghemr.md): Team Lead
+    - [Kristof](despiegk.md): Team Lead
         - [Maxime Daniel](maxime_daniel.md): Software Engineer
-        - [Ashraf Fouda](ashraf_fouda.md) : Software Engineer (Golang, rmb, zos-rs, terraform, dashboard)
+        - [Mario Bassem](mariobassem.md)
         - [Timur](timur.md): Software Engineer
- 
+
 
 - [Ahmed Thabet](ahmed_thabet.md) : Development Lead
     - ZOS/ RMB/ GRID-SDK-GO/ TFChain
-        - [Muhamad Azmy](azmy.md)
+        - [Ashraf Fouda](ashraf_fouda.md)
+            - [Muhammad Azmy](azmy.md)
             - [Sameh Farouk](sameh_farouk.md)
             - [Erwan Renaut](erwan.md)
-            - [Mario Bassem](mariobassem.md)
             - [Rawda Gastan](rawda_gastan.md)
             - [Eslam Nawara](eslam_nawara.md)
             - [Omar Abdulaziz](omar_abdulaziz.md)
@@ -44,13 +43,7 @@
         - [Samir Hosny](samir_hosny.md): Operations Engineer
         - [Peter Naashat](peter_nashaat.md): Operations Engineer
         - [Atef Nazmy](atef_nazmy.md): Internal IT
-<!--- FreeFlow Twin + TF Connect
-    - [Jonas](jonas_delrue.md) : Technical Product Manager Jimber (TF-Connect / Digitaltwin / Kutana / Wallet)
-        - [Ken De Moor](ken_de_moor.md) : Functional analyst + QA Jimber
-        - [Arno Baert](arno_baert.md) : UI/UX designer + Frontend developer
-        - [Lennert](lennert_defauw.md) : jimber developer
-        - [Joris Basslé](joris_bassle.md) : jimber developer
-!-->
+
 - FreeFlow / protocol.me
     - [Timur](timurgordon.md) : Software Engineer
    
