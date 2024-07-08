@@ -15,6 +15,7 @@
 
 - telegram: @xmonader 
 - github: @xmonader
+- gitea: @thabeta
 - email: thabeta@incubaid.com
 - 3bot: ahmedthabet.3bot
 
