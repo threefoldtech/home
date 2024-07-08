@@ -22,6 +22,7 @@
 - github: @mariobassem
 - email: wassefm@incubaid.com
 - 3bot: mariobassem.3bot
+- gitea: mariobassem
 
 ## SSHKey
 
