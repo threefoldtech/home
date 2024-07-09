@@ -14,9 +14,10 @@
 - location: Egypt
 - reports_to: Ramez Saeed
 
-- telegram: @Ahmed_Saleh_Harby 
-- github: @A-Harby
-- email: harbya@incubaid.com
+- Telegram: @Ahmed_Saleh_Harby 
+- Github: @A-Harby
+- Gitea: @Harby
+- Email: harbya@incubaid.com
 - 3bot: asharby.3bot
 
 ## SSHKey
