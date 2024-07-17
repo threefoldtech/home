@@ -16,6 +16,7 @@
 
 - telegram: @Mohamedamer45
 - github: @mohamedamer453
+- gitea: @Mohamed_Amer
 - email: amerm@incubaid.com
 - 3bot: mohamedamer.3bot
 
