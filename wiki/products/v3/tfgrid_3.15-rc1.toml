@@ -3,7 +3,7 @@ version = "2.9.0"
 repo = "https://github.com/threefoldtech/tfchain"
 
 [[tfchain.services.node]]
-version = ">=2.9.0"
+version = "2.9.0"
 path="substrate-node"
 
 [[tfchain.services.bridge]]
@@ -19,7 +19,7 @@ version = ">=2.7.0"
 repo = "https://github.com/threefoldtech/tfchain"
 
 [tfchain_graphql]
-version = "2.12.1"
+version = "2.12.2"
 repo = "https://github.com/threefoldtech/tfchain_graphql"
 
 [zos]
