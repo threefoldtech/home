@@ -1,17 +1,17 @@
 [tfchain]
-version = "2.8.1"
+version = "2.9.0"
 repo = "https://github.com/threefoldtech/tfchain"
 
 [[tfchain.services.node]]
-version = ">=2.7.0"
+version = ">=2.9.0"
 path="substrate-node"
 
 [[tfchain.services.bridge]]
-version = ">=2.7.0"
+version = ">=2.9.0"
 path="bridge"
 
 [[tfchain.services.activationservice]]
-version = ">=2.7.0"
+version = ">=2.9.0"
 path="activation-service"
 
 [tfchain_client_js]
