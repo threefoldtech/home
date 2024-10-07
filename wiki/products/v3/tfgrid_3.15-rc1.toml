@@ -1,13 +1,13 @@
 [tfchain]
-version = "2.9.0"
+version = "2.9.2"
 repo = "https://github.com/threefoldtech/tfchain"
 
 [[tfchain.services.node]]
-version = "2.9.0"
+version = "2.9.2"
 path="substrate-node"
 
 [[tfchain.services.bridge]]
-version = ">=2.7.0"
+version = "2.9.2"
 path="bridge"
 
 [[tfchain.services.activationservice]]
