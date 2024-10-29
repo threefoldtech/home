@@ -58,3 +58,10 @@ path="packages/stats"
 [rmb]
 version="1.3.2"
 repo="https://github.com/threefoldtech/rmb-rs"
+
+
+[tf-kyc-verifier]
+version="0.1.0"
+repo="https://github.com/threefoldtech/tf-kyc-verifier/"
+
+
