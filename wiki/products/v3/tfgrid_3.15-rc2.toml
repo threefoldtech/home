@@ -65,7 +65,7 @@ repo="https://github.com/threefoldtech/rmb-rs"
 
 
 [tf-kyc-verifier]
-version="0.1.0"
+version="0.1.0-rc2"
 repo="https://github.com/threefoldtech/tf-kyc-verifier/"
 
 
