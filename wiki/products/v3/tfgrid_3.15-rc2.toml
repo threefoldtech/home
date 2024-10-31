@@ -23,11 +23,11 @@ version = "2.12.2"
 repo = "https://github.com/threefoldtech/tfchain_graphql"
 
 [zos]
-version = "3.12.0"
+version = "3.12.1"
 repo = "https://github.com/threefoldtech/zos"
 
 [zos4]
-version = "3.12.0"
+version = "3.12.1"
 repo = "https://github.com/threefoldtech/zos4"
 
 [tfgrid-sdk-go]
@@ -52,7 +52,7 @@ version = "0.8.0"
 repo = "https://github.com/threefoldtech/pulumi-threefold"
 
 [tfgrid-sdk-ts]
-version = "2.6.0-rc1"
+version = "2.6.0-rc2"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-ts"
 [[tfgrid-sdk-ts.services.dashboard]]
 path="packages/dashboard"
