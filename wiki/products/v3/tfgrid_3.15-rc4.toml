@@ -26,6 +26,11 @@ repo = "https://github.com/threefoldtech/tfchain_graphql"
 version = "3.12.3"
 repo = "https://github.com/threefoldtech/zos"
 
+
+[mycelium]
+version = "1.0.0"
+repo = "https://github.com/threefoldtech/mycelium"
+
 [tfgrid-sdk-go]
 version = "0.15.19-dev"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
@@ -65,3 +70,6 @@ version="0.2.0-rc1"
 repo="https://github.com/threefoldtech/tf-kyc-verifier/"
 
 
+[threefold-connect]
+version = "4.0.0"
+repo = "https://github.com/threefoldtech/threefold_connect"
