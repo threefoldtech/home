@@ -6,6 +6,7 @@
 - [How to contribute](wiki/contribution/)
 - [Lets be disciplined](wiki/contribution/discipline.md)
 - [Council](wiki/products/v3/deployments)
+- [V3 releases/changelog]([/./wiki/products/v3/)
 
 ## Process
 
@@ -15,14 +16,16 @@
 
 ## Releases
 
-- [Released: TFGrid v3.9.0](https://library.threefold.me/info/manual/#/manual__tfgrid_release_3_9_0)
+The Latest release is [3.15](./wiki/products/v3/tfgrid_3.15.md). And for previou releases please check [v3 releases directory](./wiki/products/v3/)
 
-There is also an [overview of the  environments and the deployed components](https://github.com/orgs/threefoldtech/projects/176/views/1).
+## Council
+
+For the council of every network please check [the councils directory](./wiki/products/v3/deployments)
 
 ## Team
+
 The current team information can be found [here](./wiki/team/team.md)
 
 ## Links to more info
   
 - [More Code](code_getting_started.md) : need some update
-
