@@ -16,7 +16,9 @@
 
 ## Releases
 
-The Latest release is [3.15](./wiki/products/v3/tfgrid_3.15.md). And for previou releases please check [v3 releases directory](./wiki/products/v3/)
+The Latest release is [3.15-rc4](./wiki/products/v3/tfgrid_3.15.md). And for previou releases please check [v3 releases directory](./wiki/products/v3/) 
+
+> Note: mainnet is still on 3.14 and should get updated around the 12nd of November
 
 ## Council
 
