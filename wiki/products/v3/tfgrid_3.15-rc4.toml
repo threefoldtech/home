@@ -23,7 +23,7 @@ version = "2.12.2"
 repo = "https://github.com/threefoldtech/tfchain_graphql"
 
 [zos]
-version = "3.12.5"
+version = "3.12.8"
 repo = "https://github.com/threefoldtech/zos"
 
 [zos4]
