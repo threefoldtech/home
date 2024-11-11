@@ -29,7 +29,11 @@ This release introduce lots of stability and bugsquashing in tfchain/graphql
 - Improve off-chain worker logic tfchain  https://github.com/threefoldtech/tfchain/issues/932
 - [Instrument billing logic to improve audibility and log all major steps](https://github.com/threefoldtech/tfchain/issues/989)
 - [Replacing the locking mechanism with a more reliable system](https://github.com/threefoldtech/tfchain/issues/990)
-
+- Update to Standard Utilization Revenue Distribution:
+  - Eliminate the burning of TFT spent on utilization.
+  - Allocate 40% of the revenue to the foundation account.
+  - Allocate 10% to the staking pool.
+  - Distribute 50% to farmers.
 
 ## Mycelium
 
