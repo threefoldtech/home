@@ -23,28 +23,31 @@ version = "2.12.2"
 repo = "https://github.com/threefoldtech/tfchain_graphql"
 
 [zos]
-version = "3.12.3"
+version = "3.12.8"
 repo = "https://github.com/threefoldtech/zos"
 
+[zos4]
+version = "0.1.1"
+repo = "https://github.com/threefoldtech/zos4"
 
 [mycelium]
 version = "1.0.0"
 repo = "https://github.com/threefoldtech/mycelium"
 
 [tfgrid-sdk-go]
-version = "0.15.19-dev"
+version = "0.16.0-test"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [gridproxy]
-version = "0.15.19-dev"
+version = "0.16.0-test"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [farmerbot]
-version = "0.15.19-dev"
+version = "0.16.0-test"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [terraform]
-version = "1.12.0-dev"
+version = "1.11.2-qa"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 
@@ -53,7 +56,7 @@ version = "0.8.0"
 repo = "https://github.com/threefoldtech/pulumi-threefold"
 
 [tfgrid-sdk-ts]
-version = "2.6.0-rc3"
+version = "2.6.0-rc4"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-ts"
 [[tfgrid-sdk-ts.services.dashboard]]
 path="packages/dashboard"
