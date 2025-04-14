@@ -7,7 +7,7 @@ version = ">=2.9.2"
 path="substrate-node"
 
 [[tfchain.services.bridge]]
-version = "2.9.3"
+version = "2.9.2"
 path="bridge"
 
 [[tfchain.services.activationservice]]
