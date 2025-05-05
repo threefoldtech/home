@@ -56,7 +56,7 @@ version = "0.8.1"
 repo = "https://github.com/threefoldtech/pulumi-threefold"
 
 [tfgrid-sdk-ts]
-version = "2.7.0"
+version = "2.8.0-rc2"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-ts"
 [[tfgrid-sdk-ts.services.dashboard]]
 path="packages/dashboard"
@@ -74,5 +74,5 @@ repo="https://github.com/threefoldtech/tf-kyc-verifier/"
 
 
 [threefold-connect]
-version = "4.2.2"
+version = "4.3.0"
 repo = "https://github.com/threefoldtech/threefold_connect"
