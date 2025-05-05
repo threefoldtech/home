@@ -29,8 +29,17 @@
 
 
 
-## Threefold Connect (version: X)
+## Threefold Connect (version: 4.3.0)
 
+- Add a background service to check if the node goes offline
+- Fix transactions pagination
+- Handle duplicated daily wallets & duplicated contacts
+- Add signing methods
 
-## Sdk-ts (version: X)
+## Sdk-ts (version: 2.8.0)
 
+- Add stellar/solana bridge pacakge
+- Display the app's layout for unauthenticated users
+- Support multiple ssh keys in deployments
+- Add Open WebUI App for Dashboard
+- Remove the create farm button from mainnet
