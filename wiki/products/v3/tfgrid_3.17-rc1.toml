@@ -23,11 +23,11 @@ version = "2.12.2"
 repo = "https://github.com/threefoldtech/tfchain_graphql"
 
 [zos]
-version = "3.12.13"
+version = "3.13.0"
 repo = "https://github.com/threefoldtech/zos"
 
 [zoslight]
-version = "0.2.12"
+version = "0.3.0"
 repo = "https://github.com/threefoldtech/zoslight"
 
 [mycelium]
