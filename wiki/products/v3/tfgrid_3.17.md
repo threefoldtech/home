@@ -94,6 +94,7 @@ No Changes
 ## Threefold Connect (version: 4.3.0)
 
 - Add a background service to check if the node goes offline
+- Add Market feature
 - Fix transactions pagination
 - Handle duplicated daily wallets & duplicated contacts
 - Add signing methods
