@@ -1,11 +1,22 @@
-## Zos (version: v3.13.1)
-## Zos Light (version: v0.3.1)
+## Zos (version: v3.13.0)
 
-## tfchain/graphql (version: X)
+- Rewiring Mycelium networking
+- Supporting multiple backends for in the gateways
+- Rewiring Mycelium networking
+- Fixing resource leaks by not closing connection body
 
+## Zos Light (version: v0.3.0)
 
-## Graphql (version: X)
+- Supporting multiple backends for in the gateways
+- GPU VM Deleted Immediately after deployment https://github.com/threefoldtech/zos/issues/2547
+- Rewiring Mycelium networking
+- Fixing resource leaks by not closing connection body
 
+## tfchain (version: 2.9.3)
+
+No Changes
+
+## Graphql (version: 2.12.2)
 
 ## Mycelium (version: 0.6.1 )
 
@@ -49,23 +60,30 @@
 - Don't accept packet for a destination if we only have fallback routes for said
   destination.
 
-## Sdk-go (version: X)
 
+## Sdk-go (version: 0.16.6)
 
-## Grid-proxy (version:X)
+No Changes
 
+## Grid-proxy (version: 0.16.6)
 
-## Farmerbot (version: X)
+No Changes
 
+## Farmerbot (version: 0.16.6)
 
-## Terraform (version: X)
+No Changes
 
+## Terraform (version: 1.11.3)
 
-## Pulumi (version: X)
+No Changes
 
+## Pulumi (version: 0.8.1)
 
-## RFS (version: X)
+No Changes
 
+## RFS (version: 2.0.6)
+
+No Changes
 
 
 ## Threefold Connect (version: 4.3.0)

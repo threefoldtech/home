@@ -27,7 +27,7 @@ This is the first prerelease to support zoslight, which allows easily deploying 
 
 Milestone: [https://github.com/orgs/threefoldtech/projects/212/views/5](https://github.com/orgs/threefoldtech/projects/212/views/5)
 
-## tfchain/graphql (version: 2.9.3)
+## tfchain (version: 2.9.3)
 
 No Change
 
