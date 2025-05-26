@@ -45,7 +45,7 @@ A new tfchain explorer https://threefoldtech.github.io/tfchain-explorer/
 - Routing has been reworked. We no longer advertise selected subnets (which aren't
   our own). Now if a subnet is needed, we perform a route request for that subnet,
   memorizing state and responses. The current imlementation expires routes every 5
-  minutes but does not yet refresh active routes before they expire.
+  minutes.
 - Before we process a seqno request for a subnet, check the seqno cache to see if
   we recently forwarded an entry for it.
 - Discard Update TLV's if there are too many in the queue already. This binds memory
