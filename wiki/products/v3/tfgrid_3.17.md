@@ -1,5 +1,5 @@
-## Zos (version: v3.13.0)
-## Zos Light (version: v0.3.0)
+## Zos (version: v3.13.1)
+## Zos Light (version: v0.3.1)
 
 ## tfchain/graphql (version: X)
 
