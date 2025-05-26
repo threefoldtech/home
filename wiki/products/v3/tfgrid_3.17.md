@@ -18,6 +18,11 @@ No Changes
 
 ## Graphql (version: 2.12.2)
 
+## tfchain-explorer (version: 1.0.0)
+
+A new tfchain explorer https://threefoldtech.github.io/tfchain-explorer/
+
+
 ## Mycelium (version: 0.6.1 )
 
 ### Added
