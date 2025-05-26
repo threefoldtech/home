@@ -1,11 +1,11 @@
-## Zos (version: v3.13.0)
+## Zos (version: v3.13.1)
 
 - Rewiring Mycelium networking
 - Supporting multiple backends for in the gateways
 - Rewiring Mycelium networking
 - Fixing resource leaks by not closing connection body
 
-## Zos Light (version: v0.3.0)
+## Zos Light (version: v0.3.1)
 
 - Supporting multiple backends for in the gateways
 - GPU VM Deleted Immediately after deployment https://github.com/threefoldtech/zos/issues/2547
