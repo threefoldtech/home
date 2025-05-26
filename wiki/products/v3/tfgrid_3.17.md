@@ -2,7 +2,6 @@
 
 - Rewiring Mycelium networking
 - Supporting multiple backends for in the gateways
-- Rewiring Mycelium networking
 - Fixing resource leaks by not closing connection body
 
 ## Zos Light (version: v0.3.1)
