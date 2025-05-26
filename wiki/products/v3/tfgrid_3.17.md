@@ -3,6 +3,7 @@
 - Rewiring Mycelium networking
 - Supporting multiple backends for in the gateways
 - Fixing resource leaks by not closing connection body
+- upgrade mycelium to 0.6.1
 
 ## Zos Light (version: v0.3.1)
 
@@ -10,6 +11,7 @@
 - GPU VM Deleted Immediately after deployment https://github.com/threefoldtech/zos/issues/2547
 - Rewiring Mycelium networking
 - Fixing resource leaks by not closing connection body
+- upgrade mycelium to 0.6.1
 
 ## tfchain (version: 2.9.3)
 
