@@ -31,7 +31,7 @@ version = "0.3.1"
 repo = "https://github.com/threefoldtech/zoslight"
 
 [mycelium]
-version = "1.0.0"
+version = "0.6.1"
 repo = "https://github.com/threefoldtech/mycelium"
 
 [tfgrid-sdk-go]
