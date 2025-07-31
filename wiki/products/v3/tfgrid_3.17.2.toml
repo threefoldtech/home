@@ -27,7 +27,7 @@ version = "3.13.3"
 repo = "https://github.com/threefoldtech/zos"
 
 [zoslight]
-version = "0.3.3"
+version = "0.3.4"
 repo = "https://github.com/threefoldtech/zoslight"
 
 [mycelium]
