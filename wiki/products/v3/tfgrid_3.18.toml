@@ -1,5 +1,5 @@
 [tfchain]
-version = ">=2.9.2"
+version = "2.10.1"
 repo = "https://github.com/threefoldtech/tfchain"
 
 [[tfchain.services.node]]
@@ -7,7 +7,7 @@ version = ">=2.9.2"
 path="substrate-node"
 
 [[tfchain.services.bridge]]
-version = "2.9.2"
+version = "2.10.1"
 path="bridge"
 
 [[tfchain.services.activationservice]]
@@ -19,7 +19,7 @@ version = ">=2.7.0"
 repo = "https://github.com/threefoldtech/tfchain"
 
 [tfchain_graphql]
-version = "2.12.2"
+version = "2.12.3"
 repo = "https://github.com/threefoldtech/tfchain_graphql"
 
 [zos]
