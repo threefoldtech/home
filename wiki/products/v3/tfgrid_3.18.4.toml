@@ -35,19 +35,19 @@ version = "0.6.1"
 repo = "https://github.com/threefoldtech/mycelium"
 
 [tfgrid-sdk-go]
-version = "0.17.3"
+version = "0.17.5"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [gridproxy]
-version = "0.17.3"
+version = "0.17.5"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [farmerbot]
-version = "0.17.3"
+version = "0.17.5"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 [terraform]
-version = "1.11.5-rc1"
+version = "1.11.5"
 repo = "https://github.com/threefoldtech/tfgrid-sdk-go"
 
 
