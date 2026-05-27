@@ -1,10 +1,10 @@
-# Home
+# Grid Wiki
 
 Organizational home repository containing team documentation, engineering processes, product specifications, and release information.
 
 ## What this is
 
-Home functions as the central knowledge base for contributors and maintainers across the technology ecosystem. It covers development workflows, component ownership, release planning, team structure, and operational processes.
+Grid Wiki functions as the central knowledge base for contributors and maintainers across the technology ecosystem. It covers development workflows, component ownership, release planning, team structure, and operational processes.
 
 This repository does not contain production code; it serves as the canonical location for project-wide documentation and coordination.
 
@@ -19,7 +19,7 @@ This repository does not contain production code; it serves as the canonical loc
 
 ## Role in the stack
 
-Home is the administrative and documentary layer of the ecosystem. It provides the processes, standards, and records that keep distributed development aligned. It complements code repositories by defining how they are maintained, released, and governed.
+Grid Wiki is the administrative and documentary layer of the ecosystem. It provides the processes, standards, and records that keep distributed development aligned. It complements code repositories by defining how they are maintained, released, and governed.
 
 ## Relation to ThreeFold
 
