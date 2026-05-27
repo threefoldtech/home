@@ -1,4 +1,6 @@
-# Github Home For ThreeFold Tech
+# ThreeFold Tech Home
+
+This repository serves as the organizational home for ThreeFold Tech, containing team documentation, engineering processes, product specifications, and release information.
 
 - [Engineering meetings](wiki/engineering_meetings)
 - [Team](wiki/team/team.md)
@@ -31,3 +33,8 @@ The current team information can be found [here](./wiki/team/team.md)
 ## Links to more info
   
 - [More Code](code_getting_started.md) : need some update
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+Copyright (c) TFTech NV.
